@@ -1,8 +1,10 @@
 site_name: Tennis Knowledge Base
 site_description: Comprehensive tennis training resource - Foundation, Advanced, and Elite levels
 site_author: Henry Pham
+copyright: © 2026 Henry Phạm Đức · Tennis & Tai Chi research · All site content is for educational purposes.
 theme:
   name: material
+  custom_dir: docs/theme
   palette:
     primary: green
     accent: lime

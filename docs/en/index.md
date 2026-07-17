@@ -6,9 +6,9 @@ This is the home of the Tennis Knowledge Base — a growing library of practical
 
 The Knowledge Base is organized in three levels, following the way tennis is actually learned:
 
-- **[Foundation](./foundation/)** — where every journey begins. Grip, stance, footwork, the basic strokes, returning serve, doubles patterns, mental game.
-- **[Advanced](./advanced/)** — refining what you know. Biomechanics, embodied cognition, fascia, proprioception, reflex arcs, two-engine coordination, the X-factor.
-- **[Elite](./elite/)** — for those with years of practice. The complete elite manual, the questions that only surface after long work.
+- **[Foundation](./foundation/index.md)** — where every journey begins. Grip, stance, footwork, the basic strokes, returning serve, doubles patterns, mental game.
+- **[Advanced](./advanced/index.md)** — refining what you know. Biomechanics, embodied cognition, fascia, proprioception, reflex arcs, two-engine coordination, the X-factor.
+- **[Elite](./elite/index.md)** — for those with years of practice. The complete elite manual, the questions that only surface after long work.
 
 Each section has its own Basics and Deep Dives. Basics are the practical work. Deep Dives are the articles that go further on a single topic.
 
@@ -30,8 +30,8 @@ A few honest answers:
 
 ## Where to Start
 
-If you're new, **[start with the Foundation Overview →](./foundation/)** and work through the Basics in order. Grip → Stance → Footwork → Forehand → Backhand → Serve → Return. Then the Doubles patterns. Then the Mental Game.
+If you're new, **[start with the Foundation Overview →](./foundation/index.md)** and work through the Basics in order. Grip → Stance → Footwork → Forehand → Backhand → Serve → Return. Then the Doubles patterns. Then the Mental Game.
 
-If you've been playing for a while, **[jump straight to the Advanced section →](./advanced/)** for the biomechanics deep-dives.
+If you've been playing for a while, **[jump straight to the Advanced section →](./advanced/index.md)** for the biomechanics deep-dives.
 
 If you want the full reference, **[the Complete Manual is in Foundation Deep Dives →](./foundation/deep-dives/)** along with the pocket card and the long-form articles on every stroke.

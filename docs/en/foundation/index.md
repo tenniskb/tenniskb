@@ -12,19 +12,19 @@ I get asked all the time: *"I've been playing for 10 years. Do I really need to 
 
 ### Basics
 Core fundamentals taught through simple, repeatable drills:
-- [Grip foundations](./basics/) — Continental, Eastern, Semi-Western, the change map, the pressure map
-- [Footwork](./basics/) — split step, recovery, unit turn
-- [Forehand](./basics/) — the modern topspin forehand, the unit turn, contact out front
-- [Backhand](./basics/) — the two-hander, the one-hander (Dimitrov/Wawrinka/Federer model), the slice
-- [Serve](./basics/) — the trophy position, the racket-head drop, the pronation
-- [Return of Serve](./basics/) — neutral return, slice return, block return
-- [Doubles](./basics/) — patterns, formations, communication, poaching
-- [Mental Game](./basics/) — between-point routines, focus, dealing with pressure
+- [Grip foundations](./basics/index.md) — Continental, Eastern, Semi-Western, the change map, the pressure map
+- [Footwork](./basics/index.md) — split step, recovery, unit turn
+- [Forehand](./basics/index.md) — the modern topspin forehand, the unit turn, contact out front
+- [Backhand](./basics/index.md) — the two-hander, the one-hander (Dimitrov/Wawrinka/Federer model), the slice
+- [Serve](./basics/index.md) — the trophy position, the racket-head drop, the pronation
+- [Return of Serve](./basics/index.md) — neutral return, slice return, block return
+- [Doubles](./basics/index.md) — patterns, formations, communication, poaching
+- [Mental Game](./basics/index.md) — between-point routines, focus, dealing with pressure
 
 ### Deep Dives
 Focused exploration of specific foundation topics:
-- [The Complete Manual](./deep-dives/) — the master reference
-- [The 1-Page Pocket Card](./deep-dives/) — printable one-page summary
+- [The Complete Manual](./deep-dives/index.md) — the master reference
+- [The 1-Page Pocket Card](./deep-dives/index.md) — printable one-page summary
 - Long-form biomechanics articles on every stroke
 - Common mistakes and how to fix them
 

@@ -11,7 +11,7 @@ Phần này đang được xây chậm, vì những câu hỏi sống ở đây 
 ## Nội Dung Trong Phần Này
 
 ### Cơ Bản
-- [Sách Tinh Hoa Hoàn Chỉnh](./basics/) — tài liệu tham khảo chính cho tennis cấp tinh hoa
+- [Sách Tinh Hoa Hoàn Chỉnh](./basics/index.md) — tài liệu tham khảo chính cho tennis cấp tinh hoa
 
 ### Chuyên Sâu
 *(Sắp có.)*

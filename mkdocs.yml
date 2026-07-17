@@ -13,10 +13,18 @@ theme:
     - navigation.indexes
     - search.highlight
     - search.suggest
+    - alternate
   language: en
-custom_dir: docs/theme
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: Tiếng Việt
+      link: /vi/
+      lang: vi
 extra_css:
   - assets/css/style.css
+  - assets/css/extra.css
   - assets/css/hide-language-toggle.css
 extra_javascript:
   - assets/js/extra.js

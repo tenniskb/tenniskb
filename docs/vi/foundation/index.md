@@ -12,19 +12,19 @@ Tôi thường được hỏi: *"Tôi đã chơi 10 năm rồi, tôi có cần x
 
 ### Cơ Bản
 Những nguyên tắc cốt lõi được dạy qua các bài tập đơn giản, có thể lặp lại:
-- [Nền Tảng Grip](./basics/) — Continental, Eastern, Semi-Western, bản đồ chuyển grip, bản đồ áp lực
-- [Di Chuyển Chân](./basics/) — split step, phục hồi, xoay khối
-- [Forehand](./basics/) — forehand topspin hiện đại, xoay khối, tiếp xúc phía trước
-- [Backhand](./basics/) — two-hander, one-hander (mẫu Dimitrov/Wawrinka/Federer), slice
-- [Serve](./basics/) — vị trí trophy, rơi đầu vợt, pronation
-- [Trả Giao Bóng](./basics/) — trả trung tính, trả slice, block return
-- [Đánh Đôi](./basics/) — pattern, đội hình, giao tiếp, poaching
-- [Tâm Lý Thi Đấu](./basics/) — routine giữa các điểm, sự tập trung, đối phó áp lực
+- [Nền Tảng Grip](./basics/index.md) — Continental, Eastern, Semi-Western, bản đồ chuyển grip, bản đồ áp lực
+- [Di Chuyển Chân](./basics/index.md) — split step, phục hồi, xoay khối
+- [Forehand](./basics/index.md) — forehand topspin hiện đại, xoay khối, tiếp xúc phía trước
+- [Backhand](./basics/index.md) — two-hander, one-hander (mẫu Dimitrov/Wawrinka/Federer), slice
+- [Serve](./basics/index.md) — vị trí trophy, rơi đầu vợt, pronation
+- [Trả Giao Bóng](./basics/index.md) — trả trung tính, trả slice, block return
+- [Đánh Đôi](./basics/index.md) — pattern, đội hình, giao tiếp, poaching
+- [Tâm Lý Thi Đấu](./basics/index.md) — routine giữa các điểm, sự tập trung, đối phó áp lực
 
 ### Chuyên Sâu
 Khám phá chi tiết các chủ đề nền tảng cụ thể:
-- [Sách Hoàn Chỉnh](./deep-dives/) — tài liệu tham khảo chính
-- [Thẻ Bỏ Túi 1 Trang](./deep-dives/) — tóm tắt một trang có thể in
+- [Sách Hoàn Chỉnh](./deep-dives/index.md) — tài liệu tham khảo chính
+- [Thẻ Bỏ Túi 1 Trang](./deep-dives/index.md) — tóm tắt một trang có thể in
 - Bài viết cơ sinh học dài hạn về từng cú đánh
 - Những sai lầm phổ biến và cách sửa
 

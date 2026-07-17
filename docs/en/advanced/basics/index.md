@@ -4,7 +4,7 @@ The master reference for the biomechanics of stroke production.
 
 ## The Mastery Manual
 
-- **[The Advanced Tennis Mastery Manual — Neurology and Anatomy for 3.5 to 4.5](../basics/)** — the long-form reference. Read it when you have a quiet hour. Use it as a reference when a question comes up.
+- **[The Advanced Tennis Mastery Manual — Neurology and Anatomy for 3.5 to 4.5](../basics/index.md)** — the long-form reference. Read it when you have a quiet hour. Use it as a reference when a question comes up.
 
 ## How to Use This Section
 

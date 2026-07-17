@@ -4,7 +4,7 @@ Tài liệu tham khảo chính cho tennis cấp tinh hoa.
 
 ## Sách Tinh Hoa Chính
 
-- **[Sách Tinh Hoa Hoàn Chỉnh](../basics/)** — tài liệu tham khảo dài hạn cho những câu hỏi chỉ xuất hiện sau nhiều năm luyện tập.
+- **[Sách Tinh Hoa Hoàn Chỉnh](../basics/index.md)** — tài liệu tham khảo dài hạn cho những câu hỏi chỉ xuất hiện sau nhiều năm luyện tập.
 
 ## Cách Sử Dụng Phần Này
 

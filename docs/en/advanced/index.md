@@ -11,18 +11,18 @@ The Advanced Level is where the physical science meets the felt experience. The 
 ## What's in This Section
 
 ### Basics
-- [The Advanced Tennis Mastery Manual — Neurology and Anatomy for 3.5 to 4.5](./basics/) — the master reference for the biomechanics of stroke production
+- [The Advanced Tennis Mastery Manual — Neurology and Anatomy for 3.5 to 4.5](./basics/index.md) — the master reference for the biomechanics of stroke production
 
 ### Deep Dives
 Focused exploration of specific advanced topics:
-- [Embodied Cognition](./deep-dives/) — how the body knows what it's doing
-- [Fascia Spiral](./deep-dives/) — the continuous connective tissue web that transmits force
-- [Head Position and Vestibular](./deep-dives/) — balance, gaze stability, the inner ear in tennis
-- [Proprioception](./deep-dives/) — the felt sense of where your body is in space
-- [Reflex Arcs](./deep-dives/) — the fast neural loops that handle incoming balls
-- [Tensegrity Body](./deep-dives/) — the body as a tensegrity structure
-- [Two Engines](./deep-dives/) — the upper-body and lower-body coordination
-- [X-Factor Anatomy](./deep-dives/) — the hip-shoulder separation that generates power
+- [Embodied Cognition](./deep-dives/index.md) — how the body knows what it's doing
+- [Fascia Spiral](./deep-dives/index.md) — the continuous connective tissue web that transmits force
+- [Head Position and Vestibular](./deep-dives/index.md) — balance, gaze stability, the inner ear in tennis
+- [Proprioception](./deep-dives/index.md) — the felt sense of where your body is in space
+- [Reflex Arcs](./deep-dives/index.md) — the fast neural loops that handle incoming balls
+- [Tensegrity Body](./deep-dives/index.md) — the body as a tensegrity structure
+- [Two Engines](./deep-dives/index.md) — the upper-body and lower-body coordination
+- [X-Factor Anatomy](./deep-dives/index.md) — the hip-shoulder separation that generates power
 
 ## How to Approach This Material
 

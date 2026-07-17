@@ -6,9 +6,9 @@
 
 Cơ Sở Kiến Thức được sắp xếp theo ba cấp độ, đúng theo cách người ta thật sự học tennis:
 
-- **[Nền Tảng](./foundation/)** — nơi mọi hành trình bắt đầu. Grip, tư thế, di chuyển chân, các cú đánh cơ bản, trả giao bóng, chiến thuật đánh đôi, tâm lý thi đấu.
-- **[Cao Cấp](./advanced/)** — tinh chỉnh những gì bạn đã biết. Cơ sinh học, nhận thức qua cơ thể, fascia, cảm thụ bản thể, cung phản xạ, phối hợp hai động cơ, X-factor.
-- **[Tinh Hoa](./elite/)** — dành cho người đã chơi nhiều năm. Toàn bộ sách tinh hoa, những câu hỏi chỉ xuất hiện sau quá trình luyện tập lâu dài.
+- **[Nền Tảng](./foundation/index.md)** — nơi mọi hành trình bắt đầu. Grip, tư thế, di chuyển chân, các cú đánh cơ bản, trả giao bóng, chiến thuật đánh đôi, tâm lý thi đấu.
+- **[Cao Cấp](./advanced/index.md)** — tinh chỉnh những gì bạn đã biết. Cơ sinh học, nhận thức qua cơ thể, fascia, cảm thụ bản thể, cung phản xạ, phối hợp hai động cơ, X-factor.
+- **[Tinh Hoa](./elite/index.md)** — dành cho người đã chơi nhiều năm. Toàn bộ sách tinh hoa, những câu hỏi chỉ xuất hiện sau quá trình luyện tập lâu dài.
 
 Mỗi cấp có phần **Cơ Bản** và **Chuyên Sâu** riêng. Cơ Bản là công việc thực hành. Chuyên Sâu là những bài viết đi sâu vào một chủ đề cụ thể.
 
@@ -30,8 +30,8 @@ Vài câu trả lời thật lòng:
 
 ## Bắt Đầu Từ Đâu
 
-Nếu bạn mới, **[hãy bắt đầu với Tổng Quan Nền Tảng →](./foundation/)** và đi qua phần Cơ Bản theo thứ tự. Grip → Tư thế → Di chuyển chân → Forehand → Backhand → Serve → Return. Rồi đến chiến thuật đánh đôi. Rồi đến tâm lý thi đấu.
+Nếu bạn mới, **[hãy bắt đầu với Tổng Quan Nền Tảng →](./foundation/index.md)** và đi qua phần Cơ Bản theo thứ tự. Grip → Tư thế → Di chuyển chân → Forehand → Backhand → Serve → Return. Rồi đến chiến thuật đánh đôi. Rồi đến tâm lý thi đấu.
 
-Nếu bạn đã chơi một thời gian, **[nhảy thẳng đến phần Cao Cấp →](./advanced/)** để đọc các bài chuyên sâu cơ sinh học.
+Nếu bạn đã chơi một thời gian, **[nhảy thẳng đến phần Cao Cấp →](./advanced/index.md)** để đọc các bài chuyên sâu cơ sinh học.
 
 Nếu bạn muốn tài liệu tham khảo đầy đủ, **[Sách Hoàn Chỉnh nằm trong Chuyên Sâu Nền Tảng →](./foundation/deep-dives/)** cùng với thẻ bỏ túi và các bài viết dài hạn về từng cú đánh.

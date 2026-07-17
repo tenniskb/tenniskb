@@ -11,7 +11,7 @@ This section is being built slowly, because the questions that live here are the
 ## What's in This Section
 
 ### Basics
-- [The Complete Elite Manual](./basics/) — the master reference for elite-level tennis
+- [The Complete Elite Manual](./basics/index.md) — the master reference for elite-level tennis
 
 ### Deep Dives
 *(Coming soon.)*

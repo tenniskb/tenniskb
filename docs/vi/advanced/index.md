@@ -11,18 +11,18 @@ Cấp Độ Cao Cấp là nơi khoa học vật lý gặp trải nghiệm cảm 
 ## Nội Dung Trong Phần Này
 
 ### Cơ Bản
-- **[Sách Làm Chủ Tennis Cao Cấp — Thần Kinh Học và Giải Phẫu cho 3.5 đến 4.5](./basics/)** — tài liệu tham khảo chính cho cơ sinh học của sản xuất cú đánh
+- **[Sách Làm Chủ Tennis Cao Cấp — Thần Kinh Học và Giải Phẫu cho 3.5 đến 4.5](./basics/index.md)** — tài liệu tham khảo chính cho cơ sinh học của sản xuất cú đánh
 
 ### Chuyên Sâu
 Khám phá chi tiết các chủ đề cao cấp cụ thể:
-- **[Nhận Thức Qua Cơ Thể](./deep-dives/)** — cơ thể biết nó đang làm gì như thế nào
-- **[Xoắn Ốc Fascia](./deep-dives/)** — mạng liên kết mô liên kết liên tục truyền lực
-- **[Vị Trí Đầu và Tiền Đình](./deep-dives/)** — cân bằng, ổn định ánh mắt, tai trong trong tennis
-- **[Cảm Thụ Bản Thể](./deep-dives/)** — cảm giác về vị trí cơ thể trong không gian
-- **[Cung Phản Xạ](./deep-dives/)** — các vòng thần kinh nhanh xử lý bóng đến
-- **[Cơ Thể Tensegrity](./deep-dives/)** — cơ thể như một cấu trúc tensegrity
-- **[Hai Động Cơ](./deep-dives/)** — phối hợp phần thân trên và thân dưới
-- **[Giải Phẫu X-Factor](./deep-dives/)** — sự tách rời hông-vai tạo ra quyền lực
+- **[Nhận Thức Qua Cơ Thể](./deep-dives/index.md)** — cơ thể biết nó đang làm gì như thế nào
+- **[Xoắn Ốc Fascia](./deep-dives/index.md)** — mạng liên kết mô liên kết liên tục truyền lực
+- **[Vị Trí Đầu và Tiền Đình](./deep-dives/index.md)** — cân bằng, ổn định ánh mắt, tai trong trong tennis
+- **[Cảm Thụ Bản Thể](./deep-dives/index.md)** — cảm giác về vị trí cơ thể trong không gian
+- **[Cung Phản Xạ](./deep-dives/index.md)** — các vòng thần kinh nhanh xử lý bóng đến
+- **[Cơ Thể Tensegrity](./deep-dives/index.md)** — cơ thể như một cấu trúc tensegrity
+- **[Hai Động Cơ](./deep-dives/index.md)** — phối hợp phần thân trên và thân dưới
+- **[Giải Phẫu X-Factor](./deep-dives/index.md)** — sự tách rời hông-vai tạo ra quyền lực
 
 ## Cách Tiếp Cận Tài Liệu Này
 

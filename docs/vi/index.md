@@ -61,16 +61,16 @@ Anti-Orthodox Manifesto, Choking & Amygdala, Constraint-Led Self-Discovery, Drea
 
 ## Về Trang Web Này
 
-Tác giả: Henry Phạm Đức  
-Trọng tâm: Huấn luyện tennis thực tế dựa trên cơ sinh học, viết cho người chơi 3.5–5.0+ muốn hiểu biết thực sự.  
-Triết lý: Cơ thể anh là người giải quyết vấn đề, không phải người đánh máy. Đưa cho nó đúng bài toán và nó sẽ tự tìm giải pháp tốt nhất.  
+Tác giả: Henry Phạm Đức 
+Trọng tâm: Huấn luyện tennis thực tế dựa trên cơ sinh học, viết cho người chơi 3.5–5.0+ muốn hiểu biết thực sự. 
+Triết lý: Cơ thể anh là người giải quyết vấn đề, không phải người đánh máy. Đưa cho nó đúng bài toán và nó sẽ tự tìm giải pháp tốt nhất. 
 © 2026 Henry Phạm Đức · Nghiên cứu Tennis Future Lab · Tất cả nội dung trang web chỉ dành cho mục đích giáo dục.
 
 ---
 
 ## Điều Hướng Nhanh
-
-- **[Phiên Bản Tiếng Việt →](./en/index.md){.cta}** — Full content in English
-- **[Complete Manual (Tham Khảo Tổng)](./foundation/deep-dives/Complete Manual/){.cta}**
+ 
+- **[Phiên Bản Tiếng Việt →](./en/index.md)** — Full content in English
+- **[Complete Manual (Tham Khảo Tổng)](./foundation/deep-dives/Complete Manual/)**
 - **[1-Page Match Pocket Card →](./foundation/deep-dives/1-Page Pocket Card/)**
 - **[Tennis Future Lab Handbook →](./foundation/deep-dives/Tennis-Future-Lab-Handbook.md)**

@@ -61,16 +61,16 @@ Anti-Orthodox Manifesto, Choking & Amygdala, Constraint-Led Self-Discovery, Drea
 
 ## About This Site
 
-Author: Henry Phạm Đức  
-Focus: Practical tennis coaching grounded in biomechanics, written for the 3.5–5.0+ player who wants real Hiểu.  
-Philosophy: Your body is a solver, not a typist. Give it the right problems and it will find its own best solutions.  
+Author: Henry Phạm Đức 
+Focus: Practical tennis coaching grounded in biomechanics, written for the 3.5–5.0+ player who wants real Hiểu. 
+Philosophy: Your body is a solver, not a typist. Give it the right problems and it will find its own best solutions. 
 © 2026 Henry Pham · Tennis Future Lab Research · All contents are for educational purpose.
 
 ---
 
 ## Quick Navigation
-
-- **[Vietnamese Version →](./vi/index.md){.cta}** — Toàn bộ nội dung bằng tiếng Việt
-- **[Complete Manual (Master Reference) →](./foundation/deep-dives/Complete Manual/){.cta}**
+ 
+- **[Vietnamese Version →](./vi/index.md)** — Toàn bộ nội dung bằng tiếng Việt
+- **[Complete Manual (Master Reference) →](./foundation/deep-dives/Complete Manual/)**
 - **[1-Page Match Pocket Card →](./foundation/deep-dives/1-Page Pocket Card/)**
 - **[Tennis Future Lab Handbook →](./foundation/deep-dives/Tennis-Future-Lab-Handbook.md)**

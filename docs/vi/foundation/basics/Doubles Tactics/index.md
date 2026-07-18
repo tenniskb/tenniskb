@@ -1,7 +1,17 @@
 # Chiến Thuật Đôi: Giao Tiếp, Đội Hình & Trò Chơi Trường Thọ 50+
 
-Đánh đôi là một môn thể thao khác với singles. Hướng dẫn này bao gồm những nền tảng chiến thuật phân biệt các đội thắng với các cặp đôi thất vọng: hệ thống giao tiếp, chuyển đổi đội hình, và cái nhìn thẳng thắn về những gì thay đổi sau tuổi 50.
+This section contains a focused collection of articles on one specific aspect of the game. The main article (this one) is the entry point. The companion articles in this folder go deeper on specific variations, techniques, or contexts.
 
-## Các File
+Read the main article first, slowly. The companion articles are designed to be read when a specific question comes up in your game — not front to back. When you have a question about Doubles Tactics, come back to this section and find the article that addresses it.
 
-- [Chiến Thuật Đôi: Giao Tiếp, Đội Hình & Trường Thọ](./Doubles-Tactics-Communication-Formations-Longevity.md) — Hướng dẫn đầy đủ về chiến thuật doubles cho người chơi 3.5.
+The coaching guides in this section are built around a specific idea: most 50+ recreational players can play pain-free tennis for twenty more years if they make the right choices now. The choices are usually small — a grip change, a swing thought, a warmup routine. The articles here are the small choices, made specific.
+
+The cheat sheets and reference cards are designed to print and laminate. The deep dives are designed to read on a phone between matches. Use both. Print what you need. Read what you have time for. Forget the rest.
+
+When the specific technique in this section starts to break down — and it will, at some point — come back to the main article. The fixes are usually simpler than you think. The most common error in this area of the game is over-thinking; the second most common is under-practicing the basics.
+
+
+## Articles in this Section
+
+- [Doubles Tactics Γçö Communication, Formations & The 50+ Longevity Game](Doubles Tactics ΓÇö Communication, Formations & The 50+ Longevity Game.md)
+- [Doubles Tactics Communication Formations Longevity](Doubles-Tactics-Communication-Formations-Longevity.md)

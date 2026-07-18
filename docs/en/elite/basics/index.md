@@ -4,7 +4,7 @@ The master reference for elite-level tennis.
 
 ## The Master Manual
 
-- [The Complete Elite Manual](../basics/index.md) — the long-form reference for the questions that only surface after years of practice.
+- [The Complete Elite Manual](./Elite Manual/) — the long-form reference for the questions that only surface after years of practice.
 
 ## How to Use This Section
 

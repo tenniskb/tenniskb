@@ -14,16 +14,16 @@ Tất cả được tổ chức thành 12 nhóm chủ đề chính. Click vào b
 
 | # | Nhóm Chủ Đề | Anh Sẽ Học Gì | Bắt Đầu Tại |
 |---|-------------|---------------|-------------|
-| 1 | [Grip & Nền Tảng](./foundation/basics/Foundations%20&%20Grip/) | 4 grip chính (Continental, Eastern, Semi-Western), grip pressure, và khi nào đổi grip mid-point. Nền tảng mọi stroke xây dựng lên. | [Tổng Quan Grip →](./foundation/basics/Foundations%20&%20Grip/) |
+| 1 | [Grip & Nền Tảng](./foundation/basics/Foundations & Grip/) | 4 grip chính (Continental, Eastern, Semi-Western), grip pressure, và khi nào đổi grip mid-point. Nền tảng mọi stroke xây dựng lên. | [Tổng Quan Grip →](./foundation/basics/Foundations & Grip/) |
 | 2 | [Forehand](./foundation/basics/Forehand/) | Góc chữ L, gia tốc trễ, xoay trục vai (Khoa Vai Thực Hư), unit turn, vị trí head racket, và 70% lực đến từ cấu trúc không phải cơ bắp. | [Forehand Cơ Bản →](./foundation/basics/Forehand/) |
 | 3 | [Backhand](./foundation/basics/Backhand/) | Ảnh phản chiếu của forehand: cơ chế một tay, chuỗi whip, biến thể slice, và khi backhand trở thành vũ khí của anh. | [Backhand Cơ Bản →](./foundation/basics/Backhand/) |
-| 4 | [Giao Bóng](./foundation/basics/Serve/) | Gravity serve, trophy position, pronation, và 4 pattern giao bóng thắng điểm trong đánh đôi. Cộng với các deep-dive đầy đủ. | [Giao Bóng Cơ Bản →](./foundation/basics/Serve/) |
-| 5 | [Trả Giao Bóng](./foundation/basics/Return%20of%20Serve/) | An toàn trước tiên: split step, chặn pace, biến thể slice return, và biến phòng thủ thành trung lập. | [Trả Giao Cơ Bản →](./foundation/basics/Return%20of%20Serve/) |
+| 4 | [Giao Bóng](./foundation/basics/Return of Serve/) | Gravity serve, trophy position, pronation, và 4 pattern giao bóng thắng điểm trong đánh đôi. Cộng với các deep-dive đầy đủ. | [Giao Bóng Cơ Bản →](./foundation/basics/Return of Serve/) |
+| 5 | [Trả Giao Bóng](./foundation/basics/Return of Serve/) | An toàn trước tiên: split step, chặn pace, biến thể slice return, và biến phòng thủ thành trung lập. | [Trả Giao Cơ Bản →](./foundation/basics/Return of Serve/) |
 | 6 | [Volley & Overhead](./foundation/basics/Volley/) | Tay đưa về trước, punch volleys, swing volley, và overhead như cú giao bóng đảo ngược. Cơ bản chơi lưới. | [Volley Cơ Bản →](./foundation/basics/Volley/) |
 | 7 | [Di Chuyển & Footwork](./foundation/basics/Footwork/) | Nghệ thuật di chuyển thông minh: timing split step, pattern phục hồi, bước crossover, và quản lý năng lượng xuyên suốt buổi tập dài. | [Footwork Cơ Bản →](./foundation/basics/Footwork/) |
-| 8 | [Gia Đình Slice](./foundation/basics/Slice%20Approach/) | Hệ thống slice hoàn chỉnh: approach shots, bóng thấp, biến thể đánh đôi, và tại sao slice thường là lựa chọn có percentage cao nhất. | [Tổng Quan Slice →](./foundation/basics/Slice%20Approach/) |
-| 9 | [Pattern Đánh Đôi](./foundation/basics/Doubles%20Patterns/) | 4 pattern return, 4 pattern serve, giao tiếp, formation, và chiến thuật thắng trận đánh đôi phong trào. | [Đánh Đôi Cơ Bản →](./foundation/basics/Doubles%20Patterns/) |
-| 10 | [(Tâm Lý Trận Đấu)](./foundation/basics/Mental%20Game/) | Quản lý áp lực, choking và amygdala, kỷ luật self-coaching, dashboard HRV, và xây dựng khả năng phục hồi trong trận. | [Tâm Lý Thi Đấu →](./foundation/basics/Mental%20Game/) |
+| 8 | [Gia Đình Slice](./foundation/basics/Slice Approach/) | Hệ thống slice hoàn chỉnh: approach shots, bóng thấp, biến thể đánh đôi, và tại sao slice thường là lựa chọn có percentage cao nhất. | [Tổng Quan Slice →](./foundation/basics/Slice Approach/) |
+| 9 | [Pattern Đánh Đôi](./foundation/basics/Doubles Patterns/) | 4 pattern return, 4 pattern serve, giao tiếp, formation, và chiến thuật thắng trận đánh đôi phong trào. | [Đánh Đôi Cơ Bản →](./foundation/basics/Doubles Patterns/) |
+| 10 | [(Tâm Lý Trận Đấu)](./foundation/basics/Mental Game/) | Quản lý áp lực, choking và amygdala, kỷ luật self-coaching, dashboard HRV, và xây dựng khả năng phục hồi trong trận. | [Tâm Lý Thi Đấu →](./foundation/basics/Mental Game/) |
 | 11 | [Deep Dives Cơ Sinh Học](./advanced/deep-dives/) | Nhận thức thể hiện, proprioception, xoắn fascia, X-factor, vị trí đầu & kiểm soát tiền đình — khoa học đằng sau tại sao stroke hiệu quả. | [Cơ Sinh Học Nâng Cao →](./advanced/deep-dives/) |
 | 12 | [Tinh Hoa Elite](./elite/deep-dives/) | Khung anti-orthodox, khám phá có ràng buộc, hệ thống dream library, trạng thái Kinh & Mushin — cho người chơi sẵn sàng cho lớp tiếp theo. | [Elite Deep Dives →](./elite/deep-dives/) |
 
@@ -70,7 +70,7 @@ Triết lý: Cơ thể anh là người giải quyết vấn đề, không phả
 
 ## Điều Hướng Nhanh
 
-- **[Phiên Bản Tiếng Việt →](../en/index.md){.cta}** — Full content in English
-- **[Complete Manual (Tham Khảo Tổng)](./foundation/deep-dives/Complete%20Manual/){.cta}**
-- **[1-Page Match Pocket Card →](./foundation/deep-dives/1-Page%20Pocket%20Card/)**
-- **[Tennis Future Lab Handbook →](./foundation/deep-dives/Tennis-Future-Lab-Handbook/)**
+- **[Phiên Bản Tiếng Việt →](./en/index.md){.cta}** — Full content in English
+- **[Complete Manual (Tham Khảo Tổng)](./foundation/deep-dives/Complete Manual/){.cta}**
+- **[1-Page Match Pocket Card →](./foundation/deep-dives/1-Page Pocket Card/)**
+- **[Tennis Future Lab Handbook →](./foundation/deep-dives/Tennis-Future-Lab-Handbook.md)**

@@ -1,7 +1,17 @@
 # The Eastern & Semi-Western Grips — Your Forehand, Sorted Out
 
-You already know 70% of the grip story: the Continental covers nine shots (volley, slice, serve, lob, overhead, drop shot, approach, and return). The only thing that needs to change is your forehand groundstroke and forehand return — two shots, same treatment. This guide helps you choose between the Eastern and Semi-Western forehand grips based on your game, age, and goals.
+This section contains a focused collection of articles on one specific aspect of the game. The main article (this one) is the entry point. The companion articles in this folder go deeper on specific variations, techniques, or contexts.
 
-## Files
+Read the main article first, slowly. The companion articles are designed to be read when a specific question comes up in your game — not front to back. When you have a question about Eastern Semi-Western Grip, come back to this section and find the article that addresses it.
 
-- [The Eastern & Semi-Western Grips](./Eastern Semi-Western Grip.md) — Complete guide to choosing your forehand grip.
+The coaching guides in this section are built around a specific idea: most 50+ recreational players can play pain-free tennis for twenty more years if they make the right choices now. The choices are usually small — a grip change, a swing thought, a warmup routine. The articles here are the small choices, made specific.
+
+The cheat sheets and reference cards are designed to print and laminate. The deep dives are designed to read on a phone between matches. Use both. Print what you need. Read what you have time for. Forget the rest.
+
+When the specific technique in this section starts to break down — and it will, at some point — come back to the main article. The fixes are usually simpler than you think. The most common error in this area of the game is over-thinking; the second most common is under-practicing the basics.
+
+
+## Articles in this Section
+
+- [Eastern Semi Western Grip](Eastern Semi-Western Grip.md)
+- [Eastern Semi Western Grip The 30 Percent Forehand Grips](Eastern-Semi-Western-Grip-The-30-Percent-Forehand-Grips.md)

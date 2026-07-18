@@ -10,13 +10,13 @@ The basics are layered. What you couldn't feel a year ago, you feel clearly now.
 
 Work through these in order. Each one builds on the previous.
 
-- [Grip — Foundations and Grip System](../basics/Foundations_and_Grip/) — the four grips, the change map, the pressure map
-- [Backhand](../basics/Backhand/) — the two-hander, the one-hander, the slice
-- [Forehand](../basics/Forehand/) — modern topspin, unit turn, contact out front
-- [Serve](../basics/Serve/) — trophy position, racket-head drop, pronation
-- [Volley](../basics/Volley/) — punch, no swing, body control
-- [Overhead](../basics/Overhead/) — the highest-percentage smash
-- [Doubles](../basics/Doubles/) — patterns, formations, communication
+- [Grip — Foundations and Grip System](./Foundations & Grip/) — the four grips, the change map, the pressure map
+- [Backhand](./Backhand/) — the two-hander, the one-hander, the slice
+- [Forehand](./Forehand/) — modern topspin, unit turn, contact out front
+- [Serve](./Return of Serve/) — trophy position, racket-head drop, pronation
+- [Volley](./Volley/) — punch, no swing, body control
+- [Overhead](./Lob_and_Overhead/) — the highest-percentage smash
+- [Doubles](./Doubles Patterns/) — patterns, formations, communication
 
 ## How to Use
 

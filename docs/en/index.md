@@ -14,16 +14,16 @@ Everything is organized into 12 major topic groups. Click any card to reach that
 
 | # | Topic Group | What You'll Learn | Start Here |
 |---|-------------|-------------------|------------|
-| 1 | [Grip & Foundations](./foundation/basics/Foundations%20&%20Grip/) | The 4 major grips (Continental, Eastern, Semi-Western), grip pressure, and when to change grips mid-point. The foundation every stroke builds on. | [Grip Overview →](./foundation/basics/Foundations%20&%20Grip/) |
+| 1 | [Grip & Foundations](./foundation/basics/Foundations & Grip/) | The 4 major grips (Continental, Eastern, Semi-Western), grip pressure, and when to change grips mid-point. The foundation every stroke builds on. | [Grip Overview →](./foundation/basics/Foundations & Grip/) |
 | 2 | [Forehand](./foundation/basics/Forehand/) | The L-angle, late acceleration, shoulder-axis rotation (Khoa Vai Thực Hư), unit turn, racket head position, and the 70% power that comes from structure not muscle. | [Forehand Basics →](./foundation/basics/Forehand/) |
 | 3 | [Backhand](./foundation/basics/Backhand/) | The mirror image of the forehand: one-handed mechanics, the whip sequence, slice variations, and when the backhand becomes your weapon. | [Backhand Basics →](./foundation/basics/Backhand/) |
-| 4 | [Serve](./foundation/basics/Serve/) | The gravity serve, trophy position, pronation, and the 4 serve patterns that win points in doubles. Plus complete serve deep-dives. | [Serve Basics →](./foundation/basics/Serve/) |
-| 5 | [Return of Serve](./foundation/basics/Return%20of%20Serve/) | Safety first: the split step, blocking pace, the slice return variation, and turning defense into neutral. | [Return Basics →](./foundation/basics/Return%20of%20Serve/) |
+| 4 | [Serve](./foundation/basics/Return of Serve/) | The gravity serve, trophy position, pronation, and the 4 serve patterns that win points in doubles. Plus complete serve deep-dives. | [Serve Basics →](./foundation/basics/Return of Serve/) |
+| 5 | [Return of Serve](./foundation/basics/Return of Serve/) | Safety first: the split step, blocking pace, the slice return variation, and turning defense into neutral. | [Return Basics →](./foundation/basics/Return of Serve/) |
 | 6 | [Volley & Overhead](./foundation/basics/Volley/) | Hands forward, punch volleys, the swing volley, and the overhead as a serve in reverse. Net play fundamentals. | [Volley Basics →](./foundation/basics/Volley/) |
 | 7 | [Footwork & Movement](./foundation/basics/Footwork/) | The art of smart movement: split step timing, recovery patterns, the crossover step, and managing your energy across long sessions. | [Footwork Basics →](./foundation/basics/Footwork/) |
-| 8 | [Slice Family](./foundation/basics/Slice%20Approach/) | The complete slice system: approach shots, low balls, doubles variations, and why the slice is often the highest-percentage shot. | [Slice Overview →](./foundation/basics/Slice%20Approach/) |
-| 9 | [Doubles Patterns](./foundation/basics/Doubles%20Patterns/) | The 4 return patterns, 4 serve patterns, communication, formations, and the tactics that win recreational doubles. | [Doubles Basics →](./foundation/basics/Doubles%20Patterns/) |
-| 10 | [Mental Game](./foundation/basics/Mental%20Game/) | Pressure management, choking and the amygdala, self-coaching discipline, the HRV dashboard, and building match resilience. | [Mental Game →](./foundation/basics/Mental%20Game/) |
+| 8 | [Slice Family](./foundation/basics/Slice Approach/) | The complete slice system: approach shots, low balls, doubles variations, and why the slice is often the highest-percentage shot. | [Slice Overview →](./foundation/basics/Slice Approach/) |
+| 9 | [Doubles Patterns](./foundation/basics/Doubles Patterns/) | The 4 return patterns, 4 serve patterns, communication, formations, and the tactics that win recreational doubles. | [Doubles Basics →](./foundation/basics/Doubles Patterns/) |
+| 10 | [Mental Game](./foundation/basics/Mental Game/) | Pressure management, choking and the amygdala, self-coaching discipline, the HRV dashboard, and building match resilience. | [Mental Game →](./foundation/basics/Mental Game/) |
 | 11 | [Biomechanics Deep Dives](./advanced/deep-dives/) | Embodied cognition, proprioception, fascia spirals, the X-factor, head position & vestibular control — the science behind why strokes work. | [Advanced Biomechanics →](./advanced/deep-dives/) |
 | 12 | [Elite Mastery](./elite/deep-dives/) | The anti-orthodox manifesto, constraint-led discovery, the dream library framework, Kinh & Mushin states — for players ready for the next layer. | [Elite Deep Dives →](./elite/deep-dives/) |
 
@@ -70,7 +70,7 @@ Philosophy: Your body is a solver, not a typist. Give it the right problems and 
 
 ## Quick Navigation
 
-- **[Vietnamese Version →](../vi/index.md){.cta}** — Toàn bộ nội dung bằng tiếng Việt
-- **[Complete Manual (Master Reference) →](./foundation/deep-dives/Complete%20Manual/){.cta}**
-- **[1-Page Match Pocket Card →](./foundation/deep-dives/1-Page%20Pocket%20Card/)**
-- **[Tennis Future Lab Handbook →](./foundation/deep-dives/Tennis-Future-Lab-Handbook/)**
+- **[Vietnamese Version →](./vi/index.md){.cta}** — Toàn bộ nội dung bằng tiếng Việt
+- **[Complete Manual (Master Reference) →](./foundation/deep-dives/Complete Manual/){.cta}**
+- **[1-Page Match Pocket Card →](./foundation/deep-dives/1-Page Pocket Card/)**
+- **[Tennis Future Lab Handbook →](./foundation/deep-dives/Tennis-Future-Lab-Handbook.md)**

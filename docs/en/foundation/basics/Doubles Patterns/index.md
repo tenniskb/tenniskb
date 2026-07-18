@@ -1,7 +1,17 @@
 # The 4 Doubles Return Patterns
 
-In singles, the return is a survival shot. In doubles, the return is a setup shot — and it has to deal with two threats at once. Every return in doubles should be one of four patterns, and each one is a complete plan: what shot to hit, what to do the instant after you hit it, and how you and your partner move together.
+This section contains a focused collection of articles on one specific aspect of the game. The main article (this one) is the entry point. The companion articles in this folder go deeper on specific variations, techniques, or contexts.
 
-## Files
+Read the main article first, slowly. The companion articles are designed to be read when a specific question comes up in your game — not front to back. When you have a question about Doubles Patterns, come back to this section and find the article that addresses it.
 
-- [Doubles Return Patterns — Coach's Guide](./Doubles Return Patterns ΓÇö Coach's Guide.md) — Complete guide to the four return patterns.
+The coaching guides in this section are built around a specific idea: most 50+ recreational players can play pain-free tennis for twenty more years if they make the right choices now. The choices are usually small — a grip change, a swing thought, a warmup routine. The articles here are the small choices, made specific.
+
+The cheat sheets and reference cards are designed to print and laminate. The deep dives are designed to read on a phone between matches. Use both. Print what you need. Read what you have time for. Forget the rest.
+
+When the specific technique in this section starts to break down — and it will, at some point — come back to the main article. The fixes are usually simpler than you think. The most common error in this area of the game is over-thinking; the second most common is under-practicing the basics.
+
+
+## Articles in this Section
+
+- [Doubles Patterns Γçö The 4 Return Patterns](Doubles Patterns ΓÇö The 4 Return Patterns.md)
+- [Doubles Return Patterns Γçö Coach'S Guide](Doubles Return Patterns ΓÇö Coach's Guide.md)

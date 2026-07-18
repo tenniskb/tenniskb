@@ -4,7 +4,7 @@ Tài liệu tham khảo chính cho cơ sinh học của sản xuất cú đánh.
 
 ## Sách Làm Chủ
 
-- [Sách Làm Chủ Tennis Cao Cấp — Thần Kinh Học và Giải Phẫu cho 3.5 đến 4.5](../basics/index.md) — tài liệu tham khảo dài hạn. Đọc khi bạn có một giờ yên tĩnh. Dùng làm tham khảo khi có câu hỏi.
+- [Sách Làm Chủ Tennis Cao Cấp — Thần Kinh Học và Giải Phẫu cho 3.5 đến 4.5](The Advanced Tennis Mastery Manual — Neurology and Anatomy for 3.5 to 4.5.md) — tài liệu tham khảo dài hạn. Đọc khi bạn có một giờ yên tĩnh. Dùng làm tham khảo khi có câu hỏi.
 
 ## Cách Sử Dụng Phần Này
 

@@ -21,11 +21,11 @@ Work through these in order. Each one builds on the previous.
 ## How to Use
 
 Each Basics article is structured as:
-1. **What it is** — plain-English definition
-2. **Why it matters** — the failure modes if you skip it
-3. **How to practice** — concrete drills you can do on court
-4. **What good looks like** — the felt sense of having it
-5. **Common mistakes** — and the cues to fix them
+1. What it is — plain-English definition
+2. Why it matters — the failure modes if you skip it
+3. How to practice — concrete drills you can do on court
+4. What good looks like — the felt sense of having it
+5. Common mistakes — and the cues to fix them
 
 Start at the top. Don't skip. The grip work is the most boring part and the most important. Everything else becomes harder if the grip is fuzzy.
 

@@ -10,10 +10,10 @@ Có hai điều thay đổi ngay từ đầu so với đơn: nhắm vào đâu, 
 
 Bốn mẫu, tóm gọn:
 
-- **Return + Lob** — lob cao, sâu qua đầu cả hai đối thủ. Đây là mặc định của bạn khi gặp serve 1 mạnh, đặc biệt là sau tuổi 50.
-- **Return + 1** — return thấp, kiểm soát, xuôi giữa sân để partner cắt bóng. Mẫu thông minh.
-- **Return + Approach** — một cú slice sâu, rồi cả bạn và partner cùng lên lưới. Bước tiến tiếp theo về độ tấn công.
-- **Return + 2** — một cú drive topspin mạnh, cả hai vẫn ở baseline. Dành cho người dũng cảm — và tôi nói thật đấy.
+- Return + Lob — lob cao, sâu qua đầu cả hai đối thủ. Đây là mặc định của bạn khi gặp serve 1 mạnh, đặc biệt là sau tuổi 50.
+- Return + 1 — return thấp, kiểm soát, xuôi giữa sân để partner cắt bóng. Mẫu thông minh.
+- Return + Approach — một cú slice sâu, rồi cả bạn và partner cùng lên lưới. Bước tiến tiếp theo về độ tấn công.
+- Return + 2 — một cú drive topspin mạnh, cả hai vẫn ở baseline. Dành cho người dũng cảm — và tôi nói thật đấy.
 
 Chúng không phải là những lựa chọn ngẫu nhiên bạn chọn bừa. Mỗi mẫu đưa điểm số về một dạng trung cuộc khác nhau: lob đưa cả hai về lại baseline, trung lập. Return + 1 hoặc thắng luôn nhờ cú cắt, hoặc giữ rally tiếp tục từ vị trí đội bạn đang có lợi thế lưới. Return + Approach đưa cả hai đội lên lưới để đấu volley. Return + 2 biến điểm thành trận đấu groundstroke ở baseline. Đọc tình huống, rồi chọn mẫu phù hợp — mẫu CHÍNH LÀ chiến thuật.
 
@@ -25,9 +25,9 @@ Sơ đồ quyết định nhanh, theo cách tôi nghĩ khi đứng ở baseline:
 
 Hãy hình dung người lưới như quân cờ nguy hiểm nhất của đối thủ — quân có thể kết thúc điểm với bất kỳ bóng ngắn nào. Lob không đánh bại họ. Nó loại họ khỏi bàn cờ. Nó buộc họ phải lùi lại và đánh overhead thay vì một cú volley gọn gàng, và thế là cú tiếp theo trở thành groundstroke, không phải cú kết liễu. Bạn chưa thắng điểm. Nhưng bạn đã tước đi vũ khí lớn nhất của họ, và điểm số trở lại trạng thái trung lập.
 
-**Khi nào nên tung cú này:** đọc ba điều cùng lúc — serve nhanh, người lưới đứng gần và sẵn sàng vồ bóng, và bóng rơi đủ sâu khiến bạn không thể tấn công dù có muốn. Nếu cả ba đều đúng, lob. Nếu chỉ một điều không đúng, hãy nghĩ đến mẫu khác.
+Khi nào nên tung cú này: đọc ba điều cùng lúc — serve nhanh, người lưới đứng gần và sẵn sàng vồ bóng, và bóng rơi đủ sâu khiến bạn không thể tấn công dù có muốn. Nếu cả ba đều đúng, lob. Nếu chỉ một điều không đúng, hãy nghĩ đến mẫu khác.
 
-**Cách đánh:** grip Continental, không có ngoại lệ — grip semi-western trên cú lob sẽ khiến bóng bay dài. Tư thế mở hoặc bán mở, giống như cú slice lob của bạn. Backswing cần đưa lên cao — tôi hay bảo mọi người "gãi lưng" bằng vợt khi đưa lên, vì đúng là động tác đó, và nó tạo ra độ vòng cung cho bóng. Tiếp xúc bóng ở phía trước người, khoảng tầm ngực, vung từ thấp lên cao với một cái nhún vai nhẹ ở đỉnh để thêm độ cao. Nhắm sâu — trong vòng ba feet cách baseline, về phía góc sân. Bạn sẽ biết mình đánh sạch qua âm thanh: tiếng "phập" nhẹ, chứ không phải tiếng "bộp" phẳng.
+Cách đánh: grip Continental, không có ngoại lệ — grip semi-western trên cú lob sẽ khiến bóng bay dài. Tư thế mở hoặc bán mở, giống như cú slice lob của bạn. Backswing cần đưa lên cao — tôi hay bảo mọi người "gãi lưng" bằng vợt khi đưa lên, vì đúng là động tác đó, và nó tạo ra độ vòng cung cho bóng. Tiếp xúc bóng ở phía trước người, khoảng tầm ngực, vung từ thấp lên cao với một cái nhún vai nhẹ ở đỉnh để thêm độ cao. Nhắm sâu — trong vòng ba feet cách baseline, về phía góc sân. Bạn sẽ biết mình đánh sạch qua âm thanh: tiếng "phập" nhẹ, chứ không phải tiếng "bộp" phẳng.
 
 Sau khi bóng đã bay lên, đừng đứng đó ngắm nó. Side-shuffle thẳng về giữa baseline. Bạn đánh return gần vạch service — giữa baseline cách đó sáu bảy mét, và đó mới là nhà. Partner của bạn cũng nên làm y vậy nếu họ đang ở lưới; cú lob mua thời gian cho cả hai reset lại. Giờ cả hai đều đã lùi về, người lưới của đối thủ cũng lùi về, và điểm số bắt đầu lại từ trung lập. Đó là giá trị của cú lob — bạn chưa thắng gì cả, nhưng cũng chưa mất gì, và cú tiếp theo là 50/50.
 
@@ -79,15 +79,15 @@ Con số ủng hộ sự thận trọng của tôi ở đây: ở trình độ 3
 
 ## Năm Bài Tập Xây Dựng Thói Quen Tuần Này
 
-**1. Bài tập bóng ma sơ đồ quyết định (một mình, 3 phút/ngày).** Đứng trên baseline và nhờ một người bạn gọi ra một trong bốn mẫu — "Lob!" "Một!" "Approach!" "Hai!" Bạn bước một bước theo hướng tương ứng: chân sau cho lob, không di chuyển cho Một (cú cắt xảy ra mà bạn không cần di chuyển), tiến lên cho approach, không di chuyển cho Hai. Lặp lại 20 lần, trộn ngẫu nhiên. Đây chưa phải là về cú đánh — đây là huấn luyện chính quyết định, vì ở trình độ này, chọn sai mẫu, chứ không phải sai kỹ thuật, mới là sai lầm số một.
+1. Bài tập bóng ma sơ đồ quyết định (một mình, 3 phút/ngày). Đứng trên baseline và nhờ một người bạn gọi ra một trong bốn mẫu — "Lob!" "Một!" "Approach!" "Hai!" Bạn bước một bước theo hướng tương ứng: chân sau cho lob, không di chuyển cho Một (cú cắt xảy ra mà bạn không cần di chuyển), tiến lên cho approach, không di chuyển cho Hai. Lặp lại 20 lần, trộn ngẫu nhiên. Đây chưa phải là về cú đánh — đây là huấn luyện chính quyết định, vì ở trình độ này, chọn sai mẫu, chứ không phải sai kỹ thuật, mới là sai lầm số một.
 
-**2. Bài tập lob bóng sống (cùng partner, 10 phút).** Nhờ partner giao bóng ở tốc độ serve 1. Mọi cú return đều phải là một cú lob cao, sâu qua đầu một người lưới tưởng tượng đứng cách lưới một mét, theo sau là side-shuffle thẳng về giữa baseline. Mục tiêu: mười cú liên tiếp rơi trong vòng ba feet cách baseline. Câu nhắc: "gãi lưng" cho backswing, "sâu vào góc" cho hướng nhắm.
+2. Bài tập lob bóng sống (cùng partner, 10 phút). Nhờ partner giao bóng ở tốc độ serve 1. Mọi cú return đều phải là một cú lob cao, sâu qua đầu một người lưới tưởng tượng đứng cách lưới một mét, theo sau là side-shuffle thẳng về giữa baseline. Mục tiêu: mười cú liên tiếp rơi trong vòng ba feet cách baseline. Câu nhắc: "gãi lưng" cho backswing, "sâu vào góc" cho hướng nhắm.
 
-**3. Bài tập return giữa sân (cùng partner, 10 phút).** Partner giao bóng ở tốc độ serve 2. Mọi cú return đi xuôi giữa service box, theo sau là gọi "Cắt!" và bước sang biên để mô phỏng việc hỗ trợ cú cắt. Mục tiêu: mười cú liên tiếp rơi vào một phần ba giữa của box với tốc độ kiểm soát. Câu nhắc: "trọng tâm hình học" — giữa tam giác.
+3. Bài tập return giữa sân (cùng partner, 10 phút). Partner giao bóng ở tốc độ serve 2. Mọi cú return đi xuôi giữa service box, theo sau là gọi "Cắt!" và bước sang biên để mô phỏng việc hỗ trợ cú cắt. Mục tiêu: mười cú liên tiếp rơi vào một phần ba giữa của box với tốc độ kiểm soát. Câu nhắc: "trọng tâm hình học" — giữa tam giác.
 
-**4. Bài tập slice và chạy nước rút (cùng partner, 10 phút).** Partner giao bóng ở tốc độ serve 2 nhẹ. Đánh một cú slice approach sâu, rồi chạy toàn bộ cú chuyển tiếp — side-shuffle, chạy 70%, split-step. Mục tiêu: năm chuỗi hoàn chỉnh. Câu nhắc: "gãi lưng" cho backswing, "chạy 70%" cho chuyển tiếp, "đến thấp" ở lưới.
+4. Bài tập slice và chạy nước rút (cùng partner, 10 phút). Partner giao bóng ở tốc độ serve 2 nhẹ. Đánh một cú slice approach sâu, rồi chạy toàn bộ cú chuyển tiếp — side-shuffle, chạy 70%, split-step. Mục tiêu: năm chuỗi hoàn chỉnh. Câu nhắc: "gãi lưng" cho backswing, "chạy 70%" cho chuyển tiếp, "đến thấp" ở lưới.
 
-**5. Rally khớp mẫu (cùng partner, 15 phút).** Chơi những điểm đôi thực sự, nhưng gọi tên mẫu của bạn to lên trước mỗi cú return — "Lob!" "Một!" "Approach!" "Hai!" Sau mỗi điểm, nói chuyện xem mẫu đó có thực sự phù hợp với tình huống không, hoặc liệu mẫu khác có hiệu quả hơn không. Mục tiêu: mười điểm, cả bốn mẫu đều được dùng ít nhất một lần. Đây là bài tập thực sự kết nối bản năng tình huống-đến-mẫu vào cơ thể bạn — sau khoảng mười lần lặp lại, "serve nhanh" bắt đầu có nghĩa là "lob" mà bạn không cần suy nghĩ nữa.
+5. Rally khớp mẫu (cùng partner, 15 phút). Chơi những điểm đôi thực sự, nhưng gọi tên mẫu của bạn to lên trước mỗi cú return — "Lob!" "Một!" "Approach!" "Hai!" Sau mỗi điểm, nói chuyện xem mẫu đó có thực sự phù hợp với tình huống không, hoặc liệu mẫu khác có hiệu quả hơn không. Mục tiêu: mười điểm, cả bốn mẫu đều được dùng ít nhất một lần. Đây là bài tập thực sự kết nối bản năng tình huống-đến-mẫu vào cơ thể bạn — sau khoảng mười lần lặp lại, "serve nhanh" bắt đầu có nghĩa là "lob" mà bạn không cần suy nghĩ nữa.
 
 ## Bảy Sai Lầm Tôi Thấy Nhiều Nhất Ở Trình Độ 3.5
 

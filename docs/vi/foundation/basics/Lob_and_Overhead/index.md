@@ -1,6 +1,6 @@
 # Lob và Cú Vô-Lê Trên Đầu
 
-Lob và cú vô-lê trên đầu là hai mặt của cùng một đồng xu. Làm chủ cả hai, và bạn sẽ có độ bao phủ sân hoàn chỉnh — biết khi nào đánh lob, khi nào expect nó, và cách trừng phạt nó bằng cú vô-lê trên đầu.
+Lob và cú vô-lê trên đầu là hai mặt của cùng một đồng xu. Làm chủ cả hai, và bạn có độ bao phủ sân hoàn chỉnh — biết khi nào đánh lob, khi nào expect nó, và cách trừng phạt nó bằng cú vô-lê trên đầu.
 
 ## Các File
 

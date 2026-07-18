@@ -1,37 +1,76 @@
-# Chào Mừng Bạn Đến Với Cơ Sở Kiến Thức Tennis
+# Tennis Knowledge Base — Hướng Dẫn Toàn Diện Để Chơi Tennis Hay Hơn
 
-Đây là trang chủ của Cơ Sở Kiến Thức Tennis — một thư viện đang lớn dần về cách chơi tennis, tại sao các kỹ thuật có hiệu quả, và nó trở thành gì khi bạn thật sự nghiêm túc với môn thể thao này.
+## Giới Thiệu
 
-## Bạn Sẽ Tìm Thấy Gì Ở Đây
+Chào mừng đến với Tennis Knowledge Base — một thư viện song ngữ toàn diện về huấn luyện tennis thực tế, dựa trên cơ sinh học thực sự và nhiều năm kinh nghiệm trên sân. Dù anh là người chơi 3.5 đang xây dựng nền tảng hay người chơi 5.0+ đang tinh chỉnh cơ chế elite, anh sẽ tìm thấy ở đây những bài viết trung thực, chi tiết về cách chơi tennis và tại sao các kỹ thuật thực sự hiệu quả.
 
-Cơ Sở Kiến Thức được sắp xếp theo ba cấp độ, đúng theo cách người ta thật sự học tennis:
+Đây không phải nội dung do AI tạo ra hay lời khuyên "mì ăn liền". Mọi bài viết đều được viết từ kinh nghiệm huấn luyện thực tế, tập trung vào những gì cơ thể anh cần giải quyết — không phải những gì một mô hình stroke cứng nhắc yêu cầu.
 
-- **[Nền Tảng](./foundation/index.md)** — nơi mọi hành trình bắt đầu. Grip, tư thế, di chuyển chân, các cú đánh cơ bản, trả giao bóng, chiến thuật đánh đôi, tâm lý thi đấu.
-- **[Cao Cấp](./advanced/index.md)** — tinh chỉnh những gì bạn đã biết. Cơ sinh học, nhận thức qua cơ thể, fascia, cảm thụ bản thể, cung phản xạ, phối hợp hai động cơ, X-factor.
-- **[Tinh Hoa](./elite/index.md)** — dành cho người đã chơi nhiều năm. Toàn bộ sách tinh hoa, những câu hỏi chỉ xuất hiện sau quá trình luyện tập lâu dài.
+---
 
-Mỗi cấp có phần **Cơ Bản** và **Chuyên Sâu** riêng. Cơ Bản là công việc thực hành. Chuyên Sâu là những bài viết đi sâu vào một chủ đề cụ thể.
+## Điều Hướng Theo Chủ Đề (12 Lối Vào)
 
-## Cơ Sở Kiến Thức Này Khác Gì
+Tất cả được tổ chức thành 12 nhóm chủ đề chính. Click vào bất kỳ card nào để đến toàn bộ tài nguyên của chủ đề đó — từ giới thiệu cơ bản đến cơ sinh học nâng cao và biến thể elite. Tối đa 2 click từ đây đến bất kỳ bài cụ thể nào.
 
-Tôi thường được hỏi: *"Nguồn tài liệu này khác gì so với các nguồn tennis khác?"*
+| # | Nhóm Chủ Đề | Anh Sẽ Học Gì | Bắt Đầu Tại |
+|---|-------------|---------------|-------------|
+| 1 | [Grip & Nền Tảng](./foundation/basics/Foundations%20&%20Grip/) | 4 grip chính (Continental, Eastern, Semi-Western), grip pressure, và khi nào đổi grip mid-point. Nền tảng mọi stroke xây dựng lên. | [Tổng Quan Grip →](./foundation/basics/Foundations%20&%20Grip/) |
+| 2 | [Forehand](./foundation/basics/Forehand/) | Góc chữ L, gia tốc trễ, xoay trục vai (Khoa Vai Thực Hư), unit turn, vị trí head racket, và 70% lực đến từ cấu trúc không phải cơ bắp. | [Forehand Cơ Bản →](./foundation/basics/Forehand/) |
+| 3 | [Backhand](./foundation/basics/Backhand/) | Ảnh phản chiếu của forehand: cơ chế một tay, chuỗi whip, biến thể slice, và khi backhand trở thành vũ khí của anh. | [Backhand Cơ Bản →](./foundation/basics/Backhand/) |
+| 4 | [Giao Bóng](./foundation/basics/Serve/) | Gravity serve, trophy position, pronation, và 4 pattern giao bóng thắng điểm trong đánh đôi. Cộng với các deep-dive đầy đủ. | [Giao Bóng Cơ Bản →](./foundation/basics/Serve/) |
+| 5 | [Trả Giao Bóng](./foundation/basics/Return%20of%20Serve/) | An toàn trước tiên: split step, chặn pace, biến thể slice return, và biến phòng thủ thành trung lập. | [Trả Giao Cơ Bản →](./foundation/basics/Return%20of%20Serve/) |
+| 6 | [Volley & Overhead](./foundation/basics/Volley/) | Tay đưa về trước, punch volleys, swing volley, và overhead như cú giao bóng đảo ngược. Cơ bản chơi lưới. | [Volley Cơ Bản →](./foundation/basics/Volley/) |
+| 7 | [Di Chuyển & Footwork](./foundation/basics/Footwork/) | Nghệ thuật di chuyển thông minh: timing split step, pattern phục hồi, bước crossover, và quản lý năng lượng xuyên suốt buổi tập dài. | [Footwork Cơ Bản →](./foundation/basics/Footwork/) |
+| 8 | [Gia Đình Slice](./foundation/basics/Slice%20Approach/) | Hệ thống slice hoàn chỉnh: approach shots, bóng thấp, biến thể đánh đôi, và tại sao slice thường là lựa chọn có percentage cao nhất. | [Tổng Quan Slice →](./foundation/basics/Slice%20Approach/) |
+| 9 | [Pattern Đánh Đôi](./foundation/basics/Doubles%20Patterns/) | 4 pattern return, 4 pattern serve, giao tiếp, formation, và chiến thuật thắng trận đánh đôi phong trào. | [Đánh Đôi Cơ Bản →](./foundation/basics/Doubles%20Patterns/) |
+| 10 | [(Tâm Lý Trận Đấu)](./foundation/basics/Mental%20Game/) | Quản lý áp lực, choking và amygdala, kỷ luật self-coaching, dashboard HRV, và xây dựng khả năng phục hồi trong trận. | [Tâm Lý Thi Đấu →](./foundation/basics/Mental%20Game/) |
+| 11 | [Deep Dives Cơ Sinh Học](./advanced/deep-dives/) | Nhận thức thể hiện, proprioception, xoắn fascia, X-factor, vị trí đầu & kiểm soát tiền đình — khoa học đằng sau tại sao stroke hiệu quả. | [Cơ Sinh Học Nâng Cao →](./advanced/deep-dives/) |
+| 12 | [Tinh Hoa Elite](./elite/deep-dives/) | Khung anti-orthodox, khám phá có ràng buộc, hệ thống dream library, trạng thái Kinh & Mushin — cho người chơi sẵn sàng cho lớp tiếp theo. | [Elite Deep Dives →](./elite/deep-dives/) |
 
-Vài câu trả lời thật lòng:
+---
 
-**Được viết cho người chơi 3.5 đến 4.5 muốn hiểu thật sự, không phải tìm cách vá lỗi nhanh.** Thuật ngữ kỹ thuật có ở đó vì chúng hữu ích. Phần giải thích cơ học có ở đó vì chúng thật sự giải thích. Nếu điều gì có thể nói bằng tiếng Việt đơn giản, nó sẽ được nói bằng tiếng Việt đơn giản.
+## Duyệt Theo Cấp Độ
 
-**Giả định rằng bạn muốn ra sân đánh, không chỉ đọc.** Mỗi bài viết đều có bài tập bạn có thể mang lên sân. Bài viết là tấm bản đồ; lãnh thổ là cơ thể chính bạn và cú đánh bóng của chính bạn.
+Nếu anh thích duyệt theo cấp độ kỹ năng thay vì chủ đề:
 
-**Đối xử nghiêm túc với cơ sinh học.** Tennis là bài toán cơ học của cơ thể nhiều không kém gì bài toán kỹ thuật cú đánh. Công việc sâu hơn — phản lực từ mặt đất, chuỗi động lực, xoay khối, góc L tăng tốc cuối — là thứ phân tách 3.5 với 4.5.
+[Foundation →](./foundation/index.md) — Grip, stance, footwork, 6 stroke chính, pattern đánh đôi, và nền tảng tâm lý. Bắt đầu ở đây nếu anh đang xây từ đầu hoặc củng cố basics.
 
-**Cũng được xây cho người chơi 50+.** Nhiều cú đánh có biến thể slice đặc biệt dành cho cơ thể lớn tuổi. Slice backhand, slice return, slice approach — đây không phải cú đánh thỏa hiệp. Chúng thường là lựa chọn có tỷ lệ thành công cao nhất ở mọi lứa tuổi.
+[Advanced →](./advanced/index.md) — Deep-dives cơ sinh học: nhận thức thể hiện, fascia, proprioception, reflex arcs, chuỗi động học, và giải phẫu X-factor. Cho người chơi muốn hiểu *tại sao* cơ thể họ di chuyển theo cách đó.
 
-**Nó luôn phát triển.** Khi tôi học thêm, bài viết sẽ tốt hơn. Phiên bản mới nhất luôn ở đây.
+[Elite →](./elite/index.md) — Khung nâng cao: huấn luyện constraint-led, hệ thống decision dream library, tư duy anti-orthodox, và work trạng thái (Kinh & Mushin). Cho người chơi có nhiều năm thực hành sẵn sàng cho các lớp tinh tế.
 
-## Bắt Đầu Từ Đâu
+---
 
-Nếu bạn mới, **[hãy bắt đầu với Tổng Quan Nền Tảng →](./foundation/index.md)** và đi qua phần Cơ Bản theo thứ tự. Grip → Tư thế → Di chuyển chân → Forehand → Backhand → Serve → Return. Rồi đến chiến thuật đánh đôi. Rồi đến tâm lý thi đấu.
+## Danh Mục Nội Dung Đầy Đủ
 
-Nếu bạn đã chơi một thời gian, **[nhảy thẳng đến phần Cao Cấp →](./advanced/index.md)** để đọc các bài chuyên sâu cơ sinh học.
+### Foundation (51 chủ đề xuyên suốt Basics + Deep Dives)
 
-Nếu bạn muốn tài liệu tham khảo đầy đủ, **[Sách Hoàn Chỉnh nằm trong Chuyên Sâu Nền Tảng →](./foundation/deep-dives/)** cùng với thẻ bỏ túi và các bài viết dài hạn về từng cú đánh.
+Basics (26): Backhand, Continental Grip, Doubles Patterns, Doubles Return Patterns, Doubles Serves, Doubles Tactics, Eastern Semi-Western Grip, Footwork, Forehand, Foundations & Grip, Grip Change Map, Grip Pressure, HRV Dashboard, Mental Game, Return of Serve, Serve, Slice Approach, Slice Family Doubles, Slice Variations, Volley
+
+Deep Dives (25): 1-Page Pocket Card, Advanced Manual, Backhand (full), Choking & Amygdala, Complete Manual v2, Continental Grip (deep), Decision Latency, Doubles Patterns (deep), Doubles Serves (deep), Doubles Tactics (deep), Eastern Semi-Western (deep), Elite Manual, Footwork (deep), Forehand (full), Future Lab Handbook, Grip Change Map (deep), Grip Pressure (deep), Lob & Overhead (deep), Mental Game (deep), Myelination, Pressure Inoculation, Reflex Arcs, Return of Serve (deep), Self-Coaching Discipline, Slice Family (deep), Three Models, Volley (deep)
+
+### Advanced (8 chủ đề)
+
+Embodied Cognition, Fascia Spirals, Head Position & Vestibular, Proprioception, Reflex Arcs, Tensegrity Body, Two Engines, X-Factor Anatomy
+
+### Elite (9 chủ đề)
+
+Anti-Orthodox Manifesto, Choking & Amygdala, Constraint-Led Self-Discovery, Dream Library, Hidden Speed, Kinh & Mushin, Pocket Card, Truong Luc
+
+---
+
+## Về Trang Web Này
+
+Tác giả: Henry Phạm Đức  
+Trọng tâm: Huấn luyện tennis thực tế dựa trên cơ sinh học, viết cho người chơi 3.5–5.0+ muốn hiểu biết thực sự.  
+Triết lý: Cơ thể anh là người giải quyết vấn đề, không phải người đánh máy. Đưa cho nó đúng bài toán và nó sẽ tự tìm giải pháp tốt nhất.  
+© 2026 Henry Phạm Đức · Nghiên cứu Tennis Future Lab · Tất cả nội dung trang web chỉ dành cho mục đích giáo dục.
+
+---
+
+## Điều Hướng Nhanh
+
+- **[Phiên Bản Tiếng Việt →](../en/index.md){.cta}** — Full content in English
+- **[Complete Manual (Tham Khảo Tổng)](./foundation/deep-dives/Complete%20Manual/){.cta}**
+- **[1-Page Match Pocket Card →](./foundation/deep-dives/1-Page%20Pocket%20Card/)**
+- **[Tennis Future Lab Handbook →](./foundation/deep-dives/Tennis-Future-Lab-Handbook/)**

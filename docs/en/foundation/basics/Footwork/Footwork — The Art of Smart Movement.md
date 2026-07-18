@@ -4,7 +4,7 @@ I get asked about forehands, serves, backhands — nobody ever asks me about foo
 
 ## Chapter 1 — Footwork Is a State, Not a Sprint
 
-Watch a 3.5 player before the point starts. Both feet flat, weight even, racket parked at the waist. The opponent hits. *Then* they react, *then* they run, *then* they swing. That whole sequence eats up 1.2 seconds — and the ball is already past them.
+Watch any 3.5 player before the point starts. Both feet flat, weight even, racket parked at the waist. The opponent hits. *Then* they react, *then* they run, *then* they swing. That whole sequence eats up 1.2 seconds — and the ball is already past them.
 
 Now watch a pro. They don't run to the ball. They arrive at it. The split-step, the small adjustment, the first step — all of it is already aimed before the ball has traveled halfway across the net. They look like they have all the time in the world, and in a sense, they've bought it.
 
@@ -20,7 +20,7 @@ And I want to say this plainly for anyone playing past 50: sprinting is expensiv
 
 Your feet should never sit parallel, shoulder-width, both toes pointing straight ahead. That stance locks your hips. No rotation, no first step, no spring — you're a statue waiting to become a slightly-later statue.
 
-Instead, stagger them: one foot slightly forward, one slightly back, weight around 70-30, back heel raised. Your hips stay free to rotate. In taichi this is the bow stance, *Cung Bộ* (弓步) — front leg bent like the bowstring, back leg straight like the bow itself. From that position you can launch forward or sideways with zero wasted motion.
+Instead, stagger them: one foot slightly forward, one slightly back, weight around 70-30, back heel raised. Your hips stay free to rotate. In taichi This the bow stance, *Cung Bộ* (弓步) — front leg bent like the bowstring, back leg straight like the bow itself. From that position you can launch forward or sideways with zero wasted motion.
 
 Why does staggered beat square? A parallel stance is symmetrical, and symmetry feels stable — but stable is slow. You can lean any direction from a square stance, sure, but every direction costs the same "untuck" energy to get moving. A staggered stance is asymmetrical on purpose. It already has a built-in first step loaded into it. Asymmetry is fast.
 
@@ -34,7 +34,7 @@ Your weight belongs on the balls of your feet — that padded area just behind t
 
 Heel-walking is for the office, not the court. On the balls of your feet, your center of gravity sits slightly forward — a 5 to 10 degree forward lean. Call it the hunter stance. And that forward lean actually protects your back: if your weight sits on your heels, you have to lean forward *with your spine* to move at all. Spinal lean loads the back. Center-of-gravity lean loads the legs — and your legs are built to take that load. Your spine isn't.
 
-One important correction here, especially past 50: lean forward at the ankles, not at the waist. Bend at the hips, not the spine. Try this image — your pelvis is a bowl of water. Keep it level. If the bowl tips forward, you've bent your spine. If the bowl stays level and your whole body angles forward from the ankles, you've got it right. This one cue, on its own, will save your lower back.
+One important correction here, especially as we get older: lean forward at the ankles, not at the waist. Bend at the hips, not the spine. Try this image — your pelvis is a bowl of water. Keep it level. If the bowl tips forward, you've bent your spine. If the bowl stays level and your whole body angles forward from the ankles, you've got it right. This one cue, on its own, will save your lower back.
 
 ## Chapter 3 — The Split-Step: Your 300ms Trigger
 
@@ -62,7 +62,7 @@ After the split-step, land and hold — one to two tenths of a second — while 
 | Hold | Frozen in landing | 100-200ms | "Read!" |
 | First step | Push off, chosen direction | 250-300ms | "Go!" |
 
-**Try this drill — The Random "Now!":** Stand on the baseline in ready position. Have a partner (or a metronome app) call "Now!" at random intervals, 1-3 seconds apart. On "Now," split-step, hold the landing for two seconds, then shuffle-step to one side. Reset and repeat, 20 reps total. The goal is training your body so the split-step becomes automatic on cue — not something you have to decide to do.
+Try this drill — The Random "Now!": Stand on the baseline in ready position. Have a partner (or a metronome app) call "Now!" at random intervals, 1-3 seconds apart. On "Now," split-step, hold the landing for two seconds, then shuffle-step to one side. Reset and repeat, 20 reps total. The goal is training your body so the split-step becomes automatic on cue — not something you have to decide to do.
 
 ## Chapter 4 — The Four Moves
 
@@ -74,19 +74,19 @@ For balls 1-3 meters to your side. Both feet move together — one pushes, the o
 
 Most 3.5 players get this wrong in one of two ways: they cross their feet, or they take one giant stride instead of several small ones. Both kill your lateral speed. The rule is simple — feet never cross, each step is shoulder-width or less, and your body stays square to the net the whole time. On a forehand to your right, lead with the right foot, pushing off the left, land on the left, push off the right again. Two feet moving like a windshield wiper.
 
-**Try this drill — The Lateral Ladder:** Set two lines of cones (or use the court lines) 4 meters apart. Shuffle side to side, touching each line with your foot — 6 touches per rep. Do 5 reps, rest 30 seconds, repeat for 3 sets. You're training light feet that never cross.
+Try this drill — The Lateral Ladder: Set two lines of cones (or use the court lines) 4 meters apart. Shuffle side to side, touching each line with your foot — 6 touches per rep. Do 5 reps, rest 30 seconds, repeat for 3 sets. You're training light feet that never cross.
 
 ### The drop step
 
-This one's for balls that pull you wide or deep — when the lateral hop has run out of range. It's the "oh no, that's farther than I thought" move. Your lead foot plants and pivots 180 degrees, your body drops low, and your back leg swings around — you end up facing the sideline, ready to sprint back toward center. In taichi this is *Tụ Bộ* (墜步), the "dropping step" — the energy sinks into the back leg before it springs back out. The drop *is* the load.
+This one's for balls that pull you wide or deep — when the lateral hop has run out of range. It's the "oh no, that's farther than I thought" move. Your lead foot plants and pivots 180 degrees, your body drops low, and your back leg swings around — you end up facing the sideline, ready to sprint back toward center. In taichi This *Tụ Bộ* (墜步), the "dropping step" — the energy sinks into the back leg before it springs back out. The drop *is* the load.
 
-Past 50, this is also your go-to move for a low ball that dips at your feet: drop step, deep knee bend, reach with the legs — never the back.
+Past 50, This also your go-to move for a low ball that dips at your feet: drop step, deep knee bend, reach with the legs — never the back.
 
-**Try this drill — The Cone Drop:** Place 5 cones in a straight line at the baseline, 1 meter apart. Start at cone 1, shuffle to cone 2, drop step, sprint back to cone 1. Shuffle to cone 3, drop step, sprint back. Keep going to cone 5. Three sets. This trains the exact pattern you need for recovering a wide ball.
+Try this drill — The Cone Drop: Place 5 cones in a straight line at the baseline, 1 meter apart. Start at cone 1, shuffle to cone 2, drop step, sprint back to cone 1. Shuffle to cone 3, drop step, sprint back. Keep going to cone 5. Three sets. This trains the exact pattern you need for recovering a wide ball.
 
 ### The cross-over step
 
-Reserved for balls 3+ meters away, when neither the lateral hop nor the drop step gets you there. This is your chase move. The inside foot crosses in front of (or behind) the outside foot, you push off the back foot, and take a long stride to close the distance.
+Reserved for balls 3+ meters away, when neither the lateral hop nor the drop step gets you there. This your chase move. The inside foot crosses in front of (or behind) the outside foot, you push off the back foot, and take a long stride to close the distance.
 
 I'll be direct: the cross-over is the highest-injury move in tennis. Done wrong, it twists the knee. Done right, it's smooth and powerful. The rule that keeps it safe: land on the balls of the cross-over foot, never the heel. Bend the knee in the direction you're moving, never against it. Face your hips toward the direction of travel, not toward the net.
 
@@ -96,9 +96,9 @@ If you're playing past 50, use the cross-over sparingly. The lateral hop plus th
 
 After every shot, your body has to return to a center position behind the ball you just hit. That's recovery, and it's non-negotiable. Most 3.5 players freeze and watch their own shot — and that's the number one reason they're always a step late for the next ball. The point is still live. The opponent's already hitting back. And they're standing there admiring their forehand.
 
-The first three steps after your shot should be automatic — side-step, cross-over, side-step, resetting without you having to think about it. Picture a boxer returning to their stance right after throwing a punch. In taichi, this is *Hoàn Thủ* (還手) — "return to center." Every movement returns to its source: the hands come back, the feet come back, the breath comes back.
+The first three steps after your shot should be automatic — side-step, cross-over, side-step, resetting without you having to think about it. Picture a boxer returning to their stance right after throwing a punch. In taichi, This *Hoàn Thủ* (還手) — "return to center." Every movement returns to its source: the hands come back, the feet come back, the breath comes back.
 
-**Try this drill — The 3-Step Reset:** Have a partner feed you 10 balls in a row from the far baseline. After every shot, you must take three steps back toward center before the next ball arrives. Your partner calls "Reset!" if they catch you freezing. Three sets of 10. The goal is making recovery feel non-negotiable, the way it needs to be.
+Try this drill — The 3-Step Reset: Have a partner feed you 10 balls in a row from the far baseline. After every shot, you must take three steps back toward center before the next ball arrives. Your partner calls "Reset!" if they catch you freezing. Three sets of 10. The goal is making recovery feel non-negotiable, the way it needs to be.
 
 ### Quick reference — when to use each move
 
@@ -114,7 +114,7 @@ The first three steps after your shot should be automatic — side-step, cross-o
 
 ### The movement patterns
 
-Patterns are just combinations of the four moves, and at your level there are three worth recognizing. A pattern is more than a sequence — it's a loop. Every point has a beginning (the split-step), a middle (movement and the shot), and an end (the 3-step recovery). Train the loop as a whole, not the pieces in isolation.
+Patterns are just combinations of the four moves, and at your level You've got three worth recognizing. A pattern is more than a sequence — it's a loop. Every point has a beginning (the split-step), a middle (movement and the shot), and an end (the 3-step recovery). Train the loop as a whole, not the pieces in isolation.
 
 | Pattern | When | Sequence | Cue |
 |---|---|---|---|
@@ -124,12 +124,12 @@ Patterns are just combinations of the four moves, and at your level there are th
 
 ### The full drill set
 
-1. **The Staggered Stance Check** (5 min, daily) — Stand in ready position, stagger your feet, close your eyes, hold 30 seconds. Open your eyes and check: did you drift back to parallel? If yes, your old parallel-stance habit is stronger than you think — do 10 reps. Give it a week and your body starts defaulting to staggered on its own.
-2. **The Mirror Split-Step** (10 min, 3x/week) — Stand 2 meters from a mirror in ready position, do the split-step 20 times. Check whether you're landing on the balls, holding for 1-2 tenths, and returning to ready without glancing down at your feet. The mirror doesn't lie to you — once it looks right, close your eyes for 20 more reps, then open them again on-court, then try it in a match.
-3. **The Lateral Ladder** (10 min, 2x/week) — Your bread-and-butter lateral speed work. Roughly 70% of the balls you'll see in a rally land within 3 meters of where you're standing — master this and you've covered most of your shots.
-4. **The Cone Drop** (10 min, 2x/week) — Wide balls are what actually beat you at 3.5 — not because you can't run, but because you start late. This drill trains the late-start recovery: plant, pivot, sprint, hit.
-5. **The 3-Step Reset with a Partner** (15 min, 2x/week) — This is the difference between being early for the next ball and being late for it. Having someone call you out for freezing is what makes the habit stick.
-6. **The Triangle Drill** (15 min, 1x/week) — Place 3 cones in a triangle: one at the net, one at each corner of the service line. From the net cone, sprint to the deuce corner, split-step, sprint back to the net, split-step, sprint to the ad corner, split-step, sprint back to the net. Repeat 5 times. This is the smallest complete point-simulation you can run on a court — every move you've learned, in sequence, on repeat.
+1. The Staggered Stance Check (5 min, daily) — Stand in ready position, stagger your feet, close your eyes, hold 30 seconds. Open your eyes and check: did you drift back to parallel? If yes, your old parallel-stance habit is stronger than you think — do 10 reps. Give it a week and your body starts defaulting to staggered on its own.
+2. The Mirror Split-Step (10 min, 3x/week) — Stand 2 meters from a mirror in ready position, do the split-step 20 times. Check whether you're landing on the balls, holding for 1-2 tenths, and returning to ready without glancing down at your feet. The mirror doesn't lie to you — once it looks right, close your eyes for 20 more reps, then open them again on-court, then try it in a match.
+3. The Lateral Ladder (10 min, 2x/week) — Your bread-and-butter lateral speed work. Roughly 70% of the balls you'll see in a rally land within 3 meters of where you're standing — master this and you've covered most of your shots.
+4. The Cone Drop (10 min, 2x/week) — Wide balls are what actually beat you at 3.5 — not because you can't run, but because you start late. This drill trains the late-start recovery: plant, pivot, sprint, hit.
+5. The 3-Step Reset with a Partner (15 min, 2x/week) — This the difference between being early for the next ball and being late for it. Having someone call you out for freezing is what makes the habit stick.
+6. The Triangle Drill (15 min, 1x/week) — Place 3 cones in a triangle: one at the net, one at each corner of the service line. From the net cone, sprint to the deuce corner, split-step, sprint back to the net, split-step, sprint to the ad corner, split-step, sprint back to the net. Repeat 5 times. This the smallest complete point-simulation you can run on a court — every move you've learned, in sequence, on repeat.
 
 ### The 10 cues
 
@@ -160,11 +160,11 @@ And here's the one rule I'd want you to keep even if you forgot everything else:
 
 ### The taichi thread running through all of this
 
-- **Always loose, always ready** — *Thường Tùng* (常鬆) — never tense, never frozen. A coiled spring, not a parked car.
-- **Staggered stance** — *Cung Bộ* (弓步) — front leg bent like the bowstring, back leg straight like the bow. Ready to move any direction.
-- **One foot loaded, one foot light** — *Hư Thực* (虛實) — never double-weighted. Always a loaded leg and a free leg.
-- **Drop step** — *Tụ Bộ* (墜步) — sink before you spring. The drop is the load.
-- **Return to center** — *Hoàn Thủ* (還手) — after every shot, come home. The loop continues.
+- Always loose, always ready — *Thường Tùng* (常鬆) — never tense, never frozen. A coiled spring, not a parked car.
+- Staggered stance — *Cung Bộ* (弓步) — front leg bent like the bowstring, back leg straight like the bow. Ready to move any direction.
+- One foot loaded, one foot light — *Hư Thực* (虛實) — never double-weighted. Always a loaded leg and a free leg.
+- Drop step — *Tụ Bộ* (墜步) — sink before you spring. The drop is the load.
+- Return to center — *Hoàn Thủ* (還手) — after every shot, come home. The loop continues.
 
 ### Mental checklist before every point
 

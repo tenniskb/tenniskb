@@ -2,7 +2,7 @@
 
 Trong đơn, return là cú sinh tồn. Trong đôi, return là cú setup — và sự khác biệt đó chính là cả chương này.
 
-Lý do: trong đôi có một người ở lưới bên đội đối phương chờ cắt bóng. Return của bạn phải đối phó với hai mối đe dọa cùng lúc — cú đánh tiếp theo của server VÀ cú cắt của người lưới. Trả giao bóng trong đôi như trả trong đơn — mạnh và chéo sân — bạn sẽ thua điểm 80% thời gian, vì chéo sân đưa bóng thẳng vào tầm với của người cắt.
+Lý do: trong đôi có một người ở lưới bên đội đối phương chờ cắt bóng. Return của bạn phải đối phó với hai mối đe dọa cùng lúc — cú đánh tiếp theo của server VÀ cú cắt của người lưới. Trả giao bóng trong đôi như trả trong đơn — mạnh và chéo sân — bạn thua điểm 80% thời gian, vì chéo sân đưa bóng thẳng vào tầm với của người cắt.
 
 Giải pháp là bốn mẫu. Mỗi mẫu là một kế hoạch hoàn chỉnh: đánh return kiểu gì, làm gì ngay sau đó, và làm sao để bạn và đồng đội di chuyển cùng nhau.
 
@@ -25,7 +25,7 @@ Người học tennis từ đơn mắc một lỗi trong đôi, lặp đi lặp 
 
 | # | Mẫu | Là gì | Khi nào | Mặc định 50+ của bạn? |
 |---|---|---|---|---|
-| 1 | Return + Lob | Lob cao, sâu qua cả hai đối thủ | Serve 1, người lưới tích cực, cần reset | **Có — đây là mặc định của bạn** |
+| 1 | Return + Lob | Lob cao, sâu qua cả hai đối thủ | Serve 1, người lưới tích cực, cần reset | Có — đây là mặc định của bạn |
 | 2 | Return + 1 | Trả thấp, kiểm soát, xuôi giữa; đồng đội cắt | Serve 2, đồng đội sẵn sàng ở lưới | Lựa chọn thông minh |
 | 3 | Return + Approach | Slice approach sâu; cả bạn và đồng đội cùng lên lưới | Return ngắn, cả hai có thể tấn công | Bước tiếp theo |
 | 4 | Return + 2 | Drive topspin mạnh; cả hai ở lại baseline | Serve 2 yếu, cả hai là người cuối sân | Dành cho người can đảm |
@@ -60,22 +60,22 @@ Lob giải quyết cả ba vấn đề cùng lúc. Nó lấy lực khỏi bóng,
 
 Hãy nghĩ người lưới như quân cờ nguy hiểm nhất của đối thủ — một con tượng có thể chặn bất kỳ bóng ngắn nào. Lob loại quân cờ đó khỏi bàn cờ bằng cách ép nó lùi lại và đánh overhead thay vì volley. Bạn chưa thắng điểm, nhưng bạn đã lấy đi vũ khí tốt nhất của họ, và cú tiếp theo trở thành một groundstroke thay vì một lưỡi dao ở lưới.
 
-**Đọc tình huống — ba điều, cùng một lúc:**
+Đọc tình huống — ba điều, cùng một lúc:
 1. Serve nhanh (serve 1, hoặc serve 2 mạnh).
 2. Người lưới đứng tới trước, cách lưới 1-2 mét, sẵn sàng cắt.
 3. Bóng rơi đủ sâu để bạn không thể tấn công một cú nảy ngắn.
 
 Cả ba đều đúng? Lob. Một trong ba sai? Xem mẫu khác.
 
-**Thực hiện:**
+Thực hiện:
 
 Grip là Continental — không thương lượng. Grip semi-Western trên một cú lob sẽ khiến bóng bay dài. Tư thế mở hoặc bán mở, giống slice lob của bạn, để ngực xoay lên tự do. Backswing cao — "gãi lưng" bằng vợt — vì đó là thứ tạo vòng cung cho bóng; backswing thấp biến lob của bạn thành một bóng phẳng mà đối thủ đập winner. Tiếp xúc phía trước cơ thể, tầm ngực-đến-vai, cùng vị trí như bất kỳ groundstroke lob nào. Vung từ thấp lên cao với một cú nhún vai ở đỉnh — riêng cú nhún đó thêm 15-30 cm độ cao. Nhắm sâu, vào góc, rơi trong khoảng một mét từ baseline.
 
 Lắng nghe âm thanh: một tiếng "phập" sạch, êm nghĩa là underspin đang hoạt động. Một tiếng "bộp" phẳng nghĩa là lob sẽ nằm lên và bị đập.
 
-Lob là cú tỷ lệ thành công cao ít căng thẳng nhất trong tennis cho một cơ thể 50+. Không tải vai — đó là một cú vung nhỏ và trọng lực làm việc thật sự. Không căng lưng — tư thế mở, không xoắn qua cột sống. Không stress gối — không chạy nước rút, không lunge. Return + Lob không chỉ là một lựa chọn chiến thuật, đó là một lựa chọn tuổi thọ khoác áo chiến thuật. Lob 80% số return serve 1 của bạn và vai bạn sẽ cảm ơn bạn suốt hai mươi năm tới.
+Lob là cú tỷ lệ thành công cao ít căng thẳng nhất trong tennis cho một cơ thể 50+. Không tải vai — đó là một cú vung nhỏ và trọng lực làm việc thật sự. Không căng lưng — tư thế mở, không xoắn qua cột sống. Không stress gối — không chạy nước rút, không lunge. Return + Lob không chỉ là một lựa chọn chiến thuật, đó là một lựa chọn tuổi thọ khoác áo chiến thuật. Lob 80% số return serve 1 của bạn và vai bạn cảm ơn bạn suốt hai mươi năm tới.
 
-**Hồi phục:**
+Hồi phục:
 
 Ngay khi lob đã ở trên không, side-shuffle thẳng về giữa baseline. Bạn đánh return từ khoảng vạch giao bóng — giữa baseline cách đó 6-7 mét, và đó là nhà. Về đó. đồng đội bạn cũng hồi phục, lùi khỏi lưới nếu họ đang ở đó — cả đội reset về cả hai ở sau.
 
@@ -98,13 +98,13 @@ Nếu Return + Lob là chính sách bảo hiểm của bạn, Return + 1 là vũ
 
 Ý tưởng là một cú chuyền tay. Bạn đánh một return thấp, kiểm soát, xuôi giữa. đồng đội bạn cắt bóng tiếp theo. Hoặc cú cắt thắng luôn, hoặc rally tiếp tục từ một vị trí trận chiến lưới mạnh cho đội bạn. Bạn không cần đánh một winner ở đây — bạn cần đánh một bóng *có thể đánh được*. Cú cắt là cú đánh; return của bạn chỉ là đường chuyền.
 
-**Bốn điều một Return + 1 tốt cần, cùng một lúc:**
+Bốn điều một Return + 1 tốt cần, cùng một lúc:
 
-Quỹ đạo thấp — qua lưới không quá 30-60 cm, vì bất cứ thứ gì cao hơn cho người cắt một cú volley khó chịu ở tầm ngực mà đa số người chơi 3.5 thực sự bỏ lỡ. Nhắm xuôi giữa, giữa server và người cắt — đó là điểm ngọt hình học, không phải một điểm cụ thể mà là một cửa sổ rộng khoảng một mét. Rơi đủ sâu — trong service box, lý tưởng giữa box, nếu không server chỉ cần bước vào và đánh winner từ bóng ngắn. Và giữ tốc độ kiểm soát — trung bình, không mạnh (bạn sẽ cho server lực) và không nhẹ (bạn sẽ thả nó lên thành một volley dễ).
+Quỹ đạo thấp — qua lưới không quá 30-60 cm, vì bất cứ thứ gì cao hơn cho người cắt một cú volley khó chịu ở tầm ngực mà đa số người chơi 3.5 thực sự bỏ lỡ. Nhắm xuôi giữa, giữa server và người cắt — đó là điểm ngọt hình học, không phải một điểm cụ thể mà là một cửa sổ rộng khoảng một mét. Rơi đủ sâu — trong service box, lý tưởng giữa box, nếu không server chỉ cần bước vào và đánh winner từ bóng ngắn. Và giữ tốc độ kiểm soát — trung bình, không mạnh (bạn cho server lực) và không nhẹ (bạn thả nó lên thành một volley dễ).
 
 Lỗi phổ biến nhất ở trình độ này là đánh return quá cao. Một bóng qua lưới ba feet (90 cm) trở lên tới tầm ngực người cắt, buộc họ phải quyết định khó về góc và lực — và đa số người cắt bỏ lỡ cú đó. Giữ nó thấp, tầm gối-đến-hông, và nó gần như tự động dễ kết liễu.
 
-**Grip nào:** Continental cho return sang bên trái (backhand) của bạn — slice ra thấp và kiểm soát, và đó là grip bạn đã dùng cho volley và lob, nên không có đổi grip giữa điểm. Semi-Western hoặc Eastern cho return sang bên phải (forehand), tạo ra một cú drive topspin thấp, chúi xuống. Ở trình độ của bạn, dẫn đầu với phiên bản slice backhand — nó dễ xây dựng nhất trước, và thêm phiên bản drive forehand như bước tiếp theo khi slice đã tự động.
+Grip nào: Continental cho return sang bên trái (backhand) của bạn — slice ra thấp và kiểm soát, và đó là grip bạn đã dùng cho volley và lob, nên không có đổi grip giữa điểm. Semi-Western hoặc Eastern cho return sang bên phải (forehand), tạo ra một cú drive topspin thấp, chúi xuống. Ở trình độ của bạn, dẫn đầu với phiên bản slice backhand — nó dễ xây dựng nhất trước, và thêm phiên bản drive forehand như bước tiếp theo khi slice đã tự động.
 
 Hình dung một tam giác: server ở một góc, người cắt ở góc khác, bạn ở góc thứ ba. Giữa service box là trọng tâm của tam giác đó — cách đều mọi người, nhưng người cắt, gần nhất, tới đó trước. Toàn bộ nhiệm vụ của bạn trên cú này là đặt bóng vào trọng tâm đó.
 
@@ -131,11 +131,11 @@ Mẫu này: bạn đánh một slice approach sâu — cùng slice approach bạ
 
 Hãy nghĩ nó như một cuộc tấn công của mã trong cờ vua. Con mã ngồi ở lưng, thấy một khoảng trống, và nhảy vào tấn công. Bạn thấy một return ngắn, bạn xông lên lưới, và bạn gia nhập đồng đội trong một trận chiến lưới 2 chống 2. Rủi ro là có thật — một con mã xông lên có thể bị đổi — nhưng một cuộc xông lên thành công thường thắng điểm luôn. Ở tuổi 50+, đây là mẫu bước tiếp theo, không phải mặc định hàng ngày của bạn. Dẫn đầu với Return + Lob hoặc Return + 1 trước, và dùng mẫu này khi các điều kiện thực sự khớp.
 
-**Bốn điều kiện, tất cả cần đúng:** serve 2 đủ nhẹ để tấn công; bạn có thể đánh một slice sâu từ vị trí return gần vạch giao bóng; đồng đội ở lưới sẵn sàng chặn; và chân và vai bạn thực sự còn sức cho cú chuyển tiếp hôm nay. Cả bốn đúng, hãy làm. Một trong bốn sai, chọn mẫu khác.
+Bốn điều kiện, tất cả cần đúng: serve 2 đủ nhẹ để tấn công; bạn có thể đánh một slice sâu từ vị trí return gần vạch giao bóng; đồng đội ở lưới sẵn sàng chặn; và chân và vai bạn thực sự còn sức cho cú chuyển tiếp hôm nay. Cả bốn đúng, hãy làm. Một trong bốn sai, chọn mẫu khác.
 
-Đây là giới hạn 50+ thành thật của mẫu này: bản thân slice thân thiện với khớp — vung nhỏ, không tải vai. Cú chạy chuyển tiếp lên lưới mới là nơi rủi ro thực sự nằm. Dùng mẫu này một hai lần mỗi set, không phải mỗi điểm. Tim, gối, và lưng bạn sẽ cảm ơn sự kiềm chế đó.
+Đây là giới hạn 50+ thành thật của mẫu này: bản thân slice thân thiện với khớp — vung nhỏ, không tải vai. Cú chạy chuyển tiếp lên lưới mới là nơi rủi ro thực sự nằm. Dùng mẫu này một hai lần mỗi set, không phải mỗi điểm. Tim, gối, và lưng bạn cảm ơn sự kiềm chế đó.
 
-**Chuỗi động tác:** đánh một slice sâu với grip Continental và kỹ thuật slice quen thuộc — bóng qua lưới và rơi sâu. Side-shuffle 2-3 bước để tái cân bằng, cùng bước hồi phục từ bài slice approach thường của bạn. Sau đó chạy chéo lên lưới ở khoảng 70% — mượt mà, không tối đa. Đến nơi ở tư thế thấp, gối gập, trọng lượng dồn trước, và split-step ngay khoảnh khắc đối thủ tiếp xúc với cú trả của họ.
+Chuỗi động tác: đánh một slice sâu với grip Continental và kỹ thuật slice quen thuộc — bóng qua lưới và rơi sâu. Side-shuffle 2-3 bước để tái cân bằng, cùng bước hồi phục từ bài slice approach thường của bạn. Sau đó chạy chéo lên lưới ở khoảng 70% — mượt mà, không tối đa. Đến nơi ở tư thế thấp, gối gập, trọng lượng dồn trước, và split-step ngay khoảnh khắc đối thủ tiếp xúc với cú trả của họ.
 
 Toàn bộ chuyển tiếp mất khoảng 1-1.5 giây. Và quy tắc chạy 70% quan trọng ở đây đặc biệt vì tuổi tác của bạn: mượt mà đánh bại nhanh, và đó là cách thân thiện với khớp để rút ngắn cùng khoảng cách.
 
@@ -179,33 +179,33 @@ Hãy thành thật với bản thân về tỷ lệ ở đây: đây là mẫu g
 
 ## Năm Bài Tập Bạn Có Thể Làm Tuần Này
 
-**1. Bài tập cây quyết định (một mình, 3 phút mỗi ngày).** Đứng ở baseline. Nhờ ai đó gọi một trong bốn mẫu — "Lob!", "One!", "Approach!", hoặc "Two!" Nhiệm vụ của bạn là một bước theo hướng tương ứng: chân sau cho Lob, không di chuyển cho One (cú cắt xảy ra mà không cần bạn), tiến lên cho Approach, không di chuyển cho Two (bạn ở lại sau). Hai mươi lần, xáo trộn ngẫu nhiên. Bài này xây thói quen quyết định trước, vì ở trình độ của bạn, chọn sai mẫu — không phải đánh sai cú — là lỗi số một trong đôi.
+1. Bài tập cây quyết định (một mình, 3 phút mỗi ngày). Đứng ở baseline. Nhờ ai đó gọi một trong bốn mẫu — "Lob!", "One!", "Approach!", hoặc "Two!" Nhiệm vụ của bạn là một bước theo hướng tương ứng: chân sau cho Lob, không di chuyển cho One (cú cắt xảy ra mà không cần bạn), tiến lên cho Approach, không di chuyển cho Two (bạn ở lại sau). Hai mươi lần, xáo trộn ngẫu nhiên. Bài này xây thói quen quyết định trước, vì ở trình độ của bạn, chọn sai mẫu — không phải đánh sai cú — là lỗi số một trong đôi.
 
-**2. Bài tập Return + Lob bóng sống (với đồng đội, 10 phút).** đồng đội giao ở tốc độ serve 1. Mỗi return phải là một cú lob cao, sâu qua một người lưới tưởng tượng, theo sau bởi side-shuffle về giữa baseline. Nhắm tới 10 cú lob liên tiếp, rơi trong khoảng một mét từ baseline và qua một người lưới tưởng tượng đứng cách lưới một mét. Tín hiệu: "gãi lưng" trên backswing, "sâu vào góc" trên hướng nhắm.
+2. Bài tập Return + Lob bóng sống (với đồng đội, 10 phút). đồng đội giao ở tốc độ serve 1. Mỗi return phải là một cú lob cao, sâu qua một người lưới tưởng tượng, theo sau bởi side-shuffle về giữa baseline. Nhắm tới 10 cú lob liên tiếp, rơi trong khoảng một mét từ baseline và qua một người lưới tưởng tượng đứng cách lưới một mét. Tín hiệu: "gãi lưng" trên backswing, "sâu vào góc" trên hướng nhắm.
 
-**3. Bài tập Return + 1 trả giữa (với đồng đội, 10 phút).** Lần này ở tốc độ serve 2. Mỗi return đi xuôi giữa service box, theo sau bởi gọi "Poach!" và bước sang biên ngoài. Mười return liên tiếp rơi trong một phần ba giữa của box, tốc độ kiểm soát suốt. Tín hiệu: "điểm ngọt hình học" — giữa tam giác.
+3. Bài tập Return + 1 trả giữa (với đồng đội, 10 phút). Lần này ở tốc độ serve 2. Mỗi return đi xuôi giữa service box, theo sau bởi gọi "Poach!" và bước sang biên ngoài. Mười return liên tiếp rơi trong một phần ba giữa của box, tốc độ kiểm soát suốt. Tín hiệu: "điểm ngọt hình học" — giữa tam giác.
 
-**4. Bài tập Return + Approach slice-và-chạy (với đồng đội, 10 phút).** Tốc độ serve 2 nhẹ. Đánh slice approach sâu, sau đó chạy toàn bộ chuyển tiếp — side-shuffle, chạy 70%, split-step. Năm chuỗi hoàn chỉnh. Tín hiệu: "gãi lưng," "chạy 70%," "đến thấp."
+4. Bài tập Return + Approach slice-và-chạy (với đồng đội, 10 phút). Tốc độ serve 2 nhẹ. Đánh slice approach sâu, sau đó chạy toàn bộ chuyển tiếp — side-shuffle, chạy 70%, split-step. Năm chuỗi hoàn chỉnh. Tín hiệu: "gãi lưng," "chạy 70%," "đến thấp."
 
-**5. Rally khớp mẫu (với đồng đội, 15 phút).** Chơi những điểm đôi thật, nhưng gọi to mẫu bạn sẽ dùng trước mỗi return — "Lob!", "One!", "Approach!", hoặc "Two!" Sau mỗi điểm, thảo luận xem mẫu có thực sự phù hợp tình huống không, và liệu một mẫu khác có tốt hơn không. Mười điểm, dùng cả bốn mẫu ít nhất một lần. Đây là thứ xây phản xạ tình huống-tới-mẫu — sau đủ lần lặp, cơ thể bạn chỉ đơn giản biết: serve nhanh nghĩa là lob, serve nhẹ nghĩa là one, và cứ thế.
+5. Rally khớp mẫu (với đồng đội, 15 phút). Chơi những điểm đôi thật, nhưng gọi to mẫu bạn dùng trước mỗi return — "Lob!", "One!", "Approach!", hoặc "Two!" Sau mỗi điểm, thảo luận xem mẫu có thực sự phù hợp tình huống không, và liệu một mẫu khác có tốt hơn không. Mười điểm, dùng cả bốn mẫu ít nhất một lần. Đây là thứ xây phản xạ tình huống-tới-mẫu — sau đủ lần lặp, cơ thể bạn chỉ đơn giản biết: serve nhanh nghĩa là lob, serve nhẹ nghĩa là one, và cứ thế.
 
 ## Những Tín Hiệu Đáng Nhớ
 
-- **"Đọc trước, trả sau"** — thấy tốc độ serve, thấy vị trí người lưới, quyết định mẫu, trước khi vung vợt
-- **"Serve 1 = Lob"** — mặc định của bạn chống lại bất cứ thứ gì nhanh
-- **"Serve 2 = One"** — mặc định thông minh của bạn bất cứ khi nào đồng đội sẵn sàng ở lưới
-- **"Nhẹ + ngắn = Approach"** — mẫu bước tiếp theo, khi điều kiện thực sự khớp
-- **"Serve 2 yếu = Two"** — dành cho người can đảm, và chỉ trên serve yếu nhất
-- **"Giữa là khoảng trống"** — xuôi giữa 60% thời gian trong đôi, không chéo sân
-- **"Gãi lưng"** — backswing cao tạo vòng cung cho lob
-- **"Điểm ngọt hình học"** — trọng tâm của tam giác, cho Return + 1
-- **"Chạy 70%"** — không bao giờ 100% trên chuyển tiếp
-- **"Cơ thể nói không"** — lob thay, luôn luôn, không ngoại lệ
-- **"Nói với đồng đội"** — "Poach!", "Mine!", "Yours!" — mỗi điểm
-- **"Che biên ngoài"** — nhiệm vụ của bạn bất cứ khi nào đồng đội cắt
-- **"Cả hai ở sau cũng ổn"** — reset về baseline sau lob không phải là thua
-- **"Sống sót trước, tỏa sáng sau"** — mẫu đến trước; vị trí đến sau
-- **"Reset đôi khi đánh bại áp lực"** — lob reset điểm; one gây áp lực — biết cái nào bạn cần
+- "Đọc trước, trả sau" — thấy tốc độ serve, thấy vị trí người lưới, quyết định mẫu, trước khi vung vợt
+- "Serve 1 = Lob" — mặc định của bạn chống lại bất cứ thứ gì nhanh
+- "Serve 2 = One" — mặc định thông minh của bạn bất cứ khi nào đồng đội sẵn sàng ở lưới
+- "Nhẹ + ngắn = Approach" — mẫu bước tiếp theo, khi điều kiện thực sự khớp
+- "Serve 2 yếu = Two" — dành cho người can đảm, và chỉ trên serve yếu nhất
+- "Giữa là khoảng trống" — xuôi giữa 60% thời gian trong đôi, không chéo sân
+- "Gãi lưng" — backswing cao tạo vòng cung cho lob
+- "Điểm ngọt hình học" — trọng tâm của tam giác, cho Return + 1
+- "Chạy 70%" — không bao giờ 100% trên chuyển tiếp
+- "Cơ thể nói không" — lob thay, luôn luôn, không ngoại lệ
+- "Nói với đồng đội" — "Poach!", "Mine!", "Yours!" — mỗi điểm
+- "Che biên ngoài" — nhiệm vụ của bạn bất cứ khi nào đồng đội cắt
+- "Cả hai ở sau cũng ổn" — reset về baseline sau lob không phải là thua
+- "Sống sót trước, tỏa sáng sau" — mẫu đến trước; vị trí đến sau
+- "Reset đôi khi đánh bại áp lực" — lob reset điểm; one gây áp lực — biết cái nào bạn cần
 
 ## Bảy Sai Lầm Tốn Điểm Nhất
 
@@ -235,12 +235,12 @@ Và nếu bạn chỉ nhớ một quy tắc từ tất cả những điều này
 
 ## Sợi Chỉ Thái Cực Xuyên Suốt Bốn Mẫu
 
-- **Return + Lob là *Lã Kình* (捋勁) — lực nhu thuận.** Bạn nhu thuận với cú serve nhanh và chuyển hướng nó cao, qua người lưới, thay vì đối đầu bằng lực.
-- **Return + 1 là *Tương Hỗ* (相助) — hỗ trợ lẫn nhau.** Bạn chuyền tay cho người cắt; hai cơ thể hoạt động như một.
-- **Return + Approach là *Hợp Nhất* (合一) — sự hợp nhất.** Cả hai đấu thủ trở thành một đội với hai vợt ở lưới.
-- **Return + Lob cũng là *Tỉnh Kình* (靜勁) — lực tĩnh.** Tốc độ vợt tối thiểu, vòng cung tối đa — lob là sức mạnh qua sự tĩnh lặng, không phải nỗ lực.
-- **Hồi phục của Return + Lob là *Hoàn Thủ* (還手) — trở về trung tâm.** Về lại baseline, về nhà.
-- **Grip nhẹ của Return + 1 là *Phóng Tùng* (放鬆) — buông bỏ căng thẳng.** Một grip thả lỏng, một cú vung thả lỏng — người cắt làm phần kết liễu, không phải bạn.
+- **Return + Lob là *Lã Kình* (捋勁) — lực nhu thuận. Bạn nhu thuận với cú serve nhanh và chuyển hướng nó cao, qua người lưới, thay vì đối đầu bằng lực.
+- Return + 1 là *Tương Hỗ* (相助) — hỗ trợ lẫn nhau. Bạn chuyền tay cho người cắt; hai cơ thể hoạt động như một.
+- Return + Approach là *Hợp Nhất* (合一) — sự hợp nhất. Cả hai đấu thủ trở thành một đội với hai vợt ở lưới.
+- Return + Lob cũng là *Tỉnh Kình* (靜勁) — lực tĩnh. Tốc độ vợt tối thiểu, vòng cung tối đa — lob là sức mạnh qua sự tĩnh lặng, không phải nỗ lực.
+- Hồi phục của Return + Lob là *Hoàn Thủ* (還手) — trở về trung tâm. Về lại baseline, về nhà.
+- Grip nhẹ của Return + 1 là *Phóng Tùng* (放鬆) — buông bỏ căng thẳng.** Một grip thả lỏng, một cú vung thả lỏng — người cắt làm phần kết liễu, không phải bạn.
 
 ## Danh Sách Kiểm Tra Trước Mỗi Cú Trả Đôi
 
@@ -356,4 +356,4 @@ HỒI PHỤC (ngay sau đó):
 
 Trong đôi, return chưa bao giờ là một cú sinh tồn. Đó là một cú setup — bốn cách setup khác nhau cho bốn tình huống khác nhau. Ở tuổi 50+, câu trả lời mặc định của bạn, 80% thời gian trên serve 1 và một nửa thời gian trên serve 2, là Return + Lob. Đó không phải chơi an toàn. Đó là chơi thông minh. Đó là cách bạn vẫn chơi đôi ở tuổi 65.
 
-Bắt đầu tuần này với bài tập cây quyết định, ba phút mỗi ngày — đó là nền tảng mà mọi quyết định khác đứng trên đó. Thêm bài tập Return + Lob bóng sống tiếp theo, mười phút, xây dựng mặc định 50+ của bạn. Cho nó bốn tuần và bạn sẽ chọn đúng mẫu cho đúng thời điểm mà không cần phải suy nghĩ.
+Bắt đầu tuần này với bài tập cây quyết định, ba phút mỗi ngày — đó là nền tảng mà mọi quyết định khác đứng trên đó. Thêm bài tập Return + Lob bóng sống tiếp theo, mười phút, xây dựng mặc định 50+ của bạn. Cho nó bốn tuần và bạn chọn đúng mẫu cho đúng thời điểm mà không cần phải suy nghĩ.

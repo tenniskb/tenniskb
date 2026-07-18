@@ -26,7 +26,7 @@ Here's the tennis result: when your fascia is healthy and elastic, force from th
 
 Don't fight the web. Restore its elasticity.
 
-**If you're 50+:** fascia dehydrates and tightens naturally with age. Without countermeasures, you'll lose 10–20% of your force-transmission efficiency per decade. The fix is daily rolling and weekly stretching — not heavier weights.
+If you're 50+: fascia dehydrates and tightens naturally with age. Without countermeasures, you'll lose 10–20% of your force-transmission efficiency per decade. The fix is daily rolling and weekly stretching — not heavier weights.
 
 ---
 
@@ -34,12 +34,12 @@ Don't fight the web. Restore its elasticity.
 
 Think of your trunk as a tensegrity mast. The spine is the central compression column. The fascia lines — back line, front line, lateral lines, spiral lines — are the tension cables. Your arms hang from the cables. Your legs hang from the cables. The whole structure stays upright through *balanced tension*, not through muscular effort.
 
-There are four main tension lines worth knowing:
+You've got four main tension lines worth knowing:
 
-- **Back Line (superficial):** plantar fascia → calves → hamstrings → sacrotuberous ligament → spinal erectors → suboccipitals → top of head.
-- **Front Line (superficial):** anterior tibialis → quads → rectus abdominis → sternalis → chest.
-- **Lateral Line:** peroneals → IT band → TFL and glute medius → quadratus lumborum → intercostals → SCM → skull.
-- **Spiral Line:** covered in more depth in a separate deep-dive on fascia spirals.
+- Back Line (superficial): plantar fascia → calves → hamstrings → sacrotuberous ligament → spinal erectors → suboccipitals → top of head.
+- Front Line (superficial): anterior tibialis → quads → rectus abdominis → sternalis → chest.
+- Lateral Line: peroneals → IT band → TFL and glute medius → quadratus lumborum → intercostals → SCM → skull.
+- Spiral Line: covered in more depth in a separate deep-dive on fascia spirals.
 
 Here's the translation to your serve: as you arch backward into the trophy pose, the back line stretches. Then it recoils — the front line releases that stored energy as you explode forward into the ball. Both lines fire in sequence, like a bow and its bowstring.
 
@@ -47,7 +47,7 @@ Seen through a tensegrity lens, your serve has four phases: the back line stretc
 
 Load the bow, brace the string, fire both.
 
-**If you're 50+:** your back line loses elasticity first, and the trophy pose starts to feel "tight." Counter it with daily cat-cow and a standing backbend against a wall. Restoring back-line elasticity alone can add 5–10 mph to your serve speed — no strength training required.
+If you're 50+: your back line loses elasticity first, and the trophy pose starts to feel "tight." Counter it with daily cat-cow and a standing backbend against a wall. Restoring back-line elasticity alone can add 5–10 mph to your serve speed — no strength training required.
 
 ---
 
@@ -55,11 +55,11 @@ Load the bow, brace the string, fire both.
 
 Your body runs on three different "tones," and you need to learn to switch between them. Most amateur players live in just one — the supportive tone — and never access the other two.
 
-**Tone 1, the supportive tone,** is your frame. Your core, legs, and shoulder blades stay stable and firm, though not rigid. They hold you up. They give the other tones a base to fire from.
+Tone 1, the supportive tone, is your frame. Your core, legs, and shoulder blades stay stable and firm, though not rigid. They hold you up. They give the other tones a base to fire from.
 
-**Tone 2, the elastic tone,** is your spring. Your muscles and tendons go springy and ready to release — think of a coiled spring storing energy between phases, from backswing into forward swing.
+Tone 2, the elastic tone, is your spring. Your muscles and tendons go springy and ready to release — think of a coiled spring storing energy between phases, from backswing into forward swing.
 
-**Tone 3, the expressive tone,** is your strike. It's a brief moment of firmness at the exact instant of contact — a quick "punch" of energy. Then you relax again immediately.
+Tone 3, the expressive tone, is your strike. It's a brief moment of firmness at the exact instant of contact — a quick "punch" of energy. Then you relax again immediately.
 
 The rhythm is soft, soft, PUNCH, relax. You spend most of the swing in tones 1 and 2 — supportive and elastic. Tone 3 shows up only at contact, then you're straight back to supportive and elastic.
 
@@ -67,7 +67,7 @@ The common mistake is staying in supportive tone the whole time. The body feels 
 
 Soft-soft-PUNCH-relax.
 
-**If you're 50+:** your expressive-tone window narrows as your twitch fibers slow down, so you can't rely on long bursts of force anymore. Train the elastic recoil instead — it fires faster than a muscle contraction ever will.
+If you're 50+: your expressive-tone window narrows as your twitch fibers slow down, so you can't rely on long bursts of force anymore. Train the elastic recoil instead — it fires faster than a muscle contraction ever will.
 
 ---
 
@@ -83,7 +83,7 @@ Timing matters here too. The muscle should contract *eccentrically* — lengthen
 
 Don't be the engine. Be the release valve.
 
-**If you're 50+:** eccentric loading matters more than concentric now. The loading phase of every stretch-shortening cycle is what keeps your tendons and fascia healthy, and eccentric exercise — slow descents, controlled lowering — is also your best defense against tendon injury.
+If you're 50+: eccentric loading matters more than concentric now. The loading phase of every stretch-shortening cycle is what keeps your tendons and fascia healthy, and eccentric exercise — slow descents, controlled lowering — is also your best defense against tendon injury.
 
 ---
 
@@ -105,7 +105,7 @@ Here's the trade-off you're actually making: you'll test about 10% weaker on pur
 
 Strength ages out. Elasticity ages well.
 
-**If you're 50+:** fascia has very few pain receptors, so it loses elasticity silently — you won't feel it until something tears. The 7-day rolling protocol is prevention, not cure. Start before the tear, not after.
+If you're 50+: fascia has very few pain receptors, so it loses elasticity silently — you won't feel it until something tears. The 7-day rolling protocol is prevention, not cure. Start before the tear, not after.
 
 ---
 

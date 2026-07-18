@@ -4,9 +4,9 @@
 
 ## Tại Sao Bắt đầu Từ Đây?
 
-Tài liệu nền tảng bao gồm những nguyên tắc cơ bản không thể thương lượng: grip, tư thế, di chuyển chân, hình dạng cú đánh cơ bản, trả giao bóng, vị trí đánh đôi, tâm lý thi đấu. Đây không phải là "chủ đề cho người mới" mà bạn sẽ tốt nghiệp — đó là nền đất bạn đứng trên đó cho mọi thứ tiếp theo.
+Tài liệu nền tảng bao gồm những nguyên tắc cơ bản không thể thương lượng: grip, tư thế, di chuyển chân, hình dạng cú đánh cơ bản, trả giao bóng, vị trí đánh đôi, tâm lý thi đấu. Đây không phải là "chủ đề cho người mới" mà bạn tốt nghiệp — đó là nền đất bạn đứng trên đó cho mọi thứ tiếp theo.
 
-Tôi thường được hỏi: *"Tôi đã chơi 10 năm rồi, tôi có cần xem lại những điều cơ bản không?"* Câu trả lời luôn là có. Không phải vì bạn đang làm sai, mà vì những điều cơ bản có nhiều lớp. Những gì bạn không cảm nhận được năm ngoái, bây giờ bạn cảm nhận rõ ràng. Những gì bạn cảm nhận được bây giờ, năm sau bạn sẽ cảm nhận khác đi.
+Tôi thường được hỏi: *"Tôi đã chơi 10 năm rồi, tôi có cần xem lại những điều cơ bản không?"* Câu trả lời luôn là có. Không phải vì bạn đang làm sai, mà vì những điều cơ bản có nhiều lớp. Những gì bạn không cảm nhận được năm ngoái, bây giờ bạn cảm nhận rõ ràng. Những gì bạn cảm nhận được bây giờ, năm sau bạn cảm nhận khác đi.
 
 ## Nội Dung Trong Phần Này
 
@@ -30,7 +30,7 @@ Khám phá chi tiết các chủ đề nền tảng cụ thể:
 
 ## Cách Tiếp Cận Tài Liệu Này
 
-1. **Bắt đầu với phần Cơ Bản theo thứ tự.** Grip → Di chuyển chân → Forehand → Backhand. Mỗi cái xây trên cái trước.
-2. **Sau đó chuyển sang Serve và Trả Giao Bóng.** Đây là những cú đánh quyết định trận đấu trước khi trận đấu bắt đầu.
-3. **Rồi đến pattern đánh đôi và Tâm Lý Thi Đấu.** Đây là những cú đánh quyết định trận đấu sau khi thể lực cân bằng.
-4. **Chuyên Sâu là tài liệu tham khảo.** Quay lại khi có câu hỏi cụ thể, hoặc khi bạn muốn hiểu *tại sao* một kỹ thuật cụ thể có hiệu quả.
+1. Bắt đầu với phần Cơ Bản theo thứ tự. Grip → Di chuyển chân → Forehand → Backhand. Mỗi cái xây trên cái trước.
+2. Sau đó chuyển sang Serve và Trả Giao Bóng. Đây là những cú đánh quyết định trận đấu trước khi trận đấu bắt đầu.
+3. Rồi đến pattern đánh đôi và Tâm Lý Thi Đấu. Đây là những cú đánh quyết định trận đấu sau khi thể lực cân bằng.
+4. Chuyên Sâu là tài liệu tham khảo. Quay lại khi có câu hỏi cụ thể, hoặc khi bạn muốn hiểu *tại sao* một kỹ thuật cụ thể có hiệu quả.

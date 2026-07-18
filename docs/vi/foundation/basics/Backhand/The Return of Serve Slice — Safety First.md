@@ -1,6 +1,6 @@
 # Slice Trả Giao Bóng — An Toàn Trên Hết
 
-Một cú serve mạnh ở trình độ này thực ra là về tốc độ và spin làm một việc: phá nhịp bạn. Cố vung mạnh trả lại bằng topspin và bạn sẽ chủ yếu tìm thấy lỗi, không phải winner. Slice trả giao bóng là công cụ đổi hướng của bạn thay vào đó. Và đây là sự thật thành thật ở tuổi 50+: bạn không cần làm anh hùng ở cú đánh này. Một cú slice sâu, tốc độ chậm rơi giữa service box thắng một "nỗ lực winner" vào lưới mười trên mười lần.
+Một cú serve mạnh ở trình độ này thực ra là về tốc độ và spin làm một việc: phá nhịp bạn. Cố vung mạnh trả lại bằng topspin và bạn chủ yếu tìm thấy lỗi, không phải winner. Slice trả giao bóng là công cụ đổi hướng của bạn thay vào đó. Và đây là sự thật thành thật ở tuổi 50+: bạn không cần làm anh hùng ở cú đánh này. Một cú slice sâu, tốc độ chậm rơi giữa service box thắng một "nỗ lực winner" vào lưới mười trên mười lần.
 
 ## Kỹ Thuật: Chặn và Đổi Hướng
 

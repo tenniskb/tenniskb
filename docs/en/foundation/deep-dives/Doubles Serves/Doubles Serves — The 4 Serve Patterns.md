@@ -22,7 +22,7 @@ The common mistake at this level: treating the doubles serve like a singles serv
 
 | # | Pattern | What it is | When | Your 50+ default? |
 |---|---|---|---|---|
-| 1 | Serve Wide | Slice to the backhand corner, pulls the returner off court | First serve, returner's backhand is the weaker wing | **Yes — this is your default** |
+| 1 | Serve Wide | Slice to the backhand corner, pulls the returner off court | First serve, returner's backhand is the weaker wing | Yes — This your default |
 | 2 | Serve to the T | Down the middle, forces the returner to hit up into the poacher | You want the poach to happen | Smart option |
 | 3 | Serve to the Body | Jams the returner at the torso | Returner's crowding the sideline | Underused weapon |
 | 4 | Serve + Volley | You serve, then follow it in to the net yourself | No partner, or the returning team's poach is weak | For the brave |
@@ -47,17 +47,17 @@ What's new here isn't the swing — it's the strategy: where you aim, when you r
 
 ## Serve Wide: Your 3.5 Default
 
-This is your bread-and-butter doubles serve and your 50+ insurance policy. Slice the ball into the returner's backhand corner, and three things happen in sequence: the returner gets pulled wide off the court and has to run it down; their return comes back defensive and loopy, floating into the middle with no pace on it; and your poacher gets a hittable ball right in their strike zone.
+This your bread-and-butter doubles serve and your 50+ insurance policy. Slice the ball into the returner's backhand corner, and three things happen in sequence: the returner gets pulled wide off the court and has to run it down; their return comes back defensive and loopy, floating into the middle with no pace on it; and your poacher gets a hittable ball right in their strike zone.
 
-This is a trap, not an ace attempt. You're not trying to win the point on the serve itself — you're pulling the returner off the court so your poacher can finish things on the next shot. Don't try to win the point on the serve. Win it on the shot after.
+This a trap, not an ace attempt. You're not trying to win the point on the serve itself — you're pulling the returner off the court so your poacher can finish things on the next shot. Don't try to win the point on the serve. Win it on the shot after.
 
-**Where to aim:** the deuce corner of the service box (for a right-hander serving to the ad court) — specifically 2-3 feet inside the singles sideline and 2-3 feet inside the baseline. Think of it as a foot-wide window, not a pinpoint. And why the backhand specifically? Most returners at this level have a weaker backhand return than forehand, so the wide slice exploits that weakness while also pulling them physically off the court. Either they hit a defensive backhand, or a cross-court forehand that floats into the middle — and either way, your poacher wins.
+Where to aim: the deuce corner of the service box (for a right-hander serving to the ad court) — specifically 2-3 feet inside the singles sideline and 2-3 feet inside the baseline. Think of it as a foot-wide window, not a pinpoint. And why the backhand specifically? Most returners at this level have a weaker backhand return than forehand, so the wide slice exploits that weakness while also pulling them physically off the court. Either they hit a defensive backhand, or a cross-court forehand that floats into the middle — and either way, your poacher wins.
 
-**How to hit it:** three specifics separate this from a flat serve. Contact happens on the right side of the ball (for a right-hander serving to the ad court) — the racket brushes that side and the ball curves left. Toss the ball slightly right of center, about a foot, so it meets your racket on its right side. And pronate through contact as usual, but with contact on the side of the ball rather than the back. This isn't a slower serve — it travels at similar speed to a flat serve, just with curve added. Power sits at 70-80% of your max; this is a controlled serve, not a max-effort one, and control matters more than pace here.
+How to hit it: three specifics separate this from a flat serve. Contact happens on the right side of the ball (for a right-hander serving to the ad court) — the racket brushes that side and the ball curves left. Toss the ball slightly right of center, about a foot, so it meets your racket on its right side. And pronate through contact as usual, but with contact on the side of the ball rather than the back. Thisn't a slower serve — it travels at similar speed to a flat serve, just with curve added. Power sits at 70-80% of your max; This a controlled serve, not a max-effort one, and control matters more than pace here.
 
 Picture the ball as a clock face from above. For a right-hander serving to the ad court, contact happens around 3 o'clock — the racket brushes from about 7 o'clock across to 3 o'clock, a diagonal path across the right side of the ball. That brush is what spins the ball left. That's your slice.
 
-**Coordinating with your poacher:** this is a team shot, full stop. Before the serve, call "Poach!" or "Mine!" so your partner knows the ball's headed wide and they should be watching the middle. The instant the returner makes contact, call "Now!" or "Go!" as the signal to pounce. Afterward, if the poach connects, you stay put — you're already in position; if it doesn't, you cover the alley.
+Coordinating with your poacher: This a team shot, full stop. Before the serve, call "Poach!" or "Mine!" so your partner knows the ball's headed wide and they should be watching the middle. The instant the returner makes contact, call "Now!" or "Go!" as the signal to pounce. Afterward, if the poach connects, you stay put — you're already in position; if it doesn't, you cover the alley.
 
 If hearing's an issue at this age, hand signals work just as well and remove the guesswork entirely: a fist behind the back means "I'm poaching," an open hand means "stay." Silent, visible, and reliable regardless of wind or crowd noise.
 
@@ -75,17 +75,17 @@ If hearing's an issue at this age, hand signals work just as well and remove the
 
 ## Serve to the T: Your Safest Target
 
-This is the safest serve in doubles, and it works by forcing the returner to hit *up* — right into your poacher's wheelhouse.
+This the safest serve in doubles, and it works by forcing the returner to hit *up* — right into your poacher's wheelhouse.
 
 Three reasons this target is so safe: it's the shortest path to the service line, so the ball arrives fast and the returner has less time to react. It forces a return that goes up, because the serve itself needs a high arc to clear the net from that angle, and a ball hit up is a ball your poacher can hit down. And it jams the returner centrally, forcing a quick forehand-or-backhand decision where either choice tends to be defensive.
 
 Picture it as a ceiling press: the ball goes up at the returner because of the high arc, their return has to go up again because they're jammed centrally, and your poacher is waiting right at the bottom of that arc. The geometry alone nearly guarantees the poach.
 
-**When to reach for it:** your poacher's ready at the net (fist signal), the returner tends to go cross-court most of the time, they're crowding the sideline expecting something wide, or you just need a high-percentage safety serve on a big point. All four line up, and the T is your smart call.
+When to reach for it: your poacher's ready at the net (fist signal), the returner tends to go cross-court most of the time, they're crowding the sideline expecting something wide, or you just need a high-percentage safety serve on a big point. All four line up, and the T is your smart call.
 
-**Where to aim:** the center service line, about a foot inside it — on the deuce side of center if you're serving to the ad court, or the ad side if serving to the deuce court. Again, think window rather than pinpoint. The arc here runs higher than your wide serve because the ball's closer to the net and needs a steeper angle to clear it — that high arc is exactly what forces the return upward. It's a feature, not something to flatten out.
+Where to aim: the center service line, about a foot inside it — on the deuce side of center if you're serving to the ad court, or the ad side if serving to the deuce court. Again, think window rather than pinpoint. The arc here runs higher than your wide serve because the ball's closer to the net and needs a steeper angle to clear it — that high arc is exactly what forces the return upward. It's a feature, not something to flatten out.
 
-**Mechanics:** this one works either flat or sliced. Flat gives you max power at around 90% and higher risk with higher reward. Slice runs 70-80% power with extra curve, lower risk with slightly less reward. Lead with the slice T at your age — save the flat T for the genuinely big points, like 5-4 in a tiebreak. The toss differs from your wide serve too: aim it about a foot left of center so the ball meets the racket on its left side, closing the face over the top of the ball.
+Mechanics: this one works either flat or sliced. Flat gives you max power at around 90% and higher risk with higher reward. Slice runs 70-80% power with extra curve, lower risk with slightly less reward. Lead with the slice T at your age — save the flat T for the genuinely big points, like 5-4 in a tiebreak. The toss differs from your wide serve too: aim it about a foot left of center so the ball meets the racket on its left side, closing the face over the top of the ball.
 
 The toss really is the steering wheel here. Toss right and you get a slice curving wide. Toss center and you get a flat ball down the middle. Toss left and you get kick, curving up and to that side. If you can't control where the toss lands, you can't control where the serve goes.
 
@@ -103,17 +103,17 @@ The toss really is the steering wheel here. Toss right and you get a slice curvi
 
 ## Serve to the Body: The Underused Weapon
 
-This is the most underused serve at this level — most players only know wide and T, and never develop the body serve at all. It's genuinely devastating once you have it, because a jammed returner can't extend their arms to swing, which usually means a half-volley or a block. That return comes back as a slow floater, giving your poacher all the time in the world. The returner's stuck in a defensive position from the moment contact happens, and the point is functionally yours.
+This the most underused serve at this level — most players only know wide and T, and never develop the body serve at all. It's genuinely devastating once you have it, because a jammed returner can't extend their arms to swing, which usually means a half-volley or a block. That return comes back as a slow floater, giving your poacher all the time in the world. The returner's stuck in a defensive position from the moment contact happens, and the point is functionally yours.
 
 It's harder to execute than the other two — the toss has to be precise and contact has to land squarely at the body — which is why it's a "for the brave" pattern at this level. But it's worth learning once your wide and T serves feel automatic.
 
 Think of it as a jamming shot. The returner's arms get pinned to their own body, their swing shrinks down to nothing, and their return floats. It's about as close to a guaranteed poach as doubles offers.
 
-**When to use it:** the returner's crowding the sideline expecting something wide; they've got a big swing and want to attack; your poacher's set up for a put-away; or the wind's making your wide serve unpredictable and the T feels too obvious. All four together, and the body serve is your anti-prediction move.
+When to use it: the returner's crowding the sideline expecting something wide; they've got a big swing and want to attack; your poacher's set up for a put-away; or the wind's making your wide serve unpredictable and the T feels too obvious. All four together, and the body serve is your anti-prediction move.
 
 Most returners at this level position themselves 2-3 feet from the sideline, bracing for a wide serve. A body serve catches them exactly where they're not braced — no swing, no attack, just a slow float back. Your poacher wins.
 
-**Where to aim:** 1-2 feet inside the center service line — the opposite side from the T — landing at the returner's torso height, belly-button to chest. The margin here is tighter than the other two serves; if the ball sails past the returner instead of catching their body, it's simply a fault. That tighter margin is exactly why players tend to fault more often on this serve when they first try it — lead with wide, add the T, and bring in the body serve only once those two feel automatic.
+Where to aim: 1-2 feet inside the center service line — the opposite side from the T — landing at the returner's torso height, belly-button to chest. The margin here is tighter than the other two serves; if the ball sails past the returner instead of catching their body, it's simply a fault. That tighter margin is exactly why players tend to fault more often on this serve when they first try it — lead with wide, add the T, and bring in the body serve only once those two feel automatic.
 
 | Aspect | Serve to the Body |
 |---|---|
@@ -130,7 +130,7 @@ Most returners at this level position themselves 2-3 feet from the sideline, bra
 
 ## Serve + Volley: The Offensive Option, for the Brave
 
-This is the most aggressive of the four — you serve, then follow it to the net yourself, becoming both server and poacher in one.
+This the most aggressive of the four — you serve, then follow it to the net yourself, becoming both server and poacher in one.
 
 It's worth reaching for when you don't have a partner poaching for you, when the returner's return is genuinely weak, or simply when your body wants a change of pace. The sequence: serve (usually the wide slice, your default), split-step the instant the returner makes contact, then sprint to the net at about 70% — not full speed, to protect your knees — arrive, split-step again, and volley.
 
@@ -149,33 +149,33 @@ The honest limit here is the sprint itself. The serve is joint-friendly on its o
 
 ## Five Drills You Can Run This Week
 
-**1. Aim-only practice (solo, 5 minutes a day).** Set up three cones or towels at your three serve targets — the wide deuce corner, the center service line a foot inside it, and 1-2 feet inside the center line at body height. Hit 10 serves at each target, aiming for 7 out of 10 landing inside the window.
+1. Aim-only practice (solo, 5 minutes a day). Set up three cones or towels at your three serve targets — the wide deuce corner, the center service line a foot inside it, and 1-2 feet inside the center line at body height. Hit 10 serves at each target, aiming for 7 out of 10 landing inside the window.
 
-**2. Slice versus flat (solo, 5 minutes a day).** Hit 10 flat serves at the wide corner, then 10 slice serves at the same target. Notice the difference — the flat travels straight and fast before dropping, with less margin for error, while the slice curves and dips, landing near the returner's feet with a much bigger margin. At your age, the slice is the smarter everyday choice.
+2. Slice versus flat (solo, 5 minutes a day). Hit 10 flat serves at the wide corner, then 10 slice serves at the same target. Notice the difference — the flat travels straight and fast before dropping, with less margin for error, while the slice curves and dips, landing near the returner's feet with a much bigger margin. At your age, the slice is the smarter everyday choice.
 
-**3. Call the poach (with a partner, 10 minutes).** You serve while your partner stands at net, showing a hand signal before every serve — fist for "I'm poaching," open hand for "stay," a point toward the alley for "cover the alley." You read the signal and serve to whichever target matches it. Aim for 20 serves with correct signal-reading on at least 18 of them.
+3. Call the poach (with a partner, 10 minutes). You serve while your partner stands at net, showing a hand signal before every serve — fist for "I'm poaching," open hand for "stay," a point toward the alley for "cover the alley." You read the signal and serve to whichever target matches it. Aim for 20 serves with correct signal-reading on at least 18 of them.
 
-**4. The four-patterns rotation (with a partner, 15 minutes).** Play a practice set where your partner calls out which of the four patterns to use each service game — Wide, T, Body, or +Volley — and you execute it. Play four games, one of each pattern, and talk afterward about whether the pattern worked, whether the poach connected, and what you'd change.
+4. The four-patterns rotation (with a partner, 15 minutes). Play a practice set where your partner calls out which of the four patterns to use each service game — Wide, T, Body, or +Volley — and you execute it. Play four games, one of each pattern, and talk afterward about whether the pattern worked, whether the poach connected, and what you'd change.
 
-**5. Toss-direction practice (solo, 3 minutes a day).** Toss 10 balls at each of three positions without hitting them — a foot right of center for the wide slice, dead center for the flat T, and a foot left of center for kick or the slice T. Let them bounce; this is toss-only work. Aim for 30 tosses landing in the correct zone.
+5. Toss-direction practice (solo, 3 minutes a day). Toss 10 balls at each of three positions without hitting them — a foot right of center for the wide slice, dead center for the flat T, and a foot left of center for kick or the slice T. Let them bounce; This toss-only work. Aim for 30 tosses landing in the correct zone.
 
 ## The Cues Worth Remembering
 
-- **"Slice is the default"** — roughly 80% of your serves, with flat or kick making up the rest
-- **"Toss is the steering wheel"** — where you toss controls where the serve goes
-- **"Aim before you toss"** — pick your target first, every single time
-- **"70-80% power"** — the smart doubles serve is never max effort
-- **"Hand signal before serve"** — fist for poach, open hand for stay
-- **"Call 'Now!' at contact"** — your go signal to the poacher, the instant the returner makes contact
-- **"Deuce corner for wide"** — your target for the wide serve
-- **"Center line for T"** — a foot inside the service line, dead center
-- **"1-2 feet inside center for body"** — aimed straight at the returner's torso
-- **"Same serve under pressure"** — hit the serve you trust, even at 5-4 in the tiebreak
-- **"Continental, always"** — the same grip for every pattern
-- **"Trophy: elbow up, racket above"** — palm on its edge, never like a waiter's tray
-- **"Pronation, not wrist snap"** — the forearm does the rotating, not the wrist
-- **"70% sprint for Serve + Volley"** — protect the knees, protect the heart
-- **"Survive, then shine"** — getting the serve in comes first; placement is secondary
+- "Slice is the default" — roughly 80% of your serves, with flat or kick making up the rest
+- "Toss is the steering wheel" — where you toss controls where the serve goes
+- "Aim before you toss" — pick your target first, every single time
+- "70-80% power" — the smart doubles serve is never max effort
+- "Hand signal before serve" — fist for poach, open hand for stay
+- "Call 'Now!' at contact" — your go signal to the poacher, the instant the returner makes contact
+- "Deuce corner for wide" — your target for the wide serve
+- "Center line for T" — a foot inside the service line, dead center
+- "1-2 feet inside center for body" — aimed straight at the returner's torso
+- "Same serve under pressure" — hit the serve you trust, even at 5-4 in the tiebreak
+- "Continental, always" — the same grip for every pattern
+- "Trophy: elbow up, racket above" — palm on its edge, never like a waiter's tray
+- "Pronation, not wrist snap" — the forearm does the rotating, not the wrist
+- "70% sprint for Serve + Volley" — protect the knees, protect the heart
+- "Survive, then shine" — getting the serve in comes first; placement is secondary
 
 ## The Seven Mistakes That Cost You Points
 
@@ -205,12 +205,12 @@ If you keep only one rule from all of this: the slice serve is your 50+ doubles 
 
 ## The Taichi Thread Through All Four Patterns
 
-- **The serve itself is *Lã Kình* (捋勁) — yielding force.** You yield to the situation and redirect the returner through placement, rather than overpowering them.
-- **The serve-and-poach combination is *Tương Hỗ* (相助) — mutual support.** Server and poacher move as one organism in two bodies.
-- **The hand signal is *Hợp Nhất* (合一) — unification.** Silent coordination, the team acting as one.
-- **The 70% power is *Tỉnh Kình* (靜勁) — quiet power.** Minimum effort, maximum placement — the slice is strength through stillness.
-- **The reset after your serve is *Hoàn Thủ* (還手) — returning to center.** Back to ready position, watching for what comes next.
-- **The loose grip is *Phóng Tùng* (放鬆) — releasing tension.** Continental grip plus a soft hand means a relaxed arm, and a relaxed arm means free pronation.
+- **The serve itself is *Lã Kình* (捋勁) — yielding force. You yield to the situation and redirect the returner through placement, rather than overpowering them.
+- The serve-and-poach combination is *Tương Hỗ* (相助) — mutual support. Server and poacher move as one organism in two bodies.
+- The hand signal is *Hợp Nhất* (合一) — unification. Silent coordination, the team acting as one.
+- The 70% power is *Tỉnh Kình* (靜勁) — quiet power. Minimum effort, maximum placement — the slice is strength through stillness.
+- The reset after your serve is *Hoàn Thủ* (還手) — returning to center. Back to ready position, watching for what comes next.
+- The loose grip is *Phóng Tùng* (放鬆) — releasing tension.** Continental grip plus a soft hand means a relaxed arm, and a relaxed arm means free pronation.
 
 ## Checklist Before Every Doubles Serve
 

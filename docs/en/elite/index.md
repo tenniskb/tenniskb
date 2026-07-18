@@ -2,7 +2,7 @@
 
 The deepest level. Reserved for the questions that only surface after years of practice.
 
-## What This Is
+## What This
 
 The Elite Level is for the player who has been doing the work for a long time. The strokes are functional. The biomechanics are understood. The patterns are automatic. What remains is the *last* 5% — the questions that don't show up until you've played thousands of matches and trained thousands of hours.
 

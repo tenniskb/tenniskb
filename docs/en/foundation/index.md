@@ -1,6 +1,6 @@
 # Foundation Level
 
-This is where every tennis journey begins — and where experienced players return when something breaks down.
+This where every tennis journey begins — and where experienced players return when something breaks down.
 
 ## Why Start Here?
 
@@ -30,7 +30,7 @@ Focused exploration of specific foundation topics:
 
 ## How to Approach This Material
 
-1. **Start with the Basics section in order.** Grip → Footwork → Forehand → Backhand. Each one builds on the previous.
-2. **Then move to Serve and Return of Serve.** These are the strokes that decide matches before they start.
-3. **Then Doubles patterns and Mental Game.** These are the strokes that decide matches after the physical even out.
-4. **The Deep Dives are reference material.** Come back to them when a specific question comes up, or when you want to understand *why* a particular technique works.
+1. Start with the Basics section in order. Grip → Footwork → Forehand → Backhand. Each one builds on the previous.
+2. Then move to Serve and Return of Serve. These are the strokes that decide matches before they start.
+3. Then Doubles patterns and Mental Game. These are the strokes that decide matches after the physical even out.
+4. The Deep Dives are reference material. Come back to them when a specific question comes up, or when you want to understand *why* a particular technique works.

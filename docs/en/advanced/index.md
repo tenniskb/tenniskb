@@ -26,8 +26,8 @@ Focused exploration of specific advanced topics:
 
 ## How to Approach This Material
 
-1. **Start with the Mastery Manual.** It sets the framework. The deep-dives assume you've read the manual.
-2. **Pick the deep-dive that matches the question in your body right now.** Got a balance issue? Head Position. Got a power issue? X-Factor or Two Engines. Got a timing issue? Reflex Arcs.
-3. **Take the deep-dives to the court.** The articles describe mechanics. Your body has to learn them. Practice is the only way.
+1. Start with the Mastery Manual. It sets the framework. The deep-dives assume you've read the manual.
+2. Pick the deep-dive that matches the question in your body right now. Got a balance issue? Head Position. Got a power issue? X-Factor or Two Engines. Got a timing issue? Reflex Arcs.
+3. Take the deep-dives to the court. The articles describe mechanics. Your body has to learn them. Practice is the only way.
 
 These aren't topics you finish. They're topics you keep going back to, deeper each time, as your body learns to feel more.

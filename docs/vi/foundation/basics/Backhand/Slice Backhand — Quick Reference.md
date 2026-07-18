@@ -2,17 +2,17 @@
 
 Người bạn đồng hành trong túi vợt của bạn cho lối chơi 50+.
 
-**Nền tảng, trong một hơi thở:** grip Continental, V trên bevel #2. Mặt vợt mở như mui xe, 30-45°. Đường đi cao xuống thấp (hoặc phẳng-tới-trước trên bóng thấp). Âm thanh: "phập" cho một cú underspin sạch. Lực bóp grip: 3-4 trên 10 — tay mềm, tiếp xúc chắc.
+Nền tảng, trong một hơi thở: grip Continental, V trên bevel #2. Mặt vợt mở như mui xe, 30-45°. Đường đi cao xuống thấp (hoặc phẳng-tới-trước trên bóng thấp). Âm thanh: "phập" cho một cú underspin sạch. Lực bóp grip: 3-4 trên 10 — tay mềm, tiếp xúc chắc.
 
 ## Bốn Tình Huống
 
-**Bóng thấp — múc và trượt.** Hạ ngực xuống ngang bóng, và dù làm gì đi nữa, đừng cúi lưng để tới đó.
+Bóng thấp — múc và trượt. Hạ ngực xuống ngang bóng, và dù làm gì đi nữa, đừng cúi lưng để tới đó.
 
-**Trả giao bóng — chặn và đổi hướng.** Không vung. Dùng lực của họ, không phải của bạn.
+Trả giao bóng — chặn và đổi hướng. Không vung. Dùng lực của họ, không phải của bạn.
 
-**Approach — slice thấp, tiến lên.** Cắt sâu, bước đệm, và di chuyển tiến lên phía sau nó.
+Approach — slice thấp, tiến lên. Cắt sâu, bước đệm, và di chuyển tiến lên phía sau nó.
 
-**Phòng thủ — chỉ cần đưa sâu.** Mua thời gian. Đừng đi săn các đường biên.
+Phòng thủ — chỉ cần đưa sâu. Mua thời gian. Đừng đi săn các đường biên.
 
 ## Danh Sách An Toàn 50+
 

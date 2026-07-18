@@ -1,6 +1,6 @@
 # The Grip Change Map — The Complete Sequence Guide
 
-Watch a 3.5 player between points sometime. They walk to the baseline, fiddle with the grip for three, four, five seconds, then hit the shot. Then they walk to the other side and fiddle again before the next one. Here's the thing nobody tells you: that fiddling is the single biggest invisible time-cost in your game. A typical match runs 120 to 150 points. Fumble three seconds on each one, and that's six to seven and a half minutes of your match spent not playing tennis — just searching for the grip.
+Watch any 3.5 player between points sometime. They walk to the baseline, fiddle with the grip for three, four, five seconds, then hit the shot. Then they walk to the other side and fiddle again before the next one. Here's the thing nobody tells you: that fiddling is the single biggest invisible time-cost in your game. A typical match runs 120 to 150 points. Fumble three seconds on each one, and that's six to seven and a half minutes of your match spent not playing tennis — just searching for the grip.
 
 The fix is what I'd call a Grip Change Map: a pre-point ritual that finds the right grip in half a second to a second, every single point, every match. A 50+ player who's internalized this map plays faster, switches more cleanly, and wins meaningfully more points than one who hasn't.
 
@@ -14,9 +14,9 @@ Here's the trap: most 3.5 players think the grip change is free. It isn't. A 50+
 
 ## Two Rules That Cover Almost Everything
 
-**Rule one: the 70/30 split.** Roughly 70% of your shots use the Continental grip — serve, volley, slice, lob, overhead. Only about 30% use the Semi-Western, and that's specifically your forehand. Continental is your default. Semi-Western is the exception you reach for deliberately.
+Rule one: the 70/30 split. Roughly 70% of your shots use the Continental grip — serve, volley, slice, lob, overhead. Only about 30% use the Semi-Western, and that's specifically your forehand. Continental is your default. Semi-Western is the exception you reach for deliberately.
 
-**Rule two: the five-second reset.** Between points you've got 15 to 25 seconds of dead time. Spend five of them on a grip check: walk to the line, look at the V, confirm the bevel, walk to position. That five-second habit is genuinely the 50+ player's best-kept secret.
+Rule two: the five-second reset. Between points you've got 15 to 25 seconds of dead time. Spend five of them on a grip check: walk to the line, look at the V, confirm the bevel, walk to position. That five-second habit is genuinely the 50+ player's best-kept secret.
 
 Together, these two rules do almost all the work. The 70/30 split means most of the time, the grip that's already in your hand — Continental — is the right one. The five-second reset means the other 30% of the time, when you actually need the forehand grip, it's a clean five-second habit rather than a fumbling scramble.
 
@@ -26,15 +26,15 @@ And here's the organizing principle underneath both rules: Continental is home b
 
 A typical match breaks down into four kinds of points, and each one has its own grip sequence. Learn the sequences, and four to six fumbling changes per point become one or two clean ones.
 
-**The serving point — zero changes.** You're at the baseline, Continental in hand. Serve — flat, slice, or kick — stays Continental. If the rally continues, volleys, slices, and lobs all stay Continental too. If you come to net, still Continental. This is genuinely the cleanest point type there is: the grip never has to move.
+The serving point — zero changes. You're at the baseline, Continental in hand. Serve — flat, slice, or kick — stays Continental. If the rally continues, volleys, slices, and lobs all stay Continental too. If you come to net, still Continental. This genuinely the cleanest point type there is: the grip never has to move.
 
-**The returning point — one to three changes.** If the return comes to your forehand, you change to Semi-Western, a one- to two-bevel walk. If it comes to your backhand, you stay Continental and block it back with a slice. Through the rally, forehand stays Semi-Western, backhand and slice stay Continental. And if you come to net, change back to Continental for the volley.
+The returning point — one to three changes. If the return comes to your forehand, you change to Semi-Western, a one- to two-bevel walk. If it comes to your backhand, you stay Continental and block it back with a slice. Through the rally, forehand stays Semi-Western, backhand and slice stay Continental. And if you come to net, change back to Continental for the volley.
 
 There's a specific mistake worth naming here: returning with a Semi-Western forehand grip and forgetting to change back to Continental before you get to net. You end up volleying with a forehand grip, the face sits too open, and the ball sails long. The fix is simple — before you move to net, do the bevel walk back to Continental. It only takes half a second to a second, and it's worth drilling ten times a day for a week until it's automatic.
 
-**The net point — zero to one change.** If you're already at net, you're already in Continental, and every volley stays there — this is the second cleanest point type. If you start at the baseline and work your way in, most 3.5 groundstrokes on the way are slices, which stay Continental the whole time — no change needed. The only time you'll need one change is if you hit a forehand approach on the way in; then it's Semi-Western to Continental, once, right before you arrive at net.
+The net point — zero to one change. If you're already at net, you're already in Continental, and every volley stays there — This the second cleanest point type. If you start at the baseline and work your way in, most 3.5 groundstrokes on the way are slices, which stay Continental the whole time — no change needed. The only time you'll need one change is if you hit a forehand approach on the way in; then it's Semi-Western to Continental, once, right before you arrive at net.
 
-**The mixed point — two to four changes, and the most common type you'll actually play.** Start at baseline in Continental. If the rally opens with a forehand, change to Semi-Western. If it opens with a backhand, stay Continental for the slice. Through the middle of the rally, you're walking back and forth between Semi-Western and Continental with every forehand-backhand alternation. When you approach, change back to Continental for the volley, and stay there through any volleys that follow. Every single transition in this point — forehand to backhand, baseline to net — is a one- to two-bevel walk, roughly half a second to a second each. Drill that walk ten times a day for a week, and by week two it stops being a decision at all.
+The mixed point — two to four changes, and the most common type you'll actually play. Start at baseline in Continental. If the rally opens with a forehand, change to Semi-Western. If it opens with a backhand, stay Continental for the slice. Through the middle of the rally, you're walking back and forth between Semi-Western and Continental with every forehand-backhand alternation. When you approach, change back to Continental for the volley, and stay there through any volleys that follow. Every single transition in this point — forehand to backhand, baseline to net — is a one- to two-bevel walk, roughly half a second to a second each. Drill that walk ten times a day for a week, and by week two it stops being a decision at all.
 
 | Point Type | Grip Changes | Why |
 |---|---|---|
@@ -43,7 +43,7 @@ There's a specific mistake worth naming here: returning with a Semi-Western fore
 | Net point | 0-1 | Continental stays at net; one change only if you approach on a forehand |
 | Mixed point | 2-4 | The most common point, and the most changes |
 
-**The eight transitions, as a complete reference:**
+The eight transitions, as a complete reference:
 
 | Situation | From | To | Method | Time |
 |---|---|---|---|---|
@@ -70,27 +70,27 @@ By point type, the check simplifies further. On a serving point, if the V's at 1
 
 ## The Six Mistakes That Cost the Most
 
-**Fumbling three-plus seconds per point.** This is the big one, costing six to seven and a half minutes a match. The fix is the five-second reset itself, and the underlying skill is the bevel walk, drilled ten times a day until it's automatic.
+Fumbling three-plus seconds per point. This the big one, costing six to seven and a half minutes a match. The fix is the five-second reset itself, and the underlying skill is the bevel walk, drilled ten times a day until it's automatic.
 
-**Using a full Western grip on a 50+ body.** The extreme 2 o'clock position asks more of the wrist than most 50+ forearms want to give, and it shows up as wrist pain or tennis elbow down the line. The fix: treat 1 o'clock — Semi-Western — as your real default, not the more extreme Western.
+Using a full Western grip on a 50+ body. The extreme 2 o'clock position asks more of the wrist than most 50+ forearms want to give, and it shows up as wrist pain or tennis elbow down the line. The fix: treat 1 o'clock — Semi-Western — as your real default, not the more extreme Western.
 
-**Using Continental on the forehand groundstroke.** Without enough grip rotation, there's no real topspin available, and the ball tends to sail long. The cue here is simple: V at 1 o'clock for the forehand, every time — switch fully to Semi-Western.
+Using Continental on the forehand groundstroke. Without enough grip rotation, there's no real topspin available, and the ball tends to sail long. The cue here is simple: V at 1 o'clock for the forehand, every time — switch fully to Semi-Western.
 
-**Forgetting to change back at the net.** Volleying with a leftover Semi-Western grip leaves the racket face too open, producing long balls and shanks. The fix is doing the bevel walk to Continental *before* you arrive at net, not after you're already there trying to fix it mid-point.
+Forgetting to change back at the net. Volleying with a leftover Semi-Western grip leaves the racket face too open, producing long balls and shanks. The fix is doing the bevel walk to Continental *before* you arrive at net, not after you're already there trying to fix it mid-point.
 
-**Snapping the wrist instead of rotating the forearm for topspin.** This is a real injury risk — tennis elbow and general joint pain follow from repeated wrist snapping. The cue to replace it with: forearm rotation, not wrist snap — the forearm does the work, the wrist stays loose and along for the ride.
+Snapping the wrist instead of rotating the forearm for topspin. This a real injury risk — tennis elbow and general joint pain follow from repeated wrist snapping. The cue to replace it with: forearm rotation, not wrist snap — the forearm does the work, the wrist stays loose and along for the ride.
 
-**Skipping the five-second reset entirely.** Walking straight to the line and swinging immediately means you're carrying whatever grip you happened to finish the last point with, right or wrong — and it shows up as the wrong grip on 20 to 30% of points. The fix is simply committing to the four-step ritual, every single time, without exception.
+Skipping the five-second reset entirely. Walking straight to the line and swinging immediately means you're carrying whatever grip you happened to finish the last point with, right or wrong — and it shows up as the wrong grip on 20 to 30% of points. The fix is simply committing to the four-step ritual, every single time, without exception.
 
 ## Four Drills to Build This Week
 
-**The bevel walk practice, solo, three minutes a day.** Stand at a mirror and run through the six core walks: Continental to Eastern and back, Continental to Semi-Western and back, Continental to Western and back, then Semi-Western to Continental, Eastern to Continental, and Western to Continental. Ten reps of each, and the goal is every single one landing under one second.
+The bevel walk practice, solo, three minutes a day. Stand at a mirror and run through the six core walks: Continental to Eastern and back, Continental to Semi-Western and back, Continental to Western and back, then Semi-Western to Continental, Eastern to Continental, and Western to Continental. Ten reps of each, and the goal is every single one landing under one second.
 
-**The five-second reset practice, solo, three minutes a day.** Set a timer for 25 seconds to simulate the gap between points, and use five of those seconds for the four-step ritual — walk to the line, look at the V, check the bevel, walk to position. Twenty reps, all landing under five seconds for the sequence.
+The five-second reset practice, solo, three minutes a day. Set a timer for 25 seconds to simulate the gap between points, and use five of those seconds for the four-step ritual — walk to the line, look at the V, check the bevel, walk to position. Twenty reps, all landing under five seconds for the sequence.
 
-**The point-type sequence practice, with a partner, ten minutes.** Play a practice match, and before each point, call out the point type out loud — serving, returning, net, or mixed — then execute the matching grip sequence: Continental staying put on a serving point, Continental to Semi-Western on a forehand return, Continental staying put at net, and the full Continental-Semi-Western-Continental cycle on a mixed point. Aim for at least one of each point type per game.
+The point-type sequence practice, with a partner, ten minutes. Play a practice match, and before each point, call out the point type out loud — serving, returning, net, or mixed — then execute the matching grip sequence: Continental staying put on a serving point, Continental to Semi-Western on a forehand return, Continental staying put at net, and the full Continental-Semi-Western-Continental cycle on a mixed point. Aim for at least one of each point type per game.
 
-**The match simulation practice, with a partner, fifteen minutes.** Play a full practice set and count your grip changes per point as you go. Zero changes means a serving or net point — that's perfect. One to three changes means a returning or mixed point — that's good. Four or more means genuine fumbling — that's the thing you're trying to reduce. The target: 80% of your points landing at zero to three changes, no more than 20% at four-plus.
+The match simulation practice, with a partner, fifteen minutes. Play a full practice set and count your grip changes per point as you go. Zero changes means a serving or net point — that's perfect. One to three changes means a returning or mixed point — that's good. Four or more means genuine fumbling — that's the thing you're trying to reduce. The target: 80% of your points landing at zero to three changes, no more than 20% at four-plus.
 
 ## The Master Cue List
 

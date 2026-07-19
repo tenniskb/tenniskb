@@ -2,18 +2,6 @@
 
 *Phá Vỡ Để Tìm Hệ Thống Của Riêng Bạn — Deep-dive 25 phút cho người chơi 5.0+.*
 
-## TABLE OF CONTENTS / MỤC LỤC
-| Chapter | | |
-| 1 | The Anti-Orthodox Lens | Lăng Kính Phản Giáo Điều |
-| 2 | Lie #1 — "Copy the Pros" | Nói Dối #1 — "Bắt Chước Tay Vợt Pro" |
-| 3 | Lie #2 — "Perfect Form Exists" | Nói Dối #2 — "Có Hình Thức Hoàn Hảo" |
-| 4 | Lie #3 — "10,000 Hours Makes an Expert" | Nói Dối #3 — "10.000 Giờ Tạo Chuyên Gia" |
-| 5 | Lie #4 — "The Coach Knows Best" | Nói Dối #4 — "HLV Biết Rõ Nhất" |
-| 6 | Lie #5 — "Feel Is the Enemy of Science" | Nói Dối #5 — "Cảm Giác Là Kẻ Thù Của Khoa Học" |
-| 7 | The 90-Day Creed Experiment | Thử Nghiệm Tuyên Ngôn 90 Ngày |
-| 8 | The Counter-Credential Vault | Kho Chứa Phản-Tín-Chứng |
-| 9 | Your Anti-Orthodox Compass | La Bàn Phản Giáo Điều Của Bạn |
-
 ## Chapter 1 — The Anti-Orthodox Lens
 
 **Why a "lens" and not a "philosophy."** A philosophy is something you argue about. A lens is something you see through. The Anti-Orthodox Lens is a *seeing tool* — once you put it on, you cannot un-see what was always there. You will see orthodoxy everywhere: in coaching articles, in YouTube tutorials, in your own internal voice when you self-correct mid-stroke.

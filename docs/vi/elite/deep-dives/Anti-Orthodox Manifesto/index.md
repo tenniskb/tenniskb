@@ -5,18 +5,6 @@ lang: vi
 # Breaking Free to Find Your Own System
 *Phá Vỡ Để Tìm Hệ Thống Của Riêng Bạn — Deep-dive 25 phút cho người chơi 5.0+.*
 
-## TABLE OF CONTENTS / MỤC LỤC
-| Chapter | | |
-| 1 | The Anti-Orthodox Lens | Lăng Kính Phản Giáo Điều |
-| 2 | Lie #1 — "Copy the Pros" | Nói Dối #1 — "Bắt Chước Tay Vợt Pro" |
-| 3 | Lie #2 — "Perfect Form Exists" | Nói Dối #2 — "Có Hình Thức Hoàn Hảo" |
-| 4 | Lie #3 — "10,000 Hours Makes an Expert" | Nói Dối #3 — "10.000 Giờ Tạo Chuyên Gia" |
-| 5 | Lie #4 — "The Coach Knows Best" | Nói Dối #4 — "HLV Biết Rõ Nhất" |
-| 6 | Lie #5 — "Feel Is the Enemy of Science" | Nói Dối #5 — "Cảm Giác Là Kẻ Thù Của Khoa Học" |
-| 7 | The 90-Day Creed Experiment | Thử Nghiệm Tuyên Ngôn 90 Ngày |
-| 8 | The Counter-Credential Vault | Kho Chứa Phản-Tín-Chứng |
-| 9 | Your Anti-Orthodox Compass | La Bàn Phản Giáo Điều Của Bạn |
-
 ## Chương 1 — Lăng Kính Phản Giáo Điều
 Tại sao "lăng kính" chứ không phải "triết lý." Triết lý là cái người ta tranh luận. Lăng kính là cái người ta nhìn qua.
 

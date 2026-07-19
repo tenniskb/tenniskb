@@ -28,7 +28,7 @@ Two drills worth building this week. First, the D-Loop Hold: stand in front of a
 
 ## The One-Handed Backhand: A Quick Word
 
-The one-handed backhand might be the most beautiful stroke in tennis — Wawrinka, Federer, Dimitrov, Gasquet, Thiem all hit it differently, and all hit it beautifully. It's also the most shoulder-stressful stroke  demanding precise timing, real footwork, and a shoulder that can absorb repeated one-sided load.
+The one-handed backhand might be the most beautiful stroke in tennis — Wawrinka, Federer, Dimitrov, Gasquet, Thiem all hit it differently, and all hit it beautifully. It's also the most shoulder-stressful stroke demanding precise timing, real footwork, and a shoulder that can absorb repeated one-sided load.
 
 Past 50, the two-handed backhand is the rational default. This section is really for two groups: players who already have a one-hander and want to refine it, and players who want to add the SLICE one-hander specifically — which is far friendlier on the shoulder than the topspin version.
 
@@ -70,98 +70,98 @@ If there's a single rule to take from all of this, it's this: the backhand is no
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THE BACKHAND — 1-PAGE CHEAT SHEET
+ THE BACKHAND — 1-PAGE CHEAT SHEET
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: The backhand is a MIRROR, not a different stroke.
-  The L1-L4 system applies. Just flip the direction.
-  "Chest turns, arm follows, ball goes." Side doesn't matter.
+ THE BIG IDEA: The backhand is a MIRROR, not a different stroke.
+ The L1-L4 system applies. Just flip the direction.
+ "Chest turns, arm follows, ball goes." Side doesn't matter.
 
-  ─────────────────────────────────────────────────────────────
-  THE TWO-HANDED BACKHAND
-  ─────────────────────────────────────────────────────────────
-  • Dominant hand grip:   Same as forehand (Semi-W or Eastern)
-  • Non-dominant grip:    Continental (V on bevel #2)
-  • Unit turn:            Chin on RIGHT shoulder (mirror of FH)
-  • Drop:                 Racket head falls below wrist, left side
-  • Chest turns:          BOTH shoulders rotate together
-  • Contact:              In front, full reach, elbow leads
-  • Wrist:                LOCKED. No snap.
-  • Finish:               Over LEFT shoulder (not right)
-  • Axis:                 LEFT = rooted, RIGHT = free (opposite of FH)
+ ─────────────────────────────────────────────────────────────
+ THE TWO-HANDED BACKHAND
+ ─────────────────────────────────────────────────────────────
+ • Dominant hand grip: Same as forehand (Semi-W or Eastern)
+ • Non-dominant grip: Continental (V on bevel #2)
+ • Unit turn: Chin on RIGHT shoulder (mirror of FH)
+ • Drop: Racket head falls below wrist, left side
+ • Chest turns: BOTH shoulders rotate together
+ • Contact: In front, full reach, elbow leads
+ • Wrist: LOCKED. No snap.
+ • Finish: Over LEFT shoulder (not right)
+ • Axis: LEFT = rooted, RIGHT = free (opposite of FH)
 
-  ─────────────────────────────────────────────────────────────
-  THE ONE-HANDED BACKHAND
-  ─────────────────────────────────────────────────────────────
-  • Grip:                 Continental (V on bevel #2)
-  • Takeback:              C-loop (Dimitrov) or slot (Federer)
-  • Footwork:              Heel-toe step, 45° angle
-  • Contact:               Straight-ish arm, in front
-  • Head:                  Quiet eye — 0.2 sec after contact
-  • Past 50:               2HB for power, 1HB for slice only
+ ─────────────────────────────────────────────────────────────
+ THE ONE-HANDED BACKHAND
+ ─────────────────────────────────────────────────────────────
+ • Grip: Continental (V on bevel #2)
+ • Takeback: C-loop (Dimitrov) or slot (Federer)
+ • Footwork: Heel-toe step, 45° angle
+ • Contact: Straight-ish arm, in front
+ • Head: Quiet eye — 0.2 sec after contact
+ • Past 50: 2HB for power, 1HB for slice only
 
-  ─────────────────────────────────────────────────────────────
-  THE SLICE BACKHAND
-  ─────────────────────────────────────────────────────────────
-  • Grip:                 Continental, both hands (or 1HB)
-  • Takeback:              HIGH ("open the door")
-  • Swing path:            HIGH to LOW ("door closing")
-  • Face:                  OPEN like a hood (30-45°)
-  • Contact:               Waist height, on the way DOWN
-  • Finish:                Low, across body, near opposite hip
-  • Sound check:           "Fwoosh" = underspin (good). "Thwack" = flat (fix it)
-  • Grip pressure:         3-4/10 (soft hand, firm contact)
+ ─────────────────────────────────────────────────────────────
+ THE SLICE BACKHAND
+ ─────────────────────────────────────────────────────────────
+ • Grip: Continental, both hands (or 1HB)
+ • Takeback: HIGH ("open the door")
+ • Swing path: HIGH to LOW ("door closing")
+ • Face: OPEN like a hood (30-45°)
+ • Contact: Waist height, on the way DOWN
+ • Finish: Low, across body, near opposite hip
+ • Sound check: "Fwoosh" = underspin (good). "Thwack" = flat (fix it)
+ • Grip pressure: 3-4/10 (soft hand, firm contact)
 
-  ─────────────────────────────────────────────────────────────
-  THE 5 CUES
-  ─────────────────────────────────────────────────────────────
-  1.  "Mirror the forehand"
-  2.  "Dominant drives, non-dominant braces"
-  3.  "Elbow leads, wrist locked"
-  4.  "Left-shoulder finish"
-  5.  "Quiet eye, 0.2 sec"
+ ─────────────────────────────────────────────────────────────
+ THE 5 CUES
+ ─────────────────────────────────────────────────────────────
+ 1. "Mirror the forehand"
+ 2. "Dominant drives, non-dominant braces"
+ 3. "Elbow leads, wrist locked"
+ 4. "Left-shoulder finish"
+ 5. "Quiet eye, 0.2 sec"
 
-  ─────────────────────────────────────────────────────────────
-  THE 4 SLICE SITUATIONS
-  ─────────────────────────────────────────────────────────────
-  1.  DEFENSE:   "Just get it back deep"
-  2.  APPROACH:  "Slice low, move forward"
-  3.  RETURN:    "Slice is your friend" (vs big serve)
-  4.  RHYTHM:    "Slice after a topspin rally" (disrupt)
+ ─────────────────────────────────────────────────────────────
+ THE 4 SLICE SITUATIONS
+ ─────────────────────────────────────────────────────────────
+ 1. DEFENSE: "Just get it back deep"
+ 2. APPROACH: "Slice low, move forward"
+ 3. RETURN: "Slice is your friend" (vs big serve)
+ 4. RHYTHM: "Slice after a topspin rally" (disrupt)
 
-  ─────────────────────────────────────────────────────────────
-  THE 5 DRILLS
-  ─────────────────────────────────────────────────────────────
-  1.  Cross-hand wall rally (daily, 5 min)
-  2.  Left-shoulder finish check (weekly, with a partner)
-  3.  Slice wall rally (3x/week, 10 min)
-  4.  Mirror shadow swings (daily, 3 min)
-  5.  Quiet eye practice (on court, weekly)
+ ─────────────────────────────────────────────────────────────
+ THE 5 DRILLS
+ ─────────────────────────────────────────────────────────────
+ 1. Cross-hand wall rally (daily, 5 min)
+ 2. Left-shoulder finish check (weekly, with a partner)
+ 3. Slice wall rally (3x/week, 10 min)
+ 4. Mirror shadow swings (daily, 3 min)
+ 5. Quiet eye practice (on court, weekly)
 
-  ─────────────────────────────────────────────────────────────
-  THE 7 ERRORS
-  ─────────────────────────────────────────────────────────────
-  1.  Same grip both hands       → Continental on non-dominant hand
-  2.  Right-shoulder finish      → Chest turn drill, left-shoulder check
-  3.  Wrist snap                 → Elbow leads, towel-under-arm drill
-  4.  Slice swung upward         → "Slice = under the ball"
-  5.  Closed face on slice       → "Open like a hood," Continental grip
-  6.  Arm-swinging               → "Chest turns, arms follow," shadow swings
-  7.  Shallow unit turn          → D-Loop Hold drill (2 sec)
+ ─────────────────────────────────────────────────────────────
+ THE 7 ERRORS
+ ─────────────────────────────────────────────────────────────
+ 1. Same grip both hands → Continental on non-dominant hand
+ 2. Right-shoulder finish → Chest turn drill, left-shoulder check
+ 3. Wrist snap → Elbow leads, towel-under-arm drill
+ 4. Slice swung upward → "Slice = under the ball"
+ 5. Closed face on slice → "Open like a hood," Continental grip
+ 6. Arm-swinging → "Chest turns, arms follow," shadow swings
+ 7. Shallow unit turn → D-Loop Hold drill (2 sec)
 
-  ─────────────────────────────────────────────────────────────
-  STOP AND RESET IF:
-  ─────────────────────────────────────────────────────────────
-  • Shoulder or elbow hurts (especially on the one-hander)
-  • Wrist pain in the non-dominant (brace) hand
-  • Backhand keeps going long (face too open, or no chest turn)
-  • Backhand keeps going into the net (face too closed, or arm-swinging)
-  • Right-shoulder finish on the two-hander (chest didn't turn)
-  • "Thwack" sound on slice (you're hitting flat, not slicing)
-  • Lower back pain after backhands (spine twisting, not hip rotating)
+ ─────────────────────────────────────────────────────────────
+ STOP AND RESET IF:
+ ─────────────────────────────────────────────────────────────
+ • Shoulder or elbow hurts (especially on the one-hander)
+ • Wrist pain in the non-dominant (brace) hand
+ • Backhand keeps going long (face too open, or no chest turn)
+ • Backhand keeps going into the net (face too closed, or arm-swinging)
+ • Right-shoulder finish on the two-hander (chest didn't turn)
+ • "Thwack" sound on slice (you're hitting flat, not slicing)
+ • Lower back pain after backhands (spine twisting, not hip rotating)
 
 ═══════════════════════════════════════════════════════════════
-  Tennis is a 20-year sport. The backhand is your mirror, not
-  your enemy. Treat it with the same respect as the forehand.
+ Tennis is a 20-year sport. The backhand is your mirror, not
+ your enemy. Treat it with the same respect as the forehand.
 ═══════════════════════════════════════════════════════════════
 ```

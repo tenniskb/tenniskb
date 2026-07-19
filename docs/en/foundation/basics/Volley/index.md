@@ -82,20 +82,20 @@ Here's how to sort the incoming ball into the right response, every time:
 ```
 BALL ARRIVES -> Where is it?
 
-  - At or above net height?
-      -> PUNCH VOLLEY (cross-court is safest, down-the-line is the kill)
+ - At or above net height?
+ -> PUNCH VOLLEY (cross-court is safest, down-the-line is the kill)
 
-  - At your body, fast?
-      -> BLOCK VOLLEY (backhand side, cross-court, no swing)
+ - At your body, fast?
+ -> BLOCK VOLLEY (backhand side, cross-court, no swing)
 
-  - Below net height but reachable?
-      -> STEP IN, drop the knees, slice volley deep
+ - Below net height but reachable?
+ -> STEP IN, drop the knees, slice volley deep
 
-  - At your feet?
-      -> HALF-VOLLEY (deep knee bend, scoop motion)
+ - At your feet?
+ -> HALF-VOLLEY (deep knee bend, scoop motion)
 
-  - High, opponent at the net?
-      -> LOB VOLLEY (open face, non-dominant hand tracks, aim deep)
+ - High, opponent at the net?
+ -> LOB VOLLEY (open face, non-dominant hand tracks, aim deep)
 ```
 
 ---
@@ -151,28 +151,28 @@ The tai chi thread running through all of this: soft hands at 3-4 out of 10 pres
 
 ```
 BEFORE THE POINT:
-  - Racket at eye level (the U-shape)
-  - Continental grip (V toward the non-dominant shoulder)
-  - Feet shoulder-width apart, weight on the balls of the feet
+ - Racket at eye level (the U-shape)
+ - Continental grip (V toward the non-dominant shoulder)
+ - Feet shoulder-width apart, weight on the balls of the feet
 
 WHEN THE OPPONENT STRIKES:
-  - Split-step (a small hop, knees loaded)
+ - Split-step (a small hop, knees loaded)
 
 AS THE BALL APPROACHES:
-  - Step forward with the opposite foot (the bridge leg)
-  - Set the face early (no backswing)
-  - Racket head ABOVE the wrist (the L-shape)
+ - Step forward with the opposite foot (the bridge leg)
+ - Set the face early (no backswing)
+ - Racket head ABOVE the wrist (the L-shape)
 
 AT CONTACT:
-  - Wrist FROZEN
-  - 70% weight on the front leg
-  - Eyes on the ball
-  - A six-inch punch, not a swing
+ - Wrist FROZEN
+ - 70% weight on the front leg
+ - Eyes on the ball
+ - A six-inch punch, not a swing
 
 AFTER CONTACT:
-  - Recover to center
-  - Reset the U-shape
-  - Split-step again for the next shot
+ - Recover to center
+ - Reset the U-shape
+ - Split-step again for the next shot
 ```
 
 ## Printable Cheat Sheet
@@ -182,50 +182,50 @@ THE VOLLEY — QUICK REFERENCE
 ===============================
 
 THE BIG IDEA: A volley is REDIRECTION, not a swing. The incoming
-              ball brings the pace. You bring the angle.
-              "La Kinh" — rollback energy, redirected.
+ ball brings the pace. You bring the angle.
+ "La Kinh" — rollback energy, redirected.
 
 THE BODY
 ---------
-- Grip:        Continental (V toward non-dominant shoulder)
-- Ready (U):   Racket at EYE LEVEL, both hands in front
-- L-Shape:     Racket head ABOVE wrist, wrist FROZEN
-- Wrist:       Ulnar deviation + extension; NO supination at contact
-- Pressure:    3-4 / 10 (like holding a small bird)
-- Backswing:   NONE. Set the face, no wind-up.
+- Grip: Continental (V toward non-dominant shoulder)
+- Ready (U): Racket at EYE LEVEL, both hands in front
+- L-Shape: Racket head ABOVE wrist, wrist FROZEN
+- Wrist: Ulnar deviation + extension; NO supination at contact
+- Pressure: 3-4 / 10 (like holding a small bird)
+- Backswing: NONE. Set the face, no wind-up.
 
 THE FEET
 ---------
-- Split-step:  A small hop on the opponent's contact
-- Step-in:     Opposite foot (left for forehand, right for backhand)
-- Weight:      70% front leg, 30% back leg at contact
-- Bridge leg:  Bent, soft, glute engaged
-- Direction:   FORWARD into the ball, NEVER back
-- Low balls:   Knees drop, NOT waist bends
+- Split-step: A small hop on the opponent's contact
+- Step-in: Opposite foot (left for forehand, right for backhand)
+- Weight: 70% front leg, 30% back leg at contact
+- Bridge leg: Bent, soft, glute engaged
+- Direction: FORWARD into the ball, NEVER back
+- Low balls: Knees drop, NOT waist bends
 
 THE FIVE VOLLEYS
 ------------------
-- PUNCH:    Firm, 6-inch travel, ball at or above net height
-- BLOCK:    No swing, body behind the ball, fast incoming shot
-- DROP:     Loose grip, open face, just let it die
-- LOB:      Face open, lift high, non-dominant hand tracks upward
-- HALF-V:   Deep knee bend, scoop the ball right at your feet
+- PUNCH: Firm, 6-inch travel, ball at or above net height
+- BLOCK: No swing, body behind the ball, fast incoming shot
+- DROP: Loose grip, open face, just let it die
+- LOB: Face open, lift high, non-dominant hand tracks upward
+- HALF-V: Deep knee bend, scoop the ball right at your feet
 
 THE 10 CUES
 -------------
-1. "L-shape"           6. "70/30"
-2. "Eye-level"         7. "No backswing"
-3. "Soft hand"         8. "Six inches"
-4. "In, not back"      9. "Breathe out"
-5. "Knees, not back"   10. "Hunter, not target"
+1. "L-shape" 6. "70/30"
+2. "Eye-level" 7. "No backswing"
+3. "Soft hand" 8. "Six inches"
+4. "In, not back" 9. "Breathe out"
+5. "Knees, not back" 10. "Hunter, not target"
 
 THE FIVE DRILLS
 ------------------
-1. Wall volleys        30 in a row, no swing, L-shape held
-2. Towel under arm      50 volleys, don't let it drop
-3. Mirror L check       10-second hold, face angle test
-4. V-step with partner  20 in 60 sec, alternating sides
-5. Body-shot drill      10 in a row, block cross-court
+1. Wall volleys 30 in a row, no swing, L-shape held
+2. Towel under arm 50 volleys, don't let it drop
+3. Mirror L check 10-second hold, face angle test
+4. V-step with partner 20 in 60 sec, alternating sides
+5. Body-shot drill 10 in a row, block cross-court
 
 THE 50+ RULE
 --------------

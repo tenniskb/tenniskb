@@ -86,43 +86,43 @@ Most players spend their competitive life hoping pressure won't show up on a giv
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THE PRESSURE INOCULATION CARD — YOUR PERSONAL LADDER
+ THE PRESSURE INOCULATION CARD — YOUR PERSONAL LADDER
 ═══════════════════════════════════════════════════════════════
 
-  MY CHOKING DATA
-    Top trigger 1: _____________________________________
-    Top trigger 2: _____________________________________
-    Top trigger 3: _____________________________________
+ MY CHOKING DATA
+ Top trigger 1: _____________________________________
+ Top trigger 2: _____________________________________
+ Top trigger 3: _____________________________________
 
-  MY 5-RUNG PERSONAL LADDER
-    Rung 1: _____________  Arousal ___/10  Duration ___min
-    Rung 2: _____________  Arousal ___/10  Duration ___min
-    Rung 3: _____________  Arousal ___/10  Duration ___min
-    Rung 4: _____________  Arousal ___/10  Duration ___min
-    Rung 5: _____________  Arousal ___/10  Duration ___min
+ MY 5-RUNG PERSONAL LADDER
+ Rung 1: _____________ Arousal ___/10 Duration ___min
+ Rung 2: _____________ Arousal ___/10 Duration ___min
+ Rung 3: _____________ Arousal ___/10 Duration ___min
+ Rung 4: _____________ Arousal ___/10 Duration ___min
+ Rung 5: _____________ Arousal ___/10 Duration ___min
 
-  THE 7-DAY EXPOSURE CYCLE (per rung)
-    Day 1-2:  Mild exposure
-    Day 3-4:  Medium exposure (with a real consequence)
-    Day 5-6:  High exposure (match-stakes intensity)
-    Day 7:    Real match — test the 50% reduction
+ THE 7-DAY EXPOSURE CYCLE (per rung)
+ Day 1-2: Mild exposure
+ Day 3-4: Medium exposure (with a real consequence)
+ Day 5-6: High exposure (match-stakes intensity)
+ Day 7: Real match — test the 50% reduction
 
-  THE 3-SYSTEM CHECK
-    Before each rung: Am I in organized readiness? ___
-                       What's today's HRV reading? ___
-    Green day = full ladder available
-    Yellow day = rungs 1-3 only
-    Red day = rung 1 only, or postpone
+ THE 3-SYSTEM CHECK
+ Before each rung: Am I in organized readiness? ___
+ What's today's HRV reading? ___
+ Green day = full ladder available
+ Yellow day = rungs 1-3 only
+ Red day = rung 1 only, or postpone
 
-  MY "THIS WORKED" LIST
-    1. _____________________________________________
-    2. _____________________________________________
-    3. _____________________________________________
-    4. _____________________________________________
-    5. _____________________________________________
+ MY "THIS WORKED" LIST
+ 1. _____________________________________________
+ 2. _____________________________________________
+ 3. _____________________________________________
+ 4. _____________________________________________
+ 5. _____________________________________________
 
-  MASTER CUE
-    "Pressure is a vaccine. I take it on purpose."
+ MASTER CUE
+ "Pressure is a vaccine. I take it on purpose."
 
 ═══════════════════════════════════════════════════════════════
 ```

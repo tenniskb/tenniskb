@@ -82,28 +82,28 @@ But don't try to copy Sinner's racket head speed. The goal here is ball control,
 SINNER FOREHAND — CHEAT SHEET
 
 SETUP (2 sec)
-  1. Diamond in front of chest
-  2. Left hand on racket throat
-  3. Racket head UP, elbow UP
+ 1. Diamond in front of chest
+ 2. Left hand on racket throat
+ 3. Racket head UP, elbow UP
 
 THE L (drop)
-  4. Racket head falls on its edge
-  5. Don't straighten the L
-  6. Feel the weight, don't push
+ 4. Racket head falls on its edge
+ 5. Don't straighten the L
+ 6. Feel the weight, don't push
 
 STRIKE (contact)
-  7. Chest opens, arm follows
-  8. Let pronation happen
-  9. Listen for the "pực"
+ 7. Chest opens, arm follows
+ 8. Let pronation happen
+ 9. Listen for the "pực"
 
 MINDSET
-  10. Redirect, don't kill
-  11. 70 slow / 30 fast
-  12. Save the rotational engine for wide balls
+ 10. Redirect, don't kill
+ 11. 70 slow / 30 fast
+ 12. Save the rotational engine for wide balls
 
 STOP AND RESET IF:
-  - Wrist or shoulder hurts
-  - Ball keeps going long
-  - You hear "bộp" instead of "pực"
-  - You feel like you're "swinging fast" the whole time
+ - Wrist or shoulder hurts
+ - Ball keeps going long
+ - You hear "bộp" instead of "pực"
+ - You feel like you're "swinging fast" the whole time
 ```

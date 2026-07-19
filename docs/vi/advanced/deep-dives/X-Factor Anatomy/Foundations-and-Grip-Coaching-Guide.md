@@ -41,10 +41,10 @@ Bài tập "Soft-Hand". Cầm vợt chỉ bằng ngón cái và ngón trỏ — 
 ## Bản Tóm Tắt Có Thể In Ra
 
 ```
-TÌNH HUỐNG    GRIP            ĐIỂM TIẾP XÚC          KHẨU QUYẾT
-Forehand      Semi-Western    Phía trước             "Cảm nhận mặt vợt"
-Volley        Continental     Phía trước / lệch bên  "Bịch, không vung"
-Giao bóng     Continental     Trên đầu               "Tách, không đẩy"
+TÌNH HUỐNG GRIP ĐIỂM TIẾP XÚC KHẨU QUYẾT
+Forehand Semi-Western Phía trước "Cảm nhận mặt vợt"
+Volley Continental Phía trước / lệch bên "Bịch, không vung"
+Giao bóng Continental Trên đầu "Tách, không đẩy"
 ```
 
 Còn một công cụ chẩn đoán nữa, và đây là một trong những cái hữu ích nhất tôi biết: hãy lắng nghe âm thanh khi bóng tiếp xúc vợt. Một cú đánh chắc chắn nghe như "Bộp" — gọn, chắc, dứt khoát. Một cú block lười, siết quá tay nghe như "Bịch" — trầm, nặng, chậm. Dùng âm thanh đó để chỉnh độ căng tay ngay trong lúc chơi. Tai bạn bắt được những gì tay bạn không cảm nhận được.

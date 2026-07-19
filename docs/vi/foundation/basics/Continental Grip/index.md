@@ -10,8 +10,7 @@ The cheat sheets and reference cards are designed to print and laminate. The dee
 
 When the specific technique in this section starts to break down — and it will, at some point — come back to the main article. The fixes are usually simpler than you think. The most common error in this area of the game is over-thinking; the second most common is under-practicing the basics.
 
-
 ## Articles in this Section
 
-- [Continental Grip   The 9 Shot Universal Key](Continental Grip - The 9-Shot Universal Key.md)
+- [Continental Grip The 9 Shot Universal Key](Continental Grip - The 9-Shot Universal Key.md)
 - [Continental Grip](Continental Grip.md)

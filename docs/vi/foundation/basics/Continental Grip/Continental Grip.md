@@ -98,71 +98,71 @@ Và giữ quy tắc 70% trong tầm nhìn: 70% số cú của bạn dùng Contin
 
 ```
 ═══════════════════════════════════════════════════════════════
-  GRIP CONTINENTAL — TÓM TẮT NHANH
+ GRIP CONTINENTAL — TÓM TẮT NHANH
 ═══════════════════════════════════════════════════════════════
 
-  Ý CHÍNH: Continental là chìa khóa vạn năng 50+ của bạn. Một
-  grip, chín cú, bốn khớp được bảo vệ. Áp lực ba pha
-  (2-3 → 3-4 → 7-9) tiết kiệm cẳng tay của bạn.
+ Ý CHÍNH: Continental là chìa khóa vạn năng 50+ của bạn. Một
+ grip, chín cú, bốn khớp được bảo vệ. Áp lực ba pha
+ (2-3 → 3-4 → 7-9) tiết kiệm cẳng tay của bạn.
 
-  ─────────────────────────────────────────────────────────────
-  CHÍN CÚ TRONG MỘT GRIP
-  ─────────────────────────────────────────────────────────────
-  1. Forehand volley     4. Backhand slice      7. Lob phòng thủ
-  2. Backhand volley     5. Serve               8. Drop shot
-  3. Forehand slice      6. Overhead            9. Slice approach
-                                                +1. Trả giao bóng
+ ─────────────────────────────────────────────────────────────
+ CHÍN CÚ TRONG MỘT GRIP
+ ─────────────────────────────────────────────────────────────
+ 1. Forehand volley 4. Backhand slice 7. Lob phòng thủ
+ 2. Backhand volley 5. Serve 8. Drop shot
+ 3. Forehand slice 6. Overhead 9. Slice approach
+ +1. Trả giao bóng
 
-  ─────────────────────────────────────────────────────────────
-  GIẢI PHẪU BEVEL
-  ─────────────────────────────────────────────────────────────
-  • Tám bevel (các mặt của cán)
-  • Bevel 1 = trên (logo)
-  • Bevel 2 = một bước theo chiều kim đồng hồ (Continental)
-  • V ở 11 giờ = Continental
-  • V ở 12 giờ = Eastern
-  • V ở 1 giờ = Semi-Western
-  • V ở 2 giờ = Western
+ ─────────────────────────────────────────────────────────────
+ GIẢI PHẪU BEVEL
+ ─────────────────────────────────────────────────────────────
+ • Tám bevel (các mặt của cán)
+ • Bevel 1 = trên (logo)
+ • Bevel 2 = một bước theo chiều kim đồng hồ (Continental)
+ • V ở 11 giờ = Continental
+ • V ở 12 giờ = Eastern
+ • V ở 1 giờ = Semi-Western
+ • V ở 2 giờ = Western
 
-  ─────────────────────────────────────────────────────────────
-  BỐN ĐIỂM TIẾP XÚC
-  ─────────────────────────────────────────────────────────────
-  • Đệm gót    = bevel sau (5), MỎ NEO
-  • Đốt gốc    = bevel 2, KIM CHỈ
-  • Ngón cái   = dọc bevel 5, BỘ ỔN ĐỊNH (không quấn)
-  • Ngón trỏ   = dọc bevel 1, CÒ SÚNG
+ ─────────────────────────────────────────────────────────────
+ BỐN ĐIỂM TIẾP XÚC
+ ─────────────────────────────────────────────────────────────
+ • Đệm gót = bevel sau (5), MỎ NEO
+ • Đốt gốc = bevel 2, KIM CHỈ
+ • Ngón cái = dọc bevel 5, BỘ ỔN ĐỊNH (không quấn)
+ • Ngón trỏ = dọc bevel 1, CÒ SÚNG
 
-  ─────────────────────────────────────────────────────────────
-  ÁP LỰC BA PHA
-  ─────────────────────────────────────────────────────────────
-  Pha 1 (Setup):    2-3/10  "Chim non" (tay mềm)
-  Pha 2 (Vung):     3-4/10  "Đá ná" (cú vung lỏng)
-  Pha 3 (Contact):  7-9/10  "Khóa cổ tay" (grip chắc)
-  Drop shot:        2-3/10  "Cầm lông vũ" (giữ mềm)
+ ─────────────────────────────────────────────────────────────
+ ÁP LỰC BA PHA
+ ─────────────────────────────────────────────────────────────
+ Pha 1 (Setup): 2-3/10 "Chim non" (tay mềm)
+ Pha 2 (Vung): 3-4/10 "Đá ná" (cú vung lỏng)
+ Pha 3 (Contact): 7-9/10 "Khóa cổ tay" (grip chắc)
+ Drop shot: 2-3/10 "Cầm lông vũ" (giữ mềm)
 
-  ─────────────────────────────────────────────────────────────
-  QUY TẮC 70%
-  ─────────────────────────────────────────────────────────────
-  • 70% số cú dùng Continental
-  • 30% là forehand (Semi-Western) và forehand return
-  • Continental là MẶC ĐỊNH
-  • Các grip khác là NGOẠI LỆ
+ ─────────────────────────────────────────────────────────────
+ QUY TẮC 70%
+ ─────────────────────────────────────────────────────────────
+ • 70% số cú dùng Continental
+ • 30% là forehand (Semi-Western) và forehand return
+ • Continental là MẶC ĐỊNH
+ • Các grip khác là NGOẠI LỆ
 
-  ─────────────────────────────────────────────────────────────
-  NĂM CÂU NHẮC CẦN NHỚ
-  ─────────────────────────────────────────────────────────────
-  1. "V ở 11 giờ" — V là vô lăng
-  2. "Nhấc búa" — cầm ra, đặt tay, trượt xuống, khép
-  3. "Một bước theo chiều kim đồng hồ" — từ logo tới Continental
-  4. "Tay mềm ở setup" — 2-3/10, chim non
-  5. "Contact chắc" — 7-9/10, khóa cổ tay
+ ─────────────────────────────────────────────────────────────
+ NĂM CÂU NHẮC CẦN NHỚ
+ ─────────────────────────────────────────────────────────────
+ 1. "V ở 11 giờ" — V là vô lăng
+ 2. "Nhấc búa" — cầm ra, đặt tay, trượt xuống, khép
+ 3. "Một bước theo chiều kim đồng hồ" — từ logo tới Continental
+ 4. "Tay mềm ở setup" — 2-3/10, chim non
+ 5. "Contact chắc" — 7-9/10, khóa cổ tay
 
 ═══════════════════════════════════════════════════════════════
-  CÂU NHẮC CHỦ ĐẠO: Continental không chỉ là một grip. Đó là
-  chìa khóa vạn năng. Một grip mở chín cú, bảo vệ bốn khớp, và
-  chạy trên ba pha áp lực. Ở tuổi 50+, người chơi có Continental
-  chơi hai mươi năm. Người chơi không có Continental đổi grip
-  bốn lần mỗi điểm.
+ CÂU NHẮC CHỦ ĐẠO: Continental không chỉ là một grip. Đó là
+ chìa khóa vạn năng. Một grip mở chín cú, bảo vệ bốn khớp, và
+ chạy trên ba pha áp lực. Ở tuổi 50+, người chơi có Continental
+ chơi hai mươi năm. Người chơi không có Continental đổi grip
+ bốn lần mỗi điểm.
 ═══════════════════════════════════════════════════════════════
 ```
 

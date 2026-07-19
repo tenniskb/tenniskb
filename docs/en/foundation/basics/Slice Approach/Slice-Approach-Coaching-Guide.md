@@ -158,34 +158,34 @@ The tai chi thread running through all of this, if that framing helps you: the s
 
 ```
 BEFORE THE APPROACH (decision):
-  - Is the ball short (inside the service box)?        -> If no, stay at baseline
-  - Is the opponent off-balance or recovering?          -> If no, hit another groundstroke
-  - Can I hit a deep slice (within 3 ft of baseline)?    -> If no, don't approach
-  - Is the open court visible?                          -> If no, don't approach
+ - Is the ball short (inside the service box)? -> If no, stay at baseline
+ - Is the opponent off-balance or recovering? -> If no, hit another groundstroke
+ - Can I hit a deep slice (within 3 ft of baseline)? -> If no, don't approach
+ - Is the open court visible? -> If no, don't approach
 
 THE APPROACH SHOT (slice):
-  - Continental grip (V toward non-dominant shoulder)
-  - Open or semi-open stance
-  - One-bounce rule (ball bounces before you hit)
-  - Hood face (open 30-45 degrees)
-  - High-to-low swing path
-  - Aim cross-court (backhand) or down-the-line (forehand)
-  - Aim deep (within 3 ft of the baseline)
-  - Breathe out at contact
+ - Continental grip (V toward non-dominant shoulder)
+ - Open or semi-open stance
+ - One-bounce rule (ball bounces before you hit)
+ - Hood face (open 30-45 degrees)
+ - High-to-low swing path
+ - Aim cross-court (backhand) or down-the-line (forehand)
+ - Aim deep (within 3 ft of the baseline)
+ - Breathe out at contact
 
 THE TRANSITION (footwork):
-  - Side-shuffle 2-3 steps (the recovery)
-  - Diagonal sprint at 70% (not 100%)
-  - Arrive at the net low (knees bent, weight forward)
-  - Split-step as the opponent contacts the passing shot
+ - Side-shuffle 2-3 steps (the recovery)
+ - Diagonal sprint at 70% (not 100%)
+ - Arrive at the net low (knees bent, weight forward)
+ - Split-step as the opponent contacts the passing shot
 
 THE VOLLEY FINISH (the shot you already know):
-  - Continental grip (same as your regular volley)
-  - L-shape (racket head above wrist, wrist frozen)
-  - 70% weight on front leg
-  - 6-inch punch, no swing
-  - Aim cross-court (opposite of where you approached)
-  - Block + Wait if the pass is hard, Punch + Cross if it's medium
+ - Continental grip (same as your regular volley)
+ - L-shape (racket head above wrist, wrist frozen)
+ - 70% weight on front leg
+ - 6-inch punch, no swing
+ - Aim cross-court (opposite of where you approached)
+ - Block + Wait if the pass is hard, Punch + Cross if it's medium
 ```
 
 ## Printable Cheat Sheet
@@ -195,25 +195,25 @@ THE SLICE APPROACH — QUICK REFERENCE
 =====================================
 
 THE BIG IDEA: The approach is a 4-step pattern, not a single shot.
-              1. DECIDE (4 questions) -> 2. SLICE -> 3. TRANSITION -> 4. VOLLEY
+ 1. DECIDE (4 questions) -> 2. SLICE -> 3. TRANSITION -> 4. VOLLEY
 
 THE 4 DECISION QUESTIONS
 -------------------------
-1. Is the ball short? (inside the service box)          -> If no, stay
-2. Is the opponent off-balance?                          -> If no, hit another groundstroke
-3. Can I hit a deep slice? (within 3 ft of baseline)     -> If no, don't approach
-4. Is the open court visible?                            -> If no, don't approach
+1. Is the ball short? (inside the service box) -> If no, stay
+2. Is the opponent off-balance? -> If no, hit another groundstroke
+3. Can I hit a deep slice? (within 3 ft of baseline) -> If no, don't approach
+4. Is the open court visible? -> If no, don't approach
 ALL 4 must be yes.
 
 THE SLICE APPROACH SHOT
 -------------------------
-- Grip:          Continental (V toward non-dominant shoulder)
-- Stance:        Open or semi-open
+- Grip: Continental (V toward non-dominant shoulder)
+- Stance: Open or semi-open
 - One-bounce rule: The ball must bounce first
-- Face:          "Hood angle" — open 30-45 degrees
-- Swing path:    High to low (shoulder to waist)
-- Aim:           Backhand = cross-court, deep into corner
-                 Forehand = down-the-line, deep into corner
+- Face: "Hood angle" — open 30-45 degrees
+- Swing path: High to low (shoulder to waist)
+- Aim: Backhand = cross-court, deep into corner
+ Forehand = down-the-line, deep into corner
 
 THE TRANSITION
 ---------------
@@ -225,20 +225,20 @@ THE TRANSITION
 
 THE VOLLEY FINISH
 ------------------
-- Grip:          Continental (same as your regular volley)
-- L-shape:       Racket head above wrist, wrist frozen
-- 6-inch punch:  No swing, just set the face
-- Aim:           Open court = opposite of approach direction (seesaw model)
-- Default:       Punch + Cross (open court) or Block + Wait (safe)
+- Grip: Continental (same as your regular volley)
+- L-shape: Racket head above wrist, wrist frozen
+- 6-inch punch: No swing, just set the face
+- Aim: Open court = opposite of approach direction (seesaw model)
+- Default: Punch + Cross (open court) or Block + Wait (safe)
 
 THE 50+ RULES
 --------------
-- Default:       Backhand slice approach (no grip change)
-- Sprint:        70%, not 100%. Smooth, not fast.
-- Frequency:     Once or twice per set, not every point
-- Joint safety:  No shoulder load (small swing), no back strain (open
-                 stance), no knee stress (70% sprint)
-- Decision:      4 questions first, shot second
+- Default: Backhand slice approach (no grip change)
+- Sprint: 70%, not 100%. Smooth, not fast.
+- Frequency: Once or twice per set, not every point
+- Joint safety: No shoulder load (small swing), no back strain (open
+ stance), no knee stress (70% sprint)
+- Decision: 4 questions first, shot second
 
 THE 5 CUES TO REMEMBER
 ------------------------
@@ -249,7 +249,7 @@ THE 5 CUES TO REMEMBER
 5. "Open court is the volley" — Seesaw model
 
 THE MASTER CUE: "The approach is not a shot. The approach is a pattern:
-                 Decide -> Slice -> Transition -> Volley."
+ Decide -> Slice -> Transition -> Volley."
 ```
 
 ---

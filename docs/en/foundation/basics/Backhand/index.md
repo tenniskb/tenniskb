@@ -10,7 +10,6 @@ The cheat sheets in this section are designed to print and laminate. The deep di
 
 When the backhand breaks down — and it will, at some point — come back to this section. The fixes are usually simpler than you think.
 
-
 ## Articles in this Section
 
 - [Backhand The Mirror The Whip The Slice](Backhand-The-Mirror-The-Whip-The-Slice.md)

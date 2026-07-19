@@ -166,65 +166,65 @@ After every slice: recover to the ready position, split-step, racket up. Watch y
 
 ```
 ═══════════════════════════════════════════════════════════════
-  7 SLICE VARIATIONS — 1-PAGE CHEAT SHEET
+ 7 SLICE VARIATIONS — 1-PAGE CHEAT SHEET
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: The slice is the 50+ Swiss Army knife. One grip,
-                seven variations, seven situations. The
-                Continental Mở khóas all seven. The slice family
-                is the 50+ longevity system.
+ THE BIG IDEA: The slice is the 50+ Swiss Army knife. One grip,
+ seven variations, seven situations. The
+ Continental Mở khóas all seven. The slice family
+ is the 50+ longevity system.
 
-  ─────────────────────────────────────────────────────────────
-  THE 7 SLICE VARIATIONS
-  ─────────────────────────────────────────────────────────────
-  1. SLICE RETURN          Big serve coming      Block & redirect
-                                                  (deep middle)
-  2. SLICE LOW BALL        Low, skidding ball    Scoop & slide
-                                                  (racket under ball)
-  3. SLICE VOLLEY          At the net, normal    Compact touch
-                                                  (open face, down path)
-  4. SLICE DROP SHOT       Short ball, opp base  Soft hands
-                                                  (dies at the net)
-  5. SLICE DEFENSIVE LOB   Opp at the net        Rainbow arc
-                                                  (high, deep, underspin)
-  6. SLICE COUNTER-PUNCH   Stretched wide        Block cross-court
-                                                  (longest distance)
-  7. SLICE APPROACH        Decision to net       Full pattern (decide +
-                                                  slice + transition + volley)
+ ─────────────────────────────────────────────────────────────
+ THE 7 SLICE VARIATIONS
+ ─────────────────────────────────────────────────────────────
+ 1. SLICE RETURN Big serve coming Block & redirect
+ (deep middle)
+ 2. SLICE LOW BALL Low, skidding ball Scoop & slide
+ (racket under ball)
+ 3. SLICE VOLLEY At the net, normal Compact touch
+ (open face, down path)
+ 4. SLICE DROP SHOT Short ball, opp base Soft hands
+ (dies at the net)
+ 5. SLICE DEFENSIVE LOB Opp at the net Rainbow arc
+ (high, deep, underspin)
+ 6. SLICE COUNTER-PUNCH Stretched wide Block cross-court
+ (longest distance)
+ 7. SLICE APPROACH Decision to net Full pattern (decide +
+ slice + transition + volley)
 
-  ─────────────────────────────────────────────────────────────
-  THE 3 SLICE FAMILIES
-  ─────────────────────────────────────────────────────────────
-  SURVIVAL (defensive):    Return, Low Ball, Counter-Punch
-                           → MASTER FIRST
-  CONSTRUCTION (approach): Approach, Volley
-                           → MASTER SECOND
-  TOUCH (offensive):       Drop Shot, Defensive Lob
-                           → MASTER THIRD
+ ─────────────────────────────────────────────────────────────
+ THE 3 SLICE FAMILIES
+ ─────────────────────────────────────────────────────────────
+ SURVIVAL (defensive): Return, Low Ball, Counter-Punch
+ → MASTER FIRST
+ CONSTRUCTION (approach): Approach, Volley
+ → MASTER SECOND
+ TOUCH (offensive): Drop Shot, Defensive Lob
+ → MASTER THIRD
 
-  ─────────────────────────────────────────────────────────────
-  THE 5 CUES TO REMEMBER
-  ─────────────────────────────────────────────────────────────
-  1. "Continental, always" — V to bevel #2, the volley grip
-  2. "One grip, seven shots" — Continental Mở khóas all 7
-  3. "Block, don't swing" — 6-inch punch for big serves
-  4. "Scoop, don't swing" — Racket under the ball for low balls
-  5. "Soft hands win the point" — 2/10 grip pressure for drop shots
+ ─────────────────────────────────────────────────────────────
+ THE 5 CUES TO REMEMBER
+ ─────────────────────────────────────────────────────────────
+ 1. "Continental, always" — V to bevel #2, the volley grip
+ 2. "One grip, seven shots" — Continental Mở khóas all 7
+ 3. "Block, don't swing" — 6-inch punch for big serves
+ 4. "Scoop, don't swing" — Racket under the ball for low balls
+ 5. "Soft hands win the point" — 2/10 grip pressure for drop shots
 
-  ─────────────────────────────────────────────────────────────
-  THE 50+ LONGEVITY PRINCIPLE
-  ─────────────────────────────────────────────────────────────
-  • Slice:     CONTROL system, not power system
-  • Speed:     Slice uses 70% of full speed
-  • Reach:     "Reach with racket, not body" — extend 27 inches
-  • Sprint:    70% sprint, smooth not fast
-  • Pressure:  Soft slice drop shot wins without sprinting
-  • Longevity: 7 slice variations = 20+ years of tennis
+ ─────────────────────────────────────────────────────────────
+ THE 50+ LONGEVITY PRINCIPLE
+ ─────────────────────────────────────────────────────────────
+ • Slice: CONTROL system, not power system
+ • Speed: Slice uses 70% of full speed
+ • Reach: "Reach with racket, not body" — extend 27 inches
+ • Sprint: 70% sprint, smooth not fast
+ • Pressure: Soft slice drop shot wins without sprinting
+ • Longevity: 7 slice variations = 20+ years of tennis
 
 ═══════════════════════════════════════════════════════════════
-  The slice is not one shot. The slice is a family: 7
-  variations, 1 grip. At 50+, the player who uses all 7 plays
-  20 years. The player who uses 1-2 plays 10. The slice family
-  is the difference.
+ The slice is not one shot. The slice is a family: 7
+ variations, 1 grip. At 50+, the player who uses all 7 plays
+ 20 years. The player who uses 1-2 plays 10. The slice family
+ is the difference.
 ═══════════════════════════════════════════════════════════════
 ```

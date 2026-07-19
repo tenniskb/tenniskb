@@ -142,11 +142,11 @@ THE SERVE — QUICK REFERENCE
 
 5 CUES
 ------
-1. "Edge — above — turn"          Palm on edge, racket above hand, pronate
-2. "One — two"                     Hips fire first, then arm
-3. "Heavy weight pulling the arm"  Let the racket drop, don't pull it
-4. "Toss higher than feels right"  Give yourself time — ball's at peak when you hit
-5. "Brush, don't hit"              5-millisecond brush, not a slam
+1. "Edge — above — turn" Palm on edge, racket above hand, pronate
+2. "One — two" Hips fire first, then arm
+3. "Heavy weight pulling the arm" Let the racket drop, don't pull it
+4. "Toss higher than feels right" Give yourself time — ball's at peak when you hit
+5. "Brush, don't hit" 5-millisecond brush, not a slam
 
 5 WARNINGS
 ----------
@@ -158,10 +158,10 @@ THE SERVE — QUICK REFERENCE
 
 4 DRILLS
 --------
-1. Shadow Serve (no ball)              3x15, 3x/week
-2. Continental Palm-Plane Hold (wall)  10x5s, 5x/week
-3. Toss-Only Practice                  20 balls, 3x/week
-4. The 50% Serve (full court)          20 serves, 2x/week
+1. Shadow Serve (no ball) 3x15, 3x/week
+2. Continental Palm-Plane Hold (wall) 10x5s, 5x/week
+3. Toss-Only Practice 20 balls, 3x/week
+4. The 50% Serve (full court) 20 serves, 2x/week
 
 50+ RULES
 ---------

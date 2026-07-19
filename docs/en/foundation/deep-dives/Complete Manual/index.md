@@ -94,7 +94,7 @@ For the full picture — the L-shape/U-shape framework, ulnar deviation versus s
 
 ## Part 6 — Return of Serve
 
-The return is the second most important shot  and also the most under-practiced. Most recreational players react to the serve. The 3.5 player reads it. At 50+, the return is also the most joint-stressing moment in the rally — you're often off-balance, stretched, and reacting to pace. Survive first, attack later.
+The return is the second most important shot and also the most under-practiced. Most recreational players react to the serve. The 3.5 player reads it. At 50+, the return is also the most joint-stressing moment in the rally — you're often off-balance, stretched, and reacting to pace. Survive first, attack later.
 
 Three stances. Platform stance, both feet parallel, works for slow-to-medium serves where you have time to read — it's stable and makes the toss easier to read. Pinpoint stance, back foot stepping up to the front, suits fast serves and an attacking return, giving you forward momentum and a shorter swing. Hop return — split-step then attack — is for doubles and a return-and-volley play, giving you a quick first step and aggression.
 

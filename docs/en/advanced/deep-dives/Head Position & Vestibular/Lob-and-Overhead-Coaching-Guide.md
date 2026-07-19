@@ -101,33 +101,33 @@ The lob buys you time. The overhead cashes the time in.
 
 THE FOUR VERTICAL SITUATIONS
 1. Under pressure at baseline, opponent at net → Defensive lob (slice)
-2. At baseline, attacking a weak loopy ball    → Offensive lob (topspin) — for the brave
-3. Opponent hits you a high ball               → Sane Smash — track, position, turn, fall
-4. You're at net and can't pass                → Lob volley, or counter-overhead if there's time
+2. At baseline, attacking a weak loopy ball → Offensive lob (topspin) — for the brave
+3. Opponent hits you a high ball → Sane Smash — track, position, turn, fall
+4. You're at net and can't pass → Lob volley, or counter-overhead if there's time
 
 THE DEFENSIVE LOB
-Grip:        Continental
-Stance:      Open or semi-open
-Backswing:   High ("scratch your back")
-Contact:     In front, chest-to-shoulder height
-Swing path:  Low to high, with a shoulder shrug
-Aim:         3 feet inside the baseline, into the corner
+Grip: Continental
+Stance: Open or semi-open
+Backswing: High ("scratch your back")
+Contact: In front, chest-to-shoulder height
+Swing path: Low to high, with a shoulder shrug
+Aim: 3 feet inside the baseline, into the corner
 
 THE SANE SMASH
-Grip:          Continental
-Tracking:      Side-shuffle so the ball lands 1-2 ft in front of the lead foot
-Stance:        Serve-ready, trophy position, both arms up
-Contact:       Full extension, racket falling down through the ball
+Grip: Continental
+Tracking: Side-shuffle so the ball lands 1-2 ft in front of the lead foot
+Stance: Serve-ready, trophy position, both arms up
+Contact: Full extension, racket falling down through the ball
 Grip pressure: 3-4/10 — "fall, don't swing"
-Aim:           Cross-court by default
-Rule:          "Put it down," not "smash it"
+Aim: Cross-court by default
+Rule: "Put it down," not "smash it"
 
 THE LOB VOLLEY
-Grip:      Continental
-Contact:   High — shoulder height or above, never lower
-Face:      Open, almost vertical
-Aim:       Deep, into the corner
-Recovery:  Forward to the net, never retreat
+Grip: Continental
+Contact: High — shoulder height or above, never lower
+Face: Open, almost vertical
+Aim: Deep, into the corner
+Recovery: Forward to the net, never retreat
 
 THE 50+ RULES
 - Sane Smash: gravity does the work, no muscle needed

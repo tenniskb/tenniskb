@@ -38,7 +38,7 @@ A drill worth building. The Random "Now!": stand on the baseline in ready positi
 
 ## The Four Moves
 
-These four moves cover roughly 95% of all movement you'll actually need  and the order you learn them in matters — each one builds on the one before it. Master the lateral hop first, drill recovery daily from the start, and let the drop step and cross-over come later, once the foundation is solid.
+These four moves cover roughly 95% of all movement you'll actually need and the order you learn them in matters — each one builds on the one before it. Master the lateral hop first, drill recovery daily from the start, and let the drop step and cross-over come later, once the foundation is solid.
 
 The lateral hop, or shuffle, handles balls landing 1 to 3 meters to your side. Both feet move together — one pushes off, the other lands — while you stay low, knees bent, weight on the balls of your feet. Most 3.5 players get this one wrong in one of two ways: either crossing their feet, one stepping over the other, or taking one giant stride instead of several small ones. Both kill your lateral speed. The rule to hold onto: feet never cross, each step stays shoulder-width or less, and your body stays square to the net the whole time. For a forehand to your right, lead with the right foot, pushing off the left, land on the left, push off the right again — two feet moving like a windshield wiper. Worth building: the Lateral Ladder drill. Place two lines of cones (or just use the court lines) four meters apart, and shuffle side to side touching each line with your foot — six touches counts as one rep, five reps per set, three sets total, thirty seconds rest between sets. You're training light feet that never cross.
 
@@ -68,69 +68,69 @@ If there's one rule to take from this whole guide, it's this: smart beats fast, 
 
 ```
 ═══════════════════════════════════════════════════════════════
-  FOOTWORK — 1-PAGE CHEAT SHEET
+ FOOTWORK — 1-PAGE CHEAT SHEET
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: Footwork is a STATE, not a sprint.
-  Feet IDLING, never PARKED. Always loose, always ready.
+ THE BIG IDEA: Footwork is a STATE, not a sprint.
+ Feet IDLING, never PARKED. Always loose, always ready.
 
-  ─────────────────────────────────────────────────────────────
-  READY POSITION
-  ─────────────────────────────────────────────────────────────
-  • Stance:       Staggered, NOT parallel
-  • One heel up:  Back foot lifted 1-2 cm
-  • Weight:       Balls of feet, NOT heels
-  • Lean:         Forward at ANKLES, not waist
-  • COG:          5-10° forward — "hunter stance"
-  • Feet width:   Slightly wider than shoulders
+ ─────────────────────────────────────────────────────────────
+ READY POSITION
+ ─────────────────────────────────────────────────────────────
+ • Stance: Staggered, NOT parallel
+ • One heel up: Back foot lifted 1-2 cm
+ • Weight: Balls of feet, NOT heels
+ • Lean: Forward at ANKLES, not waist
+ • COG: 5-10° forward — "hunter stance"
+ • Feet width: Slightly wider than shoulders
 
-  ─────────────────────────────────────────────────────────────
-  THE SPLIT-STEP
-  ─────────────────────────────────────────────────────────────
-  • When:         Racket head starts moving FORWARD
-  • Size:         1-3 cm hop, NOT a jump
-  • Land:         Balls of feet, knees bent
-  • Hold:         1-2 tenths of a second — READ the ball
-  • Then:         Explode in the chosen direction
-  • Gift:         +200-300ms of reaction time, free
+ ─────────────────────────────────────────────────────────────
+ THE SPLIT-STEP
+ ─────────────────────────────────────────────────────────────
+ • When: Racket head starts moving FORWARD
+ • Size: 1-3 cm hop, NOT a jump
+ • Land: Balls of feet, knees bent
+ • Hold: 1-2 tenths of a second — READ the ball
+ • Then: Explode in the chosen direction
+ • Gift: +200-300ms of reaction time, free
 
-  ─────────────────────────────────────────────────────────────
-  THE FOUR MOVES
-  ─────────────────────────────────────────────────────────────
-  • LATERAL HOP:  1-3 m to the side, windshield wiper, no crossing
-  • DROP STEP:    3-5 m wide/deep, plant + 180° pivot + sprint
-  • CROSS-OVER:   5+ m, inside foot crosses (use sparingly past 50)
-  • RECOVERY:     3 automatic steps back to center, every shot
+ ─────────────────────────────────────────────────────────────
+ THE FOUR MOVES
+ ─────────────────────────────────────────────────────────────
+ • LATERAL HOP: 1-3 m to the side, windshield wiper, no crossing
+ • DROP STEP: 3-5 m wide/deep, plant + 180° pivot + sprint
+ • CROSS-OVER: 5+ m, inside foot crosses (use sparingly past 50)
+ • RECOVERY: 3 automatic steps back to center, every shot
 
-  ─────────────────────────────────────────────────────────────
-  THE 10 CUES
-  ─────────────────────────────────────────────────────────────
-  1.  "Balls of feet"        6.  "Windshield wiper"
-  2.  "One heel up"          7.  "Turn and chase"
-  3.  "Stagger, not square"  8.  "Three steps home"
-  4.  "Hop on contact"       9.  "Knees, not back"
-  5.  "Hold and read"        10. "Forever hunting"
+ ─────────────────────────────────────────────────────────────
+ THE 10 CUES
+ ─────────────────────────────────────────────────────────────
+ 1. "Balls of feet" 6. "Windshield wiper"
+ 2. "One heel up" 7. "Turn and chase"
+ 3. "Stagger, not square" 8. "Three steps home"
+ 4. "Hop on contact" 9. "Knees, not back"
+ 5. "Hold and read" 10. "Forever hunting"
 
-  ─────────────────────────────────────────────────────────────
-  THE 6 DRILLS
-  ─────────────────────────────────────────────────────────────
-  1.  Staggered stance check   5 min, daily
-  2.  Mirror split-step        20 reps, 3x/week
-  3.  Lateral ladder           3 sets x 5 reps, 2x/week
-  4.  Cone drop                3 sets x 5 cones, 2x/week
-  5.  3-step reset             3 sets x 10 balls, 2x/week
-  6.  Triangle drill           5 reps, 1x/week (point simulation)
+ ─────────────────────────────────────────────────────────────
+ THE 6 DRILLS
+ ─────────────────────────────────────────────────────────────
+ 1. Staggered stance check 5 min, daily
+ 2. Mirror split-step 20 reps, 3x/week
+ 3. Lateral ladder 3 sets x 5 reps, 2x/week
+ 4. Cone drop 3 sets x 5 cones, 2x/week
+ 5. 3-step reset 3 sets x 10 balls, 2x/week
+ 6. Triangle drill 5 reps, 1x/week (point simulation)
 
-  ─────────────────────────────────────────────────────────────
-  THE 50+ RULE
-  ─────────────────────────────────────────────────────────────
-  Smart beats fast. Always.
-  Early + small steps beats late + sprint.
-  Smart + early + small = low heart rate, healthy joints,
-                           a match that lasts 3 hours, not 90 min.
+ ─────────────────────────────────────────────────────────────
+ THE 50+ RULE
+ ─────────────────────────────────────────────────────────────
+ Smart beats fast. Always.
+ Early + small steps beats late + sprint.
+ Smart + early + small = low heart rate, healthy joints,
+ a match that lasts 3 hours, not 90 min.
 
 ═══════════════════════════════════════════════════════════════
-  Print this. Tape it in your bag. Look at it before every match.
+ Print this. Tape it in your bag. Look at it before every match.
 ═══════════════════════════════════════════════════════════════
 ```
 

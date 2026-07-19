@@ -133,32 +133,32 @@ If you only take one technique from this whole series, take this one. It uses yo
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THE LOCKED-SHOULDER AXIS — QUICK REFERENCE
+ THE LOCKED-SHOULDER AXIS — QUICK REFERENCE
 ═══════════════════════════════════════════════════════════════
 
-  THE RULE (forehand)
-    1. Solid = left shoulder (away from racket)
-    2. Free = right shoulder (on racket side)
-    3. Switch for backhand
+ THE RULE (forehand)
+ 1. Solid = left shoulder (away from racket)
+ 2. Free = right shoulder (on racket side)
+ 3. Switch for backhand
 
-  THE THREE TIERS
-    4. Top stable (chest + locked shoulder)
-    5. Middle soft (waist + loose hips)
-    6. Bottom springy (back leg coiled)
+ THE THREE TIERS
+ 4. Top stable (chest + locked shoulder)
+ 5. Middle soft (waist + loose hips)
+ 6. Bottom springy (back leg coiled)
 
-  THE KINETIC CHAIN
-    7. Hips → chest → arms → racket
-    8. Don't break the chain
+ THE KINETIC CHAIN
+ 7. Hips → chest → arms → racket
+ 8. Don't break the chain
 
-  THE 50+ CHECK
-    9. Wall test: lower back stays on the wall
-    10. Towel test: towel doesn't fall during the swing
+ THE 50+ CHECK
+ 9. Wall test: lower back stays on the wall
+ 10. Towel test: towel doesn't fall during the swing
 
-  STOP AND RESET IF:
-    • Lower back leaves the wall during rotation
-    • Towel falls from your armpit (you "swung" the locked side)
-    • Both shoulders try to swing at once
-    • Back leg straightens before contact (you lost the spring)
+ STOP AND RESET IF:
+ • Lower back leaves the wall during rotation
+ • Towel falls from your armpit (you "swung" the locked side)
+ • Both shoulders try to swing at once
+ • Back leg straightens before contact (you lost the spring)
 
 ═══════════════════════════════════════════════════════════════
 ```

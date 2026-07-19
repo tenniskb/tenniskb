@@ -107,23 +107,23 @@ If racket embodiment is the single most important skill for a 50+ player, it's b
 RACKET EMBODIMENT — CHEAT SHEET
 
 THE 3 LEVELS
-  1. Feel the ground (barefoot)
-  2. Feel the racket (no power)
-  3. See-move, not see-think-move
+ 1. Feel the ground (barefoot)
+ 2. Feel the racket (no power)
+ 3. See-move, not see-think-move
 
 THE 2-SECOND PAUSE
-  4. After every good shot: 2 sec of feel
-  5. Build the feel library
+ 4. After every good shot: 2 sec of feel
+ 5. Build the feel library
 
 THE 50+ EDGE
-  6. Train proprioception, not vision
-  7. Older body, wiser feel
+ 6. Train proprioception, not vision
+ 7. Older body, wiser feel
 
 STOP AND RESET IF:
-  - You finish a session and can't remember any shot
-  - You "decide" before you move (mechanical)
-  - You grip the racket like a hammer, not a finger
-  - You skip the 2-second pause just to hit more balls
+ - You finish a session and can't remember any shot
+ - You "decide" before you move (mechanical)
+ - You grip the racket like a hammer, not a finger
+ - You skip the 2-second pause just to hit more balls
 ```
 
 You now have a complete system across all four deep dives. Read them in order, practice the drills, and after about four weeks you should feel the difference — not in your head, but in your hand.

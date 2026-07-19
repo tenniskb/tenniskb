@@ -38,7 +38,7 @@ This the chapter worth screenshotting and taping inside your racket cover — on
 
 On a topspin forehand, pressure runs 4 through the swing up to 8 at impact — the L-angle in your arm does the actual work; the hand just catches it. A two-handed backhand mirrors that exactly: 4 to 8, since both hands share the load and neither one needs to squeeze hard. A one-handed backhand needs slightly more freedom through the swing, sitting closer to 3, still spiking to 8 at contact. The slice backhand runs 3 through the swing to 9 at impact, but that 9 is fingers only — soft hands, firm contact is the whole idea; the hand itself stays loose while the fingers close.
 
-At net, a punch volley runs 2 to 7 — Keep this in mind:  a volley is a block, not a swing, and the calm zone wins here more than almost anywhere else. A pure block volley runs even lower, 1 to 6 — maximum calm, since the ball's own pace supplies your power. A drop volley runs lower still, 1 to 5 — the looser your hand, the softer the drop; a death grip here just produces an unwanted pop-up. A half-volley, arguably the trickiest contact point in the sport, runs 2 to 7 — don't tighten up, trust the L-angle to do its job.
+At net, a punch volley runs 2 to 7 — Keep this in mind: a volley is a block, not a swing, and the calm zone wins here more than almost anywhere else. A pure block volley runs even lower, 1 to 6 — maximum calm, since the ball's own pace supplies your power. A drop volley runs lower still, 1 to 5 — the looser your hand, the softer the drop; a death grip here just produces an unwanted pop-up. A half-volley, arguably the trickiest contact point in the sport, runs 2 to 7 — don't tighten up, trust the L-angle to do its job.
 
 On returns, a block return runs just 1 to 7 — yield to the pace, let the racket cushion the blow rather than fighting it. A chip return runs 2 to 8, with the fingers firming up at impact for that slight underspin. A drive return runs 3 to 8 — use the incoming pace rather than fighting it, essentially treated the same as a forehand.
 
@@ -97,61 +97,61 @@ If there's one rule above the rest here: your grip pressure is the one tennis va
 
 ```
 ═══════════════════════════════════════════════════════════════
-  GRIP PRESSURE — MASTER CUE CARD
+ GRIP PRESSURE — MASTER CUE CARD
 ═══════════════════════════════════════════════════════════════
 
-  ONE BIG IDEA:
-     Pressure is a dial, not a switch.
-     Calm → spike → release. Every shot, every time.
+ ONE BIG IDEA:
+ Pressure is a dial, not a switch.
+ Calm → spike → release. Every shot, every time.
 
-  ───────────────────────────────────────────────────────────
-  KEY CUES
-  ───────────────────────────────────────────────────────────
-  • "Hold the bird, catch the ball"
-  • "Calm hand, fierce catch"
-  • "Drop the head, find the head"
-  • "Ear before eye"
+ ───────────────────────────────────────────────────────────
+ KEY CUES
+ ───────────────────────────────────────────────────────────
+ • "Hold the bird, catch the ball"
+ • "Calm hand, fierce catch"
+ • "Drop the head, find the head"
+ • "Ear before eye"
 
-  ───────────────────────────────────────────────────────────
-  THE TWO-ZONE RULE
-  ───────────────────────────────────────────────────────────
-  CALM ZONE (1-4):   walk, setup, backswing, follow-through
-  STRIKE ZONE (6-9):  only the ~100ms around impact
+ ───────────────────────────────────────────────────────────
+ THE TWO-ZONE RULE
+ ───────────────────────────────────────────────────────────
+ CALM ZONE (1-4): walk, setup, backswing, follow-through
+ STRIKE ZONE (6-9): only the ~100ms around impact
 
-  ───────────────────────────────────────────────────────────
-  SOUND DIAGNOSIS
-  ───────────────────────────────────────────────────────────
-  "pực"  = clean topspin (good)
-  "bịch" = clean block (good)
-  "phập" = clean slice (good)
-  "bộp"  = flat punch (too tight!)
-  "cốc"  = fighting the pace (too tight!)
-  "két"  = frame shank (death grip)
+ ───────────────────────────────────────────────────────────
+ SOUND DIAGNOSIS
+ ───────────────────────────────────────────────────────────
+ "pực" = clean topspin (good)
+ "bịch" = clean block (good)
+ "phập" = clean slice (good)
+ "bộp" = flat punch (too tight!)
+ "cốc" = fighting the pace (too tight!)
+ "két" = frame shank (death grip)
 
-  ───────────────────────────────────────────────────────────
-  THE NEVER-ABOVE LINES
-  ───────────────────────────────────────────────────────────
-  Volley:        5/10 before impact, 8/10 at impact
-  Block return:  3/10 before impact, 7/10 at impact
-  Slice:         5/10 before impact, 9/10 at impact (fingers only)
+ ───────────────────────────────────────────────────────────
+ THE NEVER-ABOVE LINES
+ ───────────────────────────────────────────────────────────
+ Volley: 5/10 before impact, 8/10 at impact
+ Block return: 3/10 before impact, 7/10 at impact
+ Slice: 5/10 before impact, 9/10 at impact (fingers only)
 
-  ───────────────────────────────────────────────────────────
-  TOP MISTAKE
-  ───────────────────────────────────────────────────────────
-  Living in the Strike Zone from the moment you see the
-  ball. By impact, the hand has nothing left to give.
+ ───────────────────────────────────────────────────────────
+ TOP MISTAKE
+ ───────────────────────────────────────────────────────────
+ Living in the Strike Zone from the moment you see the
+ ball. By impact, the hand has nothing left to give.
 
-  ───────────────────────────────────────────────────────────
-  ONE DRILL TO START WITH
-  ───────────────────────────────────────────────────────────
-  The Pencil Drill — 5 minutes. Hit 20 balls holding the
-  racket as if it were a pencil. Calibrate "low pressure"
-  before you trust "high."
+ ───────────────────────────────────────────────────────────
+ ONE DRILL TO START WITH
+ ───────────────────────────────────────────────────────────
+ The Pencil Drill — 5 minutes. Hit 20 balls holding the
+ racket as if it were a pencil. Calibrate "low pressure"
+ before you trust "high."
 
-  ───────────────────────────────────────────────────────────
-  MASTER CUE
-  ───────────────────────────────────────────────────────────
-  "Loose trophy, fierce catch."
+ ───────────────────────────────────────────────────────────
+ MASTER CUE
+ ───────────────────────────────────────────────────────────
+ "Loose trophy, fierce catch."
 ═══════════════════════════════════════════════════════════════
 ```
 

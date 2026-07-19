@@ -1,4 +1,4 @@
-# Kỷ Luật Tự Huấn Luyện — Kỹ Sư Trong Gương
+# Kỷ Luật Tự Huấn Luyện — chuyên gia hệ thống Trong Gương
 
 *4 trụ cột của tự huấn luyện, và đánh giá 5 câu hỏi hàng tuần của bạn.*
 
@@ -94,49 +94,49 @@ In cái này ra. Điền vào mỗi tuần.
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THẺ KỶ LUẬT TỰ HUẤN LUYỆN — 4 TRỤ CỦA BẠN
+ THẺ KỶ LUẬT TỰ HUẤN LUYỆN — 4 TRỤ CỦA BẠN
 ═══════════════════════════════════════════════════════════════
 
-  TRỤ 1 — NHẬT KÝ HÀNG NGÀY (5 dòng, 5 phút)
-  ─────────────────────────────────────────────────────────────
-  1. Ngày / Hoạt động: _____________________________________
-  2. Tiêu điểm: ____________________________________________
-  3. Tỷ lệ thành công: ____%
-  4. Nhận thấy: ____________________________________________
-  5. Điều chỉnh ngày mai: __________________________________
+ TRỤ 1 — NHẬT KÝ HÀNG NGÀY (5 dòng, 5 phút)
+ ─────────────────────────────────────────────────────────────
+ 1. Ngày / Hoạt động: _____________________________________
+ 2. Tiêu điểm: ____________________________________________
+ 3. Tỷ lệ thành công: ____%
+ 4. Nhận thấy: ____________________________________________
+ 5. Điều chỉnh ngày mai: __________________________________
 
-  TRỤ 2 — HỆ VIDEO
-  ─────────────────────────────────────────────────────────────
-  Tần suất: ___/tuần (tối thiểu 1)
-  Cài fps camera: ____ (240 lý tưởng)
-  Đánh giá video cuối: ____/____
+ TRỤ 2 — HỆ VIDEO
+ ─────────────────────────────────────────────────────────────
+ Tần suất: ___/tuần (tối thiểu 1)
+ Cài fps camera: ____ (240 lý tưởng)
+ Đánh giá video cuối: ____/____
 
-  TRỤ 3 — MỤC TIÊU SMART (chu kỳ 21 ngày)
-  ─────────────────────────────────────────────────────────────
-  Mục tiêu hiện tại: _______________________________________
-  Cụ thể: __________________________________________________
-  Đo được: _________________________________________________
-  Ngày ___ / 21
+ TRỤ 3 — MỤC TIÊU SMART (chu kỳ 21 ngày)
+ ─────────────────────────────────────────────────────────────
+ Mục tiêu hiện tại: _______________________________________
+ Cụ thể: __________________________________________________
+ Đo được: _________________________________________________
+ Ngày ___ / 21
 
-  TRỤ 4 — ĐÁNH GIÁ 5 CÂU HỎI HÀNG TUẦN
-  ─────────────────────────────────────────────────────────────
-  C1 Điều hoạt động: _______________________________________
-  C2 Điều không hoạt động: _________________________________
-  C3 Hiểu biết cơ thể: _____________________________________
-  C4 Chỉ số 5.0+: __________________________________________
-  C5 Tiêu điểm tuần tới: ___________________________________
+ TRỤ 4 — ĐÁNH GIÁ 5 CÂU HỎI HÀNG TUẦN
+ ─────────────────────────────────────────────────────────────
+ C1 Điều hoạt động: _______________________________________
+ C2 Điều không hoạt động: _________________________________
+ C3 Hiểu biết cơ thể: _____________________________________
+ C4 Chỉ số 5.0+: __________________________________________
+ C5 Tiêu điểm tuần tới: ___________________________________
 
-  ─────────────────────────────────────────────────────────────
-  NĂM THẤT BẠI CẦN TRÁNH
-  ─────────────────────────────────────────────────────────────
-  □ Bỏ nhật ký vào ngày tốt
-  □ Xem video để xác nhận, không phải khám phá
-  □ Đặt mục tiêu quá tham vọng
-  □ Bỏ đánh giá hàng tuần
-  □ Tự phê bình khoác áo tự huấn luyện
+ ─────────────────────────────────────────────────────────────
+ NĂM THẤT BẠI CẦN TRÁNH
+ ─────────────────────────────────────────────────────────────
+ □ Bỏ nhật ký vào ngày tốt
+ □ Xem video để xác nhận, không phải khám phá
+ □ Đặt mục tiêu quá tham vọng
+ □ Bỏ đánh giá hàng tuần
+ □ Tự phê bình khoác áo tự huấn luyện
 
-  CÂU NHẮC TỔNG:
-  "Kỷ luật, không tâm trạng. Dữ liệu, không phán xét."
+ CÂU NHẮC TỔNG:
+ "Kỷ luật, không tâm trạng. Dữ liệu, không phán xét."
 
 ═══════════════════════════════════════════════════════════════
 ```
@@ -145,23 +145,18 @@ Và phiên bản bỏ túi, để liếc nhanh hàng ngày:
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THẺ KỶ LUẬT TỰ HUẤN LUYỆN — 4 TRỤ CỦA BẠN
+ THẺ KỶ LUẬT TỰ HUẤN LUYỆN — 4 TRỤ CỦA BẠN
 ═══════════════════════════════════════════════════════════════
-  HÀNG NGÀY: Nhật ký 5 dòng (5 phút).
-  VIDEO: ___/tuần, 240fps lý tưởng.
-  MỤC TIÊU: Chu kỳ SMART 21-ngày. Ngày ___/21.
-  HÀNG TUẦN: Đánh giá 5 câu hỏi, Chủ Nhật.
+ HÀNG NGÀY: Nhật ký 5 dòng (5 phút).
+ VIDEO: ___/tuần, 240fps lý tưởng.
+ MỤC TIÊU: Chu kỳ SMART 21-ngày. Ngày ___/21.
+ HÀNG TUẦN: Đánh giá 5 câu hỏi, Chủ Nhật.
 
-  "Kỷ luật, không tâm trạng. Dữ liệu, không phán xét."
+ "Kỷ luật, không tâm trạng. Dữ liệu, không phán xét."
 ═══════════════════════════════════════════════════════════════
 ```
 
 ## Lời Cuối
 
 Một huấn luyện viên là người khiến bạn giỏi hơn. Một người tự huấn luyện là người khiến chính họ giỏi hơn. Mọi công cụ trong toàn bộ thư viện này — tone, myelin, các mô hình cú vung, áp lực, Kình, khung CLA, tốc độ, chunk — chỉ hiệu quả bằng kỷ luật thực sự đưa nó vào sử dụng. Bốn trụ cột ở đây không phải phần thêm tùy chọn nằm trên mọi thứ khác. Chúng là hệ điều hành mà người chơi 5.0+ chạy trên đó. Không có chúng, bạn có mười ba công cụ thực sự tuyệt vời mà bạn cứ quên lấy ra dùng. Có chúng, bạn có một hệ thống tiếp tục tự cải thiện ngay cả vào những ngày bạn không cảm thấy muốn xuất hiện cho nó.
-
-Hẹn gặp trên sân, kỹ sư.
-
 ---
-
-Nguồn: Tennis Research – Neuro Athletics với Kwen-Ollama (Chương 12 — phác đồ tự huấn luyện, mô hình "CEO Thầm Lặng," vòng lặp video-cộng-nhật ký-cộng-phản chiếu); Tennis Research với Kwen-Ollama (Chương 19 — tích hợp tự huấn luyện với mọi hệ thống trước đó, mục tiêu SMART áp dụng cho tennis, đánh giá 5 câu hỏi hàng tuần); Advanced Tennis Kinetic-Chain Manual (tự huấn luyện và định kỳ hóa dựa trên sinh học, mẫu mục tiêu SMART); Locke & Latham (2002) — *Building a Practically Useful Theory of Goal Setting*, nền tảng của khung SMART.

@@ -96,7 +96,7 @@ Nếu bạn chơi ở tuổi ngoài 50, hãy dùng cross-over một cách tiết
 
 Sau mỗi cú đánh, cơ thể bạn phải trở về vị trí trung tâm phía sau quả bóng bạn vừa đánh. Đó là recovery, và nó không thể thương lượng. Đa số người chơi trình 3.5 đứng yên và ngắm cú đánh của chính mình — và đó là lý do số một khiến họ luôn chậm một bước với quả bóng tiếp theo. Điểm vẫn đang diễn ra. Đối thủ đã đánh trả. Còn họ thì đứng đó ngắm nghía cú forehand của mình.
 
-Ba bước đầu tiên sau cú đánh nên diễn ra tự động — bước ngang, cross-over, bước ngang, tự reset mà không cần suy nghĩ. Hãy hình dung một võ sĩ quyền anh trở về tư thế ngay sau khi tung một cú đấm. Trong thái cực, đây là *Hoàn Thủ* (還手) — "trở về trung tâm." Mọi chuyển động đều trở về nguồn của nó: tay trở về, chân trở về, hơi thở trở về.
+Ba bước đầu tiên sau cú đánh nên diễn ra tự động — bước ngang, cross-over, bước ngang, tự reset mà không cần suy nghĩ. Hãy hình dung một võ sĩ quyền bạn trở về tư thế ngay sau khi tung một cú đấm. Trong thái cực, đây là *Hoàn Thủ* (還手) — "trở về trung tâm." Mọi chuyển động đều trở về nguồn của nó: tay trở về, chân trở về, hơi thở trở về.
 
 Thử bài tập này — Reset 3 Bước: Nhờ một người bạn ném cho bạn 10 quả bóng liên tiếp từ vạch cuối sân bên kia. Sau mỗi cú đánh, bạn phải bước 3 bước về trung tâm trước khi quả bóng tiếp theo tới. Bạn của bạn hô "Reset!" nếu bắt gặp bạn đứng yên. Ba vòng, mỗi vòng 10 bóng. Mục tiêu là khiến việc recovery trở nên không thể thương lượng, đúng như bản chất của nó.
 
@@ -170,99 +170,99 @@ Và đây là quy tắc duy nhất tôi muốn bạn giữ lại dù có quên h
 
 ```
 Giữa các điểm:
-  ☐ Tư thế so le (một chân hơi tới trước)
-  ☐ Gót chân sau nhấc 1-2 cm
-  ☐ Trọng lượng trên mũi chân
-  ☐ Nghiêng về trước ở cổ chân, không phải thắt lưng
+ Tư thế so le (một chân hơi tới trước)
+ Gót chân sau nhấc 1-2 cm
+ Trọng lượng trên mũi chân
+ Nghiêng về trước ở cổ chân, không phải thắt lưng
 
 Khi đối thủ chuẩn bị đánh:
-  ☐ Nhìn đầu vợt, không phải cơ thể
-  ☐ Sẵn sàng split-step
+ Nhìn đầu vợt, không phải cơ thể
+ Sẵn sàng split-step
 
 Khi đối thủ đánh bóng:
-  ☐ Nhún nhẹ, cả hai chân rời mặt đất
-  ☐ Tiếp đất trên mũi chân, đầu gối mềm
-  ☐ GIỮ tư thế tiếp đất (1-2 phần mười giây)
+ Nhún nhẹ, cả hai chân rời mặt đất
+ Tiếp đất trên mũi chân, đầu gối mềm
+ GIỮ tư thế tiếp đất (1-2 phần mười giây)
 
 Khi hướng bóng đã rõ:
-  ☐ Bước đầu tiên theo hướng đã chọn
-  ☐ Trượt cho bóng gần, drop step cho bóng xa
-  ☐ Đánh bóng
+ Bước đầu tiên theo hướng đã chọn
+ Trượt cho bóng gần, drop step cho bóng xa
+ Đánh bóng
 
 Sau mỗi cú đánh:
-  ☐ 3 bước tự động trở về trung tâm
-  ☐ Tư thế so le
-  ☐ Sẵn sàng cho quả bóng tiếp theo
+ 3 bước tự động trở về trung tâm
+ Tư thế so le
+ Sẵn sàng cho quả bóng tiếp theo
 ```
 
 ## Bảng Tóm Tắt 1 Trang
 
 ```
 ═══════════════════════════════════════════════════════════════
-              DI CHUYỂN — BẢNG TÓM TẮT 1 TRANG
+ DI CHUYỂN — BẢNG TÓM TẮT 1 TRANG
 ═══════════════════════════════════════════════════════════════
 
-  Ý TƯỞNG LỚN: Footwork là một TRẠNG THÁI, không phải cuộc chạy.
-                "Thường Tùng" — luôn lỏng, luôn sẵn sàng.
-                Chân luôn NỔ MÁY CHỜ, không bao giờ ĐẬU.
+ Ý TƯỞNG LỚN: Footwork là một TRẠNG THÁI, không phải cuộc chạy.
+ "Thường Tùng" — luôn lỏng, luôn sẵn sàng.
+ Chân luôn NỔ MÁY CHỜ, không bao giờ ĐẬU.
 
-  ─────────────────────────────────────────────────────────────
-  TƯ THẾ SẴN SÀNG
-  ─────────────────────────────────────────────────────────────
-  • Tư thế:        So le, KHÔNG song song
-  • Một gót nhấc:  Chân sau nhấc 1-2 cm
-  • Trọng lượng:   Mũi chân, KHÔNG phải gót
-  • Nghiêng:       Ở CỔ CHÂN, không phải thắt lưng
-  • Trọng tâm:     Nghiêng 5-10° — "Tư thế thợ săn"
-  • Độ rộng chân:  Hơi rộng hơn vai
+ ─────────────────────────────────────────────────────────────
+ TƯ THẾ SẴN SÀNG
+ ─────────────────────────────────────────────────────────────
+ • Tư thế: So le, KHÔNG song song
+ • Một gót nhấc: Chân sau nhấc 1-2 cm
+ • Trọng lượng: Mũi chân, KHÔNG phải gót
+ • Nghiêng: Ở CỔ CHÂN, không phải thắt lưng
+ • Trọng tâm: Nghiêng 5-10° — "Tư thế thợ săn"
+ • Độ rộng chân: Hơi rộng hơn vai
 
-  ─────────────────────────────────────────────────────────────
-  SPLIT-STEP
-  ─────────────────────────────────────────────────────────────
-  • Khi nào:       Đầu vợt bắt đầu hướng VỀ TRƯỚC
-  • Kích thước:    Nhún 1-3 cm, KHÔNG phải nhảy
-  • Tiếp đất:      Mũi chân, đầu gối gập
-  • Giữ:           1-2 phần mười giây — ĐỌC hướng bóng
-  • Sau đó:        BÙNG NỔ theo hướng đã chọn
-  • Món quà:       +200-300ms thời gian phản ứng (miễn phí)
+ ─────────────────────────────────────────────────────────────
+ SPLIT-STEP
+ ─────────────────────────────────────────────────────────────
+ • Khi nào: Đầu vợt bắt đầu hướng VỀ TRƯỚC
+ • Kích thước: Nhún 1-3 cm, KHÔNG phải nhảy
+ • Tiếp đất: Mũi chân, đầu gối gập
+ • Giữ: 1-2 phần mười giây — ĐỌC hướng bóng
+ • Sau đó: BÙNG NỔ theo hướng đã chọn
+ • Món quà: +200-300ms thời gian phản ứng (miễn phí)
 
-  ─────────────────────────────────────────────────────────────
-  BỐN BƯỚC DI CHUYỂN
-  ─────────────────────────────────────────────────────────────
-  • LATERAL HOP:   1-3 m sang bên, cần gạt nước, không bắt chéo
-  • DROP STEP:     3-5 m xa/sâu, cắm + xoay 180° + chạy
-  • CROSS-OVER:    5+ m, chân trong bắt chéo (dùng ít ở tuổi 50+)
-  • RECOVERY:      3 bước tự động về trung tâm sau mỗi cú đánh
+ ─────────────────────────────────────────────────────────────
+ BỐN BƯỚC DI CHUYỂN
+ ─────────────────────────────────────────────────────────────
+ • LATERAL HOP: 1-3 m sang bên, cần gạt nước, không bắt chéo
+ • DROP STEP: 3-5 m xa/sâu, cắm + xoay 180° + chạy
+ • CROSS-OVER: 5+ m, chân trong bắt chéo (dùng ít ở tuổi 50+)
+ • RECOVERY: 3 bước tự động về trung tâm sau mỗi cú đánh
 
-  ─────────────────────────────────────────────────────────────
-  10 TÍN HIỆU
-  ─────────────────────────────────────────────────────────────
-  1. "Mũi chân"           6. "Như cần gạt nước"
-  2. "Một gót nhấc"       7. "Xoay và truy"
-  3. "So le, không vuông" 8. "Ba bước về nhà"
-  4. "Nhún khi chạm"      9. "Gối, không lưng"
-  5. "Giữ và đọc"        10. "Mãi mãi thợ săn"
+ ─────────────────────────────────────────────────────────────
+ 10 TÍN HIỆU
+ ─────────────────────────────────────────────────────────────
+ 1. "Mũi chân" 6. "Như cần gạt nước"
+ 2. "Một gót nhấc" 7. "Xoay và truy"
+ 3. "So le, không vuông" 8. "Ba bước về nhà"
+ 4. "Nhún khi chạm" 9. "Gối, không lưng"
+ 5. "Giữ và đọc" 10. "Mãi mãi thợ săn"
 
-  ─────────────────────────────────────────────────────────────
-  6 BÀI TẬP
-  ─────────────────────────────────────────────────────────────
-  1. Kiểm tra tư thế so le    5 phút, mỗi ngày
-  2. Split-step trước gương  20 lần, 3x/tuần
-  3. Thang trượt ngang       3 vòng × 5 hiệp, 2x/tuần
-  4. Cọc drop                3 vòng × 5 cọc, 2x/tuần
-  5. Reset 3 bước            3 vòng × 10 bóng, 2x/tuần
-  6. Bài tập tam giác        5 lần, 1x/tuần (mô phỏng điểm)
+ ─────────────────────────────────────────────────────────────
+ 6 BÀI TẬP
+ ─────────────────────────────────────────────────────────────
+ 1. Kiểm tra tư thế so le 5 phút, mỗi ngày
+ 2. Split-step trước gương 20 lần, 3x/tuần
+ 3. Thang trượt ngang 3 vòng × 5 hiệp, 2x/tuần
+ 4. Cọc drop 3 vòng × 5 cọc, 2x/tuần
+ 5. Reset 3 bước 3 vòng × 10 bóng, 2x/tuần
+ 6. Bài tập tam giác 5 lần, 1x/tuần (mô phỏng điểm)
 
-  ─────────────────────────────────────────────────────────────
-  QUY TẮC TUỔI 50+
-  ─────────────────────────────────────────────────────────────
-  Thông minh luôn đánh bại nhanh.
-  Sớm + bước nhỏ đánh bại muộn + chạy nước rút.
-  Thông minh + sớm + nhỏ = nhịp tim thấp, khớp khỏe,
-                          trận đấu kéo 3 tiếng, không phải 90 phút.
+ ─────────────────────────────────────────────────────────────
+ QUY TẮC TUỔI 50+
+ ─────────────────────────────────────────────────────────────
+ Thông minh luôn đánh bại nhanh.
+ Sớm + bước nhỏ đánh bại muộn + chạy nước rút.
+ Thông minh + sớm + nhỏ = nhịp tim thấp, khớp khỏe,
+ trận đấu kéo 3 tiếng, không phải 90 phút.
 
 ═══════════════════════════════════════════════════════════════
-  In ra. Dán vào túi vợt. Nhìn nó trước mỗi trận đấu.
+ In ra. Dán vào túi vợt. Nhìn nó trước mỗi trận đấu.
 ═══════════════════════════════════════════════════════════════
 ```
 

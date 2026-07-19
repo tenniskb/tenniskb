@@ -165,57 +165,57 @@ The single biggest thing to take from all of this: the Continental isn't just "a
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THE CONTINENTAL GRIP — QUICK REFERENCE
+ THE CONTINENTAL GRIP — QUICK REFERENCE
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA
-  One grip, nine shots, four protected joints.
-  The 3-phase pressure (2-3 → 3-4 → 7-9) saves your forearm.
+ THE BIG IDEA
+ One grip, nine shots, four protected joints.
+ The 3-phase pressure (2-3 → 3-4 → 7-9) saves your forearm.
 
-  ───────────────────────────────────────────────────────────
-  THE NINE SHOTS
-  ───────────────────────────────────────────────────────────
-  1. Forehand volley     4. Backhand slice      7. Defensive lob
-  2. Backhand volley     5. Serve               8. Drop shot
-  3. Forehand slice      6. Overhead            9. Slice approach
-                                                +1. Return of serve
+ ───────────────────────────────────────────────────────────
+ THE NINE SHOTS
+ ───────────────────────────────────────────────────────────
+ 1. Forehand volley 4. Backhand slice 7. Defensive lob
+ 2. Backhand volley 5. Serve 8. Drop shot
+ 3. Forehand slice 6. Overhead 9. Slice approach
+ +1. Return of serve
 
-  ───────────────────────────────────────────────────────────
-  FINDING THE GRIP
-  ───────────────────────────────────────────────────────────
-  8 bevels on the handle. Bevel 1 = top (logo).
-  Bevel 2 = one step clockwise = the Continental.
-  V at 11 o'clock = Continental
-  V at 12 o'clock = Eastern
-  V at 1 o'clock  = Semi-Western
-  V at 2 o'clock  = Western
+ ───────────────────────────────────────────────────────────
+ FINDING THE GRIP
+ ───────────────────────────────────────────────────────────
+ 8 bevels on the handle. Bevel 1 = top (logo).
+ Bevel 2 = one step clockwise = the Continental.
+ V at 11 o'clock = Continental
+ V at 12 o'clock = Eastern
+ V at 1 o'clock = Semi-Western
+ V at 2 o'clock = Western
 
-  Hammer Pickup: hold out → lay hand flat → slide straight
-  down → close fingers.
+ Hammer Pickup: hold out → lay hand flat → slide straight
+ down → close fingers.
 
-  ───────────────────────────────────────────────────────────
-  THE FOUR CONTACT POINTS
-  ───────────────────────────────────────────────────────────
-  Heel pad     = back bevel (5), the anchor
-  Base knuckle = bevel 2, the pointer
-  Thumb        = along bevel 5, the stabilizer (not wrapped)
-  Index finger = along bevel 1, the trigger
+ ───────────────────────────────────────────────────────────
+ THE FOUR CONTACT POINTS
+ ───────────────────────────────────────────────────────────
+ Heel pad = back bevel (5), the anchor
+ Base knuckle = bevel 2, the pointer
+ Thumb = along bevel 5, the stabilizer (not wrapped)
+ Index finger = along bevel 1, the trigger
 
-  ───────────────────────────────────────────────────────────
-  THE THREE-PHASE PRESSURE
-  ───────────────────────────────────────────────────────────
-  Setup:    2-3/10   "Baby bird" — soft hand
-  Swing:    3-4/10   "Slingshot stone" — loose swing
-  Contact:  7-9/10   "Wrist lock" — firm grip
-  Drop shot stays at 2-3/10 all the way through — "holding a feather"
+ ───────────────────────────────────────────────────────────
+ THE THREE-PHASE PRESSURE
+ ───────────────────────────────────────────────────────────
+ Setup: 2-3/10 "Baby bird" — soft hand
+ Swing: 3-4/10 "Slingshot stone" — loose swing
+ Contact: 7-9/10 "Wrist lock" — firm grip
+ Drop shot stays at 2-3/10 all the way through — "holding a feather"
 
-  ───────────────────────────────────────────────────────────
-  THE 70% RULE
-  ───────────────────────────────────────────────────────────
-  Continental for ~70% of shots in a match.
-  Semi-Western/Eastern only for the forehand groundstroke
-  and forehand return. Continental is the default —
-  everything else is the exception.
+ ───────────────────────────────────────────────────────────
+ THE 70% RULE
+ ───────────────────────────────────────────────────────────
+ Continental for ~70% of shots in a match.
+ Semi-Western/Eastern only for the forehand groundstroke
+ and forehand return. Continental is the default —
+ everything else is the exception.
 
 ═══════════════════════════════════════════════════════════════
 ```

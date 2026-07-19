@@ -162,27 +162,27 @@ The other three guides are technique. This one is transformation.
 
 ```
 ═══════════════════════════════════════════════════════════════
-  RACKET EMBODIMENT — QUICK REFERENCE
+ RACKET EMBODIMENT — QUICK REFERENCE
 ═══════════════════════════════════════════════════════════════
 
-  THE THREE LEVELS
-    1. L1: Feel the ground (barefoot)
-    2. L2: Feel the racket (no power)
-    3. L3: See-move, not see-think-move
+ THE THREE LEVELS
+ 1. L1: Feel the ground (barefoot)
+ 2. L2: Feel the racket (no power)
+ 3. L3: See-move, not see-think-move
 
-  THE TWO-SECOND PAUSE
-    4. After every good shot: 2 seconds of feel
-    5. Build the feel library
+ THE TWO-SECOND PAUSE
+ 4. After every good shot: 2 seconds of feel
+ 5. Build the feel library
 
-  THE 50+ EDGE
-    6. Train proprioception, not vision
-    7. Older body, wiser feel
+ THE 50+ EDGE
+ 6. Train proprioception, not vision
+ 7. Older body, wiser feel
 
-  STOP AND RESET IF:
-    • You finish a session and can't remember a single shot
-    • You "decide" before you move (that's mechanical, not embodied)
-    • You grip the racket like a hammer, not a finger
-    • You skip the 2-second pause just to hit more balls
+ STOP AND RESET IF:
+ • You finish a session and can't remember a single shot
+ • You "decide" before you move (that's mechanical, not embodied)
+ • You grip the racket like a hammer, not a finger
+ • You skip the 2-second pause just to hit more balls
 
 ═══════════════════════════════════════════════════════════════
 ```

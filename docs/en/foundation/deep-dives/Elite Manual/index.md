@@ -18,7 +18,7 @@ You've got five orthodox lies I want you to unlearn before we go any further.
 
 "Feel is the enemy of science." It isn't. Past 5.0, feel is the only science you can actually trust in real time. The numbers — HRV, RPM, swing speed — describe your past. Feel tells you about this shot, right now.
 
-What replaces the orthodoxy is a personal system: your own cues, your own drills, your own metric for "good enough," your own daily decision rules. The rest of this manual is scaffolding for that system. Write yourself a creed if it helps — something like: *I'm the engineer of my own system. I trust my body's knowledge. I let data inform me, not command me. I don't copy. I discover.*
+What replaces the orthodoxy is a personal system: your own cues, your own drills, your own metric for "good enough," your own daily decision rules. The rest of this manual is scaffolding for that system. Write yourself a creed if it helps — something like: *I'm the system thinker of my own system. I trust my body's knowledge. I let data inform me, not command me. I don't copy. I discover.*
 
 Try this today: write three sentences. What cue from a coach never fit me? What feels right that no one ever taught me? What's one move I do that doesn't even have a name?
 
@@ -184,7 +184,7 @@ The 5.0+ player a few years from now will look different from you — not becaus
 
 Real-time EEG headbands will tell you, in the moment, when your brain is in flow, when it's fatigued, when it's over-stressed — the way your smart watch tells you about your heart today, a headband will tell you about your mind tomorrow. Sensor-embedded rackets and grips — strain gauges in the throat, accelerometers in the handle, pressure sensors in the grip — will generate a complete biomechanical signature for every shot you hit, buzzing when it matches your ideal and staying silent when it doesn't. AI coaching assistants trained specifically on your own data — not a generic chatbot, but a model trained on your last thousand sessions, your HRV history, your journal, your video — will know what you do when you're playing well and what you do when you're playing badly, and cue you accordingly. VR tactical simulation will run full match scenarios — opponents with specific patterns, adjustable crowd noise, adjustable sun glare, variable court friction — packing hundreds of pressure-point scenarios into an hour that would otherwise take a year of real matches to encounter. And genetic and metabolic profiling will tell you your muscle fiber type, how your nervous system responds to stress, how quickly you metabolize lactate, so training can be built to your actual genes instead of a generic program.
 
-None of that changes the underlying principle of this whole manual: your body knows itself, you are the engineer, and data informs — it never commands. A player with every tool from this list who hasn't built their own system will be no better off than a 4.0 with none of them. So as each new tool shows up, ask yourself one question: does this serve my system, or is it trying to replace my system? Keep the first kind. Reject the second.
+None of that changes the underlying principle of this whole manual: your body knows itself, you are the system thinker, and data informs — it never commands. A player with every tool from this list who hasn't built their own system will be no better off than a 4.0 with none of them. So as each new tool shows up, ask yourself one question: does this serve my system, or is it trying to replace my system? Keep the first kind. Reject the second.
 
 ## The Elite Cheat Sheet
 
@@ -192,55 +192,55 @@ This the page you print, fold, and keep in your bag. It's not a table of content
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THE 13 LAWS OF THE 5.0+ SELF-DESIGNED SYSTEM
+ THE 13 LAWS OF THE 5.0+ SELF-DESIGNED SYSTEM
 ═══════════════════════════════════════════════════════════════
 
-  1.  THERE IS NO PERFECT FORM. THERE IS ONLY YOURS.
+ 1. THERE IS NO PERFECT FORM. THERE IS ONLY YOURS.
 
-  2.  TONE IS A 5-ZONE SPECTRUM. USE ALL 5 IN ONE STROKE.
-      Floppy — Loose — Ready — Loaded — Punch
+ 2. TONE IS A 5-ZONE SPECTRUM. USE ALL 5 IN ONE STROKE.
+ Floppy — Loose — Ready — Loaded — Punch
 
-  3.  MYELINATION BUILDS SKILL. QUALITY, NOT QUANTITY.
-      Slow is fast. Slow builds fast.
+ 3. MYELINATION BUILDS SKILL. QUALITY, NOT QUANTITY.
+ Slow is fast. Slow builds fast.
 
-  4.  THREE MODELS, ONE BODY. PICK THE ONE YOUR BODY CHOSE.
-      Combine freely. Name what is yours.
+ 4. THREE MODELS, ONE BODY. PICK THE ONE YOUR BODY CHOSE.
+ Combine freely. Name what is yours.
 
-  5.  PRESSURE IS A VACCINE. INOCULATE BY RUNG.
-      Solo → Cooperative → Score → Crowd → Match
+ 5. PRESSURE IS A VACCINE. INOCULATE BY RUNG.
+ Solo → Cooperative → Score → Crowd → Match
 
-  6.  BAMBOO, NOT OAK. SELF 2 PLAYS, SELF 1 WATCHES.
-      External focus, not internal.
+ 6. BAMBOO, NOT OAK. SELF 2 PLAYS, SELF 1 WATCHES.
+ External focus, not internal.
 
-  7.  CHANGE THE ENVIRONMENT. LET THE BODY SOLVE IT.
-      Coach as environment designer, not tyrant.
+ 7. CHANGE THE ENVIRONMENT. LET THE BODY SOLVE IT.
+ Coach as environment designer, not tyrant.
 
-  8.  CORRECTNESS FIRST. SPEED SECOND.
-      Train the right layer for the right stroke.
+ 8. CORRECTNESS FIRST. SPEED SECOND.
+ Train the right layer for the right stroke.
 
-  9.  I AM A PATTERN COLLECTOR. NAME WHAT YOU SEE.
-      Decision speed is library size.
+ 9. I AM A PATTERN COLLECTOR. NAME WHAT YOU SEE.
+ Decision speed is library size.
 
-  10. I AM MY HIGHEST COACH. JOURNAL, VIDEO, SMART, REVIEW.
-      3 lines per session. 5 questions per week.
+ 10. I AM MY HIGHEST COACH. JOURNAL, VIDEO, SMART, REVIEW.
+ 3 lines per session. 5 questions per week.
 
-  11. GREEN / YELLOW / RED. EVERY DAY. LISTEN TO THE BODY.
-      The most elite decision is sometimes not to push.
+ 11. GREEN / YELLOW / RED. EVERY DAY. LISTEN TO THE BODY.
+ The most elite decision is sometimes not to push.
 
-  12. CHOKING IS DATA. INOCULATE, DON'T HIDE.
-      Reset: exhale, name, bounce.
+ 12. CHOKING IS DATA. INOCULATE, DON'T HIDE.
+ Reset: exhale, name, bounce.
 
-  13. SERVE THE SYSTEM. DISCARD THE REST.
-      Tools that serve my system stay. Tools that try to
-      replace it go.
+ 13. SERVE THE SYSTEM. DISCARD THE REST.
+ Tools that serve my system stay. Tools that try to
+ replace it go.
 
-  ─────────────────────────────────────────────────────────────
-  MASTER CUE
-  ─────────────────────────────────────────────────────────────
-     I don't copy. I discover.
-     I don't grind. I myelinate.
-     I don't chase. I inoculate.
-     I don't perform. I design.
+ ─────────────────────────────────────────────────────────────
+ MASTER CUE
+ ─────────────────────────────────────────────────────────────
+ I don't copy. I discover.
+ I don't grind. I myelinate.
+ I don't chase. I inoculate.
+ I don't perform. I design.
 
 ═══════════════════════════════════════════════════════════════
 ```
@@ -258,5 +258,3 @@ Here's a 90-day structure if you want one. Day one: read the whole manual throug
 After 90 days, compare your match results, your journal, your videos, your dashboard, your own subjective feel. You'll see the improvement yourself. That's the only test that actually matters.
 
 One closing thought, worth sitting with: you are not the body you were born with — you're the body you trained. You're not the swing you copied — you're the swing your nervous system discovered on its own. You're not the matches you lost — you're the matches your nervous system learned from. You're not the next Nadal, the next Alcaraz, the next Djokovic. You're the first you. And that's the only tennis that actually matters.
-
-See you on the court, engineer.

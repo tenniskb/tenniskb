@@ -26,7 +26,7 @@ The cue to keep: "The ground is your engine." Not your arm.
 
 Traditional kinetic-chain thinking says energy passes sequentially through your joints — foot, leg, hip, shoulder, arm, racket. That model is useful, but it's incomplete. Modern motion-capture and EMG research shows energy also travels as a mechanical wave through your connective tissue, not just through a sequence of joints.
 
-The clearest image for This a bullwhip. The person holding it doesn't pull the tip — they create an impulse at the handle, and that impulse travels down the whip, each segment lighter and faster than the last, until the tip is moving faster than sound.  your hips are the handle. The racket is the tip.
+The clearest image for This a bullwhip. The person holding it doesn't pull the tip — they create an impulse at the handle, and that impulse travels down the whip, each segment lighter and faster than the last, until the tip is moving faster than sound. your hips are the handle. The racket is the tip.
 
 In a rhythmic rally, something even more interesting can happen: a standing wave, with nodes — nearly stationary points — and antinodes, zones of maximum oscillation. Your head and central spine act as nodes. Your racket and arm act as antinodes. That's the actual mechanical reason Federer's head barely moves during a stroke — it's not stillness for its own sake, it's a node in a standing wave doing exactly what a node is supposed to do.
 
@@ -216,7 +216,7 @@ Kình is not the same thing as raw muscle force. Anyone can generate raw force. 
 
 Three principles run through both Tai Chi and tennis. Root — power comes from the ground, not the arm. Relax — relaxation enables force transmission, while tension blocks it outright. And whole-body connection — the body operates as one unit, not a loose collection of parts.
 
-Phát kình, explosive wave release, describes a sudden whole-body force released in a tiny time window. In Tai Chi This the master's signature move;  it's the exact same mechanism at the moment of ball contact. Both run on the same sequence: ground force, fascial loading, relaxation, explosive release.
+Phát kình, explosive wave release, describes a sudden whole-body force released in a tiny time window. In Tai Chi This the master's signature move; it's the exact same mechanism at the moment of ball contact. Both run on the same sequence: ground force, fascial loading, relaxation, explosive release.
 
 None of This mystical. Kình is simply ground reaction force, plus fascial elasticity, plus wave propagation, plus neural synchronization, all working together. When all four are optimal, the result is what looks like "effortless power" — which is really just another name for high-efficiency energy transfer.
 

@@ -115,82 +115,82 @@ Start this week with Drill 1 — the decision-tree shadow drill. It's the founda
 
 ```
 ═══════════════════════════════════════════════════════════════
-  4 DOUBLES RETURN PATTERNS — CHEAT SHEET
+ 4 DOUBLES RETURN PATTERNS — CHEAT SHEET
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: The return dictates the point.
-    1. RETURN + LOB       (50+ default)  — Insurance policy
-    2. RETURN + 1         (smart)        — Return + poach
-    3. RETURN + APPROACH  (next step)    — Both move to net
-    4. RETURN + 2         (for the brave)— Hard drive + baseline
+ THE BIG IDEA: The return dictates the point.
+ 1. RETURN + LOB (50+ default) — Insurance policy
+ 2. RETURN + 1 (smart) — Return + poach
+ 3. RETURN + APPROACH (next step) — Both move to net
+ 4. RETURN + 2 (for the brave)— Hard drive + baseline
 
-  ───────────────────────────────────────────────────────────
-  PATTERN 1 — RETURN + LOB
-  ───────────────────────────────────────────────────────────
-  When:       First serve, net player aggressive, deep return
-  Grip:       Continental
-  Backswing:  HIGH ("scratch your back")
-  Aim:        Deep, into the corner (3 ft from baseline)
-  Recovery:   Side-shuffle to center baseline, Both Back reset
-  50+ risk:   Lowest-stress shot in tennis
-  50+ freq:   80% of first serves (the default)
+ ───────────────────────────────────────────────────────────
+ PATTERN 1 — RETURN + LOB
+ ───────────────────────────────────────────────────────────
+ When: First serve, net player aggressive, deep return
+ Grip: Continental
+ Backswing: HIGH ("scratch your back")
+ Aim: Deep, into the corner (3 ft from baseline)
+ Recovery: Side-shuffle to center baseline, Both Back reset
+ 50+ risk: Lowest-stress shot in tennis
+ 50+ freq: 80% of first serves (the default)
 
-  ───────────────────────────────────────────────────────────
-  PATTERN 2 — RETURN + 1
-  ───────────────────────────────────────────────────────────
-  When:       Second serve, partner at net ready to poach
-  Grip:       Continental (BH) or Semi-Western (FH)
-  Trajectory: LOW (1-2 ft over net)
-  Aim:        Down the middle, 3-foot window
-  Pace:       Medium, controlled
-  Recovery:   Call "Poach!" and cover the alley
-  50+ risk:   Low (controlled pace, no sprint)
-  50+ freq:   50% of second serves (the smart default)
+ ───────────────────────────────────────────────────────────
+ PATTERN 2 — RETURN + 1
+ ───────────────────────────────────────────────────────────
+ When: Second serve, partner at net ready to poach
+ Grip: Continental (BH) or Semi-Western (FH)
+ Trajectory: LOW (1-2 ft over net)
+ Aim: Down the middle, 3-foot window
+ Pace: Medium, controlled
+ Recovery: Call "Poach!" and cover the alley
+ 50+ risk: Low (controlled pace, no sprint)
+ 50+ freq: 50% of second serves (the smart default)
 
-  ───────────────────────────────────────────────────────────
-  PATTERN 3 — RETURN + APPROACH
-  ───────────────────────────────────────────────────────────
-  When:       Soft second serve, short return, both can attack
-  Grip:       Continental (slice approach)
-  Aim:        Deep, into the corner
-  Transition: Side-shuffle → 70% sprint → split-step
-  Net finish: Crosscourt volley (the default)
-  50+ risk:   Medium (sprint loads knees/back/heart)
-  50+ freq:   Once or twice per set, not every point
+ ───────────────────────────────────────────────────────────
+ PATTERN 3 — RETURN + APPROACH
+ ───────────────────────────────────────────────────────────
+ When: Soft second serve, short return, both can attack
+ Grip: Continental (slice approach)
+ Aim: Deep, into the corner
+ Transition: Side-shuffle → 70% sprint → split-step
+ Net finish: Crosscourt volley (the default)
+ 50+ risk: Medium (sprint loads knees/back/heart)
+ 50+ freq: Once or twice per set, not every point
 
-  ───────────────────────────────────────────────────────────
-  PATTERN 4 — RETURN + 2
-  ───────────────────────────────────────────────────────────
-  When:       Weak second serve, both players are baseliners
-  Grip:       Continental (slice) or Semi-Western (drive)
-  Aim:        Down the middle or cross-court (low)
-  Pace:       Hard, attacking
-  Recovery:   Stay at baseline (no approach)
-  50+ risk:   High (hard drives load shoulder, long rallies)
-  50+ freq:   Rare — only on the weakest second serves
+ ───────────────────────────────────────────────────────────
+ PATTERN 4 — RETURN + 2
+ ───────────────────────────────────────────────────────────
+ When: Weak second serve, both players are baseliners
+ Grip: Continental (slice) or Semi-Western (drive)
+ Aim: Down the middle or cross-court (low)
+ Pace: Hard, attacking
+ Recovery: Stay at baseline (no approach)
+ 50+ risk: High (hard drives load shoulder, long rallies)
+ 50+ freq: Rare — only on the weakest second serves
 
-  ───────────────────────────────────────────────────────────
-  THE 50+ RULES
-  ───────────────────────────────────────────────────────────
-  • First serve:    Return + LOB (the default)
-  • Second serve:   Return + 1 (the smart default)
-  • Sprint:         70%, not 100%. Smooth, not fast.
-  • Frequency:      Return + Approach once or twice per SET
-  • Body says no:   Use Return + Lob (always available)
-  • 80/50 rule:     80% of first serves = lob, 50% of second = one
-  • Longevity:      Lobs save the shoulder. Drives load it.
+ ───────────────────────────────────────────────────────────
+ THE 50+ RULES
+ ───────────────────────────────────────────────────────────
+ • First serve: Return + LOB (the default)
+ • Second serve: Return + 1 (the smart default)
+ • Sprint: 70%, not 100%. Smooth, not fast.
+ • Frequency: Return + Approach once or twice per SET
+ • Body says no: Use Return + Lob (always available)
+ • 80/50 rule: 80% of first serves = lob, 50% of second = one
+ • Longevity: Lobs save the shoulder. Drives load it.
 
-  ───────────────────────────────────────────────────────────
-  5 CUES TO REMEMBER
-  ───────────────────────────────────────────────────────────
-  1. "Read first, return second" — See the situation, then choose
-  2. "First serve = Lob" — the 50+ default against fast serves
-  3. "Second serve = One" — the smart default when partner's ready
-  4. "Middle is the gap" — down the middle 60% in doubles
-  5. "70% sprint" — smooth, not fast. Save the knees.
+ ───────────────────────────────────────────────────────────
+ 5 CUES TO REMEMBER
+ ───────────────────────────────────────────────────────────
+ 1. "Read first, return second" — See the situation, then choose
+ 2. "First serve = Lob" — the 50+ default against fast serves
+ 3. "Second serve = One" — the smart default when partner's ready
+ 4. "Middle is the gap" — down the middle 60% in doubles
+ 5. "70% sprint" — smooth, not fast. Save the knees.
 
 ═══════════════════════════════════════════════════════════════
-  THE MASTER CUE: The return dictates the point. The 4 patterns
-  are the 4 answers. At 50+, the default answer is LOB.
+ THE MASTER CUE: The return dictates the point. The 4 patterns
+ are the 4 answers. At 50+, the default answer is LOB.
 ═══════════════════════════════════════════════════════════════
 ```

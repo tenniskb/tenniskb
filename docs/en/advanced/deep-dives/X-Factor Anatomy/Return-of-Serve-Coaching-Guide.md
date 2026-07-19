@@ -4,7 +4,7 @@ Watch any 3.5 match and you'll notice the same pattern every time: the server ho
 
 The return might be the single most under-practiced shot in recreational tennis. Players pour 80% of their practice time into the forehand, the serve, maybe the backhand — and then treat the return as something they'll "figure out during the match." At 50+, it's also the single most joint-stressing moment in the sport: you're off-balance, stretched, reacting to real pace, with no time to actually set up. Your shoulder, your back, your wrist — all of it is at risk the moment you try to swing hard at a 200 km/h serve.
 
-Here's the paradox worth sitting with: the return is the second most important shot  right after the serve itself, since the server dictates the whole rally from the first ball. And yet it's the shot players prepare for the least. Then they double-fault under pressure, dump returns into the net, and wonder why they can't ever seem to break.
+Here's the paradox worth sitting with: the return is the second most important shot right after the serve itself, since the server dictates the whole rally from the first ball. And yet it's the shot players prepare for the least. Then they double-fault under pressure, dump returns into the net, and wonder why they can't ever seem to break.
 
 "Return" isn't one shot — it's three, and you don't pick one in advance. You pick based on what the server actually gives you. A block return, defensive and swing-free, is your answer to a big, flat, fast first serve. A drive return, genuinely attacking with topspin, is your answer to a slower second serve with a higher bounce. A slice or chip return, low and disruptive, works well against pace when you want to change the rhythm of the point, and it's a natural doubles default. At 50+, the block return should be your rational default on first serves — not because you can't attack, but because the margin for error is simply bigger. A block goes in. A swing goes into the net. Survive first, attack second.
 
@@ -92,37 +92,37 @@ The return is a survival skill, not a groundstroke.
 Block first serves. Drive second serves.
 
 READING THE SERVE
-Signal 1 (toss):        Front = flat, side = slice, behind = kick
-Signal 2 (apex):        Split-step here, when the ball is at the top
-Signal 3 (racket path):  Confirms direction, ~100ms before contact
+Signal 1 (toss): Front = flat, side = slice, behind = kick
+Signal 2 (apex): Split-step here, when the ball is at the top
+Signal 3 (racket path): Confirms direction, ~100ms before contact
 Always: eyes on the ball, not the body
 
 THE BLOCK RETURN (vs first serve, pace)
-Grip:      Continental, both hands (or 1-handed Continental)
-Contact:   In front, waist-to-chest height
-Swing:     6-12 inches — no real swing, no force
-Face:      Set early — slightly closed for flat, open for slice
-Pressure:  3-4/10 — soft hands, firm face
-Aim:       Cross-court, deep
-Sound:     A dull, absorbed sound means you're yielding correctly
+Grip: Continental, both hands (or 1-handed Continental)
+Contact: In front, waist-to-chest height
+Swing: 6-12 inches — no real swing, no force
+Face: Set early — slightly closed for flat, open for slice
+Pressure: 3-4/10 — soft hands, firm face
+Aim: Cross-court, deep
+Sound: A dull, absorbed sound means you're yielding correctly
 
 THE DRIVE RETURN (vs second serve, slower)
-Grip:      Normal 2-handed backhand or forehand grip
-Setup:     Early — read the toss, start the unit turn right away
-Swing:     70-80% of your normal rally swing
-Contact:   In front, at the top of the bounce
-Position:  Step in 1-2 steps (pinpoint stance)
-Aim:       Deep cross-court, or down the line at the server's feet
-Breathe:   Out, right on contact
+Grip: Normal 2-handed backhand or forehand grip
+Setup: Early — read the toss, start the unit turn right away
+Swing: 70-80% of your normal rally swing
+Contact: In front, at the top of the bounce
+Position: Step in 1-2 steps (pinpoint stance)
+Aim: Deep cross-court, or down the line at the server's feet
+Breathe: Out, right on contact
 
 THE THREE BLOCK VARIATIONS
-1. Wall block  — vs flat serve: face closed 10-15°, deep cross-court
-2. Chip block  — vs slice serve: face open 10-15°, low to the feet
+1. Wall block — vs flat serve: face closed 10-15°, deep cross-court
+2. Chip block — vs slice serve: face open 10-15°, low to the feet
 3. Angle block — vs kick serve: high contact, sharp downward angle
 
 THE THREE DRIVE AIMS
-1. Deep cross-court   — safe default attack, angles the server wide
-2. Down the line      — at the server's feet, before they recover
+1. Deep cross-court — safe default attack, angles the server wide
+2. Down the line — at the server's feet, before they recover
 3. Inside-out forehand — run around the backhand, hit forehand cross-court
 
 STOP AND RESET IF

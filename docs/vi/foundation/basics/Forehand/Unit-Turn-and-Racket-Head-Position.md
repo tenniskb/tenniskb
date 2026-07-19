@@ -2,7 +2,7 @@
 
 Hãy coi đây là Chương Không của phần góc L và tăng tốc muộn — mọi thứ khác đều phụ thuộc vào việc thực hiện đúng động tác đầu tiên này.
 
-Unit turn là khoảnh khắc giữa "tôi thấy bóng" và "tôi bắt đầu vung vợt." Đó là khoảng dừng chưa tới một phần tư giây nơi vai xoay, ngực mở sang bên, và cây vợt được nạp lực. Nhìn Carlos Alcaraz: ngay khoảnh khắc anh ấy đọc được là forehand, cả phần thân trên xoay như một khối thống nhất. Cây vợt không đi "ra sau" — nó vẫn ở gần cơ thể, hướng lên trên và ra ngoài.
+Unit turn là khoảnh khắc giữa "tôi thấy bóng" và "tôi bắt đầu vung vợt." Đó là khoảng dừng chưa tới một phần tư giây nơi vai xoay, ngực mở sang bên, và cây vợt được nạp lực. Nhìn Carlos Alcaraz: ngay khoảnh khắc bạn ấy đọc được là forehand, cả phần thân trên xoay như một khối thống nhất. Cây vợt không đi "ra sau" — nó vẫn ở gần cơ thể, hướng lên trên và ra ngoài.
 
 Người chơi nghiệp dư thường làm ngược lại. Họ đọc bóng bằng mắt, rồi mới với tay ra sau một cách tách biệt bằng tay cầm vợt — và đến lúc vợt "nạp" xong thì bóng đã qua mất rồi. Đây là sự thay đổi tư duy quan trọng: unit turn không phải là một cú vung, nó là một sự "nạp lực." Ngực bạn nạp như một lò xo; cánh tay chỉ đi theo mà thôi.
 
@@ -82,25 +82,25 @@ Unit turn là bước chuẩn bị cho mọi thứ diễn ra sau đó. Làm đú
 UNIT TURN — BẢNG TÓM TẮT
 
 THỜI ĐIỂM (2 nhịp)
-  1. Split step (nhảy nhỏ, cả hai chân)
-  2. Unit turn (xoay khi chạm đất)
+ 1. Split step (nhảy nhỏ, cả hai chân)
+ 2. Unit turn (xoay khi chạm đất)
 
 ĐIỂM KIỂM TRA 1
-  3. Tay trái trên cổ vợt
-  4. Khung vợt nhìn thấy được giữa hai mắt
+ 3. Tay trái trên cổ vợt
+ 4. Khung vợt nhìn thấy được giữa hai mắt
 
 ĐIỂM KIỂM TRA 2
-  5. Khuỷu tay phải ngang vai
-  6. Dây vợt hướng về hàng rào bên
+ 5. Khuỷu tay phải ngang vai
+ 6. Dây vợt hướng về hàng rào bên
 
 ĐIỀU CHỈNH 50+
-  7. Gối trước mềm (làm cầu, không khóa cứng)
-  8. Hông thấp (ngồi, không đứng)
-  9. Hông xoay trước, lưng dưới giữ ổn định
+ 7. Gối trước mềm (làm cầu, không khóa cứng)
+ 8. Hông thấp (ngồi, không đứng)
+ 9. Hông xoay trước, lưng dưới giữ ổn định
 
 DỪNG LẠI VÀ RESET NẾU:
-  - Sáng hôm sau đau lưng dưới
-  - Vợt rơi ra sau lưng (bạn không giữ nổi nó lên)
-  - Bạn xoay SAU khi bóng đã qua lưới
-  - Bạn cảm thấy lưng dưới xoay thay vì hông
+ - Sáng hôm sau đau lưng dưới
+ - Vợt rơi ra sau lưng (bạn không giữ nổi nó lên)
+ - Bạn xoay SAU khi bóng đã qua lưới
+ - Bạn cảm thấy lưng dưới xoay thay vì hông
 ```

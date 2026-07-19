@@ -10,25 +10,25 @@ A drill worth building. Stand 3 meters from a wall, drop the ball low, and slice
 
 ```
 ═══════════════════════════════════════════════════════════════
-  LOW BALL SLICE CHEAT SHEET
+ LOW BALL SLICE CHEAT SHEET
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: Don't fight the low ball — scoop it.
+ THE BIG IDEA: Don't fight the low ball — scoop it.
 
-  1. KNEE DEPTH
-     Chest must reach ball height.
-     Bend the knees, keep the back straight — save the back.
+ 1. KNEE DEPTH
+ Chest must reach ball height.
+ Bend the knees, keep the back straight — save the back.
 
-  2. THE PATH
-     Flat to forward (not the usual high-to-low here).
+ 2. THE PATH
+ Flat to forward (not the usual high-to-low here).
 
-  3. THE FACE
-     Open like a hood (30-45°).
+ 3. THE FACE
+ Open like a hood (30-45°).
 
-  4. THE SOUND
-     "Fwoosh" = clean underspin. "Thwack" (hitting the ground)
-     means you got too low.
+ 4. THE SOUND
+ "Fwoosh" = clean underspin. "Thwack" (hitting the ground)
+ means you got too low.
 
-  5. PAST 50
-     Don't lunge hard. Use a controlled step and a steady bridge leg.
+ 5. PAST 50
+ Don't lunge hard. Use a controlled step and a steady bridge leg.
 ```

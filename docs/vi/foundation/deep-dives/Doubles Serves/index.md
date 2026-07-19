@@ -216,115 +216,115 @@ Nếu bạn chỉ giữ một quy tắc từ tất cả những điều này: se
 
 ```
 TRƯỚC SERVE (quyết định):
-  ☐ Chọn mẫu — Rộng (mặc định), T (mơ ước người cắt), Thân (ép), hoặc +Volley (tấn công)
-  ☐ Chọn hướng tung — phải cho slice rộng, giữa cho T, trái cho thân
-  ☐ Phối hợp với người cắt của bạn — tín hiệu tay, nắm đấm cho cắt, tay mở cho ở lại
+ Chọn mẫu — Rộng (mặc định), T (mơ ước người cắt), Thân (ép), hoặc +Volley (tấn công)
+ Chọn hướng tung — phải cho slice rộng, giữa cho T, trái cho thân
+ Phối hợp với người cắt của bạn — tín hiệu tay, nắm đấm cho cắt, tay mở cho ở lại
 
 SERVE (kỹ thuật, giống như luôn luôn):
-  ☐ Grip: Continental (V tới bevel #2)
-  ☐ Trophy: khuỷu tay lên, vợt trên tai, lòng bàn tay trên cạnh
-  ☐ Tung: cao hơn cảm giác tự nhiên, hơi phía trước, quét ở đỉnh
-  ☐ Ném: pronation, không bật cổ tay
-  ☐ Tiếp xúc: duỗi toàn phần, đầu vợt trên bóng
-  ☐ Lực: 70-80% — serve đôi thông minh
-  ☐ Kết thúc: qua vai không thuận
+ Grip: Continental (V tới bevel #2)
+ Trophy: khuỷu tay lên, vợt trên tai, lòng bàn tay trên cạnh
+ Tung: cao hơn cảm giác tự nhiên, hơi phía trước, quét ở đỉnh
+ Ném: pronation, không bật cổ tay
+ Tiếp xúc: duỗi toàn phần, đầu vợt trên bóng
+ Lực: 70-80% — serve đôi thông minh
+ Kết thúc: qua vai không thuận
 
 SAU SERVE (hồi phục):
-  ☐ Rộng: ở lại sau, theo dõi cú cắt — đồng đội che giữa
-  ☐ T: ở lại sau, theo dõi cú cắt — đồng đội che một trong hai bên
-  ☐ Thân: ở lại sau, theo dõi cú cắt — đồng đội che sân mở
-  ☐ +Volley: split-step, rồi chạy 70%, rồi split-step, rồi volley
+ Rộng: ở lại sau, theo dõi cú cắt — đồng đội che giữa
+ T: ở lại sau, theo dõi cú cắt — đồng đội che một trong hai bên
+ Thân: ở lại sau, theo dõi cú cắt — đồng đội che sân mở
+ +Volley: split-step, rồi chạy 70%, rồi split-step, rồi volley
 
 ĐỘI (luôn luôn):
-  ☐ Tín hiệu tay trước mỗi serve
-  ☐ "Now!" hoặc "Go!" khi người trả tiếp xúc
-  ☐ Di chuyển như một khối — đồng đội dịch phải, bạn dịch trái, sau cú cắt
-  ☐ Nếu cú cắt thắng, ở lại sau — bạn có biên ngoài
+ Tín hiệu tay trước mỗi serve
+ "Now!" hoặc "Go!" khi người trả tiếp xúc
+ Di chuyển như một khối — đồng đội dịch phải, bạn dịch trái, sau cú cắt
+ Nếu cú cắt thắng, ở lại sau — bạn có biên ngoài
 ```
 
 ## Bảng Tóm Tắt 1 Trang
 
 ```
 ═══════════════════════════════════════════════════════════════
-             4 MẪU SERVE ĐÔI — BẢNG TÓM TẮT 1 TRANG
+ 4 MẪU SERVE ĐÔI — BẢNG TÓM TẮT 1 TRANG
 ═══════════════════════════════════════════════════════════════
 
-  Ý TƯỞNG LỚN: Serve là SETUP, không phải vũ khí.
-                1. RỘNG (slice, mặc định 50+) — kéo người trả ra sân
-                2. T (mơ ước người cắt) — ép cú trả LÊN
-                3. THÂN (vũ khí bị bỏ quên) — ép người trả
-                4. +VOLLEY (can đảm) — giao rồi theo lên lưới
+ Ý TƯỞNG LỚN: Serve là SETUP, không phải vũ khí.
+ 1. RỘNG (slice, mặc định 50+) — kéo người trả ra sân
+ 2. T (mơ ước người cắt) — ép cú trả LÊN
+ 3. THÂN (vũ khí bị bỏ quên) — ép người trả
+ 4. +VOLLEY (can đảm) — giao rồi theo lên lưới
 
-  ─────────────────────────────────────────────────────────────
-  MẪU 1 — SERVE RỘNG
-  ─────────────────────────────────────────────────────────────
-  Khi nào:    Serve 1, backhand người trả là cánh yếu hơn
-  Nhắm:       Góc deuce, 60-90 cm trong biên và baseline
-  Xoáy:       SLICE (mặc định 50+) — quét phía phải
-  Lực:        70-80% toàn lực
-  Quỹ đạo:    Thấp, chúi xuống, cong trái
-  Gọi:        "Poach!" hoặc tín hiệu nắm đấm, trước serve
-  Vì sao:     Kéo người trả rộng; cú cắt che giữa
-  Tần suất:   Khoảng 60% serve 1 — mặc định của bạn
+ ─────────────────────────────────────────────────────────────
+ MẪU 1 — SERVE RỘNG
+ ─────────────────────────────────────────────────────────────
+ Khi nào: Serve 1, backhand người trả là cánh yếu hơn
+ Nhắm: Góc deuce, 60-90 cm trong biên và baseline
+ Xoáy: SLICE (mặc định 50+) — quét phía phải
+ Lực: 70-80% toàn lực
+ Quỹ đạo: Thấp, chúi xuống, cong trái
+ Gọi: "Poach!" hoặc tín hiệu nắm đấm, trước serve
+ Vì sao: Kéo người trả rộng; cú cắt che giữa
+ Tần suất: Khoảng 60% serve 1 — mặc định của bạn
 
-  ─────────────────────────────────────────────────────────────
-  MẪU 2 — SERVE T
-  ─────────────────────────────────────────────────────────────
-  Khi nào:    Người cắt sẵn sàng, người trả thích chéo sân, serve an toàn
-  Nhắm:       Vạch giao bóng giữa, khoảng 30 cm trong đó
-  Xoáy:       Flat hoặc slice (slice là mặc định 50+ của bạn)
-  Lực:        70-80% slice, 90% flat
-  Quỹ đạo:    Vòng cung cao, sâu
-  Tung:       Khoảng 30 cm trái giữa
-  Gọi:        "Poach!" hoặc tín hiệu nắm đấm — mơ ước người cắt
-  Vì sao:     Ép cú trả lên; cú cắt đánh xuống
-  Tần suất:   Khoảng 30% serve 1 — lựa chọn thông minh
+ ─────────────────────────────────────────────────────────────
+ MẪU 2 — SERVE T
+ ─────────────────────────────────────────────────────────────
+ Khi nào: Người cắt sẵn sàng, người trả thích chéo sân, serve an toàn
+ Nhắm: Vạch giao bóng giữa, khoảng 30 cm trong đó
+ Xoáy: Flat hoặc slice (slice là mặc định 50+ của bạn)
+ Lực: 70-80% slice, 90% flat
+ Quỹ đạo: Vòng cung cao, sâu
+ Tung: Khoảng 30 cm trái giữa
+ Gọi: "Poach!" hoặc tín hiệu nắm đấm — mơ ước người cắt
+ Vì sao: Ép cú trả lên; cú cắt đánh xuống
+ Tần suất: Khoảng 30% serve 1 — lựa chọn thông minh
 
-  ─────────────────────────────────────────────────────────────
-  MẪU 3 — SERVE THÂN
-  ─────────────────────────────────────────────────────────────
-  Khi nào:    Người trả dồn biên, thích tấn công
-  Nhắm:       30-60 cm trong giữa, ở THÂN người trả
-  Xoáy:       Flat, hoặc slice
-  Lực:        Khoảng 80% toàn lực
-  Quỹ đạo:    Phẳng, nhanh, vào thân
-  Tung:       Khoảng 30 cm phải giữa
-  Gọi:        "Poach!" hoặc tín hiệu nắm đấm
-  Vì sao:     Ép người trả, không vung, floater chậm
-  Tần suất:   Khoảng 10% serve 1 — vũ khí bị bỏ quên
+ ─────────────────────────────────────────────────────────────
+ MẪU 3 — SERVE THÂN
+ ─────────────────────────────────────────────────────────────
+ Khi nào: Người trả dồn biên, thích tấn công
+ Nhắm: 30-60 cm trong giữa, ở THÂN người trả
+ Xoáy: Flat, hoặc slice
+ Lực: Khoảng 80% toàn lực
+ Quỹ đạo: Phẳng, nhanh, vào thân
+ Tung: Khoảng 30 cm phải giữa
+ Gọi: "Poach!" hoặc tín hiệu nắm đấm
+ Vì sao: Ép người trả, không vung, floater chậm
+ Tần suất: Khoảng 10% serve 1 — vũ khí bị bỏ quên
 
-  ─────────────────────────────────────────────────────────────
-  MẪU 4 — SERVE + VOLLEY
-  ─────────────────────────────────────────────────────────────
-  Khi nào:    Không có đồng đội, người trả yếu, cơ thể muốn đổi nhịp
-  Serve:      Slice rộng — mặc định 50+ của bạn
-  Chuyển tiếp: Split-step, rồi chạy 70%, rồi split-step
-  Kết ở lưới: Volley chéo sân mặc định
-  Tần suất:   Một hai lần mỗi SET, không mỗi điểm
-  Bỏ qua khi: Cơ thể bạn nói không chạy hôm nay
+ ─────────────────────────────────────────────────────────────
+ MẪU 4 — SERVE + VOLLEY
+ ─────────────────────────────────────────────────────────────
+ Khi nào: Không có đồng đội, người trả yếu, cơ thể muốn đổi nhịp
+ Serve: Slice rộng — mặc định 50+ của bạn
+ Chuyển tiếp: Split-step, rồi chạy 70%, rồi split-step
+ Kết ở lưới: Volley chéo sân mặc định
+ Tần suất: Một hai lần mỗi SET, không mỗi điểm
+ Bỏ qua khi: Cơ thể bạn nói không chạy hôm nay
 
-  ─────────────────────────────────────────────────────────────
-  QUY TẮC 50+
-  ─────────────────────────────────────────────────────────────
-  • Slice:        80% serve, 20% flat hoặc kick
-  • Lực:          70-80%, không bao giờ 100%. Lực thông minh.
-  • Tung:         Vô lăng của serve
-  • Phối hợp:     Tín hiệu tay trước mỗi serve
-  • Tần suất:     Serve + Volley một hai lần mỗi SET
-  • Tuổi thọ:     Slice tiết kiệm vai; flat tải vai
+ ─────────────────────────────────────────────────────────────
+ QUY TẮC 50+
+ ─────────────────────────────────────────────────────────────
+ • Slice: 80% serve, 20% flat hoặc kick
+ • Lực: 70-80%, không bao giờ 100%. Lực thông minh.
+ • Tung: Vô lăng của serve
+ • Phối hợp: Tín hiệu tay trước mỗi serve
+ • Tần suất: Serve + Volley một hai lần mỗi SET
+ • Tuổi thọ: Slice tiết kiệm vai; flat tải vai
 
-  ─────────────────────────────────────────────────────────────
-  NĂM TÍN HIỆU CẦN NHỚ
-  ─────────────────────────────────────────────────────────────
-  1. "Slice là mặc định"          4. "70-80% lực"
-  2. "Tung là vô lăng"            5. "Tín hiệu tay trước serve"
-  3. "Nhắm trước khi tung"
+ ─────────────────────────────────────────────────────────────
+ NĂM TÍN HIỆU CẦN NHỚ
+ ─────────────────────────────────────────────────────────────
+ 1. "Slice là mặc định" 4. "70-80% lực"
+ 2. "Tung là vô lăng" 5. "Tín hiệu tay trước serve"
+ 3. "Nhắm trước khi tung"
 
 ═══════════════════════════════════════════════════════════════
-  TÍN HIỆU CHỦ ĐẠO: Trong đôi, serve không phải vũ khí —
-  đó là setup. Slice rộng kéo người trả, T ép cú trả lên,
-  thân ép, và +Volley dành cho người can đảm.
-  Dẫn đầu với slice.
+ TÍN HIỆU CHỦ ĐẠO: Trong đôi, serve không phải vũ khí —
+ đó là setup. Slice rộng kéo người trả, T ép cú trả lên,
+ thân ép, và +Volley dành cho người can đảm.
+ Dẫn đầu với slice.
 ═══════════════════════════════════════════════════════════════
 ```
 

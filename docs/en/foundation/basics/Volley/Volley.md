@@ -116,73 +116,73 @@ After contact: recover to center, reset the U-shape, and split-step again for th
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THE VOLLEY — QUICK REFERENCE
+ THE VOLLEY — QUICK REFERENCE
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: A volley is REDIRECTION, not a swing. The ball
-  brings the pace. You bring the angle. "Lã Kình" — rollback
-  energy, redirect, don't generate.
+ THE BIG IDEA: A volley is REDIRECTION, not a swing. The ball
+ brings the pace. You bring the angle. "Lã Kình" — rollback
+ energy, redirect, don't generate.
 
-  ─────────────────────────────────────────────────────────────
-  THE BODY
-  ─────────────────────────────────────────────────────────────
-  • Grip:       Continental (V toward non-dominant shoulder)
-  • Ready (U):  Racket at EYE LEVEL, both hands in front
-  • L-Shape:    Racket head ABOVE wrist, wrist FROZEN
-  • Wrist:      Ulnar deviation + extension; NO supination at
-                contact
-  • Pressure:   3-4/10 (like holding a small bird)
-  • Backswing:  NONE. Set the face, no wind-up.
+ ─────────────────────────────────────────────────────────────
+ THE BODY
+ ─────────────────────────────────────────────────────────────
+ • Grip: Continental (V toward non-dominant shoulder)
+ • Ready (U): Racket at EYE LEVEL, both hands in front
+ • L-Shape: Racket head ABOVE wrist, wrist FROZEN
+ • Wrist: Ulnar deviation + extension; NO supination at
+ contact
+ • Pressure: 3-4/10 (like holding a small bird)
+ • Backswing: NONE. Set the face, no wind-up.
 
-  ─────────────────────────────────────────────────────────────
-  THE FEET
-  ─────────────────────────────────────────────────────────────
-  • Split-step:  Small hop on opponent's contact
-  • Step-in:     Opposite foot (left for forehand, right for
-                 backhand)
-  • Weight:      70% front leg, 30% back leg at contact
-  • Bridge leg:  Bent, soft, glute engaged
-  • Hư/Thực:     Front = thực (rooted), back = hư (drives)
-  • Direction:   FORWARD into the ball, NEVER back
-  • Low balls:   Knees drop, NOT waist bends
+ ─────────────────────────────────────────────────────────────
+ THE FEET
+ ─────────────────────────────────────────────────────────────
+ • Split-step: Small hop on opponent's contact
+ • Step-in: Opposite foot (left for forehand, right for
+ backhand)
+ • Weight: 70% front leg, 30% back leg at contact
+ • Bridge leg: Bent, soft, glute engaged
+ • Hư/Thực: Front = thực (rooted), back = hư (drives)
+ • Direction: FORWARD into the ball, NEVER back
+ • Low balls: Knees drop, NOT waist bends
 
-  ─────────────────────────────────────────────────────────────
-  THE FIVE VOLLEYS
-  ─────────────────────────────────────────────────────────────
-  • PUNCH:    Firm, 6-inch travel, ball at/above net
-  • BLOCK:    No swing, body behind ball, fast incoming
-  • DROP:     Loose grip, open face, just let it die
-  • LOB:      Face open, lift high, non-dominant hand tracks up
-  • HALF-V:   Deep knee bend, scoop the ball at your feet
+ ─────────────────────────────────────────────────────────────
+ THE FIVE VOLLEYS
+ ─────────────────────────────────────────────────────────────
+ • PUNCH: Firm, 6-inch travel, ball at/above net
+ • BLOCK: No swing, body behind ball, fast incoming
+ • DROP: Loose grip, open face, just let it die
+ • LOB: Face open, lift high, non-dominant hand tracks up
+ • HALF-V: Deep knee bend, scoop the ball at your feet
 
-  ─────────────────────────────────────────────────────────────
-  THE TEN CUES
-  ─────────────────────────────────────────────────────────────
-  1. "L-shape"          6. "70/30"
-  2. "Eye-level"         7. "No backswing"
-  3. "Soft hand"         8. "Six inches"
-  4. "In, not back"      9. "Breathe out"
-  5. "Knees, not back"  10. "Hunter, not target"
+ ─────────────────────────────────────────────────────────────
+ THE TEN CUES
+ ─────────────────────────────────────────────────────────────
+ 1. "L-shape" 6. "70/30"
+ 2. "Eye-level" 7. "No backswing"
+ 3. "Soft hand" 8. "Six inches"
+ 4. "In, not back" 9. "Breathe out"
+ 5. "Knees, not back" 10. "Hunter, not target"
 
-  ─────────────────────────────────────────────────────────────
-  THE FIVE DRILLS
-  ─────────────────────────────────────────────────────────────
-  1. Wall volleys       30 in a row, no swing, L-shape
-  2. Towel under arm    50 volleys, don't drop it
-  3. Mirror L check     10-second hold, face angle test
-  4. V-Step with partner 20 in 60 sec, alternating sides
-  5. Body-shot drill    10 in a row, block cross-court
+ ─────────────────────────────────────────────────────────────
+ THE FIVE DRILLS
+ ─────────────────────────────────────────────────────────────
+ 1. Wall volleys 30 in a row, no swing, L-shape
+ 2. Towel under arm 50 volleys, don't drop it
+ 3. Mirror L check 10-second hold, face angle test
+ 4. V-Step with partner 20 in 60 sec, alternating sides
+ 5. Body-shot drill 10 in a row, block cross-court
 
-  ─────────────────────────────────────────────────────────────
-  THE 50+ RULE
-  ─────────────────────────────────────────────────────────────
-  Survive first. Place second. Pace last.
-  A blocked ball in play is worth more than a panic swing into
-  the net.
+ ─────────────────────────────────────────────────────────────
+ THE 50+ RULE
+ ─────────────────────────────────────────────────────────────
+ Survive first. Place second. Pace last.
+ A blocked ball in play is worth more than a panic swing into
+ the net.
 
 ═══════════════════════════════════════════════════════════════
-  Print this. Tape it in your tennis bag. Look at it before
-  every match.
+ Print this. Tape it in your tennis bag. Look at it before
+ every match.
 ═══════════════════════════════════════════════════════════════
 ```
 

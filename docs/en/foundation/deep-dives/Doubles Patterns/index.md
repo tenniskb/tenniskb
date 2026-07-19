@@ -37,17 +37,17 @@ These aren't random. Each one maps to a different middle-game situation. Return 
 ```
 RETURN IS INCOMING → what's the situation?
 
-  First serve, fast, net player aggressive
-    → RETURN + LOB (your default)
+ First serve, fast, net player aggressive
+ → RETURN + LOB (your default)
 
-  Second serve, medium-soft, partner at net ready to poach
-    → RETURN + 1
+ Second serve, medium-soft, partner at net ready to poach
+ → RETURN + 1
 
-  Second serve, soft, short bounce, both of you can attack
-    → RETURN + APPROACH
+ Second serve, soft, short bounce, both of you can attack
+ → RETURN + APPROACH
 
-  Second serve, weak, both of you are baseliners
-    → RETURN + 2
+ Second serve, weak, both of you are baseliners
+ → RETURN + 2
 ```
 
 And here's the 50+ framing worth keeping in your back pocket: against a fast first serve, your shoulder doesn't love reacting to pace, and the net player is poised to pounce on anything short. The lob takes the net player out of the equation entirely and buys you time to recover. It's not a defensive shot — it's a strategic one, and a well-placed lob in doubles is worth its weight in gold.
@@ -246,109 +246,109 @@ And if you remember only one rule from all of this: Return + Lob is your doubles
 
 ```
 BEFORE THE RETURN (the decision):
-  ☐ Read the serve — first or second? Fast or medium-soft?
-  ☐ Read the net player — aggressive and forward, or held back?
-  ☐ Read your return position — will it land deep or short?
-  ☐ Decide: Lob (first + aggressive net), One (second + partner poaching),
-             Approach (soft + short + you can attack), or Two (weak + both baseliners)
+ Read the serve — first or second? Fast or medium-soft?
+ Read the net player — aggressive and forward, or held back?
+ Read your return position — will it land deep or short?
+ Decide: Lob (first + aggressive net), One (second + partner poaching),
+ Approach (soft + short + you can attack), or Two (weak + both baseliners)
 
 THE RETURN (the shot):
-  ☐ LOB — Continental grip, "scratch your back," aim deep into the corner
-  ☐ ONE — Continental (BH) or Semi-Western (FH), low trajectory, down the middle
-  ☐ APPROACH — Continental, slice, deep into the corner, get ready to move
-  ☐ TWO — Semi-Western, hard drive, down the middle or cross-court
+ LOB — Continental grip, "scratch your back," aim deep into the corner
+ ONE — Continental (BH) or Semi-Western (FH), low trajectory, down the middle
+ APPROACH — Continental, slice, deep into the corner, get ready to move
+ TWO — Semi-Western, hard drive, down the middle or cross-court
 
 THE RECOVERY (right after):
-  ☐ LOB — side-shuffle back to center baseline, both-back reset
-  ☐ ONE — call "Poach!", cover the alley
-  ☐ APPROACH — side-shuffle, 70% sprint to net, split-step
-  ☐ TWO — stay at the baseline, ready for the groundstroke duel
+ LOB — side-shuffle back to center baseline, both-back reset
+ ONE — call "Poach!", cover the alley
+ APPROACH — side-shuffle, 70% sprint to net, split-step
+ TWO — stay at the baseline, ready for the groundstroke duel
 
 THE TEAM (always):
-  ☐ Talk before every ball — "Poach!" "Mine!" "Yours!"
-  ☐ Move as a unit — partner shifts right, you shift left
-  ☐ Hand signals when hearing's an issue — fist for mine, open hand for yours
+ Talk before every ball — "Poach!" "Mine!" "Yours!"
+ Move as a unit — partner shifts right, you shift left
+ Hand signals when hearing's an issue — fist for mine, open hand for yours
 ```
 
 ## One-Page Cheat Sheet
 
 ```
 ═══════════════════════════════════════════════════════════════
-              4 DOUBLES RETURN PATTERNS — CHEAT SHEET
+ 4 DOUBLES RETURN PATTERNS — CHEAT SHEET
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: The return dictates the point.
-                1. RETURN + LOB (50+ default) — insurance policy
-                2. RETURN + 1 (smart) — return, then poach
-                3. RETURN + APPROACH (next step) — both to net
-                4. RETURN + 2 (for the brave) — hard drive, stay back
+ THE BIG IDEA: The return dictates the point.
+ 1. RETURN + LOB (50+ default) — insurance policy
+ 2. RETURN + 1 (smart) — return, then poach
+ 3. RETURN + APPROACH (next step) — both to net
+ 4. RETURN + 2 (for the brave) — hard drive, stay back
 
-  ─────────────────────────────────────────────────────────────
-  PATTERN 1 — RETURN + LOB
-  ─────────────────────────────────────────────────────────────
-  When:       First serve, net player aggressive, deep return
-  Grip:       Continental
-  Backswing:  HIGH — "scratch your back"
-  Aim:        Deep, into the corner
-  Recovery:   Side-shuffle to center baseline, both-back reset
-  50+ risk:   Lowest-stress shot in tennis
-  50+ freq:   80% of first serves — your default
+ ─────────────────────────────────────────────────────────────
+ PATTERN 1 — RETURN + LOB
+ ─────────────────────────────────────────────────────────────
+ When: First serve, net player aggressive, deep return
+ Grip: Continental
+ Backswing: HIGH — "scratch your back"
+ Aim: Deep, into the corner
+ Recovery: Side-shuffle to center baseline, both-back reset
+ 50+ risk: Lowest-stress shot in tennis
+ 50+ freq: 80% of first serves — your default
 
-  ─────────────────────────────────────────────────────────────
-  PATTERN 2 — RETURN + 1
-  ─────────────────────────────────────────────────────────────
-  When:       Second serve, partner at net ready to poach
-  Grip:       Continental (BH) or Semi-Western (FH)
-  Trajectory: LOW — 1-2 feet over the net
-  Aim:        DOWN THE MIDDLE, roughly a meter-wide window
-  Pace:       Medium, controlled
-  Recovery:   Call "Poach!", cover the alley
-  50+ risk:   Low
-  50+ freq:   About half your second serves — the smart default
+ ─────────────────────────────────────────────────────────────
+ PATTERN 2 — RETURN + 1
+ ─────────────────────────────────────────────────────────────
+ When: Second serve, partner at net ready to poach
+ Grip: Continental (BH) or Semi-Western (FH)
+ Trajectory: LOW — 1-2 feet over the net
+ Aim: DOWN THE MIDDLE, roughly a meter-wide window
+ Pace: Medium, controlled
+ Recovery: Call "Poach!", cover the alley
+ 50+ risk: Low
+ 50+ freq: About half your second serves — the smart default
 
-  ─────────────────────────────────────────────────────────────
-  PATTERN 3 — RETURN + APPROACH
-  ─────────────────────────────────────────────────────────────
-  When:       Soft second serve, short return, both can attack
-  Grip:       Continental (slice approach)
-  Aim:        Deep, into the corner
-  Transition: Side-shuffle → 70% sprint → split-step
-  Net finish: Crosscourt volley by default
-  50+ risk:   Medium — sprint loads knees, back, heart
-  50+ freq:   Once or twice a set, not every point
+ ─────────────────────────────────────────────────────────────
+ PATTERN 3 — RETURN + APPROACH
+ ─────────────────────────────────────────────────────────────
+ When: Soft second serve, short return, both can attack
+ Grip: Continental (slice approach)
+ Aim: Deep, into the corner
+ Transition: Side-shuffle → 70% sprint → split-step
+ Net finish: Crosscourt volley by default
+ 50+ risk: Medium — sprint loads knees, back, heart
+ 50+ freq: Once or twice a set, not every point
 
-  ─────────────────────────────────────────────────────────────
-  PATTERN 4 — RETURN + 2
-  ─────────────────────────────────────────────────────────────
-  When:       Weak second serve, both players are baseliners
-  Grip:       Continental (slice) or Semi-Western (drive)
-  Aim:        Down the middle or cross-court, kept low
-  Pace:       Hard, attacking
-  Recovery:   Stay at the baseline — no approach
-  50+ risk:   High — shoulder load, long rallies load knees
-  50+ freq:   Rare — only the weakest second serves
+ ─────────────────────────────────────────────────────────────
+ PATTERN 4 — RETURN + 2
+ ─────────────────────────────────────────────────────────────
+ When: Weak second serve, both players are baseliners
+ Grip: Continental (slice) or Semi-Western (drive)
+ Aim: Down the middle or cross-court, kept low
+ Pace: Hard, attacking
+ Recovery: Stay at the baseline — no approach
+ 50+ risk: High — shoulder load, long rallies load knees
+ 50+ freq: Rare — only the weakest second serves
 
-  ─────────────────────────────────────────────────────────────
-  THE 50+ RULES
-  ─────────────────────────────────────────────────────────────
-  • First serve:    Return + Lob (your default)
-  • Second serve:   Return + 1 (the smart default)
-  • Sprint:         70%, never 100%. Smooth, not fast.
-  • Frequency:      Return + Approach once or twice per SET
-  • Body says no:   Lob is always available
-  • Longevity:      Lobs save the shoulder; drives load it
+ ─────────────────────────────────────────────────────────────
+ THE 50+ RULES
+ ─────────────────────────────────────────────────────────────
+ • First serve: Return + Lob (your default)
+ • Second serve: Return + 1 (the smart default)
+ • Sprint: 70%, never 100%. Smooth, not fast.
+ • Frequency: Return + Approach once or twice per SET
+ • Body says no: Lob is always available
+ • Longevity: Lobs save the shoulder; drives load it
 
-  ─────────────────────────────────────────────────────────────
-  FIVE CUES TO REMEMBER
-  ─────────────────────────────────────────────────────────────
-  1. "Read first, return second"   4. "Middle is the gap"
-  2. "First serve = Lob"           5. "70% sprint" — save the knees
-  3. "Second serve = One"
+ ─────────────────────────────────────────────────────────────
+ FIVE CUES TO REMEMBER
+ ─────────────────────────────────────────────────────────────
+ 1. "Read first, return second" 4. "Middle is the gap"
+ 2. "First serve = Lob" 5. "70% sprint" — save the knees
+ 3. "Second serve = One"
 
 ═══════════════════════════════════════════════════════════════
-  THE MASTER CUE: The return dictates the point.
-  The 4 patterns are the 4 answers.
-  At 50+, the default answer is LOB.
+ THE MASTER CUE: The return dictates the point.
+ The 4 patterns are the 4 answers.
+ At 50+, the default answer is LOB.
 ═══════════════════════════════════════════════════════════════
 ```
 

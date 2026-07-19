@@ -37,17 +37,17 @@ Những mẫu này không ngẫu nhiên. Mỗi mẫu map với một tình huố
 ```
 RETURN SẮP TỚI → tình huống thế nào?
 
-  Serve 1, nhanh, người lưới tích cực
-    → RETURN + LOB (mặc định của bạn)
+ Serve 1, nhanh, người lưới tích cực
+ → RETURN + LOB (mặc định của bạn)
 
-  Serve 2, trung bình-nhẹ, đồng đội ở lưới sẵn cắt
-    → RETURN + 1
+ Serve 2, trung bình-nhẹ, đồng đội ở lưới sẵn cắt
+ → RETURN + 1
 
-  Serve 2, nhẹ, nảy ngắn, cả hai có thể tấn công
-    → RETURN + APPROACH
+ Serve 2, nhẹ, nảy ngắn, cả hai có thể tấn công
+ → RETURN + APPROACH
 
-  Serve 2, yếu, cả hai là người cuối sân
-    → RETURN + 2
+ Serve 2, yếu, cả hai là người cuối sân
+ → RETURN + 2
 ```
 
 Và đây là góc nhìn 50+ đáng để giữ trong túi: chống lại một cú serve 1 nhanh, vai bạn không thích phản ứng với tốc độ, và người lưới đang chờ chực để lao vào bất kỳ bóng ngắn nào. Lob đưa người lưới ra khỏi phương trình hoàn toàn và mua thời gian để bạn hồi vị trí. Đó không phải một cú phòng thủ — đó là một cú chiến thuật, và một cú lob đặt đúng chỗ trong đôi đáng giá bằng vàng.
@@ -246,109 +246,109 @@ Và nếu bạn chỉ nhớ một quy tắc từ tất cả những điều này
 
 ```
 TRƯỚC RETURN (quyết định):
-  ☐ Đọc serve — 1 hay 2? Nhanh hay trung bình-nhẹ?
-  ☐ Đọc người lưới — tích cực và tới trước, hay giữ lại?
-  ☐ Đọc vị trí return của bạn — sẽ rơi sâu hay ngắn?
-  ☐ Quyết định: Lob (serve 1 + người lưới tích cực), One (serve 2 + đồng đội sẵn cắt),
-             Approach (nhẹ + ngắn + cả hai có thể tấn công), hoặc Two (yếu + cả hai cuối sân)
+ Đọc serve — 1 hay 2? Nhanh hay trung bình-nhẹ?
+ Đọc người lưới — tích cực và tới trước, hay giữ lại?
+ Đọc vị trí return của bạn — sẽ rơi sâu hay ngắn?
+ Quyết định: Lob (serve 1 + người lưới tích cực), One (serve 2 + đồng đội sẵn cắt),
+ Approach (nhẹ + ngắn + cả hai có thể tấn công), hoặc Two (yếu + cả hai cuối sân)
 
 RETURN (cú đánh):
-  ☐ LOB — grip Continental, "gãi lưng," nhắm sâu vào góc
-  ☐ ONE — Continental (trái) hoặc Semi-Western (phải), quỹ đạo thấp, xuôi giữa
-  ☐ APPROACH — Continental, slice, sâu vào góc, sẵn sàng di chuyển
-  ☐ TWO — Semi-Western, drive mạnh, xuôi giữa hoặc chéo sân
+ LOB — grip Continental, "gãi lưng," nhắm sâu vào góc
+ ONE — Continental (trái) hoặc Semi-Western (phải), quỹ đạo thấp, xuôi giữa
+ APPROACH — Continental, slice, sâu vào góc, sẵn sàng di chuyển
+ TWO — Semi-Western, drive mạnh, xuôi giữa hoặc chéo sân
 
 HỒI PHỤC (ngay sau đó):
-  ☐ LOB — side-shuffle về giữa baseline, reset cả hai ở sau
-  ☐ ONE — gọi "Poach!", che biên ngoài
-  ☐ APPROACH — side-shuffle, chạy 70% lên lưới, split-step
-  ☐ TWO — ở lại baseline, sẵn sàng cho trận đấu groundstroke
+ LOB — side-shuffle về giữa baseline, reset cả hai ở sau
+ ONE — gọi "Poach!", che biên ngoài
+ APPROACH — side-shuffle, chạy 70% lên lưới, split-step
+ TWO — ở lại baseline, sẵn sàng cho trận đấu groundstroke
 
 ĐỘI (luôn luôn):
-  ☐ Nói trước mỗi bóng — "Poach!" "Mine!" "Yours!"
-  ☐ Di chuyển như một khối — đồng đội dịch phải, bạn dịch trái
-  ☐ Tín hiệu tay khi khó nghe — nắm đấm là mine, mở tay là yours
+ Nói trước mỗi bóng — "Poach!" "Mine!" "Yours!"
+ Di chuyển như một khối — đồng đội dịch phải, bạn dịch trái
+ Tín hiệu tay khi khó nghe — nắm đấm là mine, mở tay là yours
 ```
 
 ## Bảng Tóm Tắt 1 Trang
 
 ```
 ═══════════════════════════════════════════════════════════════
-           4 MẪU TRẢ ĐÔI — BẢNG TÓM TẮT 1 TRANG
+ 4 MẪU TRẢ ĐÔI — BẢNG TÓM TẮT 1 TRANG
 ═══════════════════════════════════════════════════════════════
 
-  Ý TƯỞNG LỚN: Return quyết định điểm.
-                1. RETURN + LOB (mặc định 50+) — bảo hiểm
-                2. RETURN + 1 (thông minh) — trả, rồi cắt
-                3. RETURN + APPROACH (bước tiếp) — cả hai lên lưới
-                4. RETURN + 2 (can đảm) — drive mạnh, ở sau
+ Ý TƯỞNG LỚN: Return quyết định điểm.
+ 1. RETURN + LOB (mặc định 50+) — bảo hiểm
+ 2. RETURN + 1 (thông minh) — trả, rồi cắt
+ 3. RETURN + APPROACH (bước tiếp) — cả hai lên lưới
+ 4. RETURN + 2 (can đảm) — drive mạnh, ở sau
 
-  ─────────────────────────────────────────────────────────────
-  MẪU 1 — RETURN + LOB
-  ─────────────────────────────────────────────────────────────
-  Khi nào:    Serve 1, người lưới tích cực, return sâu
-  Grip:       Continental
-  Backswing:  CAO — "gãi lưng"
-  Nhắm:       Sâu, vào góc
-  Hồi phục:   Side-shuffle về giữa baseline, reset cả hai ở sau
-  Rủi ro 50+: Cú ít căng thẳng nhất trong tennis
-  Tần suất:   80% serve 1 — mặc định của bạn
+ ─────────────────────────────────────────────────────────────
+ MẪU 1 — RETURN + LOB
+ ─────────────────────────────────────────────────────────────
+ Khi nào: Serve 1, người lưới tích cực, return sâu
+ Grip: Continental
+ Backswing: CAO — "gãi lưng"
+ Nhắm: Sâu, vào góc
+ Hồi phục: Side-shuffle về giữa baseline, reset cả hai ở sau
+ Rủi ro 50+: Cú ít căng thẳng nhất trong tennis
+ Tần suất: 80% serve 1 — mặc định của bạn
 
-  ─────────────────────────────────────────────────────────────
-  MẪU 2 — RETURN + 1
-  ─────────────────────────────────────────────────────────────
-  Khi nào:    Serve 2, đồng đội ở lưới sẵn cắt
-  Grip:       Continental (trái) hoặc Semi-Western (phải)
-  Quỹ đạo:    THẤP — 30-60 cm qua lưới
-  Nhắm:       XUÔI GIỮA, cửa sổ rộng khoảng một mét
-  Tốc độ:     Trung bình, kiểm soát
-  Hồi phục:   Gọi "Poach!", che biên ngoài
-  Rủi ro 50+: Thấp
-  Tần suất:   Khoảng nửa số serve 2 — mặc định thông minh
+ ─────────────────────────────────────────────────────────────
+ MẪU 2 — RETURN + 1
+ ─────────────────────────────────────────────────────────────
+ Khi nào: Serve 2, đồng đội ở lưới sẵn cắt
+ Grip: Continental (trái) hoặc Semi-Western (phải)
+ Quỹ đạo: THẤP — 30-60 cm qua lưới
+ Nhắm: XUÔI GIỮA, cửa sổ rộng khoảng một mét
+ Tốc độ: Trung bình, kiểm soát
+ Hồi phục: Gọi "Poach!", che biên ngoài
+ Rủi ro 50+: Thấp
+ Tần suất: Khoảng nửa số serve 2 — mặc định thông minh
 
-  ─────────────────────────────────────────────────────────────
-  MẪU 3 — RETURN + APPROACH
-  ─────────────────────────────────────────────────────────────
-  Khi nào:    Serve 2 nhẹ, return ngắn, cả hai có thể tấn công
-  Grip:       Continental (slice approach)
-  Nhắm:       Sâu, vào góc
-  Chuyển tiếp: Side-shuffle → chạy 70% → split-step
-  Kết ở lưới: Volley chéo sân mặc định
-  Rủi ro 50+: Trung bình — chạy tải gối, lưng, tim
-  Tần suất:   Một hai lần mỗi set, không mỗi điểm
+ ─────────────────────────────────────────────────────────────
+ MẪU 3 — RETURN + APPROACH
+ ─────────────────────────────────────────────────────────────
+ Khi nào: Serve 2 nhẹ, return ngắn, cả hai có thể tấn công
+ Grip: Continental (slice approach)
+ Nhắm: Sâu, vào góc
+ Chuyển tiếp: Side-shuffle → chạy 70% → split-step
+ Kết ở lưới: Volley chéo sân mặc định
+ Rủi ro 50+: Trung bình — chạy tải gối, lưng, tim
+ Tần suất: Một hai lần mỗi set, không mỗi điểm
 
-  ─────────────────────────────────────────────────────────────
-  MẪU 4 — RETURN + 2
-  ─────────────────────────────────────────────────────────────
-  Khi nào:    Serve 2 yếu, cả hai là người cuối sân
-  Grip:       Continental (slice) hoặc Semi-Western (drive)
-  Nhắm:       Xuôi giữa hoặc chéo sân, giữ thấp
-  Tốc độ:     Mạnh, tấn công
-  Hồi phục:   Ở lại baseline — không approach
-  Rủi ro 50+: Cao — tải vai, rally dài tải gối
-  Tần suất:   Hiếm — chỉ serve 2 yếu nhất
+ ─────────────────────────────────────────────────────────────
+ MẪU 4 — RETURN + 2
+ ─────────────────────────────────────────────────────────────
+ Khi nào: Serve 2 yếu, cả hai là người cuối sân
+ Grip: Continental (slice) hoặc Semi-Western (drive)
+ Nhắm: Xuôi giữa hoặc chéo sân, giữ thấp
+ Tốc độ: Mạnh, tấn công
+ Hồi phục: Ở lại baseline — không approach
+ Rủi ro 50+: Cao — tải vai, rally dài tải gối
+ Tần suất: Hiếm — chỉ serve 2 yếu nhất
 
-  ─────────────────────────────────────────────────────────────
-  QUY TẮC 50+
-  ─────────────────────────────────────────────────────────────
-  • Serve 1:       Return + Lob (mặc định của bạn)
-  • Serve 2:       Return + 1 (mặc định thông minh)
-  • Chạy:          70%, không bao giờ 100%. Mượt, không nhanh.
-  • Tần suất:      Return + Approach một hai lần mỗi SET
-  • Cơ thể nói không: Lob luôn có sẵn
-  • Tuổi thọ:      Lob tiết kiệm vai; drive tải vai
+ ─────────────────────────────────────────────────────────────
+ QUY TẮC 50+
+ ─────────────────────────────────────────────────────────────
+ • Serve 1: Return + Lob (mặc định của bạn)
+ • Serve 2: Return + 1 (mặc định thông minh)
+ • Chạy: 70%, không bao giờ 100%. Mượt, không nhanh.
+ • Tần suất: Return + Approach một hai lần mỗi SET
+ • Cơ thể nói không: Lob luôn có sẵn
+ • Tuổi thọ: Lob tiết kiệm vai; drive tải vai
 
-  ─────────────────────────────────────────────────────────────
-  NĂM TÍN HIỆU CẦN NHỚ
-  ─────────────────────────────────────────────────────────────
-  1. "Đọc trước, trả sau"        4. "Giữa là khoảng trống"
-  2. "Serve 1 = Lob"             5. "Chạy 70%" — tiết kiệm gối
-  3. "Serve 2 = One"
+ ─────────────────────────────────────────────────────────────
+ NĂM TÍN HIỆU CẦN NHỚ
+ ─────────────────────────────────────────────────────────────
+ 1. "Đọc trước, trả sau" 4. "Giữa là khoảng trống"
+ 2. "Serve 1 = Lob" 5. "Chạy 70%" — tiết kiệm gối
+ 3. "Serve 2 = One"
 
 ═══════════════════════════════════════════════════════════════
-  TÍN HIỆU CHỦ ĐẠO: Return quyết định điểm.
-  4 mẫu là 4 câu trả lời.
-  Ở tuổi 50+, câu trả lời mặc định là LOB.
+ TÍN HIỆU CHỦ ĐẠO: Return quyết định điểm.
+ 4 mẫu là 4 câu trả lời.
+ Ở tuổi 50+, câu trả lời mặc định là LOB.
 ═══════════════════════════════════════════════════════════════
 ```
 

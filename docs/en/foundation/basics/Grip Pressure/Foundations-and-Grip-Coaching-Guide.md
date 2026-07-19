@@ -41,10 +41,10 @@ The "Soft-Hand" Drill. Hold the racket with just your thumb and index finger —
 ## Printable Cheat Sheet
 
 ```
-SCENARIO      GRIP            CONTACT POINT         MENTAL CUE
-Forehand      Semi-Western    In front              "Feel the face"
-Volley        Continental     In front / lateral    "Block, don't swing"
-Serve         Continental     Above head            "Snap, don't push"
+SCENARIO GRIP CONTACT POINT MENTAL CUE
+Forehand Semi-Western In front "Feel the face"
+Volley Continental In front / lateral "Block, don't swing"
+Serve Continental Above head "Snap, don't push"
 ```
 
 One more diagnostic tool, and it's one of the most useful ones I know: listen to the sound of your contact. A solid strike sounds like "Bộp" — clean, compact, done. A lazy, over-squeezed block sounds like "Bịch" — dull, heavy, late. Use that sound to calibrate your grip tension in real time. Your ears will catch what your hands can't feel.

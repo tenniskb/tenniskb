@@ -132,84 +132,84 @@ A few more tai chi principles worth carrying with you. *Thường Tùng* — alw
 
 ```
 ═══════════════════════════════════════════════════════════════
-  LOB & OVERHEAD — 1-PAGE CHEAT SHEET
+ LOB & OVERHEAD — 1-PAGE CHEAT SHEET
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: Tennis is a VERTICAL game, not just horizontal.
-                The lob buys you time. The overhead cashes it in.
+ THE BIG IDEA: Tennis is a VERTICAL game, not just horizontal.
+ The lob buys you time. The overhead cashes it in.
 
-  ───────────────────────────────────────────────────────────
-  THE 4 VERTICAL SITUATIONS
-  ───────────────────────────────────────────────────────────
-  1. Under pressure at baseline, opponent at net
-     → DEFENSIVE LOB (slice) — Continental, high backswing, deep aim
-  2. At baseline, want to attack a weak loopy ball
-     → OFFENSIVE LOB (topspin) — reference / for the brave
-  3. Opponent hits a high ball (lob, moonball, floater)
-     → SANE SMASH — track, position, turn, fall
-  4. You're at net and can't pass
-     → LOB VOLLEY — high contact, deep aim, recover to net
-                                  / or COUNTER-OVERHEAD if time
+ ───────────────────────────────────────────────────────────
+ THE 4 VERTICAL SITUATIONS
+ ───────────────────────────────────────────────────────────
+ 1. Under pressure at baseline, opponent at net
+ → DEFENSIVE LOB (slice) — Continental, high backswing, deep aim
+ 2. At baseline, want to attack a weak loopy ball
+ → OFFENSIVE LOB (topspin) — reference / for the brave
+ 3. Opponent hits a high ball (lob, moonball, floater)
+ → SANE SMASH — track, position, turn, fall
+ 4. You're at net and can't pass
+ → LOB VOLLEY — high contact, deep aim, recover to net
+ / or COUNTER-OVERHEAD if time
 
-  ───────────────────────────────────────────────────────────
-  THE DEFENSIVE LOB
-  ───────────────────────────────────────────────────────────
-  • Grip:           Continental (V to bevel 2)
-  • Stance:         Open or semi-open
-  • Backswing:      HIGH ("scratch your back")
-  • Contact:        Front of body, chest-to-shoulder height
-  • Racket face:    Slightly open (Continental does this)
-  • Swing path:     Low to high (vertical, not horizontal)
-  • Shoulder shrug: Yes — adds 6-12 inches of arc
-  • Aim:            3 feet inside the baseline, into the corner
-  • Sound:          "phập" = clean (good) | "bộp" = flat (bad)
+ ───────────────────────────────────────────────────────────
+ THE DEFENSIVE LOB
+ ───────────────────────────────────────────────────────────
+ • Grip: Continental (V to bevel 2)
+ • Stance: Open or semi-open
+ • Backswing: HIGH ("scratch your back")
+ • Contact: Front of body, chest-to-shoulder height
+ • Racket face: Slightly open (Continental does this)
+ • Swing path: Low to high (vertical, not horizontal)
+ • Shoulder shrug: Yes — adds 6-12 inches of arc
+ • Aim: 3 feet inside the baseline, into the corner
+ • Sound: "phập" = clean (good) | "bộp" = flat (bad)
 
-  ───────────────────────────────────────────────────────────
-  THE SANE SMASH
-  ───────────────────────────────────────────────────────────
-  • Grip:           Continental (same as serve)
-  • Tracking:       Side-shuffle so the ball lands 1-2 ft ahead
-  • Stance:         Serve-ready / bow stance
-  • Position:       Both arms up, trophy position
-  • Contact:        Full extension, racket head above the ball
-  • Racket path:    Down through the ball (not across)
-  • Grip pressure:  3-4/10 (relaxed — "fall, don't swing")
-  • Aim:            Cross-court (safer) or down the line (winner)
-  • Finish:         Over the non-dominant shoulder
-  • Rule:           "PUT IT DOWN" — not "smash it"
-  • Head:           Still, chin level, eyes on the ball
+ ───────────────────────────────────────────────────────────
+ THE SANE SMASH
+ ───────────────────────────────────────────────────────────
+ • Grip: Continental (same as serve)
+ • Tracking: Side-shuffle so the ball lands 1-2 ft ahead
+ • Stance: Serve-ready / bow stance
+ • Position: Both arms up, trophy position
+ • Contact: Full extension, racket head above the ball
+ • Racket path: Down through the ball (not across)
+ • Grip pressure: 3-4/10 (relaxed — "fall, don't swing")
+ • Aim: Cross-court (safer) or down the line (winner)
+ • Finish: Over the non-dominant shoulder
+ • Rule: "PUT IT DOWN" — not "smash it"
+ • Head: Still, chin level, eyes on the ball
 
-  ───────────────────────────────────────────────────────────
-  THE LOB VOLLEY
-  ───────────────────────────────────────────────────────────
-  • Grip:           Continental
-  • Contact:        HIGH (shoulder height or above — not lower)
-  • Racket face:    Open, almost vertical
-  • Non-dom hand:   Reaches up to track and balance
-  • Aim:            Deep, into the corner
-  • Recovery:       Forward to the net — don't retreat
+ ───────────────────────────────────────────────────────────
+ THE LOB VOLLEY
+ ───────────────────────────────────────────────────────────
+ • Grip: Continental
+ • Contact: HIGH (shoulder height or above — not lower)
+ • Racket face: Open, almost vertical
+ • Non-dom hand: Reaches up to track and balance
+ • Aim: Deep, into the corner
+ • Recovery: Forward to the net — don't retreat
 
-  ───────────────────────────────────────────────────────────
-  THE 50+ RULES
-  ───────────────────────────────────────────────────────────
-  • Sane Smash:      Gravity does the work. No muscle needed.
-  • Lob at 50+:       The insurance policy. No shoulder, no sprint.
-  • High balls:       Let it bounce if you'd have to crane your neck.
-  • Lob too deep:     Let it bounce. Groundstroke beats an overstretched smash.
-  • 70/30 weight:     On the back leg at overhead contact.
-  • Survival first:   Then placement. Then pace. Always.
+ ───────────────────────────────────────────────────────────
+ THE 50+ RULES
+ ───────────────────────────────────────────────────────────
+ • Sane Smash: Gravity does the work. No muscle needed.
+ • Lob at 50+: The insurance policy. No shoulder, no sprint.
+ • High balls: Let it bounce if you'd have to crane your neck.
+ • Lob too deep: Let it bounce. Groundstroke beats an overstretched smash.
+ • 70/30 weight: On the back leg at overhead contact.
+ • Survival first: Then placement. Then pace. Always.
 
-  ───────────────────────────────────────────────────────────
-  THE 5 CUES
-  ───────────────────────────────────────────────────────────
-  1. "Scratch your back" — high backswing = high arc
-  2. "Fall, don't swing" — gravity, not muscle
-  3. "PUT IT DOWN" — placement over pace, on the overhead
-  4. "Aim deep, into the corner" — the lob's only real target
-  5. "Survive, then shine" — don't try to win it, just don't lose it
+ ───────────────────────────────────────────────────────────
+ THE 5 CUES
+ ───────────────────────────────────────────────────────────
+ 1. "Scratch your back" — high backswing = high arc
+ 2. "Fall, don't swing" — gravity, not muscle
+ 3. "PUT IT DOWN" — placement over pace, on the overhead
+ 4. "Aim deep, into the corner" — the lob's only real target
+ 5. "Survive, then shine" — don't try to win it, just don't lose it
 
 ═══════════════════════════════════════════════════════════════
-  MASTER CUE: The lob buys you time. The overhead cashes it in.
+ MASTER CUE: The lob buys you time. The overhead cashes it in.
 ═══════════════════════════════════════════════════════════════
 ```
 

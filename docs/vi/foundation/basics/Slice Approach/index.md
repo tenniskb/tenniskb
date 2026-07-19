@@ -158,34 +158,34 @@ Mạch tai chi xuyên suốt điều này, nếu cách nghĩ đó giúp ích cho
 
 ```
 TRƯỚC APPROACH (quyết định):
-  - Bóng có ngắn không (trong service box)?             -> Nếu không, ở lại baseline
-  - Đối thủ có mất thăng bằng hoặc đang hồi phục không?  -> Nếu không, đánh groundstroke khác
-  - Tôi có đánh được slice sâu (trong 90 cm từ baseline)? -> Nếu không, đừng approach
-  - Sân mở có thấy được không?                            -> Nếu không, đừng approach
+ - Bóng có ngắn không (trong service box)? -> Nếu không, ở lại baseline
+ - Đối thủ có mất thăng bằng hoặc đang hồi phục không? -> Nếu không, đánh groundstroke khác
+ - Tôi có đánh được slice sâu (trong 90 cm từ baseline)? -> Nếu không, đừng approach
+ - Sân mở có thấy được không? -> Nếu không, đừng approach
 
 CÚ APPROACH (slice):
-  - Grip Continental (V hướng vai không thuận)
-  - Tư thế mở hoặc bán mở
-  - Quy tắc một lần nảy (bóng nảy trước khi bạn đánh)
-  - Mặt mui xe (mở 30-45 độ)
-  - Đường vung cao xuống thấp
-  - Nhắm chéo sân (backhand) hoặc dọc biên (forehand)
-  - Nhắm sâu (trong 90 cm từ baseline)
-  - Thở ra lúc contact
+ - Grip Continental (V hướng vai không thuận)
+ - Tư thế mở hoặc bán mở
+ - Quy tắc một lần nảy (bóng nảy trước khi bạn đánh)
+ - Mặt mui xe (mở 30-45 độ)
+ - Đường vung cao xuống thấp
+ - Nhắm chéo sân (backhand) hoặc dọc biên (forehand)
+ - Nhắm sâu (trong 90 cm từ baseline)
+ - Thở ra lúc contact
 
 CHUYỂN TIẾP (bộ chân):
-  - Side-shuffle 2-3 bước (hồi phục)
-  - Chạy chéo ở 70% (không phải 100%)
-  - Tới lưới thấp (gối gập, trọng lượng dồn tới trước)
-  - Split-step khi đối thủ chạm bóng passing shot
+ - Side-shuffle 2-3 bước (hồi phục)
+ - Chạy chéo ở 70% (không phải 100%)
+ - Tới lưới thấp (gối gập, trọng lượng dồn tới trước)
+ - Split-step khi đối thủ chạm bóng passing shot
 
 KẾT THÚC BẰNG VOLLEY (cú đánh bạn đã biết):
-  - Grip Continental (giống volley thường của bạn)
-  - Hình L (đầu vợt trên cổ tay, cổ tay đóng băng)
-  - 70% trọng lượng ở chân trước
-  - Đấm 15 cm, không vung
-  - Nhắm chéo sân (ngược với hướng bạn approach)
-  - Chặn + Chờ nếu pass mạnh, Đấm + Chéo nếu pass vừa
+ - Grip Continental (giống volley thường của bạn)
+ - Hình L (đầu vợt trên cổ tay, cổ tay đóng băng)
+ - 70% trọng lượng ở chân trước
+ - Đấm 15 cm, không vung
+ - Nhắm chéo sân (ngược với hướng bạn approach)
+ - Chặn + Chờ nếu pass mạnh, Đấm + Chéo nếu pass vừa
 ```
 
 ## Sổ Tay Tóm Tắt Có Thể In
@@ -195,25 +195,25 @@ SLICE APPROACH — THAM CHIẾU NHANH
 ====================================
 
 Ý TƯỞNG LỚN: Approach là pattern 4 bước, không phải một cú đánh.
-             1. QUYẾT ĐỊNH (4 câu hỏi) -> 2. SLICE -> 3. CHUYỂN TIẾP -> 4. VOLLEY
+ 1. QUYẾT ĐỊNH (4 câu hỏi) -> 2. SLICE -> 3. CHUYỂN TIẾP -> 4. VOLLEY
 
 4 CÂU HỎI QUYẾT ĐỊNH
 ----------------------
-1. Bóng có ngắn không? (trong service box)         -> Nếu không, ở lại
-2. Đối thủ có mất thăng bằng không?                 -> Nếu không, đánh groundstroke khác
+1. Bóng có ngắn không? (trong service box) -> Nếu không, ở lại
+2. Đối thủ có mất thăng bằng không? -> Nếu không, đánh groundstroke khác
 3. Tôi có đánh được slice sâu? (trong 90 cm baseline) -> Nếu không, đừng approach
-4. Sân mở có thấy được không?                       -> Nếu không, đừng approach
+4. Sân mở có thấy được không? -> Nếu không, đừng approach
 CẢ 4 phải là có.
 
 CÚ SLICE APPROACH
 -------------------
-- Grip:          Continental (V hướng vai không thuận)
-- Tư thế:        Mở hoặc bán mở
+- Grip: Continental (V hướng vai không thuận)
+- Tư thế: Mở hoặc bán mở
 - Quy tắc 1 nảy: Bóng phải nảy trước
-- Mặt vợt:       "Góc mui xe" — mở 30-45 độ
-- Đường vung:    Cao xuống thấp (vai tới eo)
-- Nhắm:          Backhand = chéo sân, sâu vào góc
-                 Forehand = dọc biên, sâu vào góc
+- Mặt vợt: "Góc mui xe" — mở 30-45 độ
+- Đường vung: Cao xuống thấp (vai tới eo)
+- Nhắm: Backhand = chéo sân, sâu vào góc
+ Forehand = dọc biên, sâu vào góc
 
 CHUYỂN TIẾP
 ------------
@@ -225,20 +225,20 @@ CHUYỂN TIẾP
 
 KẾT THÚC BẰNG VOLLEY
 ----------------------
-- Grip:          Continental (giống volley thường của bạn)
-- Hình L:        Đầu vợt trên cổ tay, cổ tay đóng băng
-- Đấm 15 cm:     Không vung, chỉ đặt mặt vợt
-- Nhắm:          Sân mở = ngược hướng approach (mô hình bập bênh)
-- Mặc định:      Đấm + Chéo (sân mở) hoặc Chặn + Chờ (an toàn)
+- Grip: Continental (giống volley thường của bạn)
+- Hình L: Đầu vợt trên cổ tay, cổ tay đóng băng
+- Đấm 15 cm: Không vung, chỉ đặt mặt vợt
+- Nhắm: Sân mở = ngược hướng approach (mô hình bập bênh)
+- Mặc định: Đấm + Chéo (sân mở) hoặc Chặn + Chờ (an toàn)
 
 QUY TẮC TUỔI 50+
 ------------------
-- Mặc định:      Slice approach backhand (không đổi grip)
-- Chạy:          70%, không phải 100%. Mượt, không nhanh.
-- Tần suất:      Một hai lần mỗi set, không phải mỗi điểm
-- An toàn khớp:  Không tải vai (vung nhỏ), không căng lưng (tư thế
-                 mở), không stress gối (chạy 70%)
-- Quyết định:    4 câu hỏi trước, cú đánh sau
+- Mặc định: Slice approach backhand (không đổi grip)
+- Chạy: 70%, không phải 100%. Mượt, không nhanh.
+- Tần suất: Một hai lần mỗi set, không phải mỗi điểm
+- An toàn khớp: Không tải vai (vung nhỏ), không căng lưng (tư thế
+ mở), không stress gối (chạy 70%)
+- Quyết định: 4 câu hỏi trước, cú đánh sau
 
 5 TÍN HIỆU CẦN NHỚ
 --------------------
@@ -249,7 +249,7 @@ QUY TẮC TUỔI 50+
 5. "Sân mở là volley" — Mô hình bập bênh
 
 TÍN HIỆU CHÍNH: "Approach không phải một cú. Approach là một pattern:
-                 Quyết định -> Slice -> Chuyển tiếp -> Volley."
+ Quyết định -> Slice -> Chuyển tiếp -> Volley."
 ```
 
 ---

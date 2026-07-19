@@ -164,91 +164,91 @@ After the point: say something to your partner — "good shot," "mine was too hi
 
 ```
 ═══════════════════════════════════════════════════════════════
-  DOUBLES TACTICS — 1-PAGE CHEAT SHEET
+ DOUBLES TACTICS — 1-PAGE CHEAT SHEET
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: Doubles is a different sport. Communication is
-                your #1 weapon. At 50+, doubles is the longevity
-                game.
+ THE BIG IDEA: Doubles is a different sport. Communication is
+ your #1 weapon. At 50+, doubles is the longevity
+ game.
 
-  ─────────────────────────────────────────────────────────────
-  THE 5 COMMUNICATION CUES
-  ─────────────────────────────────────────────────────────────
-  1. "Mine!" / "Yours!"          shout BEFORE the ball arrives
-  2. "Switch!"                   when you both end up on the same side
-  3. "Short!"                    when opponent's ball is attackable
-  4. "Lob!"                      when opponents are at the net
-  5. "My serve" / "Your serve"   tap ball to your side first
+ ─────────────────────────────────────────────────────────────
+ THE 5 COMMUNICATION CUES
+ ─────────────────────────────────────────────────────────────
+ 1. "Mine!" / "Yours!" shout BEFORE the ball arrives
+ 2. "Switch!" when you both end up on the same side
+ 3. "Short!" when opponent's ball is attackable
+ 4. "Lob!" when opponents are at the net
+ 5. "My serve" / "Your serve" tap ball to your side first
 
-  ─────────────────────────────────────────────────────────────
-  THE 3 MOVEMENT RULES
-  ─────────────────────────────────────────────────────────────
-  1. "Move as a unit"                  partner right, I left
-  2. "Always cross, never cross over"  parallel paths, no collisions
-  3. "The net player leads"            closer player calls the shot
+ ─────────────────────────────────────────────────────────────
+ THE 3 MOVEMENT RULES
+ ─────────────────────────────────────────────────────────────
+ 1. "Move as a unit" partner right, I left
+ 2. "Always cross, never cross over" parallel paths, no collisions
+ 3. "The net player leads" closer player calls the shot
 
-  ─────────────────────────────────────────────────────────────
-  THE 3 FORMATIONS
-  ─────────────────────────────────────────────────────────────
-  1. BOTH UP (Australian):    server at baseline, partner at net
-                               → DEFAULT serving formation
-  2. I-FORMATION:              net player hides in front of server
-                               → Advanced, requires practice
-  3. BOTH BACK:                 both at baseline
-                               → Defensive reset, 50+ bad-day option
+ ─────────────────────────────────────────────────────────────
+ THE 3 FORMATIONS
+ ─────────────────────────────────────────────────────────────
+ 1. BOTH UP (Australian): server at baseline, partner at net
+ → DEFAULT serving formation
+ 2. I-FORMATION: net player hides in front of server
+ → Advanced, requires practice
+ 3. BOTH BACK: both at baseline
+ → Defensive reset, 50+ bad-day option
 
-  ─────────────────────────────────────────────────────────────
-  THE 4 PATTERNS
-  ─────────────────────────────────────────────────────────────
-  1. SERVE + 1:   serve wide → poach → volley to middle
-  2. RETURN + 1:  return middle → poach OR baseline passing shot
-  3. LOB-RECOVER: trouble → lob deep → reset formation
-  4. NET BATTLE:  both up → crosscourt, crosscourt, crosscourt
+ ─────────────────────────────────────────────────────────────
+ THE 4 PATTERNS
+ ─────────────────────────────────────────────────────────────
+ 1. SERVE + 1: serve wide → poach → volley to middle
+ 2. RETURN + 1: return middle → poach OR baseline passing shot
+ 3. LOB-RECOVER: trouble → lob deep → reset formation
+ 4. NET BATTLE: both up → crosscourt, crosscourt, crosscourt
 
-  ─────────────────────────────────────────────────────────────
-  THE 12 CUES
-  ─────────────────────────────────────────────────────────────
-  1. "Talk to your partner"      7. "Lob when in trouble"
-  2. "Mine! / Yours!"            8. "Crosscourt at 3.5"
-  3. "Move as a unit"            9. "Cover the alley"
-  4. "Serve to the T"           10. "Stand at the net"
-  5. "Return down the middle"   11. "Both Back is OK"
-  6. "Poach on a high ball"     12. "Fist = Mine, Hand = Yours"
+ ─────────────────────────────────────────────────────────────
+ THE 12 CUES
+ ─────────────────────────────────────────────────────────────
+ 1. "Talk to your partner" 7. "Lob when in trouble"
+ 2. "Mine! / Yours!" 8. "Crosscourt at 3.5"
+ 3. "Move as a unit" 9. "Cover the alley"
+ 4. "Serve to the T" 10. "Stand at the net"
+ 5. "Return down the middle" 11. "Both Back is OK"
+ 6. "Poach on a high ball" 12. "Fist = Mine, Hand = Yours"
 
-  ─────────────────────────────────────────────────────────────
-  THE 5 DRILLS
-  ─────────────────────────────────────────────────────────────
-  1. Communication drill (with partner, 5 min)
-  2. "Move as a unit" drill (with partner, 10 min)
-  3. Poach-and-volley drill (with partner, 10 min)
-  4. Middle-return drill (with partner, 10 min)
-  5. Lob-and-recover drill (with partner, 5 min)
+ ─────────────────────────────────────────────────────────────
+ THE 5 DRILLS
+ ─────────────────────────────────────────────────────────────
+ 1. Communication drill (with partner, 5 min)
+ 2. "Move as a unit" drill (with partner, 10 min)
+ 3. Poach-and-volley drill (with partner, 10 min)
+ 4. Middle-return drill (with partner, 10 min)
+ 5. Lob-and-recover drill (with partner, 5 min)
 
-  ─────────────────────────────────────────────────────────────
-  THE 7 ERRORS
-  ─────────────────────────────────────────────────────────────
-  1. Silent partners          →  Communication drill
-  2. Both at the baseline     →  Australian default
-  3. Crosscourt returns       →  Middle-return drill, 60% rule
-  4. Down-the-line volleys    →  "Crosscourt at 3.5" cue
-  5. Not poaching             →  Poach-and-volley drill
-  6. Poaching without telling →  "I'm going!" call
-  7. Lobbing short             →  Lob-and-recover drill, "deep lob"
+ ─────────────────────────────────────────────────────────────
+ THE 7 ERRORS
+ ─────────────────────────────────────────────────────────────
+ 1. Silent partners → Communication drill
+ 2. Both at the baseline → Australian default
+ 3. Crosscourt returns → Middle-return drill, 60% rule
+ 4. Down-the-line volleys → "Crosscourt at 3.5" cue
+ 5. Not poaching → Poach-and-volley drill
+ 6. Poaching without telling → "I'm going!" call
+ 7. Lobbing short → Lob-and-recover drill, "deep lob"
 
-  ─────────────────────────────────────────────────────────────
-  STOP AND RESET IF:
-  ─────────────────────────────────────────────────────────────
-  • Knee or hip pain from lunging (trust partner, "move as a unit")
-  • Shoulder pain from overheads (use moonball lob, don't smash)
-  • Can't hear partner's calls (use hand signals)
-  • You're the only one at the net (move forward, "stand at the net")
-  • Crosscourt returns keep landing in the alley (60% middle rule)
-  • Poaching without telling your partner (always call "I'm going!")
-  • Body says "no net today" (Both Back is OK, not failure)
+ ─────────────────────────────────────────────────────────────
+ STOP AND RESET IF:
+ ─────────────────────────────────────────────────────────────
+ • Knee or hip pain from lunging (trust partner, "move as a unit")
+ • Shoulder pain from overheads (use moonball lob, don't smash)
+ • Can't hear partner's calls (use hand signals)
+ • You're the only one at the net (move forward, "stand at the net")
+ • Crosscourt returns keep landing in the alley (60% middle rule)
+ • Poaching without telling your partner (always call "I'm going!")
+ • Body says "no net today" (Both Back is OK, not failure)
 
 ═══════════════════════════════════════════════════════════════
-  Doubles is the 50+ longevity game. Stand at the net, talk to
-  your partner, and let the lob be your friend. 10-20 more years
-  of tennis is on the other side of this game.
+ Doubles is the 50+ longevity game. Stand at the net, talk to
+ your partner, and let the lob be your friend. 10-20 more years
+ of tennis is on the other side of this game.
 ═══════════════════════════════════════════════════════════════
 ```

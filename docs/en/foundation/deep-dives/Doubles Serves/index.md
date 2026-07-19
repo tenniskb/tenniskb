@@ -216,115 +216,115 @@ If you keep only one rule from all of this: the slice serve is your 50+ doubles 
 
 ```
 BEFORE THE SERVE (the decision):
-  ☐ Pick the pattern — Wide (default), T (poacher's dream), Body (jam), or +Volley (offensive)
-  ☐ Pick the toss direction — right for wide slice, center for T, left for body
-  ☐ Coordinate with your poacher — hand signal, fist for poach, open hand for stay
+ Pick the pattern — Wide (default), T (poacher's dream), Body (jam), or +Volley (offensive)
+ Pick the toss direction — right for wide slice, center for T, left for body
+ Coordinate with your poacher — hand signal, fist for poach, open hand for stay
 
 THE SERVE (mechanics, same as always):
-  ☐ Grip: Continental (V to bevel #2)
-  ☐ Trophy: elbow up, racket above the ear, palm on its edge
-  ☐ Toss: higher than feels natural, slightly in front, brushed at the peak
-  ☐ Throw: pronation, not a wrist snap
-  ☐ Contact: full extension, racket head above the ball
-  ☐ Power: 70-80% — the smart doubles serve
-  ☐ Finish: over the non-dominant shoulder
+ Grip: Continental (V to bevel #2)
+ Trophy: elbow up, racket above the ear, palm on its edge
+ Toss: higher than feels natural, slightly in front, brushed at the peak
+ Throw: pronation, not a wrist snap
+ Contact: full extension, racket head above the ball
+ Power: 70-80% — the smart doubles serve
+ Finish: over the non-dominant shoulder
 
 AFTER THE SERVE (recovery):
-  ☐ Wide: stay back, watch the poach — your partner covers the middle
-  ☐ T: stay back, watch the poach — your partner covers either side
-  ☐ Body: stay back, watch the poach — your partner covers the open court
-  ☐ +Volley: split-step, then 70% sprint, then split-step, then volley
+ Wide: stay back, watch the poach — your partner covers the middle
+ T: stay back, watch the poach — your partner covers either side
+ Body: stay back, watch the poach — your partner covers the open court
+ +Volley: split-step, then 70% sprint, then split-step, then volley
 
 THE TEAM (always):
-  ☐ Hand signal before every serve
-  ☐ "Now!" or "Go!" at the returner's contact
-  ☐ Move as a unit — partner shifts right, you shift left, after the poach
-  ☐ If the poach wins, stay back — you've got the alley
+ Hand signal before every serve
+ "Now!" or "Go!" at the returner's contact
+ Move as a unit — partner shifts right, you shift left, after the poach
+ If the poach wins, stay back — you've got the alley
 ```
 
 ## One-Page Cheat Sheet
 
 ```
 ═══════════════════════════════════════════════════════════════
-              4 DOUBLES SERVE PATTERNS — CHEAT SHEET
+ 4 DOUBLES SERVE PATTERNS — CHEAT SHEET
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: The serve is a SETUP, not a weapon.
-                1. WIDE (slice, 50+ default) — pull returner off court
-                2. T (poacher's dream) — force the return UP
-                3. BODY (underused weapon) — jam the returner
-                4. +VOLLEY (for the brave) — serve, then follow to net
+ THE BIG IDEA: The serve is a SETUP, not a weapon.
+ 1. WIDE (slice, 50+ default) — pull returner off court
+ 2. T (poacher's dream) — force the return UP
+ 3. BODY (underused weapon) — jam the returner
+ 4. +VOLLEY (for the brave) — serve, then follow to net
 
-  ─────────────────────────────────────────────────────────────
-  PATTERN 1 — SERVE WIDE
-  ─────────────────────────────────────────────────────────────
-  When:       First serve, returner's backhand is the weaker wing
-  Aim:        Deuce corner, 2-3 ft inside sideline and baseline
-  Spin:       SLICE (50+ default) — brush the right side
-  Power:      70-80% of full
-  Trajectory: Low, dipping, curves left
-  Call:       "Poach!" or a fist signal, before the serve
-  Why:        Pulls the returner wide; poach covers the middle
-  50+ freq:   Around 60% of first serves — your default
+ ─────────────────────────────────────────────────────────────
+ PATTERN 1 — SERVE WIDE
+ ─────────────────────────────────────────────────────────────
+ When: First serve, returner's backhand is the weaker wing
+ Aim: Deuce corner, 2-3 ft inside sideline and baseline
+ Spin: SLICE (50+ default) — brush the right side
+ Power: 70-80% of full
+ Trajectory: Low, dipping, curves left
+ Call: "Poach!" or a fist signal, before the serve
+ Why: Pulls the returner wide; poach covers the middle
+ 50+ freq: Around 60% of first serves — your default
 
-  ─────────────────────────────────────────────────────────────
-  PATTERN 2 — SERVE TO THE T
-  ─────────────────────────────────────────────────────────────
-  When:       Poacher's ready, returner likes cross-court, or safety serve
-  Aim:        Center service line, about a foot inside it
-  Spin:       Flat or slice (slice is your 50+ default)
-  Power:      70-80% slice, 90% flat
-  Trajectory: High arc, deep
-  Toss:       About a foot left of center
-  Call:       "Poach!" or a fist signal — the poacher's dream
-  Why:        Forces the return up; the poach hits down
-  50+ freq:   Around 30% of first serves — the smart option
+ ─────────────────────────────────────────────────────────────
+ PATTERN 2 — SERVE TO THE T
+ ─────────────────────────────────────────────────────────────
+ When: Poacher's ready, returner likes cross-court, or safety serve
+ Aim: Center service line, about a foot inside it
+ Spin: Flat or slice (slice is your 50+ default)
+ Power: 70-80% slice, 90% flat
+ Trajectory: High arc, deep
+ Toss: About a foot left of center
+ Call: "Poach!" or a fist signal — the poacher's dream
+ Why: Forces the return up; the poach hits down
+ 50+ freq: Around 30% of first serves — the smart option
 
-  ─────────────────────────────────────────────────────────────
-  PATTERN 3 — SERVE TO THE BODY
-  ─────────────────────────────────────────────────────────────
-  When:       Returner crowds the line, likes to attack
-  Aim:        1-2 ft inside center, at the returner's TORSO
-  Spin:       Flat, or slice
-  Power:      About 80% of full
-  Trajectory: Flat, fast, into the body
-  Toss:       About a foot right of center
-  Call:       "Poach!" or a fist signal
-  Why:        Jams the returner, no swing, slow floater
-  50+ freq:   Around 10% of first serves — the underused weapon
+ ─────────────────────────────────────────────────────────────
+ PATTERN 3 — SERVE TO THE BODY
+ ─────────────────────────────────────────────────────────────
+ When: Returner crowds the line, likes to attack
+ Aim: 1-2 ft inside center, at the returner's TORSO
+ Spin: Flat, or slice
+ Power: About 80% of full
+ Trajectory: Flat, fast, into the body
+ Toss: About a foot right of center
+ Call: "Poach!" or a fist signal
+ Why: Jams the returner, no swing, slow floater
+ 50+ freq: Around 10% of first serves — the underused weapon
 
-  ─────────────────────────────────────────────────────────────
-  PATTERN 4 — SERVE + VOLLEY
-  ─────────────────────────────────────────────────────────────
-  When:       No partner, weak returner, body wants a pace change
-  Serve:      Wide slice — your 50+ default
-  Transition: Split-step, then 70% sprint, then split-step
-  Net finish: Crosscourt volley by default
-  50+ freq:   Once or twice a SET, not every point
-  Skip it:    When your body says no sprint today
+ ─────────────────────────────────────────────────────────────
+ PATTERN 4 — SERVE + VOLLEY
+ ─────────────────────────────────────────────────────────────
+ When: No partner, weak returner, body wants a pace change
+ Serve: Wide slice — your 50+ default
+ Transition: Split-step, then 70% sprint, then split-step
+ Net finish: Crosscourt volley by default
+ 50+ freq: Once or twice a SET, not every point
+ Skip it: When your body says no sprint today
 
-  ─────────────────────────────────────────────────────────────
-  THE 50+ RULES
-  ─────────────────────────────────────────────────────────────
-  • Slice:        80% of serves, 20% flat or kick
-  • Power:        70-80%, never 100%. Smart power.
-  • Toss:         The steering wheel of the serve
-  • Coordination: Hand signal before every serve
-  • Frequency:    Serve + Volley once or twice per SET
-  • Longevity:    Slice saves the shoulder; flat loads it
+ ─────────────────────────────────────────────────────────────
+ THE 50+ RULES
+ ─────────────────────────────────────────────────────────────
+ • Slice: 80% of serves, 20% flat or kick
+ • Power: 70-80%, never 100%. Smart power.
+ • Toss: The steering wheel of the serve
+ • Coordination: Hand signal before every serve
+ • Frequency: Serve + Volley once or twice per SET
+ • Longevity: Slice saves the shoulder; flat loads it
 
-  ─────────────────────────────────────────────────────────────
-  FIVE CUES TO REMEMBER
-  ─────────────────────────────────────────────────────────────
-  1. "Slice is the default"        4. "70-80% power"
-  2. "Toss is the steering wheel"  5. "Hand signal before serve"
-  3. "Aim before you toss"
+ ─────────────────────────────────────────────────────────────
+ FIVE CUES TO REMEMBER
+ ─────────────────────────────────────────────────────────────
+ 1. "Slice is the default" 4. "70-80% power"
+ 2. "Toss is the steering wheel" 5. "Hand signal before serve"
+ 3. "Aim before you toss"
 
 ═══════════════════════════════════════════════════════════════
-  THE MASTER CUE: In doubles, the serve isn't a weapon —
-  it's a setup. Slice wide pulls the returner, the T forces
-  the return up, the body jams, and +Volley is for the brave.
-  Lead with the slice.
+ THE MASTER CUE: In doubles, the serve isn't a weapon —
+ it's a setup. Slice wide pulls the returner, the T forces
+ the return up, the body jams, and +Volley is for the brave.
+ Lead with the slice.
 ═══════════════════════════════════════════════════════════════
 ```
 

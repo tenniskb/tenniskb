@@ -38,7 +38,7 @@ Từ đó đường tiếp tục lên qua obliques, intercostals, serratus, và 
 
 ## Đường Bên: Chuỗi Ngoài Giữ Bạn Đứng Nghiêng
 
-Đường Bên là người anh em song sinh yên lặng hơn của đường xoắn. Nơi đường xoắn vắt qua cơ thể, đường bên ở hoàn toàn một bên, chạy từ bàn chân ngoài đến hộp sọ dọc theo chân ngoài, hông ngoài, thân ngoài, và cổ ngoài. Hầu hết người chơi giải trí 50+ cuối cùng phụ thuộc quá nhiều vào đường này, vì nghiêng bên thuần túy — nghiêng sang bên mà không xoay — chính xác là thứ quá tải nó, làm ngắn chuỗi ngoài và tạo ra tư thế "nghiêng về một bên" mà bạn thấy ở gần như mọi trận đôi trình độ 4.0.
+Đường Bên là người bạn em song sinh yên lặng hơn của đường xoắn. Nơi đường xoắn vắt qua cơ thể, đường bên ở hoàn toàn một bên, chạy từ bàn chân ngoài đến hộp sọ dọc theo chân ngoài, hông ngoài, thân ngoài, và cổ ngoài. Hầu hết người chơi giải trí 50+ cuối cùng phụ thuộc quá nhiều vào đường này, vì nghiêng bên thuần túy — nghiêng sang bên mà không xoay — chính xác là thứ quá tải nó, làm ngắn chuỗi ngoài và tạo ra tư thế "nghiêng về một bên" mà bạn thấy ở gần như mọi trận đôi trình độ 4.0.
 
 Nó bắt đầu ở bàn chân ngoài, trên peroneals và mép ngoài của plantar fascia. Người chơi bị bong gân mắt cá ngoài mãn tính hầu như luôn phụ thuộc quá nhiều vào đường này — vòm sập, peroneals yếu, mắt cá cứ lăn. Đó không thực sự là "vấn đề mắt cá"; đó là một vấn đề đường bên đang xuất hiện ở đáy chuỗi.
 
@@ -117,34 +117,34 @@ Xoắn = lực (nghiêng bên + xoay). Bên = tư thế (nghiêng bên thuần t
 Chữa ĐƯỜNG, đừng chữa điểm. Đau một bên = căng phía đối diện.
 
 ĐƯỜNG XOẮN (9 trạm, từ bàn chân đến tay cầm vợt đối diện)
-1. Vòm bàn chân           6. Obliques phía đối diện
-2. Peroneals              7. Intercostals phía đối diện
-3. IT band                 8. Serratus phía đối diện
-4. TFL + glute max          9. Rhomboids phía đối diện + tay → vợt
+1. Vòm bàn chân 6. Obliques phía đối diện
+2. Peroneals 7. Intercostals phía đối diện
+3. IT band 8. Serratus phía đối diện
+4. TFL + glute max 9. Rhomboids phía đối diện + tay → vợt
 5. Điểm vắt ASIS (hông phải kết nối với vai trái)
 → Nghiêng bên + xoay = pre-load = lực
 
 ĐƯỜNG BÊN (5 trạm, từ bàn chân ngoài đến hộp sọ)
-1. Bàn chân ngoài           4. QL + obliques
-2. IT band                   5. Cổ + hộp sọ
+1. Bàn chân ngoài 4. QL + obliques
+2. IT band 5. Cổ + hộp sọ
 3. TFL + glute medius
 → Nghiêng bên thuần túy = quá tải = tư thế, không phải lực
 
 CHẨN ĐOÁN 60 GIÂY
 Đau một bên = căng phía đối diện. Hãy lăn bên KIA. Luôn luôn.
-- Đầu gối phải luôn không ổn    → lăn peroneals trái, TFL trái, obliques trái
-- Hông phải rơi khi lunge       → tăng cường glute med trái, giãn TFL/IT band phải
-- Vai phải nhức khi giao bóng   → lăn rhomboids trái, serratus trái
+- Đầu gối phải luôn không ổn → lăn peroneals trái, TFL trái, obliques trái
+- Hông phải rơi khi lunge → tăng cường glute med trái, giãn TFL/IT band phải
+- Vai phải nhức khi giao bóng → lăn rhomboids trái, serratus trái
 - (Đảo ngược tất cả cho phàn nàn bên trái)
 
 TRÊN SÂN
-- Forehand giữa sân       → xoắn, ~50% lực, tiết kiệm đường
-- Forehand rộng/gấp gáp   → xoắn, 100% lực, chấp nhận tải trọng
-- Forehand ngắn/tấn công  → chiếm ưu thế bởi bên, tải trọng thấp hơn
-- Volley                  → chỉ đường bên, tư thế + chặn, không tải xoắn
-- Giao bóng               → xoắn, 100% lực, cần bảo trì hàng ngày
-- Cross-court             → xoay cùng bên
-- Down-the-line           → phản-xoay
+- Forehand giữa sân → xoắn, ~50% lực, tiết kiệm đường
+- Forehand rộng/gấp gáp → xoắn, 100% lực, chấp nhận tải trọng
+- Forehand ngắn/tấn công → chiếm ưu thế bởi bên, tải trọng thấp hơn
+- Volley → chỉ đường bên, tư thế + chặn, không tải xoắn
+- Giao bóng → xoắn, 100% lực, cần bảo trì hàng ngày
+- Cross-court → xoay cùng bên
+- Down-the-line → phản-xoay
 
 LỖI PHỔ BIẾN NHẤT
 1. Lăn bên đau (đó là triệu chứng, không phải nguyên nhân)

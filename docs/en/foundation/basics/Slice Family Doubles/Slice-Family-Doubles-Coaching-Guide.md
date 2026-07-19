@@ -208,32 +208,32 @@ If the tai chi framing helps you hold this together: the server's slice plus the
 
 ```
 BEFORE EVERY SERVE (server):
-  - Hand signal from net player (fist = poach, open = stay, point = cover alley)
-  - Aim: Slice Wide (60%), Slice T (30%), Slice Body (10%)
-  - Power: 70-80%, slice is the default
-  - Call "Now!" or "Go!" as the returner makes contact
+ - Hand signal from net player (fist = poach, open = stay, point = cover alley)
+ - Aim: Slice Wide (60%), Slice T (30%), Slice Body (10%)
+ - Power: 70-80%, slice is the default
+ - Call "Now!" or "Go!" as the returner makes contact
 
 BEFORE EVERY RETURN (returner):
-  - Hand signal from partner (fist = poach, open = stay)
-  - Aim: deep middle (50% default), cross-court (deny the poach), or at the server's feet
-  - Block, don't swing — 6-inch punch, no swing
-  - Remember: slice is a setup, not a winner
+ - Hand signal from partner (fist = poach, open = stay)
+ - Aim: deep middle (50% default), cross-court (deny the poach), or at the server's feet
+ - Block, don't swing — 6-inch punch, no swing
+ - Remember: slice is a setup, not a winner
 
 AT THE NET (net player):
-  - Slice Volley: cross-court (60% default), down the line (20%), drop (10%)
-  - Open face, downward path, 6-inch punch
-  - Cover the alley when the off-player poaches
-  - Slice Drop Shot when the opponent is deep
+ - Slice Volley: cross-court (60% default), down the line (20%), drop (10%)
+ - Open face, downward path, 6-inch punch
+ - Cover the alley when the off-player poaches
+ - Slice Drop Shot when the opponent is deep
 
 UNDER PRESSURE (opponent at net):
-  - Slice Defensive Lob: high arc, deep corner, over BOTH opponents
-  - The 50+ default: the lob is your insurance policy
-  - Buy time, reset, recover to the baseline
+ - Slice Defensive Lob: high arc, deep corner, over BOTH opponents
+ - The 50+ default: the lob is your insurance policy
+ - Buy time, reset, recover to the baseline
 
 STRETCHED WIDE:
-  - Slice Counter-Punch: cross-court, away from the net player
-  - Reach with the racket, not the body
-  - Escape and recover — don't try to win the counter-punch
+ - Slice Counter-Punch: cross-court, away from the net player
+ - Reach with the racket, not the body
+ - Escape and recover — don't try to win the counter-punch
 ```
 
 ## Printable Cheat Sheet
@@ -243,37 +243,37 @@ THE 8 SLICE VARIATIONS x DOUBLES — QUICK REFERENCE
 ====================================================
 
 THE BIG IDEA: In doubles, every slice is a TEAM shot. 8 variations,
-              2 players, 1 grip. The slice x doubles = a 16-shot playbook.
+ 2 players, 1 grip. The slice x doubles = a 16-shot playbook.
 
 THE SERVER'S SLICE
 -------------------
-1. SLICE WIDE SERVE     Pull returner wide, set up the poach    60% of 1st serves
-2. SLICE RETURN         Block to deep middle, set up next shot 5-10 per match
+1. SLICE WIDE SERVE Pull returner wide, set up the poach 60% of 1st serves
+2. SLICE RETURN Block to deep middle, set up next shot 5-10 per match
 
 THE NET PLAYER'S SLICE
 ------------------------
-3. SLICE APPROACH       Return + Approach, 70% sprint           1-2 per set
-4. SLICE VOLLEY         Cross-court, finish the point           30-50 per match
+3. SLICE APPROACH Return + Approach, 70% sprint 1-2 per set
+4. SLICE VOLLEY Cross-court, finish the point 30-50 per match
 
 THE CHANGE-UP SLICE
 ---------------------
-5. SLICE DROP SHOT      At net, opponent deep, surprise         1-2 per set
-6. SLICE DEFENSIVE LOB  Opponent at net, reset the point        Often (50+ default)
-7. SLICE COUNTER-PUNCH  Stretched wide, escape + recover        Sometimes (emergency)
-8. SLICE LOW BALL       Low skidding ball, scoop & slide        3-5 per match
+5. SLICE DROP SHOT At net, opponent deep, surprise 1-2 per set
+6. SLICE DEFENSIVE LOB Opponent at net, reset the point Often (50+ default)
+7. SLICE COUNTER-PUNCH Stretched wide, escape + recover Sometimes (emergency)
+8. SLICE LOW BALL Low skidding ball, scoop & slide 3-5 per match
 
 THE 4 DOUBLES COORDINATION CUES
 ----------------------------------
-1. "Slice is a setup"    The slice is rarely the winner
-2. "Server + Poacher"    Server slices, poacher volleys
-3. "Cover the alley"     Off-player covers wide after a poach
-4. "Talk with hands"     Fist, open hand, point, hand on chest
+1. "Slice is a setup" The slice is rarely the winner
+2. "Server + Poacher" Server slices, poacher volleys
+3. "Cover the alley" Off-player covers wide after a poach
+4. "Talk with hands" Fist, open hand, point, hand on chest
 
 THE 4 HAND SIGNALS
 --------------------
-- FIST          = "I'm poaching"
-- OPEN HAND     = "Stay"
-- POINT ALLEY   = "Cover the alley"
+- FIST = "I'm poaching"
+- OPEN HAND = "Stay"
+- POINT ALLEY = "Cover the alley"
 - HAND ON CHEST = "Me — I've got this one"
 
 THE 5 CUES TO REMEMBER
@@ -285,11 +285,11 @@ THE 5 CUES TO REMEMBER
 5. "50+ insurance is the lob" — the defensive lob is your 50+ default
 
 THE MASTER CUE: "In doubles, the slice is not a single shot. The slice
-                 is a TEAM shot. 8 variations x 2 players = a 16-shot
-                 playbook. Continental is the foundation. The hand
-                 signal is the communication. The slice is the shot.
-                 At 50+, the player who uses all 8 plays 20 more years
-                 on the doubles court."
+ is a TEAM shot. 8 variations x 2 players = a 16-shot
+ playbook. Continental is the foundation. The hand
+ signal is the communication. The slice is the shot.
+ At 50+, the player who uses all 8 plays 20 more years
+ on the doubles court."
 ```
 
 ---

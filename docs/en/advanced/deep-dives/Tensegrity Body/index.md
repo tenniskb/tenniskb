@@ -148,33 +148,33 @@ Don't be the engine. Be the release valve. Your muscles don't create force — t
 TENSEGRITY BODY — THE SKELETON THAT FLOATS
 
 ONE BIG IDEA
-  Your muscles don't create power. They release the fascia's stored
-  elastic energy. Train the release, not the strength.
+ Your muscles don't create power. They release the fascia's stored
+ elastic energy. Train the release, not the strength.
 
 KEY CUES
-  • "Bones float in fascia. They don't touch."
-  • "Soft-soft-PUNCH-relax."
-  • "Eccentric loading stores the elastic. Concentric release fires it."
-  • "Strength ages out. Elasticity ages well."
-  • "Roll daily. Stretch weekly. Release 3x/week."
+ • "Bones float in fascia. They don't touch."
+ • "Soft-soft-PUNCH-relax."
+ • "Eccentric loading stores the elastic. Concentric release fires it."
+ • "Strength ages out. Elasticity ages well."
+ • "Roll daily. Stretch weekly. Release 3x/week."
 
 TOP MISTAKE
-  Chasing heavier weights at 50+ — strength without elasticity means
-  rigidity, means a slow racket head, means chronic injury.
-  The fix is NOT more strength.
+ Chasing heavier weights at 50+ — strength without elasticity means
+ rigidity, means a slow racket head, means chronic injury.
+ The fix is NOT more strength.
 
 THE 7-DAY TENSEGRITY RESET (25 min/day)
-  Mon/Fri — roll back line
-  Tue/Sat — roll front line
-  Wed/Sun — roll lateral line
-  Thu     — roll spiral line
-  Nightly — cat-cow x10, world's greatest stretch x5 each side,
-            pigeon x60s each side, standing fold x60s
-  3x/wk   — med-ball overhead throw x10, med-ball rotational x10 each
-            side, jump rope 3x60s, pogo hops 3x30s
+ Mon/Fri — roll back line
+ Tue/Sat — roll front line
+ Wed/Sun — roll lateral line
+ Thu — roll spiral line
+ Nightly — cat-cow x10, world's greatest stretch x5 each side,
+ pigeon x60s each side, standing fold x60s
+ 3x/wk — med-ball overhead throw x10, med-ball rotational x10 each
+ side, jump rope 3x60s, pogo hops 3x30s
 
 MASTER CUE
-  "Don't be the engine. Be the release valve."
+ "Don't be the engine. Be the release valve."
 ```
 
 Print this twice — one for your bag, one for home. Run the 7-day reset for a full cycle before judging how it feels; fascia responds on a slower timeline than muscle does.

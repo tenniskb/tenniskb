@@ -90,55 +90,55 @@ Print this. Fill it in as you build.
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THE CHUNK LIBRARY CARD — YOUR TACTICAL DECISION SYSTEM
+ THE CHUNK LIBRARY CARD — YOUR TACTICAL DECISION SYSTEM
 ═══════════════════════════════════════════════════════════════
 
-  MY CURRENT CHUNKS: _____ chunks
+ MY CURRENT CHUNKS: _____ chunks
 
-  MY CHUNK LADDER LEVEL:
-  □ Level 0 (0 chunks)      □ Level 1 (5-10 chunks)
-  □ Level 2 (15-25 chunks)  □ Level 3 (30-50 chunks)
-  □ Level 4 (50+ chunks)
+ MY CHUNK LADDER LEVEL:
+ □ Level 0 (0 chunks) □ Level 1 (5-10 chunks)
+ □ Level 2 (15-25 chunks) □ Level 3 (30-50 chunks)
+ □ Level 4 (50+ chunks)
 
-  ─────────────────────────────────────────────────────────────
-  MY 12 NEW CHUNKS (30-day build)
-  ─────────────────────────────────────────────────────────────
-  Week 1 — Opponent-based:
-  1. _____________________________ → ____________________
-  2. _____________________________ → ____________________
-  3. _____________________________ → ____________________
+ ─────────────────────────────────────────────────────────────
+ MY 12 NEW CHUNKS (30-day build)
+ ─────────────────────────────────────────────────────────────
+ Week 1 — Opponent-based:
+ 1. _____________________________ → ____________________
+ 2. _____________________________ → ____________________
+ 3. _____________________________ → ____________________
 
-  Week 2 — Shot-based:
-  4. _____________________________ → ____________________
-  5. _____________________________ → ____________________
-  6. _____________________________ → ____________________
+ Week 2 — Shot-based:
+ 4. _____________________________ → ____________________
+ 5. _____________________________ → ____________________
+ 6. _____________________________ → ____________________
 
-  Week 3 — Situational:
-  7. _____________________________ → ____________________
-  8. _____________________________ → ____________________
-  9. _____________________________ → ____________________
+ Week 3 — Situational:
+ 7. _____________________________ → ____________________
+ 8. _____________________________ → ____________________
+ 9. _____________________________ → ____________________
 
-  Week 4 — Pressure-inoculation:
-  10. ____________________________ → ____________________
-  11. ____________________________ → ____________________
-  12. ____________________________ → ____________________
+ Week 4 — Pressure-inoculation:
+ 10. ____________________________ → ____________________
+ 11. ____________________________ → ____________________
+ 12. ____________________________ → ____________________
 
-  ─────────────────────────────────────────────────────────────
-  MY DECISION TREE
-  ─────────────────────────────────────────────────────────────
-  Forehand: _____ chunks     Serve:   _____ chunks
-  Backhand: _____ chunks     Return:  _____ chunks
-  Volley:   _____ chunks
-  TOTAL: _____ chunks
+ ─────────────────────────────────────────────────────────────
+ MY DECISION TREE
+ ─────────────────────────────────────────────────────────────
+ Forehand: _____ chunks Serve: _____ chunks
+ Backhand: _____ chunks Return: _____ chunks
+ Volley: _____ chunks
+ TOTAL: _____ chunks
 
-  ─────────────────────────────────────────────────────────────
-  RETRIEVAL SPEED TEST
-  ─────────────────────────────────────────────────────────────
-  Chunk name: ________________________  Retrieval: _____ ms
-  Target: under 200 ms
+ ─────────────────────────────────────────────────────────────
+ RETRIEVAL SPEED TEST
+ ─────────────────────────────────────────────────────────────
+ Chunk name: ________________________ Retrieval: _____ ms
+ Target: under 200 ms
 
-  MASTER CUE:
-  "Patterns, not analysis. Retrieval, not thinking."
+ MASTER CUE:
+ "Patterns, not analysis. Retrieval, not thinking."
 
 ═══════════════════════════════════════════════════════════════
 ```
@@ -147,13 +147,13 @@ And the pocket version, for your bag:
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THE CHUNK LIBRARY CARD — YOUR TACTICAL DECISION SYSTEM
+ THE CHUNK LIBRARY CARD — YOUR TACTICAL DECISION SYSTEM
 ═══════════════════════════════════════════════════════════════
-  CURRENT CHUNKS: ____   TARGET: 30-50 by 90 days
-  TREE: Forehand ___ BH ___ Serve ___ Return ___ Volley ___
-  RETRIEVAL SPEED: _____ ms (target under 200)
+ CURRENT CHUNKS: ____ TARGET: 30-50 by 90 days
+ TREE: Forehand ___ BH ___ Serve ___ Return ___ Volley ___
+ RETRIEVAL SPEED: _____ ms (target under 200)
 
-  "Patterns, not analysis. Retrieval, not thinking."
+ "Patterns, not analysis. Retrieval, not thinking."
 ═══════════════════════════════════════════════════════════════
 ```
 
@@ -162,9 +162,4 @@ And the pocket version, for your bag:
 A 5.0+ player who seems to have more time on court isn't faster than a 4.5, isn't smarter, and isn't more naturally talented. They simply have more chunks — more patterns sitting ready to retrieve in 50 to 150 milliseconds instead of being computed fresh under pressure. The 200-millisecond expert edge isn't a gift and it isn't magic. It's deliberate pattern-building, roughly one chunk at a time, sustained over 30-plus weeks.
 
 You already have 10 to 20 chunks sitting in your game right now, unconsciously built from years of matches, just waiting to be found and named. This deep dive asks you to do three things: make them conscious, time them, and add twelve more on purpose over the next 30 days. Your chunk library, once it's built, is your tactical fingerprint. Nobody else's matches it.
-
-See you on the court, engineer.
-
 ---
-
-Sources: Tennis Research – Neuro Athletics with Kwen-Ollama (Chapter 4 — Heuer's chunk model applied to tennis, the 200ms expert edge, decision latency); Tennis Research with Kwen-Ollama (Chapter 5.4 — tactical schema, the 7±2 working memory limit; Chapter 12 — chunk naming and retrieval); Chase & Simon (1973) — *Perception in Chess*, the foundational chunk theory; Klein & Crandall (1995) — the recognition-primed decision model of expert decision-making; Miller (1956) — *The Magical Number Seven, Plus or Minus Two*, the working memory limit; Futuristic Tennis Manual by Olama (Adaptive Intelligence — deciding in 200ms through pattern recognition).

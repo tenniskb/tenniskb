@@ -34,9 +34,9 @@ Thứ hai, và đây là bài kiểm tra chẩn đoán tốt nhất cho cả cú
 
 Backhand một tay có lẽ là cú đánh đẹp nhất trong tennis. Wawrinka, Federer, Dimitrov, Gasquet, Thiem — tất cả họ đánh khác nhau, và tất cả họ đánh đẹp. Nhưng nó cũng là cú đánh tạo áp lực vai nhiều nhất trong môn này. Nó đòi hỏi timing chính xác, footwork xuất sắc, và một cái vai có thể hấp thụ tải lặp lại một bên. Ở tuổi 50+, backhand hai tay là mặc định hợp lý, và phần này thực sự dành cho hai nhóm: những người đã có backhand một tay và muốn tinh chỉnh nó, và những người muốn thêm phiên bản *slice* cụ thể — vốn thân thiện với vai hơn nhiều so với topspin một tay.
 
-Ba bậc thầy, ba mô hình của cùng một cú đánh. Dimitrov là C-loop mượt mà — một unit turn sâu, đầu vợt rơi xuống dưới bóng theo hình chữ "C" lớn, tiếp xúc phía trước với tay duỗi thẳng. Lực của anh đến từ xoay hông và độ đàn hồi của hình C đó. Trông như lụa. Wawrinka là phiên bản tuyến tính bùng nổ — chuẩn bị sớm hung hăng, khuỷu trái kéo sâu ra sau lưng, dịch chuyển trọng lượng tuyến tính với chân trước góc 45° về lưới. Lực của anh đến từ thân xoay bung ra, không phải từ tay — bạn có thể nghe thấy nó, một tiếng "thwack" nặng mà các bình luận viên thích. Federer là phiên bản hiệu quả, gọn gàng — takeback chặt (vị trí "slot," đầu vợt dưới bóng), tay thẳng khi tiếp xúc, footwork gót-tới-mũi, và độ ổn định đầu xuất sắc — mắt trên bóng khoảng 0,2 giây sau tiếp xúc, cái "mắt tĩnh" nổi tiếng của anh.
+Ba bậc thầy, ba mô hình của cùng một cú đánh. Dimitrov là C-loop mượt mà — một unit turn sâu, đầu vợt rơi xuống dưới bóng theo hình chữ "C" lớn, tiếp xúc phía trước với tay duỗi thẳng. Lực của bạn đến từ xoay hông và độ đàn hồi của hình C đó. Trông như lụa. Wawrinka là phiên bản tuyến tính bùng nổ — chuẩn bị sớm hung hăng, khuỷu trái kéo sâu ra sau lưng, dịch chuyển trọng lượng tuyến tính với chân trước góc 45° về lưới. Lực của bạn đến từ thân xoay bung ra, không phải từ tay — bạn có thể nghe thấy nó, một tiếng "thwack" nặng mà các bình luận viên thích. Federer là phiên bản hiệu quả, gọn gàng — takeback chặt (vị trí "slot," đầu vợt dưới bóng), tay thẳng khi tiếp xúc, footwork gót-tới-mũi, và độ ổn định đầu xuất sắc — mắt trên bóng khoảng 0,2 giây sau tiếp xúc, cái "mắt tĩnh" nổi tiếng của bạn.
 
-Thành thật mà nói, không ai trong ba người này chính xác phù hợp cho người chơi 3.5 — mỗi người đại diện cho mười lăm năm trở lên tập luyện chuyên biệt. Thứ bạn thực sự muốn là những bài học rút ra. Từ Dimitrov, lấy cú drop C-loop — cảm giác chỉ để đầu vợt rơi, dễ bắt chước. Từ Wawrinka, cú kéo khuỷu trái sâu là động cơ xoay của cú đánh anh, nhưng nó thực sự rủi ro với vai 50+, nên bỏ qua. Từ Federer, lấy mắt tĩnh và footwork gót-tới-mũi — đây là hiệu quả thuần túy, và chúng cứu cả vai lẫn chân bạn.
+Thành thật mà nói, không ai trong ba người này chính xác phù hợp cho người chơi 3.5 — mỗi người đại diện cho mười lăm năm trở lên tập luyện chuyên biệt. Thứ bạn thực sự muốn là những bài học rút ra. Từ Dimitrov, lấy cú drop C-loop — cảm giác chỉ để đầu vợt rơi, dễ bắt chước. Từ Wawrinka, cú kéo khuỷu trái sâu là động cơ xoay của cú đánh bạn, nhưng nó thực sự rủi ro với vai 50+, nên bỏ qua. Từ Federer, lấy mắt tĩnh và footwork gót-tới-mũi — đây là hiệu quả thuần túy, và chúng cứu cả vai lẫn chân bạn.
 
 Grip là Continental, không có ngoại lệ. V của ngón cái và ngón trỏ trên bevel #2 — cùng volley. Eastern hay Semi-Western sẽ buộc mặt vợt mở khi tiếp xúc và đưa bóng bay dài.
 
@@ -116,97 +116,97 @@ Có một lăng kính thái cực đẹp cho toàn bộ cú đánh này, nếu n
 
 ```
 ═══════════════════════════════════════════════════════════════
-  BACKHAND — TÓM TẮT 1 TRANG
+ BACKHAND — TÓM TẮT 1 TRANG
 ═══════════════════════════════════════════════════════════════
 
-  Ý TƯỞNG LỚN: Backhand là một chiếc GƯƠNG, không phải cú khác.
-               Hệ L1-L4 áp dụng. Chỉ cần đảo chiều.
+ Ý TƯỞNG LỚN: Backhand là một chiếc GƯƠNG, không phải cú khác.
+ Hệ L1-L4 áp dụng. Chỉ cần đảo chiều.
 
-  ───────────────────────────────────────────────────────────
-  BACKHAND HAI TAY
-  ───────────────────────────────────────────────────────────
-  • Grip tay thuận:    Giống forehand (Semi-W hoặc Eastern)
-  • Grip tay không thuận: Continental (V trên bevel #2)
-  • Unit turn:         Cằm trên vai PHẢI (gương của forehand)
-  • D-Loop drop:       Đầu vợt rơi dưới cổ tay bên TRÁI
-  • Ngực xoay:         CẢ HAI vai xoay cùng nhau
-  • Tiếp xúc:          Phía trước, duỗi hết tay, khuỷu dẫn
-  • Cổ tay:            KHÓA. Không vẩy cổ tay.
-  • Kết thúc:          Qua vai TRÁI (không phải phải)
-  • Hư/Thực:           TRÁI = thực, PHẢI = hư (ngược FH)
+ ───────────────────────────────────────────────────────────
+ BACKHAND HAI TAY
+ ───────────────────────────────────────────────────────────
+ • Grip tay thuận: Giống forehand (Semi-W hoặc Eastern)
+ • Grip tay không thuận: Continental (V trên bevel #2)
+ • Unit turn: Cằm trên vai PHẢI (gương của forehand)
+ • D-Loop drop: Đầu vợt rơi dưới cổ tay bên TRÁI
+ • Ngực xoay: CẢ HAI vai xoay cùng nhau
+ • Tiếp xúc: Phía trước, duỗi hết tay, khuỷu dẫn
+ • Cổ tay: KHÓA. Không vẩy cổ tay.
+ • Kết thúc: Qua vai TRÁI (không phải phải)
+ • Hư/Thực: TRÁI = thực, PHẢI = hư (ngược FH)
 
-  ───────────────────────────────────────────────────────────
-  BACKHAND MỘT TAY
-  ───────────────────────────────────────────────────────────
-  • Grip:              Continental (V trên bevel #2)
-  • Takeback:          C-loop (Dimitrov) hoặc slot (Federer)
-  • Footwork:          Bước gót-mũi (Federer), góc 45°
-  • Tiếp xúc:          Tay gần thẳng, phía trước
-  • Đầu:               MẮT TĨNH — 0,2 giây sau tiếp xúc
-  • Cảnh báo 50+:       Dùng 2HB cho lực, 1HB chỉ cho slice
+ ───────────────────────────────────────────────────────────
+ BACKHAND MỘT TAY
+ ───────────────────────────────────────────────────────────
+ • Grip: Continental (V trên bevel #2)
+ • Takeback: C-loop (Dimitrov) hoặc slot (Federer)
+ • Footwork: Bước gót-mũi (Federer), góc 45°
+ • Tiếp xúc: Tay gần thẳng, phía trước
+ • Đầu: MẮT TĨNH — 0,2 giây sau tiếp xúc
+ • Cảnh báo 50+: Dùng 2HB cho lực, 1HB chỉ cho slice
 
-  ───────────────────────────────────────────────────────────
-  SLICE BACKHAND
-  ───────────────────────────────────────────────────────────
-  • Grip:              Continental, cả hai tay (hoặc 1HB)
-  • Takeback:          CAO (mở cửa)
-  • Đường vung:        CAO xuống THẤP (đóng cửa)
-  • Mặt vợt:           MỞ như mui xe (30-45°)
-  • Tiếp xúc:          Tầm hông, trên đường XUỐNG
-  • Kết thúc:          Thấp, ngang người, gần hông đối diện
-  • Âm thanh:          "Phập" = underspin (tốt). "Bộp" = phẳng (xấu)
-  • Lực bóp:           3-4/10 (tay mềm, tiếp xúc chắc)
+ ───────────────────────────────────────────────────────────
+ SLICE BACKHAND
+ ───────────────────────────────────────────────────────────
+ • Grip: Continental, cả hai tay (hoặc 1HB)
+ • Takeback: CAO (mở cửa)
+ • Đường vung: CAO xuống THẤP (đóng cửa)
+ • Mặt vợt: MỞ như mui xe (30-45°)
+ • Tiếp xúc: Tầm hông, trên đường XUỐNG
+ • Kết thúc: Thấp, ngang người, gần hông đối diện
+ • Âm thanh: "Phập" = underspin (tốt). "Bộp" = phẳng (xấu)
+ • Lực bóp: 3-4/10 (tay mềm, tiếp xúc chắc)
 
-  ───────────────────────────────────────────────────────────
-  5 CÂU LỆNH
-  ───────────────────────────────────────────────────────────
-  1.  "Soi gương forehand"
-  2.  "Tay thuận dẫn, tay không thuận chốt"
-  3.  "Khuỷu dẫn, cổ tay khóa"
-  4.  "Kết thúc vai trái"
-  5.  "Mắt tĩnh 0,2 giây"
+ ───────────────────────────────────────────────────────────
+ 5 CÂU LỆNH
+ ───────────────────────────────────────────────────────────
+ 1. "Soi gương forehand"
+ 2. "Tay thuận dẫn, tay không thuận chốt"
+ 3. "Khuỷu dẫn, cổ tay khóa"
+ 4. "Kết thúc vai trái"
+ 5. "Mắt tĩnh 0,2 giây"
 
-  ───────────────────────────────────────────────────────────
-  4 TÌNH HUỐNG SLICE
-  ───────────────────────────────────────────────────────────
-  1.  PHÒNG THỦ:  "Chỉ cần trả sâu"
-  2.  APPROACH:   "Slice thấp, tiến lên"
-  3.  TRẢ SERVE:  "Slice = bạn của bạn" (vs serve mạnh)
-  4.  PHÁ NHỊP:   "Slice sau rally topspin"
+ ───────────────────────────────────────────────────────────
+ 4 TÌNH HUỐNG SLICE
+ ───────────────────────────────────────────────────────────
+ 1. PHÒNG THỦ: "Chỉ cần trả sâu"
+ 2. APPROACH: "Slice thấp, tiến lên"
+ 3. TRẢ SERVE: "Slice = bạn của bạn" (vs serve mạnh)
+ 4. PHÁ NHỊP: "Slice sau rally topspin"
 
-  ───────────────────────────────────────────────────────────
-  5 BÀI TẬP
-  ───────────────────────────────────────────────────────────
-  1.  Rally tường tay chéo (hàng ngày, 5 phút)
-  2.  Kiểm tra kết thúc vai trái (hàng tuần, cùng đồng đội)
-  3.  Rally tường slice (3 lần/tuần, 10 phút)
-  4.  Vung bóng ma trước gương (hàng ngày, 3 phút)
-  5.  Thực hành mắt tĩnh (trên sân, hàng tuần)
+ ───────────────────────────────────────────────────────────
+ 5 BÀI TẬP
+ ───────────────────────────────────────────────────────────
+ 1. Rally tường tay chéo (hàng ngày, 5 phút)
+ 2. Kiểm tra kết thúc vai trái (hàng tuần, cùng đồng đội)
+ 3. Rally tường slice (3 lần/tuần, 10 phút)
+ 4. Vung bóng ma trước gương (hàng ngày, 3 phút)
+ 5. Thực hành mắt tĩnh (trên sân, hàng tuần)
 
-  ───────────────────────────────────────────────────────────
-  7 SAI LẦM
-  ───────────────────────────────────────────────────────────
-  1.  Cùng grip cả hai tay      →  Continental tay không thuận
-  2.  Kết thúc vai phải         →  Xoay ngực, kiểm tra vai trái
-  3.  Bẻ cổ tay                 →  Khuỷu dẫn, bài tập khăn
-  4.  Slice = vung lên          →  Slice = cao xuống thấp
-  5.  Đóng mặt vợt ở slice      →  Mở mặt, câu lệnh "mui xe"
-  6.  Vẩy tay                   →  Ngực xoay, tay theo
-  7.  Unit turn nông            →  Bài tập D-Loop Hold (2 giây)
+ ───────────────────────────────────────────────────────────
+ 7 SAI LẦM
+ ───────────────────────────────────────────────────────────
+ 1. Cùng grip cả hai tay → Continental tay không thuận
+ 2. Kết thúc vai phải → Xoay ngực, kiểm tra vai trái
+ 3. Bẻ cổ tay → Khuỷu dẫn, bài tập khăn
+ 4. Slice = vung lên → Slice = cao xuống thấp
+ 5. Đóng mặt vợt ở slice → Mở mặt, câu lệnh "mui xe"
+ 6. Vẩy tay → Ngực xoay, tay theo
+ 7. Unit turn nông → Bài tập D-Loop Hold (2 giây)
 
-  ───────────────────────────────────────────────────────────
-  DỪNG LẠI VÀ RESET NẾU:
-  ───────────────────────────────────────────────────────────
-  • Vai hoặc khuỷu đau (đặc biệt ở 1HB)
-  • Đau cổ tay ở tay không thuận (tay chốt)
-  • Backhand cứ bay dài (mặt vợt quá mở, hoặc ngực không xoay)
-  • Backhand cứ vào lưới (mặt vợt quá đóng, hoặc vẩy tay)
-  • Kết thúc vai phải ở 2HB (ngực chưa xoay)
-  • Âm thanh "bộp" ở slice (bạn đang đánh phẳng, không phải slice)
-  • Đau lưng dưới sau backhand (cột sống xoắn thay vì hông xoay)
+ ───────────────────────────────────────────────────────────
+ DỪNG LẠI VÀ RESET NẾU:
+ ───────────────────────────────────────────────────────────
+ • Vai hoặc khuỷu đau (đặc biệt ở 1HB)
+ • Đau cổ tay ở tay không thuận (tay chốt)
+ • Backhand cứ bay dài (mặt vợt quá mở, hoặc ngực không xoay)
+ • Backhand cứ vào lưới (mặt vợt quá đóng, hoặc vẩy tay)
+ • Kết thúc vai phải ở 2HB (ngực chưa xoay)
+ • Âm thanh "bộp" ở slice (bạn đang đánh phẳng, không phải slice)
+ • Đau lưng dưới sau backhand (cột sống xoắn thay vì hông xoay)
 
 ═══════════════════════════════════════════════════════════════
-  Tennis là môn thể thao 20 năm. Backhand là chiếc gương của bạn,
-  không phải kẻ thù. Đối xử với nó cùng sự tôn trọng như forehand.
+ Tennis là môn thể thao 20 năm. Backhand là chiếc gương của bạn,
+ không phải kẻ thù. Đối xử với nó cùng sự tôn trọng như forehand.
 ═══════════════════════════════════════════════════════════════
 ```

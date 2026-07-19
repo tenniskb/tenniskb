@@ -10,7 +10,7 @@ Let's redraw yours.
 
 ## What proprioception actually is
 
-The plain definition: proprioception is your sense of your own body's position, movement, and force, without using your eyes. You're using it right now to know where your feet are, how your spine is curved, how heavy the phone in your hand is — all with your eyes closed if you wanted.  it tells you where the racket head is in space, how fast it's moving, and what the string-bed is actually feeling.
+The plain definition: proprioception is your sense of your own body's position, movement, and force, without using your eyes. You're using it right now to know where your feet are, how your spine is curved, how heavy the phone in your hand is — all with your eyes closed if you wanted. it tells you where the racket head is in space, how fast it's moving, and what the string-bed is actually feeling.
 
 Think of it as your body's satellite navigation. Your eyes are the dashboard screen — they show you the map. Proprioception is the GPS unit underneath, telling you where you are right now even when the screen goes dark, the road is foggy, or you're moving fast. On a tennis court, your vision goes dark for roughly 80 milliseconds every time you blink, every time the ball passes behind you, every time you turn to track your opponent. The GPS keeps working through all of it.
 
@@ -138,41 +138,41 @@ At 50+, a 1.5-2cm error is normal and not a sign of decline — it's simply the 
 PROPRIOCEPTION — CHEAT SHEET
 
 THE ONE BIG IDEA
-  Proprioception is data. Strength is power. Train the data first.
+ Proprioception is data. Strength is power. Train the data first.
 
 THE 4 INPUTS
-  1. Joint Angle    (Ruffini, Pacinian receptors) — where each joint is
-  2. Velocity        (Muscle spindle) — how fast each joint is moving
-  3. Force            (Golgi tendon organ) — how hard each muscle is pulling
-  4. Racket Position (Frame vibration + wrist torque) — where the head is
+ 1. Joint Angle (Ruffini, Pacinian receptors) — where each joint is
+ 2. Velocity (Muscle spindle) — how fast each joint is moving
+ 3. Force (Golgi tendon organ) — how hard each muscle is pulling
+ 4. Racket Position (Frame vibration + wrist torque) — where the head is
 
 THE 4 SOUNDS
-  Sharp/ringing  — everything aligned (joint + velocity + force + position all correct)
-  Muffled/thud   — position off (sweet spot missed by 5cm+)
-  Soft/swish     — force off (angle right, power too low)
-  Crisp/dead     — velocity off (firm contact, no swing)
-  Heavy/thump    — force + topspin aligned (ball brushing up the string-bed)
+ Sharp/ringing — everything aligned (joint + velocity + force + position all correct)
+ Muffled/thud — position off (sweet spot missed by 5cm+)
+ Soft/swish — force off (angle right, power too low)
+ Crisp/dead — velocity off (firm contact, no swing)
+ Heavy/thump — force + topspin aligned (ball brushing up the string-bed)
 
 THE 4-WEEK RESET (3x/week, 30-35 min)
-  W1: Choke-up feel · Eyes-closed figure-8 · Blind slow rally · Sound hunt
-  W2: Wobble board 30s×3 · Leverage switch · On-the-rise · Block on mat
-  W3: 2-point partner drill · Strobe glasses, 40 balls · Blind return (70% closed) · Band ER
-  W4: 7-point "block-only" games · Space-switching · Sensory cooldown, 1 min
+ W1: Choke-up feel · Eyes-closed figure-8 · Blind slow rally · Sound hunt
+ W2: Wobble board 30s×3 · Leverage switch · On-the-rise · Block on mat
+ W3: 2-point partner drill · Strobe glasses, 40 balls · Blind return (70% closed) · Band ER
+ W4: 7-point "block-only" games · Space-switching · Sensory cooldown, 1 min
 
 NOSE-TOUCH DIAGNOSTIC
-  < 1 cm  → Excellent, advance to strobe glasses
-  1-2 cm  → Normal, start Week 1
-  2-5 cm  → Deficit, Week 1 twice/wk + consider a physio screen
-  > 5 cm  → See a neurologist first
+ < 1 cm → Excellent, advance to strobe glasses
+ 1-2 cm → Normal, start Week 1
+ 2-5 cm → Deficit, Week 1 twice/wk + consider a physio screen
+ > 5 cm → See a neurologist first
 
 THE 50+ ADVANTAGE
-  Strength declines ~1%/yr; proprioception holds with use.
-  12-week neuromuscular training → +18% reaction time (2025 RCT).
-  Reflexes are just as fast at 55 as at 25 — train the signal.
+ Strength declines ~1%/yr; proprioception holds with use.
+ 12-week neuromuscular training → +18% reaction time (2025 RCT).
+ Reflexes are just as fast at 55 as at 25 — train the signal.
 
 MASTER CUE
-  "Close your eyes 0.5 seconds before contact.
-   The dark is where the racket learns to see."
+ "Close your eyes 0.5 seconds before contact.
+ The dark is where the racket learns to see."
 ```
 
 Print this cheat sheet, tape it inside your tennis bag. Every session: run the nose-touch test first, warm up with the Week 1 drills, then play. After four weeks, retest. The diagnostic number and your ringing-sound count on the sweet-spot drill are the only two progress metrics that actually matter. Everything else is noise.

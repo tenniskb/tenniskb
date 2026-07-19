@@ -74,41 +74,39 @@ The tools will keep improving, generation after generation. The underlying princ
 THE DREAM LIBRARY — CHEAT SHEET
 
 THE 5 TOOLS
-  □ EEG headband       — Kình/Mushin check, mental-state feedback
-  □ Sensor racket      — myelin tracking, stroke-model confirmation
-  □ VR training        — pattern library, decision-speed training
-  □ AI coach           — automated video review, pattern-flagging
-  □ Biometric dashboard — daily readiness, sleep, recovery tracking
+ □ EEG headband — Kình/Mushin check, mental-state feedback
+ □ Sensor racket — myelin tracking, stroke-model confirmation
+ □ VR training — pattern library, decision-speed training
+ □ AI coach — automated video review, pattern-flagging
+ □ Biometric dashboard — daily readiness, sleep, recovery tracking
 
 THE 7-QUESTION FRAMEWORK
-  Q1 Which part of my training does it serve?
-  Q2 Will I actually use it daily?
-  Q3 Does it integrate, or does it replace?
-  Q4 Can I export my own data?
-  Q5 What's the privacy situation?
-  Q6 What's the real cost per use?
-  Q7 Is there an actual trial period?
+ Q1 Which part of my training does it serve?
+ Q2 Will I actually use it daily?
+ Q3 Does it integrate, or does it replace?
+ Q4 Can I export my own data?
+ Q5 What's the privacy situation?
+ Q6 What's the real cost per use?
+ Q7 Is there an actual trial period?
 
-  FAILS MORE THAN 2 → DON'T BUY
+ FAILS MORE THAN 2 → DON'T BUY
 
 IF YOU CAN ONLY AFFORD ONE TOOL
-  Biometric dashboard — it informs every other decision.
+ Biometric dashboard — it informs every other decision.
 
 THE ANNUAL AUDIT (1 hour, once a year)
-  1. List every tool bought this year
-  2. Mark: used in last 30 days? / what does it serve? / cost per use?
-  3. Classify: Keep / Sell-give-away / Renew commitment
-  4. Identify 1-2 tools to consider adding, via the 7-Q framework
-  5. Write yourself a short "tool philosophy" paragraph
+ 1. List every tool bought this year
+ 2. Mark: used in last 30 days? / what does it serve? / cost per use?
+ 3. Classify: Keep / Sell-give-away / Renew commitment
+ 4. Identify 1-2 tools to consider adding, via the 7-Q framework
+ 5. Write yourself a short "tool philosophy" paragraph
 
 THE TWO ERRORS TO AVOID
-  1. Tools as identity — buying gear to feel like a "person who has gear"
-  2. Tools as boss — letting an app dictate your training instead of support it
+ 1. Tools as identity — buying gear to feel like a "person who has gear"
+ 2. Tools as boss — letting an app dictate your training instead of support it
 
 MASTER CUE
-  "Tools serve the system. I'm the one running things."
+ "Tools serve the system. I'm the one running things."
 ```
 
 Tools come and go, generation after generation. The underlying principles remain — how you build skill, how you manage pressure, how you recover, how you make decisions under time constraints. You're the one running a system that improves itself, with or without any particular piece of gear. That's the real creed here.
-
-Sources: synthesized from tennis technology-adoption research covering AI coaching, sensor rackets, EEG headbands, and dream-library frameworks; futuristic tennis equipment projections toward 2030-era AI-integrated coaching and sensor-driven decision-making; and technology-adoption frameworks from advanced kinetic-chain coaching material, including HRV sensor ecosystems and video-analysis pipelines.

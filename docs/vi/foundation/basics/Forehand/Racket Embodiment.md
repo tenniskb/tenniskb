@@ -162,27 +162,27 @@ Ba hướng dẫn còn lại là kỹ thuật. Bài này là sự chuyển hóa.
 
 ```
 ═══════════════════════════════════════════════════════════════
-  NHẬP THỂ VỢT — TÓM TẮT NHANH
+ NHẬP THỂ VỢT — TÓM TẮT NHANH
 ═══════════════════════════════════════════════════════════════
 
-  BA TẦNG
-    1. T1: Cảm nhận mặt đất (chân trần)
-    2. T2: Cảm nhận vợt (không lực)
-    3. T3: Thấy-chuyển, không phải thấy-nghĩ-chuyển
+ BA TẦNG
+ 1. T1: Cảm nhận mặt đất (chân trần)
+ 2. T2: Cảm nhận vợt (không lực)
+ 3. T3: Thấy-chuyển, không phải thấy-nghĩ-chuyển
 
-  ĐIỂM DỪNG HAI GIÂY
-    4. Sau mỗi cú đánh tốt: 2 giây cảm nhận
-    5. Xây dựng thư viện cảm giác
+ ĐIỂM DỪNG HAI GIÂY
+ 4. Sau mỗi cú đánh tốt: 2 giây cảm nhận
+ 5. Xây dựng thư viện cảm giác
 
-  LỢI THẾ CHO NGƯỜI TRÊN 50
-    6. Rèn luyện cảm giác bản thể, không phải thị giác
-    7. Cơ thể già hơn, cảm giác khôn ngoan hơn
+ LỢI THẾ CHO NGƯỜI TRÊN 50
+ 6. Rèn luyện cảm giác bản thể, không phải thị giác
+ 7. Cơ thể già hơn, cảm giác khôn ngoan hơn
 
-  DỪNG LẠI VÀ RESET NẾU:
-    • Bạn kết thúc một buổi tập mà không nhớ được cú đánh nào
-    • Bạn "quyết định" trước khi chuyển động (đó là máy móc, không phải nhập thể)
-    • Bạn cầm vợt như một cây búa, không phải một ngón tay
-    • Bạn bỏ qua điểm dừng 2 giây chỉ để đánh thêm bóng
+ DỪNG LẠI VÀ RESET NẾU:
+ • Bạn kết thúc một buổi tập mà không nhớ được cú đánh nào
+ • Bạn "quyết định" trước khi chuyển động (đó là máy móc, không phải nhập thể)
+ • Bạn cầm vợt như một cây búa, không phải một ngón tay
+ • Bạn bỏ qua điểm dừng 2 giây chỉ để đánh thêm bóng
 
 ═══════════════════════════════════════════════════════════════
 ```

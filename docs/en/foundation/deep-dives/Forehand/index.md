@@ -108,34 +108,34 @@ And skip days if your body asks you to. Tennis is a 20-year sport. You have time
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THE FOREHAND L-ANGLE — QUICK REFERENCE
+ THE FOREHAND L-ANGLE — QUICK REFERENCE
 ═══════════════════════════════════════════════════════════════
 
-  SETUP (2 sec)
-    1. Diamond in front of chest
-    2. Left hand on the racket throat
-    3. Racket head UP, elbow UP
+ SETUP (2 sec)
+ 1. Diamond in front of chest
+ 2. Left hand on the racket throat
+ 3. Racket head UP, elbow UP
 
-  THE L (the drop)
-    4. Racket head falls on its own edge
-    5. Don't straighten the L
-    6. Feel the weight, don't push it
+ THE L (the drop)
+ 4. Racket head falls on its own edge
+ 5. Don't straighten the L
+ 6. Feel the weight, don't push it
 
-  STRIKE (contact)
-    7. Chest opens, arm follows
-    8. Let pronation happen on its own
-    9. Listen for the soft contact sound
+ STRIKE (contact)
+ 7. Chest opens, arm follows
+ 8. Let pronation happen on its own
+ 9. Listen for the soft contact sound
 
-  MINDSET
-    10. Redirect, don't kill
-    11. 70 slow / 30 fast
-    12. Save the rotational engine for wide balls
+ MINDSET
+ 10. Redirect, don't kill
+ 11. 70 slow / 30 fast
+ 12. Save the rotational engine for wide balls
 
-  STOP AND RESET IF:
-    • Wrist or shoulder hurts
-    • Ball keeps sailing long
-    • You hear a hard "thwack," not a soft contact
-    • You feel like you're "swinging fast" the whole way through
+ STOP AND RESET IF:
+ • Wrist or shoulder hurts
+ • Ball keeps sailing long
+ • You hear a hard "thwack," not a soft contact
+ • You feel like you're "swinging fast" the whole way through
 
 ═══════════════════════════════════════════════════════════════
 ```

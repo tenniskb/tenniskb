@@ -148,65 +148,65 @@ Stretched wide: go to the counter-punch — cross-court, away from the net playe
 
 ```
 ═══════════════════════════════════════════════════════════════
-  8 SLICE × DOUBLES — 1-PAGE CHEAT SHEET
+ 8 SLICE × DOUBLES — 1-PAGE CHEAT SHEET
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: In doubles, every slice is a TEAM shot. 8
-                variations, 2 players, 1 grip. Slice × doubles
-                = a 16-shot playbook.
+ THE BIG IDEA: In doubles, every slice is a TEAM shot. 8
+ variations, 2 players, 1 grip. Slice × doubles
+ = a 16-shot playbook.
 
-  ─────────────────────────────────────────────────────────────
-  THE SERVER'S SLICE
-  ─────────────────────────────────────────────────────────────
-  1. SLICE WIDE SERVE    Pull returner wide, set up poach
-                         → 60% of 1st serves
-  2. SLICE RETURN        Block to deep middle, set up next
-                         → 5-10 per match
+ ─────────────────────────────────────────────────────────────
+ THE SERVER'S SLICE
+ ─────────────────────────────────────────────────────────────
+ 1. SLICE WIDE SERVE Pull returner wide, set up poach
+ → 60% of 1st serves
+ 2. SLICE RETURN Block to deep middle, set up next
+ → 5-10 per match
 
-  THE NET PLAYER'S SLICE
-  ─────────────────────────────────────────────────────────────
-  3. SLICE APPROACH      Return + Approach, 70% sprint
-                         → 1-2 per set
-  4. SLICE VOLLEY        Cross-court, finish the point
-                         → 30-50 per match
+ THE NET PLAYER'S SLICE
+ ─────────────────────────────────────────────────────────────
+ 3. SLICE APPROACH Return + Approach, 70% sprint
+ → 1-2 per set
+ 4. SLICE VOLLEY Cross-court, finish the point
+ → 30-50 per match
 
-  THE CHANGE-UP SLICE
-  ─────────────────────────────────────────────────────────────
-  5. SLICE DROP SHOT     At net, opp deep, surprise
-                         → 1-2 per set
-  6. SLICE DEFENSIVE LOB Opp at net, reset the point
-                         → Often (50+ default)
-  7. SLICE COUNTER-PUNCH Stretched wide, escape + recover
-                         → Sometimes (emergency)
-  8. SLICE LOW BALL      Low skidding ball, scoop & slide
-                         → 3-5 per match
+ THE CHANGE-UP SLICE
+ ─────────────────────────────────────────────────────────────
+ 5. SLICE DROP SHOT At net, opp deep, surprise
+ → 1-2 per set
+ 6. SLICE DEFENSIVE LOB Opp at net, reset the point
+ → Often (50+ default)
+ 7. SLICE COUNTER-PUNCH Stretched wide, escape + recover
+ → Sometimes (emergency)
+ 8. SLICE LOW BALL Low skidding ball, scoop & slide
+ → 3-5 per match
 
-  ─────────────────────────────────────────────────────────────
-  THE 4 DOUBLES COORDINATION CUES
-  ─────────────────────────────────────────────────────────────
-  1.  "Slice is a setup"     The slice is rarely the winner
-  2.  "Server + Poacher"     Server slices, poacher volleys
-  3.  "Cover the alley"      Off-player covers wide after poach
-  4.  "Talk with hands"      Fist, open hand, point, chest tap
+ ─────────────────────────────────────────────────────────────
+ THE 4 DOUBLES COORDINATION CUES
+ ─────────────────────────────────────────────────────────────
+ 1. "Slice is a setup" The slice is rarely the winner
+ 2. "Server + Poacher" Server slices, poacher volleys
+ 3. "Cover the alley" Off-player covers wide after poach
+ 4. "Talk with hands" Fist, open hand, point, chest tap
 
-  THE 4 HAND SIGNALS
-  ─────────────────────────────────────────────────────────────
-  • FIST          = "I'm poaching"
-  • OPEN HAND     = "Stay"
-  • POINT ALLEY   = "Cover the alley"
-  • HAND ON CHEST = "Me"
+ THE 4 HAND SIGNALS
+ ─────────────────────────────────────────────────────────────
+ • FIST = "I'm poaching"
+ • OPEN HAND = "Stay"
+ • POINT ALLEY = "Cover the alley"
+ • HAND ON CHEST = "Me"
 
-  ─────────────────────────────────────────────────────────────
-  THE 5 CUES TO REMEMBER
-  ─────────────────────────────────────────────────────────────
-  1.  "Continental, always" — V to bevel #2, the volley grip
-  2.  "Slice is a setup" — rarely the winning shot
-  3.  "Cover the alley" — off-player covers wide after poach
-  4.  "Talk with hands" — fist, open hand, point, chest tap
-  5.  "50+ insurance is the lob" — your default under pressure
+ ─────────────────────────────────────────────────────────────
+ THE 5 CUES TO REMEMBER
+ ─────────────────────────────────────────────────────────────
+ 1. "Continental, always" — V to bevel #2, the volley grip
+ 2. "Slice is a setup" — rarely the winning shot
+ 3. "Cover the alley" — off-player covers wide after poach
+ 4. "Talk with hands" — fist, open hand, point, chest tap
+ 5. "50+ insurance is the lob" — your default under pressure
 
 ═══════════════════════════════════════════════════════════════
-  In doubles, the slice is not a shot. It's a TEAM shot. One
-  grip. Eight variations. Two players. Twenty years of doubles.
+ In doubles, the slice is not a shot. It's a TEAM shot. One
+ grip. Eight variations. Two players. Twenty years of doubles.
 ═══════════════════════════════════════════════════════════════
 ```

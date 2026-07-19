@@ -1,4 +1,4 @@
-# Self-Coaching Discipline — The Engineer in the Mirror
+# Self-Coaching Discipline — The system thinker in the Mirror
 
 *The 4 pillars of self-coaching, and your 5-question weekly review.*
 
@@ -94,49 +94,49 @@ Print this. Fill it in every week.
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THE SELF-COACHING DISCIPLINE CARD — YOUR 4 PILLARS
+ THE SELF-COACHING DISCIPLINE CARD — YOUR 4 PILLARS
 ═══════════════════════════════════════════════════════════════
 
-  PILLAR 1 — DAILY JOURNAL (5 lines, 5 minutes)
-  ─────────────────────────────────────────────────────────────
-  1. Date / Activity: _____________________________________
-  2. Focus: _______________________________________________
-  3. Success rate: ____%
-  4. Noticed: _____________________________________________
-  5. Tomorrow's adjustment: _______________________________
+ PILLAR 1 — DAILY JOURNAL (5 lines, 5 minutes)
+ ─────────────────────────────────────────────────────────────
+ 1. Date / Activity: _____________________________________
+ 2. Focus: _______________________________________________
+ 3. Success rate: ____%
+ 4. Noticed: _____________________________________________
+ 5. Tomorrow's adjustment: _______________________________
 
-  PILLAR 2 — VIDEO SYSTEM
-  ─────────────────────────────────────────────────────────────
-  Frequency: ___/week (minimum 1)
-  Camera fps setting: ____ (240 ideal)
-  Last video review: ____/____
+ PILLAR 2 — VIDEO SYSTEM
+ ─────────────────────────────────────────────────────────────
+ Frequency: ___/week (minimum 1)
+ Camera fps setting: ____ (240 ideal)
+ Last video review: ____/____
 
-  PILLAR 3 — SMART GOALS (21-day cycle)
-  ─────────────────────────────────────────────────────────────
-  Current goal: ___________________________________________
-  Specific: _______________________________________________
-  Measurable: _____________________________________________
-  Day ___ of 21
+ PILLAR 3 — SMART GOALS (21-day cycle)
+ ─────────────────────────────────────────────────────────────
+ Current goal: ___________________________________________
+ Specific: _______________________________________________
+ Measurable: _____________________________________________
+ Day ___ of 21
 
-  PILLAR 4 — 5-QUESTION WEEKLY REVIEW
-  ─────────────────────────────────────────────────────────────
-  Q1 What worked: _________________________________________
-  Q2 What didn't work: ____________________________________
-  Q3 Body insight: ________________________________________
-  Q4 5.0+ index: __________________________________________
-  Q5 Next week's focus: ___________________________________
+ PILLAR 4 — 5-QUESTION WEEKLY REVIEW
+ ─────────────────────────────────────────────────────────────
+ Q1 What worked: _________________________________________
+ Q2 What didn't work: ____________________________________
+ Q3 Body insight: ________________________________________
+ Q4 5.0+ index: __________________________________________
+ Q5 Next week's focus: ___________________________________
 
-  ─────────────────────────────────────────────────────────────
-  THE FIVE FAILURES TO AVOID
-  ─────────────────────────────────────────────────────────────
-  □ Skipping the journal on good days
-  □ Watching video for confirmation, not discovery
-  □ Setting goals too ambitious
-  □ Skipping the weekly review
-  □ Self-criticism dressed up as self-coaching
+ ─────────────────────────────────────────────────────────────
+ THE FIVE FAILURES TO AVOID
+ ─────────────────────────────────────────────────────────────
+ □ Skipping the journal on good days
+ □ Watching video for confirmation, not discovery
+ □ Setting goals too ambitious
+ □ Skipping the weekly review
+ □ Self-criticism dressed up as self-coaching
 
-  MASTER CUE:
-  "Discipline, not mood. Data, not judgment."
+ MASTER CUE:
+ "Discipline, not mood. Data, not judgment."
 
 ═══════════════════════════════════════════════════════════════
 ```
@@ -145,23 +145,18 @@ And the pocket version, for a quick daily glance:
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THE SELF-COACHING DISCIPLINE CARD — YOUR 4 PILLARS
+ THE SELF-COACHING DISCIPLINE CARD — YOUR 4 PILLARS
 ═══════════════════════════════════════════════════════════════
-  DAILY: 5-line journal (5 minutes).
-  VIDEO: ___/week, 240fps ideal.
-  GOAL: SMART 21-day cycle. Day ___/21.
-  WEEKLY: 5-question review, Sunday.
+ DAILY: 5-line journal (5 minutes).
+ VIDEO: ___/week, 240fps ideal.
+ GOAL: SMART 21-day cycle. Day ___/21.
+ WEEKLY: 5-question review, Sunday.
 
-  "Discipline, not mood. Data, not judgment."
+ "Discipline, not mood. Data, not judgment."
 ═══════════════════════════════════════════════════════════════
 ```
 
 ## The Last Word
 
 A coach is someone who makes you better. A self-coach is someone who makes themselves better. Every tool in this whole library — tone, myelin, the swing models, pressure, Kình, the CLA framework, speed, chunks — is only ever as effective as the discipline that actually puts it to use. The four pillars here aren't optional extras sitting on top of everything else. They're the operating system the 5.0+ player runs on. Without them, you've got thirteen genuinely great tools that you keep forgetting to pick up. With them, you've got a system that keeps improving itself even on the days you don't feel like showing up for it.
-
-See you on the court, engineer.
-
 ---
-
-Sources: Tennis Research – Neuro Athletics with Kwen-Ollama (Chapter 12 — the self-coaching protocol, the "Silent CEO" model, the video-plus-journal-plus-reflection loop); Tennis Research with Kwen-Ollama (Chapter 19 — self-coaching integration with all prior systems, SMART goals applied to tennis, the 5-question weekly review); Advanced Tennis Kinetic-Chain Manual (self-coaching and bio-informed periodization, SMART goal templates); Locke & Latham (2002) — *Building a Practically Useful Theory of Goal Setting*, the foundation of the SMART framework.

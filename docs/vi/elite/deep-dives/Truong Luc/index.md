@@ -78,45 +78,45 @@ Bản thân quá trình khám phá: cho mỗi trong sáu pha, viết xuống ba 
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THẺ TONE TỔNG — CHUỖI FOREHAND 5 VÙNG CỦA BẠN
+ THẺ TONE TỔNG — CHUỖI FOREHAND 5 VÙNG CỦA BẠN
 ═══════════════════════════════════════════════════════════════
 
-  5 VÙNG
-  ───────────────────────────────────────────────────────────
-  1  Mềm Nhũn   — chỉ nghỉ ngơi
-  2  Thả Lỏng   — chạm nhẹ / rơi / giải phóng
-  3  Sẵn Sàng   — chuẩn bị / hồi phục
-  4  Đã Nạp     — trước-vung / trophy
-  5  Đấm        — chỉ tiếp xúc, dưới 30ms
+ 5 VÙNG
+ ───────────────────────────────────────────────────────────
+ 1 Mềm Nhũn — chỉ nghỉ ngơi
+ 2 Thả Lỏng — chạm nhẹ / rơi / giải phóng
+ 3 Sẵn Sàng — chuẩn bị / hồi phục
+ 4 Đã Nạp — trước-vung / trophy
+ 5 Đấm — chỉ tiếp xúc, dưới 30ms
 
-  ───────────────────────────────────────────────────────────
-  CHUỖI FOREHAND
-  ───────────────────────────────────────────────────────────
-  Pha 1  Chuẩn bị    Vùng 3    → nhắc của tôi: ________________
-  Pha 2  Split       Vùng 4    → nhắc của tôi: ________________
-  Pha 3  Takeback    Vùng 4-5  → nhắc của tôi: ________________
-  Pha 4  Tiếp xúc    Vùng 5    → nhắc của tôi: ________________
-  Pha 5  Giải phóng  Vùng 5→2  → nhắc của tôi: ________________
-  Pha 6  Hồi phục    Vùng 3    → nhắc của tôi: ________________
+ ───────────────────────────────────────────────────────────
+ CHUỖI FOREHAND
+ ───────────────────────────────────────────────────────────
+ Pha 1 Chuẩn bị Vùng 3 → nhắc của tôi: ________________
+ Pha 2 Split Vùng 4 → nhắc của tôi: ________________
+ Pha 3 Takeback Vùng 4-5 → nhắc của tôi: ________________
+ Pha 4 Tiếp xúc Vùng 5 → nhắc của tôi: ________________
+ Pha 5 Giải phóng Vùng 5→2 → nhắc của tôi: ________________
+ Pha 6 Hồi phục Vùng 3 → nhắc của tôi: ________________
 
-  ───────────────────────────────────────────────────────────
-  5 SỬA LỖI
-  ───────────────────────────────────────────────────────────
-  • Dài            → "Đấm, buông" + thở ra sắc
-  • Lưới           → "Sẵn sàng trước, cuộn, nạp"
-  • Không xoáy     → "Buông vào cú quét"
-  • Đau elbow      → "Đấm dưới 30ms, giải phóng ngay"
-  • Hồi phục chậm  → "Buông, reset" — thở ra + rơi vai
+ ───────────────────────────────────────────────────────────
+ 5 SỬA LỖI
+ ───────────────────────────────────────────────────────────
+ • Dài → "Đấm, buông" + thở ra sắc
+ • Lưới → "Sẵn sàng trước, cuộn, nạp"
+ • Không xoáy → "Buông vào cú quét"
+ • Đau elbow → "Đấm dưới 30ms, giải phóng ngay"
+ • Hồi phục chậm → "Buông, reset" — thở ra + rơi vai
 
-  ───────────────────────────────────────────────────────────
-  MỤC TIÊU 30 NGÀY
-  ───────────────────────────────────────────────────────────
-  • Nhật ký tone hàng ngày điền: ____ / 30
-  • Rep bài dịch chuyển vùng: ____ / ngày
-  • Cửa sổ tiếp xúc đo dưới 30ms: CÓ / KHÔNG
+ ───────────────────────────────────────────────────────────
+ MỤC TIÊU 30 NGÀY
+ ───────────────────────────────────────────────────────────
+ • Nhật ký tone hàng ngày điền: ____ / 30
+ • Rep bài dịch chuyển vùng: ____ / ngày
+ • Cửa sổ tiếp xúc đo dưới 30ms: CÓ / KHÔNG
 
 ═══════════════════════════════════════════════════════════════
-  CÂU NHẮC TỔNG: Năm vùng trong một cú đánh. Buông lúc tiếp xúc.
+ CÂU NHẮC TỔNG: Năm vùng trong một cú đánh. Buông lúc tiếp xúc.
 ═══════════════════════════════════════════════════════════════
 ```
 
@@ -125,5 +125,3 @@ Một HLV thông thường dạy bạn làm gì, và nó nên trông như thế 
 ---
 
 *Nguồn sử dụng cho deep-dive này: nghiên cứu về tone như động cơ bị bỏ qua của tennis, phổ tone, khái niệm Kình so với lực thô, và thời gian lưu cửa sổ tiếp xúc; nghiên cứu thần kinh-vận động về kiểm soát ức chế, tối ưu hóa thần kinh theo từng cú đánh, và hồi phục thần kinh; tài liệu chuỗi động học về truyền tone từ lực phản ứng mặt đất tới vợt; và công trình hệ số thời gian lưu từ mô hình hóa hiệu suất thích ứng.*
-
-Hẹn gặp trên sân.

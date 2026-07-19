@@ -170,99 +170,99 @@ And here's the one rule I'd want you to keep even if you forgot everything else:
 
 ```
 Between points:
-  ☐ Staggered stance (one foot slightly forward)
-  ☐ Back heel up 1-2 cm
-  ☐ Weight on balls of feet
-  ☐ Forward lean at ankles, not waist
+ Staggered stance (one foot slightly forward)
+ Back heel up 1-2 cm
+ Weight on balls of feet
+ Forward lean at ankles, not waist
 
 When your opponent prepares to hit:
-  ☐ Watch the racket head, not the body
-  ☐ Get ready to split-step
+ Watch the racket head, not the body
+ Get ready to split-step
 
 When your opponent strikes:
-  ☐ Tiny hop, both feet off the ground
-  ☐ Land on balls of feet, knees soft
-  ☐ HOLD the landing (1-2 tenths of a second)
+ Tiny hop, both feet off the ground
+ Land on balls of feet, knees soft
+ HOLD the landing (1-2 tenths of a second)
 
 Once the ball's direction is clear:
-  ☐ First step in the chosen direction
-  ☐ Shuffle for short balls, drop step for far ones
-  ☐ Hit the ball
+ First step in the chosen direction
+ Shuffle for short balls, drop step for far ones
+ Hit the ball
 
 After every shot:
-  ☐ 3 automatic steps back toward center
-  ☐ Stagger stance
-  ☐ Get ready for the next ball
+ 3 automatic steps back toward center
+ Stagger stance
+ Get ready for the next ball
 ```
 
 ## One-Page Cheat Sheet
 
 ```
 ═══════════════════════════════════════════════════════════════
-                    FOOTWORK — 1-PAGE CHEAT SHEET
+ FOOTWORK — 1-PAGE CHEAT SHEET
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: Footwork is a STATE, not a sprint.
-                "Thường Tùng" — always loose, always ready.
-                Feet IDLING, never PARKED.
+ THE BIG IDEA: Footwork is a STATE, not a sprint.
+ "Thường Tùng" — always loose, always ready.
+ Feet IDLING, never PARKED.
 
-  ─────────────────────────────────────────────────────────────
-  READY POSITION
-  ─────────────────────────────────────────────────────────────
-  • Stance:        Staggered, NOT parallel
-  • One heel up:   Back foot lifted 1-2 cm
-  • Weight:        Balls of feet, NOT heels
-  • Lean:          Forward at ANKLES, not waist
-  • COG:           5-10° forward — "Hunter stance"
-  • Feet width:    Slightly wider than shoulders
+ ─────────────────────────────────────────────────────────────
+ READY POSITION
+ ─────────────────────────────────────────────────────────────
+ • Stance: Staggered, NOT parallel
+ • One heel up: Back foot lifted 1-2 cm
+ • Weight: Balls of feet, NOT heels
+ • Lean: Forward at ANKLES, not waist
+ • COG: 5-10° forward — "Hunter stance"
+ • Feet width: Slightly wider than shoulders
 
-  ─────────────────────────────────────────────────────────────
-  SPLIT-STEP
-  ─────────────────────────────────────────────────────────────
-  • When:          Racket head starts FORWARD
-  • Size:          1-3 cm hop, NOT a jump
-  • Land:          Balls of feet, knees bent
-  • Hold:          1-2 tenths of a second — READ the ball
-  • Then:          EXPLODE in the chosen direction
-  • Gift:          +200-300ms reaction time (free)
+ ─────────────────────────────────────────────────────────────
+ SPLIT-STEP
+ ─────────────────────────────────────────────────────────────
+ • When: Racket head starts FORWARD
+ • Size: 1-3 cm hop, NOT a jump
+ • Land: Balls of feet, knees bent
+ • Hold: 1-2 tenths of a second — READ the ball
+ • Then: EXPLODE in the chosen direction
+ • Gift: +200-300ms reaction time (free)
 
-  ─────────────────────────────────────────────────────────────
-  THE FOUR MOVES
-  ─────────────────────────────────────────────────────────────
-  • LATERAL HOP:   1-3 m side, windshield wiper, no crossing
-  • DROP STEP:     3-5 m wide/deep, plant + 180° pivot + sprint
-  • CROSS-OVER:    5+ m, inside foot crosses (use sparingly 50+)
-  • RECOVERY:      3 automatic steps back to center after every shot
+ ─────────────────────────────────────────────────────────────
+ THE FOUR MOVES
+ ─────────────────────────────────────────────────────────────
+ • LATERAL HOP: 1-3 m side, windshield wiper, no crossing
+ • DROP STEP: 3-5 m wide/deep, plant + 180° pivot + sprint
+ • CROSS-OVER: 5+ m, inside foot crosses (use sparingly 50+)
+ • RECOVERY: 3 automatic steps back to center after every shot
 
-  ─────────────────────────────────────────────────────────────
-  THE 10 CUES
-  ─────────────────────────────────────────────────────────────
-  1. "Balls of feet"       6. "Windshield wiper"
-  2. "One heel up"         7. "Turn and chase"
-  3. "Stagger, not square" 8. "Three steps home"
-  4. "Hop on contact"      9. "Knees, not back"
-  5. "Hold and read"      10. "Forever hunting"
+ ─────────────────────────────────────────────────────────────
+ THE 10 CUES
+ ─────────────────────────────────────────────────────────────
+ 1. "Balls of feet" 6. "Windshield wiper"
+ 2. "One heel up" 7. "Turn and chase"
+ 3. "Stagger, not square" 8. "Three steps home"
+ 4. "Hop on contact" 9. "Knees, not back"
+ 5. "Hold and read" 10. "Forever hunting"
 
-  ─────────────────────────────────────────────────────────────
-  THE 6 DRILLS
-  ─────────────────────────────────────────────────────────────
-  1. Staggered check       5 min, daily
-  2. Mirror split-step     20 reps, 3x/week
-  3. Lateral ladder        3 sets × 5 reps, 2x/week
-  4. Cone drop             3 sets × 5 cones, 2x/week
-  5. 3-step reset          3 sets × 10 balls, 2x/week
-  6. Triangle drill        5 reps, 1x/week (point simulation)
+ ─────────────────────────────────────────────────────────────
+ THE 6 DRILLS
+ ─────────────────────────────────────────────────────────────
+ 1. Staggered check 5 min, daily
+ 2. Mirror split-step 20 reps, 3x/week
+ 3. Lateral ladder 3 sets × 5 reps, 2x/week
+ 4. Cone drop 3 sets × 5 cones, 2x/week
+ 5. 3-step reset 3 sets × 10 balls, 2x/week
+ 6. Triangle drill 5 reps, 1x/week (point simulation)
 
-  ─────────────────────────────────────────────────────────────
-  THE 50+ RULE
-  ─────────────────────────────────────────────────────────────
-  Smart beats fast. Always.
-  Early + small steps beats late + sprint.
-  Smart + early + small = heart rate low, joints healthy,
-                          match lasts 3 hours, not 90 minutes.
+ ─────────────────────────────────────────────────────────────
+ THE 50+ RULE
+ ─────────────────────────────────────────────────────────────
+ Smart beats fast. Always.
+ Early + small steps beats late + sprint.
+ Smart + early + small = heart rate low, joints healthy,
+ match lasts 3 hours, not 90 minutes.
 
 ═══════════════════════════════════════════════════════════════
-  Print this. Tape it in your bag. Look at it before every match.
+ Print this. Tape it in your bag. Look at it before every match.
 ═══════════════════════════════════════════════════════════════
 ```
 

@@ -60,73 +60,73 @@ If there's one rule to take from this whole guide, it's this: Semi-Western is yo
 
 ```
 ═══════════════════════════════════════════════════════════════
-  EASTERN / SEMI-WESTERN — 1-PAGE CHEAT SHEET
+ EASTERN / SEMI-WESTERN — 1-PAGE CHEAT SHEET
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: Continental is your 70% grip. Semi-Western is
-  your 30% grip — the forehand. One bevel of difference between
-  Eastern (bevel 3) and Semi-Western (bevel 4).
+ THE BIG IDEA: Continental is your 70% grip. Semi-Western is
+ your 30% grip — the forehand. One bevel of difference between
+ Eastern (bevel 3) and Semi-Western (bevel 4).
 
-  ─────────────────────────────────────────────────────────────
-  THE 2 FOREHAND GRIPS
-  ─────────────────────────────────────────────────────────────
-  EASTERN         Bevel 3, V at 12, contact at the side
-                  The 1980s standard, low-medium topspin
-                  Past 50: backup (older game, high-bouncing court)
+ ─────────────────────────────────────────────────────────────
+ THE 2 FOREHAND GRIPS
+ ─────────────────────────────────────────────────────────────
+ EASTERN Bevel 3, V at 12, contact at the side
+ The 1980s standard, low-medium topspin
+ Past 50: backup (older game, high-bouncing court)
 
-  SEMI-WESTERN    Bevel 4, V at 1, contact in front
-                  The modern standard, medium-high topspin
-                  Past 50: YOUR DEFAULT (joint-friendly)
+ SEMI-WESTERN Bevel 4, V at 1, contact in front
+ The modern standard, medium-high topspin
+ Past 50: YOUR DEFAULT (joint-friendly)
 
-  ─────────────────────────────────────────────────────────────
-  THE V POSITION (CLOCK FACE)
-  ─────────────────────────────────────────────────────────────
-  11 o'clock = Continental (70% of your shots)
-  12 o'clock = Eastern (older game, high-bouncing court)
-   1 o'clock = Semi-Western (your default, 50+ friendly)
-   2 o'clock = Western (extreme topspin, for the brave)
+ ─────────────────────────────────────────────────────────────
+ THE V POSITION (CLOCK FACE)
+ ─────────────────────────────────────────────────────────────
+ 11 o'clock = Continental (70% of your shots)
+ 12 o'clock = Eastern (older game, high-bouncing court)
+ 1 o'clock = Semi-Western (your default, 50+ friendly)
+ 2 o'clock = Western (extreme topspin, for the brave)
 
-  ─────────────────────────────────────────────────────────────
-  THE 3 PICKUP METHODS
-  ─────────────────────────────────────────────────────────────
-  SHAKE HANDS    Pretend to shake hands with the racket
-                 Natural feel, easy to find
-  BEVEL WALK     Start at Continental (11), walk 1-2 bevels
-                 Precise, one bevel at a time
-  INDEX FINGER   Extend the index finger down the side
-                 Fast check mid-match
+ ─────────────────────────────────────────────────────────────
+ THE 3 PICKUP METHODS
+ ─────────────────────────────────────────────────────────────
+ SHAKE HANDS Pretend to shake hands with the racket
+ Natural feel, easy to find
+ BEVEL WALK Start at Continental (11), walk 1-2 bevels
+ Precise, one bevel at a time
+ INDEX FINGER Extend the index finger down the side
+ Fast check mid-match
 
-  ─────────────────────────────────────────────────────────────
-  THE 3-PHASE PRESSURE (FOR TOPSPIN)
-  ─────────────────────────────────────────────────────────────
-  Setup (2-3/10):    Soft hand, like holding a baby bird
-  Swing (3-4/10):    Forearm rotation, wrist loose
-  Contact (7-9/10):  Firm wrist, the ball goes where you aim
+ ─────────────────────────────────────────────────────────────
+ THE 3-PHASE PRESSURE (FOR TOPSPIN)
+ ─────────────────────────────────────────────────────────────
+ Setup (2-3/10): Soft hand, like holding a baby bird
+ Swing (3-4/10): Forearm rotation, wrist loose
+ Contact (7-9/10): Firm wrist, the ball goes where you aim
 
-  ─────────────────────────────────────────────────────────────
-  THE 5 CUES
-  ─────────────────────────────────────────────────────────────
-  1.  "V at 1 o'clock" — Semi-Western, your default
-  2.  "Forearm rotation, not wrist snap" — joint-friendly topspin
-  3.  "Same grip for forehand" — groundstroke AND return
-  4.  "Bevel walk in 1 second" — 1-2 bevels from Continental
-  5.  "Past 50 prefers the forearm" — let it do the work
+ ─────────────────────────────────────────────────────────────
+ THE 5 CUES
+ ─────────────────────────────────────────────────────────────
+ 1. "V at 1 o'clock" — Semi-Western, your default
+ 2. "Forearm rotation, not wrist snap" — joint-friendly topspin
+ 3. "Same grip for forehand" — groundstroke AND return
+ 4. "Bevel walk in 1 second" — 1-2 bevels from Continental
+ 5. "Past 50 prefers the forearm" — let it do the work
 
-  ─────────────────────────────────────────────────────────────
-  THE 70/30 RULE
-  ─────────────────────────────────────────────────────────────
-  • 70% of your shots use Continental
-  • 30% is the forehand (Semi-Western) and the forehand return
-  • Continental is the default
-  • Semi-Western is the forehand
-  • Eastern is the backup
+ ─────────────────────────────────────────────────────────────
+ THE 70/30 RULE
+ ─────────────────────────────────────────────────────────────
+ • 70% of your shots use Continental
+ • 30% is the forehand (Semi-Western) and the forehand return
+ • Continental is the default
+ • Semi-Western is the forehand
+ • Eastern is the backup
 
 ═══════════════════════════════════════════════════════════════
-  Continental is your 70% grip. Semi-Western is your 30% grip
-  — the forehand. One bevel of difference, three things change:
-  contact, swing path, topspin. Past 50, Semi-Western at 1 o'clock
-  is the default — forearm rotates, wrist stays loose, contact
-  sits in front. That one bevel is the difference between a
-  forehand that lasts twenty years and one that lasts ten.
+ Continental is your 70% grip. Semi-Western is your 30% grip
+ — the forehand. One bevel of difference, three things change:
+ contact, swing path, topspin. Past 50, Semi-Western at 1 o'clock
+ is the default — forearm rotates, wrist stays loose, contact
+ sits in front. That one bevel is the difference between a
+ forehand that lasts twenty years and one that lasts ten.
 ═══════════════════════════════════════════════════════════════
 ```

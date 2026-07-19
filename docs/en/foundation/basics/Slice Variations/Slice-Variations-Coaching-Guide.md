@@ -204,22 +204,22 @@ The tai chi thread, if it helps hold all this together: the Continental grip its
 
 ```
 BEFORE EVERY SLICE:
-  - Grip: Continental (V to bevel #2) — the constant across all seven
-  - Body: drop the shoulders, unclench the jaw, shake out the hands, lengthen the spine
+ - Grip: Continental (V to bevel #2) — the constant across all seven
+ - Body: drop the shoulders, unclench the jaw, shake out the hands, lengthen the spine
 
 THE 7-VARIATION DECISION (pick the right one):
-  - Big serve coming?          -> SLICE RETURN (block, deep middle)
-  - Low, skidding ball?        -> SLICE LOW BALL (scoop, slide)
-  - At the net, normal pace?   -> SLICE VOLLEY (open face, down path)
-  - Short ball, opp at base?   -> SLICE DROP SHOT (soft hands, dies at the net)
-  - Opp at net, under pressure? -> SLICE DEFENSIVE LOB (rainbow, deep corner)
-  - Stretched wide, no time?   -> SLICE COUNTER-PUNCH (cross-court)
-  - Decided to come forward?   -> SLICE APPROACH (decide + slice + transition + volley)
+ - Big serve coming? -> SLICE RETURN (block, deep middle)
+ - Low, skidding ball? -> SLICE LOW BALL (scoop, slide)
+ - At the net, normal pace? -> SLICE VOLLEY (open face, down path)
+ - Short ball, opp at base? -> SLICE DROP SHOT (soft hands, dies at the net)
+ - Opp at net, under pressure? -> SLICE DEFENSIVE LOB (rainbow, deep corner)
+ - Stretched wide, no time? -> SLICE COUNTER-PUNCH (cross-court)
+ - Decided to come forward? -> SLICE APPROACH (decide + slice + transition + volley)
 
 AFTER EVERY SLICE:
-  - Recover to ready position (split-step, racket up)
-  - Watch the opponent's next shot
-  - Plan your next slice variation
+ - Recover to ready position (split-step, racket up)
+ - Watch the opponent's next shot
+ - Plan your next slice variation
 ```
 
 ## Printable Cheat Sheet
@@ -229,24 +229,24 @@ THE 7 SLICE VARIATIONS — QUICK REFERENCE
 ===========================================
 
 THE BIG IDEA: The slice is the 50+ Swiss army knife. 1 grip,
-              7 variations, 7 situations. Continental Mở khóas
-              all 7. The slice family is the 50+ longevity system.
+ 7 variations, 7 situations. Continental Mở khóas
+ all 7. The slice family is the 50+ longevity system.
 
 THE 7 SLICE VARIATIONS
 ------------------------
-1. SLICE RETURN          Big serve coming      Block & redirect (deep middle)
-2. SLICE LOW BALL         Low, skidding ball    Scoop & slide (racket under ball)
-3. SLICE VOLLEY           At the net, normal    Compact touch (open face, down path)
-4. SLICE DROP SHOT        Short ball, opp base  Soft hands (dies at the net)
-5. SLICE DEFENSIVE LOB    Opp at the net        Rainbow arc (high, deep, underspin)
-6. SLICE COUNTER-PUNCH    Stretched wide        Block cross-court (longest distance)
-7. SLICE APPROACH         Decision to net       Full pattern (decide + slice + transition + volley)
+1. SLICE RETURN Big serve coming Block & redirect (deep middle)
+2. SLICE LOW BALL Low, skidding ball Scoop & slide (racket under ball)
+3. SLICE VOLLEY At the net, normal Compact touch (open face, down path)
+4. SLICE DROP SHOT Short ball, opp base Soft hands (dies at the net)
+5. SLICE DEFENSIVE LOB Opp at the net Rainbow arc (high, deep, underspin)
+6. SLICE COUNTER-PUNCH Stretched wide Block cross-court (longest distance)
+7. SLICE APPROACH Decision to net Full pattern (decide + slice + transition + volley)
 
 THE 3 SLICE GROUPS
 --------------------
-SURVIVAL (defensive):    Return, Low Ball, Counter-Punch -> MASTER FIRST
-CONSTRUCTION (approach): Approach, Volley                -> MASTER SECOND
-TOUCH (offensive):       Drop Shot, Defensive Lob         -> MASTER THIRD
+SURVIVAL (defensive): Return, Low Ball, Counter-Punch -> MASTER FIRST
+CONSTRUCTION (approach): Approach, Volley -> MASTER SECOND
+TOUCH (offensive): Drop Shot, Defensive Lob -> MASTER THIRD
 
 THE 5 CUES TO REMEMBER
 ------------------------
@@ -258,18 +258,18 @@ THE 5 CUES TO REMEMBER
 
 THE 50+ LONGEVITY PRINCIPLE
 ------------------------------
-- Slice:     a CONTROL system, not a power system
-- Speed:     slice uses about 70% of full speed
-- Reach:     "reach with racket, not body" — extend the 27 inches
-- Sprint:    70% sprint, smooth not fast
-- Pressure:  a soft slice drop shot wins without sprinting
+- Slice: a CONTROL system, not a power system
+- Speed: slice uses about 70% of full speed
+- Reach: "reach with racket, not body" — extend the 27 inches
+- Sprint: 70% sprint, smooth not fast
+- Pressure: a soft slice drop shot wins without sprinting
 - Longevity: 7 slice variations = 20+ years of tennis
 
 THE MASTER CUE: "The slice is not one shot. The slice is a family:
-                 7 variations, 1 grip. Continental Mở khóas all 7.
-                 At 50+, the player who uses all 7 plays 20 years.
-                 The player who uses 1-2 plays 10 years. The slice
-                 family is the difference."
+ 7 variations, 1 grip. Continental Mở khóas all 7.
+ At 50+, the player who uses all 7 plays 20 years.
+ The player who uses 1-2 plays 10 years. The slice
+ family is the difference."
 ```
 
 ---

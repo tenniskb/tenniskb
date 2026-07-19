@@ -76,69 +76,67 @@ And constraint-led work without any follow-through to lock the discovery in. Thi
 
 ```
 ═══════════════════════════════════════════════════════════════
-  CONSTRAINT-LED SELF-DISCOVERY — 1-PAGE CHEAT SHEET
+ CONSTRAINT-LED SELF-DISCOVERY — 1-PAGE CHEAT SHEET
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: I don't instruct the body. I pose a problem.
-  The body is a solver, not a typist.
+ THE BIG IDEA: I don't instruct the body. I pose a problem.
+ The body is a solver, not a typist.
 
-  ─────────────────────────────────────────────────────────────
-  THE 5 CONSTRAINT CATEGORIES
-  ─────────────────────────────────────────────────────────────
-  1. ORGANISM    Your body — can't change, design around it
-  2. TASK        The goal — you design this one
-  3. ENVIRONMENT The court — surface, wind, altitude
-  4. EQUIPMENT   Your tools — racket, string, grip
-  5. PRACTICE    The drill shape — targets, scoring, time
+ ─────────────────────────────────────────────────────────────
+ THE 5 CONSTRAINT CATEGORIES
+ ─────────────────────────────────────────────────────────────
+ 1. ORGANISM Your body — can't change, design around it
+ 2. TASK The goal — you design this one
+ 3. ENVIRONMENT The court — surface, wind, altitude
+ 4. EQUIPMENT Your tools — racket, string, grip
+ 5. PRACTICE The drill shape — targets, scoring, time
 
-  ─────────────────────────────────────────────────────────────
-  THE 14-DAY LIBRARY
-  ─────────────────────────────────────────────────────────────
-  Days 1-7:   Single-task exploration (one combo per day)
-  Days 8-14:  Combined-task exploration + equipment variation
-  Day 14:     Match day — let the body choose
+ ─────────────────────────────────────────────────────────────
+ THE 14-DAY LIBRARY
+ ─────────────────────────────────────────────────────────────
+ Days 1-7: Single-task exploration (one combo per day)
+ Days 8-14: Combined-task exploration + equipment variation
+ Day 14: Match day — let the body choose
 
-  Per combo, log 3 lines:
-  • Constraint used
-  • What the body did (objective)
-  • How it felt (subjective)
+ Per combo, log 3 lines:
+ • Constraint used
+ • What the body did (objective)
+ • How it felt (subjective)
 
-  After 14 days: find your 3-5 most natural-feeling combos.
-  These are your go-to combos.
+ After 14 days: find your 3-5 most natural-feeling combos.
+ These are your go-to combos.
 
-  ─────────────────────────────────────────────────────────────
-  THE 6 RULES
-  ─────────────────────────────────────────────────────────────
-  1. One constraint per session
-  2. Let the body propose before you evaluate (10 reps)
-  3. Trust the body over a remembered coaching image
-  4. Stop if consistently painful
-  5. Myelinate (lock in) only after 3-5 sessions
-  6. Use CLA for problems, not for strokes already solved
+ ─────────────────────────────────────────────────────────────
+ THE 6 RULES
+ ─────────────────────────────────────────────────────────────
+ 1. One constraint per session
+ 2. Let the body propose before you evaluate (10 reps)
+ 3. Trust the body over a remembered coaching image
+ 4. Stop if consistently painful
+ 5. Myelinate (lock in) only after 3-5 sessions
+ 6. Use CLA for problems, not for strokes already solved
 
-  ─────────────────────────────────────────────────────────────
-  THE 4-CONSTRAINT FOREHAND FINDER
-  ─────────────────────────────────────────────────────────────
-  Organism: _______________  Task: _______________
-  Environment: _______________  Equipment: _______________
-  Hit 50 balls. Vary ONE. See what was essential.
+ ─────────────────────────────────────────────────────────────
+ THE 4-CONSTRAINT FOREHAND FINDER
+ ─────────────────────────────────────────────────────────────
+ Organism: _______________ Task: _______________
+ Environment: _______________ Equipment: _______________
+ Hit 50 balls. Vary ONE. See what was essential.
 
-  ─────────────────────────────────────────────────────────────
-  THE 5 MISTAKES
-  ─────────────────────────────────────────────────────────────
-  1. Verbal cues mid-drill → hijacks the body's solver
-  2. Varying too many things at once → nothing to solve
-  3. Judging outcome over solution → watch the body first
-  4. Switching too soon → give it 20-30 reps
-  5. No follow-through practice → discovery fades in 2-3 weeks
+ ─────────────────────────────────────────────────────────────
+ THE 5 MISTAKES
+ ─────────────────────────────────────────────────────────────
+ 1. Verbal cues mid-drill → hijacks the body's solver
+ 2. Varying too many things at once → nothing to solve
+ 3. Judging outcome over solution → watch the body first
+ 4. Switching too soon → give it 20-30 reps
+ 5. No follow-through practice → discovery fades in 2-3 weeks
 
 ═══════════════════════════════════════════════════════════════
-  "I don't instruct the body. I pose a problem."
-  The body is the world's best solver of its own movement
-  problems. Your job is to give it problems worth solving.
+ "I don't instruct the body. I pose a problem."
+ The body is the world's best solver of its own movement
+ problems. Your job is to give it problems worth solving.
 ═══════════════════════════════════════════════════════════════
 ```
 
 The instruction model says: I will teach the body. The constraint-led model says: I will pose a problem and watch the body solve it. Both can produce skill. Only one produces skill that's genuinely yours.
-
-See you on the court.

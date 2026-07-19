@@ -18,7 +18,7 @@ Mô hình cũ đi như sau: não nghĩ, gửi lệnh, cơ di chuyển, bóng bay
 
 Có năm người chơi liên quan. Vỏ não của bạn — đặc biệt vùng vận động và trước trán — lập kế hoạch, quyết định, và học; nó chậm nhưng linh hoạt. Tiểu não của bạn tinh chỉnh chuyển động và dự đoán timing; nó nhanh và chính xác. Hạch nền của bạn lưu trữ thói quen và tự động hóa các mẫu — đây thực sự là nơi "trí nhớ cơ bắp" sống. Thân não của bạn kiểm soát phản xạ, tư thế, và hơi thở — phần cũ nhất của toàn bộ hệ thống. Và tủy sống của bạn chạy các phản xạ độ trễ ngắn, phản ứng nhanh nhất cơ thể bạn có, ở 20 đến 45 mili giây.
 
-Đây là bản dịch sang tennis: khi bạn xem Federer đánh một cú forehand, vỏ não anh không điều khiển buổi biểu diễn. Hạch nền, tiểu não, và tủy sống của anh làm phần lớn công việc thực sự, trong khi vỏ não anh chỉ quyết định *đánh vào đâu*. Đó chính xác là lý do tại sao bạn không thể kiểm soát có ý thức từng khớp trong một cú vung — và tại sao bạn không nên cố gắng làm vậy.
+Đây là bản dịch sang tennis: khi bạn xem Federer đánh một cú forehand, vỏ não bạn không điều khiển buổi biểu diễn. Hạch nền, tiểu não, và tủy sống của bạn làm phần lớn công việc thực sự, trong khi vỏ não bạn chỉ quyết định *đánh vào đâu*. Đó chính xác là lý do tại sao bạn không thể kiểm soát có ý thức từng khớp trong một cú vung — và tại sao bạn không nên cố gắng làm vậy.
 
 Tin tốt thành thật ở tuổi 50+: xử lý vỏ não có chậm đi một chút theo tuổi tác, nhưng hiệu quả hạch nền và tiểu não của bạn có thể được *tập luyện lại* ở bất kỳ thời điểm nào. Đó là lý do thực sự tại sao một người 55 tuổi có kinh nghiệm với kỹ thuật sạch sẽ thường đánh bại một người 25 tuổi nhanh hơn nhưng không có mẫu hình đằng sau chuyển động của họ.
 
@@ -68,7 +68,7 @@ Câu lệnh: cây vợt không phải là một công cụ bạn cầm. Nó là 
 
 Động cơ một là xoay — side-bend cộng X-Factor, dùng nghiêng thân, tách hông-vai, và độ giãn của cơ chéo bụng và cơ lưng rộng. Lực đến từ độ đàn hồi bung ra của thân. Đó là lựa chọn tốt nhất của bạn trên tư thế mở, trên bóng rộng, trên forehand đánh khi đang chạy, và nó là động cơ đằng sau lực kiểu ATP hiện đại. Động cơ hai là thẳng — thân thẳng cộng chuyển giao trọng lượng, dùng khối lượng cơ thể di chuyển tới trong một cú lunge. Lực ở đây đơn giản đến từ khối lượng nhân vận tốc. Đó là lựa chọn tốt nhất của bạn trên tư thế đóng, trên approach shot, và trên bóng ngắn nơi bạn có thời gian — về cơ bản bất kỳ bóng trung tính nào.
 
-Federer là ví dụ điển hình đáng nhớ ở đây, vì anh thực sự dùng cả hai. Bị kéo rộng, anh đi xoay — side-bend, tư thế mở. Có thời gian, anh bước vào thẳng — tư thế đóng, chuyển giao trọng lượng. Khả năng chuyển đổi giữa hai cái, không phải sở thích cho cái nào, mới thực sự là bí mật.
+Federer là ví dụ điển hình đáng nhớ ở đây, vì bạn thực sự dùng cả hai. Bị kéo rộng, bạn đi xoay — side-bend, tư thế mở. Có thời gian, bạn bước vào thẳng — tư thế đóng, chuyển giao trọng lượng. Khả năng chuyển đổi giữa hai cái, không phải sở thích cho cái nào, mới thực sự là bí mật.
 
 Quy tắc quyết định 50+, nói thẳng: bóng thường dùng thẳng. Bóng rộng dùng xoay. Bóng tấn công dùng thẳng với cam kết đầy đủ. Thẳng cứu lưng dưới của bạn. Xoay cứu năng lượng chân của bạn trên bóng bạn thực sự không thể bước vào. Và đây là lý do bạn không thể chỉ mặc định về một cái: cố dùng động cơ xoay trên một bóng thường lãng phí năng lượng, quá tải cơ chéo bụng, và thực sự có nguy cơ chấn thương lưng dưới — người chơi 3.5 cố "đánh như Alcaraz" trên mỗi bóng đang trên con đường nhanh tới đau mãn tính. Ở mặt khác, nếu bạn bị kéo ba mét ngoài đường biên và cố bước vào thẳng, bạn đơn giản sẽ không bao giờ tới bóng kịp thời. Xoay là động cơ *duy nhất* có thể tạo lực thực sự khi bạn không có thời gian để bước vào chút nào.
 
@@ -193,59 +193,56 @@ Câu lệnh: bạn không thể trở lại 25 tuổi. Bạn có thể là một
 Bạn ơi, bạn vừa đọc mười lăm chương về giải phẫu và thần kinh học ẩn của tennis. Nếu bạn chỉ mang theo một điều, hãy để đó là: tennis không phải môn thể thao sức mạnh. Nó là môn thể thao tri giác-và-phối hợp. Cơ thể bạn có ngay bây giờ — ở 50, 60, 70 — đủ khả năng hơn nhiều. Câu hỏi thực sự duy nhất là bạn có tập luyện đúng hệ thống hay không.
 
 Tennis là môn thể thao 20 năm nếu bạn bảo vệ động cơ. Những người chơi tôi ngưỡng mộ nhất ở 60, 70 không bao giờ là những người đánh mạnh nhất ở 30 — họ là những người tập luyện thông minh bắt đầu từ khoảng 45.
-
-Hẹn gặp trên sân.
-
 ---
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THẺ CÂU NHẮC TỔNG — GIẢI PHẪU HỌC & THẦN KINH HỌC
+ THẺ CÂU NHẮC TỔNG — GIẢI PHẪU HỌC & THẦN KINH HỌC
 ═══════════════════════════════════════════════════════════════
 
-  Ý TƯỞNG CỐT LÕI:
-     Tennis không phải môn sức mạnh. Là môn tri giác +
-     phối hợp.
+ Ý TƯỞNG CỐT LÕI:
+ Tennis không phải môn sức mạnh. Là môn tri giác +
+ phối hợp.
 
-  ───────────────────────────────────────────────────────────
-  CÂU NHẮC CHÍNH
-  ───────────────────────────────────────────────────────────
-  • "Cảm thụ bản thể là dữ liệu. Sức mạnh là công suất."
-  • "Hai động cơ. Thường = thẳng. Rộng = xoay."
-  • "Hông dẫn, thân theo, tay giải phóng."
-  • "Đầu trung lập. Chân trời trong tầm nhìn. Gối sẽ theo."
-  • "Đừng nghĩ. Hãy dự đoán."
+ ───────────────────────────────────────────────────────────
+ CÂU NHẮC CHÍNH
+ ───────────────────────────────────────────────────────────
+ • "Cảm thụ bản thể là dữ liệu. Sức mạnh là công suất."
+ • "Hai động cơ. Thường = thẳng. Rộng = xoay."
+ • "Hông dẫn, thân theo, tay giải phóng."
+ • "Đầu trung lập. Chân trời trong tầm nhìn. Gối sẽ theo."
+ • "Đừng nghĩ. Hãy dự đoán."
 
-  ───────────────────────────────────────────────────────────
-  LỖI PHỔ BIẾN NHẤT
-  ───────────────────────────────────────────────────────────
-  1. Cố kiểm soát có ý thức từng khớp
-     → hãy dùng hạch nền thay vào đó
-  2. Dùng động cơ xoay cho bóng thường
-     → thẳng tiết kiệm lưng
-  3. Đuổi X-Factor cực đoan
-     → 45° là tối ưu, không phải tối đa
-  4. Hạ cằm để nhìn bóng
-     → điều này khóa gối
-  5. Cố nghĩ thay vì dự đoán
+ ───────────────────────────────────────────────────────────
+ LỖI PHỔ BIẾN NHẤT
+ ───────────────────────────────────────────────────────────
+ 1. Cố kiểm soát có ý thức từng khớp
+ → hãy dùng hạch nền thay vào đó
+ 2. Dùng động cơ xoay cho bóng thường
+ → thẳng tiết kiệm lưng
+ 3. Đuổi X-Factor cực đoan
+ → 45° là tối ưu, không phải tối đa
+ 4. Hạ cằm để nhìn bóng
+ → điều này khóa gối
+ 5. Cố nghĩ thay vì dự đoán
 
-  ───────────────────────────────────────────────────────────
-  CHƯƠNG TRÌNH CẢM THỤ BẢN THỂ 4 TUẦN
-  ───────────────────────────────────────────────────────────
-  Tuần 1: Rally mù, 5 phút/ngày — nhắm mắt 0,5 giây cuối
-          trước tiếp xúc
-  Tuần 2: Giữ bảng lắc, 30 giây × 3 — bóng ma một chân,
-          10 lần mỗi bên
-  Tuần 3: Rally kính nhấp nháy, 10 phút/ngày — bài tập
-          đồng đội hai điểm
-  Tuần 4: Bài tập di chuyển đầu-trung-tính — tập trung
-          VOR ×1, 1 phút × 3 hàng ngày
+ ───────────────────────────────────────────────────────────
+ CHƯƠNG TRÌNH CẢM THỤ BẢN THỂ 4 TUẦN
+ ───────────────────────────────────────────────────────────
+ Tuần 1: Rally mù, 5 phút/ngày — nhắm mắt 0,5 giây cuối
+ trước tiếp xúc
+ Tuần 2: Giữ bảng lắc, 30 giây × 3 — bóng ma một chân,
+ 10 lần mỗi bên
+ Tuần 3: Rally kính nhấp nháy, 10 phút/ngày — bài tập
+ đồng đội hai điểm
+ Tuần 4: Bài tập di chuyển đầu-trung-tính — tập trung
+ VOR ×1, 1 phút × 3 hàng ngày
 
-  ───────────────────────────────────────────────────────────
-  CÂU NHẮC TỔNG
-  ───────────────────────────────────────────────────────────
-  "Đừng cố gắng hơn. Hãy cố thông minh hơn. Não là nhà của
-  vợt."
+ ───────────────────────────────────────────────────────────
+ CÂU NHẮC TỔNG
+ ───────────────────────────────────────────────────────────
+ "Đừng cố gắng hơn. Hãy cố thông minh hơn. Não là nhà của
+ vợt."
 ═══════════════════════════════════════════════════════════════
 ```
 

@@ -94,44 +94,44 @@ Most players believe they're practicing when they're actually just repeating. Th
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THE MYELIN PRACTICE SYSTEM — QUICK REFERENCE
+ THE MYELIN PRACTICE SYSTEM — QUICK REFERENCE
 ═══════════════════════════════════════════════════════════════
 
-  THE 4 CRITERIA OF A REP
-    1. Attended — not automatic
-    2. Specific — one focus only
-    3. Feedback — internal or external
-    4. Within capacity — ~70% success rate per rep
+ THE 4 CRITERIA OF A REP
+ 1. Attended — not automatic
+ 2. Specific — one focus only
+ 3. Feedback — internal or external
+ 4. Within capacity — ~70% success rate per rep
 
-  THE SESSION ARCHITECTURE
-    Warm-up          10 min   no focus, just get ready
-    Single-focus     20 min   one focus, slow, high attention
-    Variable         20 min   random depth/spin/target
-    Match simulation 10 min   realistic pressure
+ THE SESSION ARCHITECTURE
+ Warm-up 10 min no focus, just get ready
+ Single-focus 20 min one focus, slow, high attention
+ Variable 20 min random depth/spin/target
+ Match simulation 10 min realistic pressure
 
-  THE ATTENTION LADDER
-    Rung 1 — Sound
-    Rung 2 — Contact feel
-    Rung 3 — Weight on feet
-    Rung 4 — Breath
-    Rung 5 — Temperature (the deepest rung)
+ THE ATTENTION LADDER
+ Rung 1 — Sound
+ Rung 2 — Contact feel
+ Rung 3 — Weight on feet
+ Rung 4 — Breath
+ Rung 5 — Temperature (the deepest rung)
 
-  THE SLEEP NUMBERS
-    <6 hrs    severe impairment — you're wasting the practice
-    6-7 hrs   functional, but leaves gains on the table
-    7-9 hrs   the real target for most adults
-    9-10 hrs  what elite athletes often need
-    No alcohol within 3 hrs of sleep
-    Nap 20-30 min, 4-6 hrs after practice, if you can
+ THE SLEEP NUMBERS
+ <6 hrs severe impairment — you're wasting the practice
+ 6-7 hrs functional, but leaves gains on the table
+ 7-9 hrs the real target for most adults
+ 9-10 hrs what elite athletes often need
+ No alcohol within 3 hrs of sleep
+ Nap 20-30 min, 4-6 hrs after practice, if you can
 
-  THE 30-DAY TARGETS
-    Sessions logged: ___/30
-    Avg success rate at focus: ___% (target 60-80%)
-    Variable practice days: ___/14
-    Attention ladder rungs used: ___/5
+ THE 30-DAY TARGETS
+ Sessions logged: ___/30
+ Avg success rate at focus: ___% (target 60-80%)
+ Variable practice days: ___/14
+ Attention ladder rungs used: ___/5
 
-  MASTER CUE
-    "Quality of attention is the limiting factor."
+ MASTER CUE
+ "Quality of attention is the limiting factor."
 
 ═══════════════════════════════════════════════════════════════
 ```

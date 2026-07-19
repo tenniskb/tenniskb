@@ -98,71 +98,71 @@ And keep the 70% rule in view: 70% of your shots use the Continental, the other 
 
 ```
 ═══════════════════════════════════════════════════════════════
-  CONTINENTAL GRIP — QUICK REFERENCE
+ CONTINENTAL GRIP — QUICK REFERENCE
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: The Continental is your 50+ universal key. One
-  grip, nine shots, four protected joints. The three-phase
-  pressure (2-3 → 3-4 → 7-9) saves your forearm.
+ THE BIG IDEA: The Continental is your 50+ universal key. One
+ grip, nine shots, four protected joints. The three-phase
+ pressure (2-3 → 3-4 → 7-9) saves your forearm.
 
-  ─────────────────────────────────────────────────────────────
-  THE NINE SHOTS IN ONE GRIP
-  ─────────────────────────────────────────────────────────────
-  1. Forehand volley     4. Backhand slice      7. Defensive lob
-  2. Backhand volley     5. Serve               8. Drop shot
-  3. Forehand slice      6. Overhead            9. Slice approach
-                                                +1. Return of serve
+ ─────────────────────────────────────────────────────────────
+ THE NINE SHOTS IN ONE GRIP
+ ─────────────────────────────────────────────────────────────
+ 1. Forehand volley 4. Backhand slice 7. Defensive lob
+ 2. Backhand volley 5. Serve 8. Drop shot
+ 3. Forehand slice 6. Overhead 9. Slice approach
+ +1. Return of serve
 
-  ─────────────────────────────────────────────────────────────
-  THE BEVEL ANATOMY
-  ─────────────────────────────────────────────────────────────
-  • Eight bevels (sides of the handle)
-  • Bevel 1 = top (the logo)
-  • Bevel 2 = one step clockwise (the Continental)
-  • V at 11 o'clock = Continental
-  • V at 12 o'clock = Eastern
-  • V at 1 o'clock = Semi-Western
-  • V at 2 o'clock = Western
+ ─────────────────────────────────────────────────────────────
+ THE BEVEL ANATOMY
+ ─────────────────────────────────────────────────────────────
+ • Eight bevels (sides of the handle)
+ • Bevel 1 = top (the logo)
+ • Bevel 2 = one step clockwise (the Continental)
+ • V at 11 o'clock = Continental
+ • V at 12 o'clock = Eastern
+ • V at 1 o'clock = Semi-Western
+ • V at 2 o'clock = Western
 
-  ─────────────────────────────────────────────────────────────
-  THE FOUR CONTACT POINTS
-  ─────────────────────────────────────────────────────────────
-  • Heel pad     = back bevel (5), the ANCHOR
-  • Base knuckle = bevel 2, the POINTER
-  • Thumb        = along bevel 5, the STABILIZER (not wrapped)
-  • Index finger = along bevel 1, the TRIGGER
+ ─────────────────────────────────────────────────────────────
+ THE FOUR CONTACT POINTS
+ ─────────────────────────────────────────────────────────────
+ • Heel pad = back bevel (5), the ANCHOR
+ • Base knuckle = bevel 2, the POINTER
+ • Thumb = along bevel 5, the STABILIZER (not wrapped)
+ • Index finger = along bevel 1, the TRIGGER
 
-  ─────────────────────────────────────────────────────────────
-  THE THREE-PHASE PRESSURE
-  ─────────────────────────────────────────────────────────────
-  Phase 1 (Setup):    2-3/10  "Baby bird" (soft hand)
-  Phase 2 (Swing):    3-4/10  "Slingshot stone" (loose swing)
-  Phase 3 (Contact):  7-9/10  "Wrist lock" (firm grip)
-  Drop shot:          2-3/10  "Holding a feather" (stays soft)
+ ─────────────────────────────────────────────────────────────
+ THE THREE-PHASE PRESSURE
+ ─────────────────────────────────────────────────────────────
+ Phase 1 (Setup): 2-3/10 "Baby bird" (soft hand)
+ Phase 2 (Swing): 3-4/10 "Slingshot stone" (loose swing)
+ Phase 3 (Contact): 7-9/10 "Wrist lock" (firm grip)
+ Drop shot: 2-3/10 "Holding a feather" (stays soft)
 
-  ─────────────────────────────────────────────────────────────
-  THE 70% RULE
-  ─────────────────────────────────────────────────────────────
-  • 70% of shots use the Continental
-  • 30% is forehand (Semi-Western) and forehand return
-  • Continental is the DEFAULT
-  • Other grips are the EXCEPTIONS
+ ─────────────────────────────────────────────────────────────
+ THE 70% RULE
+ ─────────────────────────────────────────────────────────────
+ • 70% of shots use the Continental
+ • 30% is forehand (Semi-Western) and forehand return
+ • Continental is the DEFAULT
+ • Other grips are the EXCEPTIONS
 
-  ─────────────────────────────────────────────────────────────
-  FIVE CUES TO REMEMBER
-  ─────────────────────────────────────────────────────────────
-  1. "V at 11 o'clock" — the V is the steering wheel
-  2. "Hammer pickup" — hold out, lay hand, slide down, close
-  3. "One step clockwise" — from the logo to the Continental
-  4. "Soft hand at setup" — 2-3/10, baby bird
-  5. "Firm contact" — 7-9/10, wrist lock
+ ─────────────────────────────────────────────────────────────
+ FIVE CUES TO REMEMBER
+ ─────────────────────────────────────────────────────────────
+ 1. "V at 11 o'clock" — the V is the steering wheel
+ 2. "Hammer pickup" — hold out, lay hand, slide down, close
+ 3. "One step clockwise" — from the logo to the Continental
+ 4. "Soft hand at setup" — 2-3/10, baby bird
+ 5. "Firm contact" — 7-9/10, wrist lock
 
 ═══════════════════════════════════════════════════════════════
-  THE MASTER CUE: The Continental is not just a grip. It's a
-  universal key. One grip Mở khóas nine shots, protects four
-  joints, and runs on three pressure phases. At 50+, the player
-  who has the Continental plays twenty years. The player who
-  doesn't switches grips four times a point.
+ THE MASTER CUE: The Continental is not just a grip. It's a
+ universal key. One grip Mở khóas nine shots, protects four
+ joints, and runs on three pressure phases. At 50+, the player
+ who has the Continental plays twenty years. The player who
+ doesn't switches grips four times a point.
 ═══════════════════════════════════════════════════════════════
 ```
 

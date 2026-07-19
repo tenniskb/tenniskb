@@ -10,7 +10,6 @@ Practice the unit turn in slow motion for a week before adding pace. Most recrea
 
 When the forehand starts to leak — usually to the slice or the short ball — come back to the L-angle article. Nine times out of ten, the fix is in the contact point, not the swing.
 
-
 ## Articles in this Section
 
 - [Forehand L Angle And Late Acceleration](Forehand L-Angle and Late Acceleration.md)

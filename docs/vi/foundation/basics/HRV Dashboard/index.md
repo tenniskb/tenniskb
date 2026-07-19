@@ -54,11 +54,11 @@ Vào ngày đỏ, câu trả lời thành thật là nghỉ ngơi. Không tennis
 
 ## Người Chơi Thật, Mẫu Hình Thật
 
-Henry, 50+, Vancouver. Đường cơ sở RMSSD 65ms, độ lệch chuẩn 8ms — xanh trên 61ms, vàng giữa 57-60ms, đỏ ở 56ms trở xuống. Sau 90 ngày theo dõi, Henry nhận ra điều gì đó cụ thể: ngày vàng của anh tập trung vào thứ Hai, ngay sau các trận cuối tuần. Cơ thể anh cần đủ 48 giờ để hồi phục. Giờ anh lên kế hoạch xung quanh nó — trận cuối tuần nặng, mong đợi thứ Hai chạy vàng và giữ tập luyện nhẹ, sau đó thứ Ba thường trở lại xanh và sẵn sàng cho tập luyện nặng.
+Henry, 50+, Vancouver. Đường cơ sở RMSSD 65ms, độ lệch chuẩn 8ms — xanh trên 61ms, vàng giữa 57-60ms, đỏ ở 56ms trở xuống. Sau 90 ngày theo dõi, Henry nhận ra điều gì đó cụ thể: ngày vàng của bạn tập trung vào thứ Hai, ngay sau các trận cuối tuần. Cơ thể bạn cần đủ 48 giờ để hồi phục. Giờ bạn lên kế hoạch xung quanh nó — trận cuối tuần nặng, mong đợi thứ Hai chạy vàng và giữ tập luyện nhẹ, sau đó thứ Ba thường trở lại xanh và sẵn sàng cho tập luyện nặng.
 
 Maria, 45+, Madrid. Đường cơ sở RMSSD 72ms, độ lệch chuẩn 10ms. Maria nhận thấy HRV của cô liên tục giảm 15-20% trong tuần đầu chu kỳ kinh nguyệt. Trước đây cô vẫn cố đẩy qua tuần đó bất kể và thua nhiều trận hơn thắng. Một khi cô bắt đầu lên kế hoạch tuần đó như một khoảng vàng dự kiến thay vì chống lại nó, tỷ lệ thắng của cô trong tuần đó tăng từ 30% lên 55%.
 
-James, 55+, San Diego. Đường cơ sở RMSSD 55ms, độ lệch chuẩn 7ms. James đi công tác vì công việc, và HRV của anh đáng tin cậy giảm khoảng 15% vào những ngày đi lại — lệch múi giờ, ngủ khách sạn, căng thẳng xa nhà. Giờ anh lên lịch giải đấu cho ngày 3-5 sau khi hạ cánh, không bao giờ ngày đầu tiên. Tỷ lệ thắng trận đầu của anh đi từ thua khoảng 70% thời gian lên thắng khoảng 60%.
+James, 55+, San Diego. Đường cơ sở RMSSD 55ms, độ lệch chuẩn 7ms. James đi công tác vì công việc, và HRV của bạn đáng tin cậy giảm khoảng 15% vào những ngày đi lại — lệch múi giờ, ngủ khách sạn, căng thẳng xa nhà. Giờ bạn lên lịch giải đấu cho ngày 3-5 sau khi hạ cánh, không bao giờ ngày đầu tiên. Tỷ lệ thắng trận đầu của bạn đi từ thua khoảng 70% thời gian lên thắng khoảng 60%.
 
 Mẫu hình xuyên suốt cả ba: HRV không thực sự là một công tắc "nghỉ so với làm việc." Đó là một công cụ canh thời gian — khớp tập luyện của bạn với trạng thái hồi phục thực sự của cơ thể thay vì kế hoạch của lịch. Người chơi theo dõi điều này nhất quán có xu hướng đưa ra quyết định tốt hơn đáng kể về khi nào đẩy và khi nào giữ lại.
 
@@ -88,76 +88,76 @@ Ghi đè tín hiệu bằng ý chí. HRV của bạn nói vàng, nhưng bạn th
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║      BẢNG ĐIỀU KHIỂN HRV — HỆ THỐNG SINH-HỌC HÀNG NGÀY        ║
+║ BẢNG ĐIỀU KHIỂN HRV — HỆ THỐNG SINH-HỌC HÀNG NGÀY ║
 ╠═══════════════════════════════════════════════════════════════╣
-║                                                                 ║
-║  ĐƯỜNG CƠ SỞ CỦA TÔI (Ngày 31):                                ║
-║  RMSSD trung bình: _______ ms                                  ║
-║  Độ lệch chuẩn: _______ ms                                     ║
-║                                                                 ║
-║  NGƯỠNG CỦA TÔI:                                                ║
-║  Xanh:  ≥ ______ ms                                            ║
-║  Vàng:  ______ đến ______ ms                                   ║
-║  Đỏ:    ≤ ______ ms                                            ║
-║                                                                 ║
-║  PHÁC ĐỒ ĐO CỦA TÔI:                                           ║
-║  Giờ: _______ SA/CH                                            ║
-║  Vị trí: _______ (ngồi/nằm)                                    ║
-║  Thời lượng: _______ giây                                      ║
-║  Công cụ: _______ (app/dây/nhẫn)                               ║
-║                                                                 ║
-║  ───────────────────────────────────────────────────────────   ║
-║                                                                 ║
-║  NGÀY XANH:                                                    ║
-║  • Buổi 60 phút đầy đủ                                          ║
-║  • Toàn thang áp lực                                            ║
-║  • Tập biến thiên + mô phỏng trận đấu                          ║
-║  • Trận khó có thể                                              ║
-║                                                                 ║
-║  NGÀY VÀNG:                                                    ║
-║  • Buổi 40 phút                                                 ║
-║  • Chỉ luyện tiêu điểm đơn                                      ║
-║  • Chỉ nấc 1-3                                                  ║
-║  • Chỉ trận dễ/vừa                                              ║
-║                                                                 ║
-║  NGÀY ĐỎ:                                                       ║
-║  • 20 phút nhẹ, hoặc nghỉ                                       ║
-║  • Chỉ nấc 1, hoặc hoãn                                         ║
-║  • Hoạt động hồi phục                                           ║
-║  • Không trận                                                   ║
-║                                                                 ║
-║  ───────────────────────────────────────────────────────────   ║
-║                                                                 ║
-║  XU HƯỚNG HRV HÀNG TUẦN:                                       ║
-║  T.Hai ___ T.Ba ___ T.Tư ___ T.Năm ___                          ║
-║  T.Sáu ___ T.Bảy ___ C.Nhật ___   Trung bình: ___               ║
-║                                                                 ║
-║  ───────────────────────────────────────────────────────────   ║
-║                                                                 ║
-║  5 LỖI CẦN TRÁNH:                                               ║
-║  ☐ Ám ảnh với một lần đọc đơn lẻ                                ║
-║  ☐ So sánh con số với người khác                               ║
-║  ☐ Đo ở những thời điểm không nhất quán                        ║
-║  ☐ Coi ngày đỏ là thất bại                                     ║
-║  ☐ Ghi đè HRV bằng ý chí                                       ║
-║                                                                 ║
-║  TÍN HIỆU CHỦ ĐẠO:                                              ║
-║     "Đọc bảng điều khiển. Đẩy ngày xanh, nghỉ ngày đỏ."        ║
-║                                                                 ║
+║ ║
+║ ĐƯỜNG CƠ SỞ CỦA TÔI (Ngày 31): ║
+║ RMSSD trung bình: _______ ms ║
+║ Độ lệch chuẩn: _______ ms ║
+║ ║
+║ NGƯỠNG CỦA TÔI: ║
+║ Xanh: ≥ ______ ms ║
+║ Vàng: ______ đến ______ ms ║
+║ Đỏ: ≤ ______ ms ║
+║ ║
+║ PHÁC ĐỒ ĐO CỦA TÔI: ║
+║ Giờ: _______ SA/CH ║
+║ Vị trí: _______ (ngồi/nằm) ║
+║ Thời lượng: _______ giây ║
+║ Công cụ: _______ (app/dây/nhẫn) ║
+║ ║
+║ ─────────────────────────────────────────────────────────── ║
+║ ║
+║ NGÀY XANH: ║
+║ • Buổi 60 phút đầy đủ ║
+║ • Toàn thang áp lực ║
+║ • Tập biến thiên + mô phỏng trận đấu ║
+║ • Trận khó có thể ║
+║ ║
+║ NGÀY VÀNG: ║
+║ • Buổi 40 phút ║
+║ • Chỉ luyện tiêu điểm đơn ║
+║ • Chỉ nấc 1-3 ║
+║ • Chỉ trận dễ/vừa ║
+║ ║
+║ NGÀY ĐỎ: ║
+║ • 20 phút nhẹ, hoặc nghỉ ║
+║ • Chỉ nấc 1, hoặc hoãn ║
+║ • Hoạt động hồi phục ║
+║ • Không trận ║
+║ ║
+║ ─────────────────────────────────────────────────────────── ║
+║ ║
+║ XU HƯỚNG HRV HÀNG TUẦN: ║
+║ T.Hai ___ T.Ba ___ T.Tư ___ T.Năm ___ ║
+║ T.Sáu ___ T.Bảy ___ C.Nhật ___ Trung bình: ___ ║
+║ ║
+║ ─────────────────────────────────────────────────────────── ║
+║ ║
+║ 5 LỖI CẦN TRÁNH: ║
+║ Ám ảnh với một lần đọc đơn lẻ ║
+║ So sánh con số với người khác ║
+║ Đo ở những thời điểm không nhất quán ║
+║ Coi ngày đỏ là thất bại ║
+║ Ghi đè HRV bằng ý chí ║
+║ ║
+║ TÍN HIỆU CHỦ ĐẠO: ║
+║ "Đọc bảng điều khiển. Đẩy ngày xanh, nghỉ ngày đỏ." ║
+║ ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ╔═══════════════════════════════════════════════════════════════╗
-║          BẢNG ĐIỀU KHIỂN HRV — PHIÊN BẢN BỎ TÚI               ║
+║ BẢNG ĐIỀU KHIỂN HRV — PHIÊN BẢN BỎ TÚI ║
 ╠═══════════════════════════════════════════════════════════════╣
-║                                                                 ║
-║  ĐƯỜNG CƠ SỞ: trung bình ___ ms ± ___ ms                       ║
-║  NGƯỠNG: Xanh ≥ ___   Vàng ___–___   Đỏ ≤ ___                  ║
-║  PHÁC ĐỒ: ___ giờ sáng, ___ giây, ngồi, [công cụ]              ║
-║                                                                 ║
-║  HÔM NAY: ___ ms  =  XANH / VÀNG / ĐỎ                          ║
-║                                                                 ║
-║  "Đọc bảng điều khiển. Đẩy ngày xanh, nghỉ ngày đỏ."           ║
-║                                                                 ║
+║ ║
+║ ĐƯỜNG CƠ SỞ: trung bình ___ ms ± ___ ms ║
+║ NGƯỠNG: Xanh ≥ ___ Vàng ___–___ Đỏ ≤ ___ ║
+║ PHÁC ĐỒ: ___ giờ sáng, ___ giây, ngồi, [công cụ] ║
+║ ║
+║ HÔM NAY: ___ ms = XANH / VÀNG / ĐỎ ║
+║ ║
+║ "Đọc bảng điều khiển. Đẩy ngày xanh, nghỉ ngày đỏ." ║
+║ ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 

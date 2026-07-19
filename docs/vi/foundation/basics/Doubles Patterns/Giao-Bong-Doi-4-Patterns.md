@@ -168,80 +168,80 @@ Nếu có một quy tắc để mang theo từ tất cả những điều này, 
 
 ```
 ═══════════════════════════════════════════════════════════════
-  4 MẪU SERVE ĐÔI — TÓM TẮT NHANH
+ 4 MẪU SERVE ĐÔI — TÓM TẮT NHANH
 ═══════════════════════════════════════════════════════════════
 
-  Ý TƯỞNG LỚN: Serve là SETUP, không phải vũ khí.
-    1. RỘNG (slice, mặc định)          — kéo người trả ra khỏi sân
-    2. T (mơ ước người cắt)            — ép return đi LÊN
-    3. THÂN (vũ khí bị bỏ quên)        — ép người trả
-    4. +VOLLEY (dành cho người dũng cảm) — bạn giao VÀ lên lưới
+ Ý TƯỞNG LỚN: Serve là SETUP, không phải vũ khí.
+ 1. RỘNG (slice, mặc định) — kéo người trả ra khỏi sân
+ 2. T (mơ ước người cắt) — ép return đi LÊN
+ 3. THÂN (vũ khí bị bỏ quên) — ép người trả
+ 4. +VOLLEY (dành cho người dũng cảm) — bạn giao VÀ lên lưới
 
-  ─────────────────────────────────────────────────────────────
-  RỘNG
-  ─────────────────────────────────────────────────────────────
-  Khi nào:     Serve 1, return backhand yếu hơn
-  Nhắm:        Góc deuce, 60-90 cm trong biên VÀ baseline
-  Spin:        Slice — quét phía phải bóng
-  Lực:         70-80%
-  Quỹ đạo:     Thấp, chìm, cong trái
-  Gọi:         "Cắt!" hoặc tín hiệu nắm đấm
-  Tần suất:    ~60% serve 1
+ ─────────────────────────────────────────────────────────────
+ RỘNG
+ ─────────────────────────────────────────────────────────────
+ Khi nào: Serve 1, return backhand yếu hơn
+ Nhắm: Góc deuce, 60-90 cm trong biên VÀ baseline
+ Spin: Slice — quét phía phải bóng
+ Lực: 70-80%
+ Quỹ đạo: Thấp, chìm, cong trái
+ Gọi: "Cắt!" hoặc tín hiệu nắm đấm
+ Tần suất: ~60% serve 1
 
-  ─────────────────────────────────────────────────────────────
-  T
-  ─────────────────────────────────────────────────────────────
-  Khi nào:     Người cắt sẵn sàng, người trả thích chéo sân, cần serve an toàn
-  Nhắm:        Vạch service giữa, 30 cm phía trong
-  Spin:        Phẳng hoặc slice (slice là mặc định)
-  Lực:         70-80% slice, 90% phẳng
-  Quỹ đạo:     Vòng cung cao, sâu
-  Tung:        30 cm sang trái trung tâm
-  Tần suất:    ~30% serve 1
+ ─────────────────────────────────────────────────────────────
+ T
+ ─────────────────────────────────────────────────────────────
+ Khi nào: Người cắt sẵn sàng, người trả thích chéo sân, cần serve an toàn
+ Nhắm: Vạch service giữa, 30 cm phía trong
+ Spin: Phẳng hoặc slice (slice là mặc định)
+ Lực: 70-80% slice, 90% phẳng
+ Quỹ đạo: Vòng cung cao, sâu
+ Tung: 30 cm sang trái trung tâm
+ Tần suất: ~30% serve 1
 
-  ─────────────────────────────────────────────────────────────
-  THÂN
-  ─────────────────────────────────────────────────────────────
-  Khi nào:     Người trả dồn biên, thích tấn công
-  Nhắm:        30-60 cm trong vạch giữa, vào thân
-  Spin:        Phẳng (hoặc slice)
-  Lực:         ~80%
-  Quỹ đạo:     Phẳng, nhanh, vào thân
-  Tung:        30 cm sang phải trung tâm
-  Tần suất:    ~10% serve 1
+ ─────────────────────────────────────────────────────────────
+ THÂN
+ ─────────────────────────────────────────────────────────────
+ Khi nào: Người trả dồn biên, thích tấn công
+ Nhắm: 30-60 cm trong vạch giữa, vào thân
+ Spin: Phẳng (hoặc slice)
+ Lực: ~80%
+ Quỹ đạo: Phẳng, nhanh, vào thân
+ Tung: 30 cm sang phải trung tâm
+ Tần suất: ~10% serve 1
 
-  ─────────────────────────────────────────────────────────────
-  +VOLLEY
-  ─────────────────────────────────────────────────────────────
-  Khi nào:     Không có đồng đội, người trả yếu, cần đổi nhịp độ
-  Serve:       Slice rộng
-  Chuyển tiếp: Split-step → chạy 70% → split-step
-  Kết ở lưới:  Volley chéo sân
-  Tần suất:    Một hai lần mỗi SET, không phải mỗi điểm
+ ─────────────────────────────────────────────────────────────
+ +VOLLEY
+ ─────────────────────────────────────────────────────────────
+ Khi nào: Không có đồng đội, người trả yếu, cần đổi nhịp độ
+ Serve: Slice rộng
+ Chuyển tiếp: Split-step → chạy 70% → split-step
+ Kết ở lưới: Volley chéo sân
+ Tần suất: Một hai lần mỗi SET, không phải mỗi điểm
 
-  ─────────────────────────────────────────────────────────────
-  QUY TẮC CHO NGƯỜI CHƠI QUA TUỔI 50
-  ─────────────────────────────────────────────────────────────
-  • Slice 80% số serve, phẳng/kick 20% còn lại
-  • Lực ở 70-80%, không bao giờ 100% — lực thông minh sẽ thắng
-  • Cú tung là vô lăng của serve
-  • Tín hiệu tay trước mỗi cú serve
-  • Serve + Volley: một hai lần mỗi SET
-  • Slice bảo vệ vai; phẳng tải lên vai
+ ─────────────────────────────────────────────────────────────
+ QUY TẮC CHO NGƯỜI CHƠI QUA TUỔI 50
+ ─────────────────────────────────────────────────────────────
+ • Slice 80% số serve, phẳng/kick 20% còn lại
+ • Lực ở 70-80%, không bao giờ 100% — lực thông minh sẽ thắng
+ • Cú tung là vô lăng của serve
+ • Tín hiệu tay trước mỗi cú serve
+ • Serve + Volley: một hai lần mỗi SET
+ • Slice bảo vệ vai; phẳng tải lên vai
 
-  ─────────────────────────────────────────────────────────────
-  NĂM CÂU NHẮC MANG RA SÂN
-  ─────────────────────────────────────────────────────────────
-  1. Slice là mặc định — 80/20
-  2. Cú tung là vô lăng
-  3. Nhắm trước khi tung
-  4. 70-80% lực — không bao giờ hết sức
-  5. Tín hiệu tay trước mỗi cú serve
+ ─────────────────────────────────────────────────────────────
+ NĂM CÂU NHẮC MANG RA SÂN
+ ─────────────────────────────────────────────────────────────
+ 1. Slice là mặc định — 80/20
+ 2. Cú tung là vô lăng
+ 3. Nhắm trước khi tung
+ 4. 70-80% lực — không bao giờ hết sức
+ 5. Tín hiệu tay trước mỗi cú serve
 
 ═══════════════════════════════════════════════════════════════
-  CÂU NHẮC CHỦ ĐẠO: Ở đôi, serve không phải vũ khí. Nó là setup.
-  Rộng kéo người trả, T ép return lên, thân ép người trả, +Volley
-  dành cho người dũng cảm. Dẫn đầu bằng slice.
+ CÂU NHẮC CHỦ ĐẠO: Ở đôi, serve không phải vũ khí. Nó là setup.
+ Rộng kéo người trả, T ép return lên, thân ép người trả, +Volley
+ dành cho người dũng cảm. Dẫn đầu bằng slice.
 ═══════════════════════════════════════════════════════════════
 ```
 

@@ -82,28 +82,28 @@ Nhưng đừng cố sao chép tốc độ đầu vợt của Sinner. Mục tiêu
 FOREHAND SINNER — BẢNG TÓM TẮT
 
 KHỞI ĐỘNG (2 giây)
-  1. Khung kim cương trước ngực
-  2. Tay trái giữ cổ vợt
-  3. Đầu vợt CAO, khuỷu CAO
+ 1. Khung kim cương trước ngực
+ 2. Tay trái giữ cổ vợt
+ 3. Đầu vợt CAO, khuỷu CAO
 
 GÓC L (drop)
-  4. Đầu vợt rơi bằng cạnh
-  5. Đừng duỗi thẳng góc L
-  6. Cảm trọng lượng, đừng đẩy
+ 4. Đầu vợt rơi bằng cạnh
+ 5. Đừng duỗi thẳng góc L
+ 6. Cảm trọng lượng, đừng đẩy
 
 ĐÁNH (chạm bóng)
-  7. Ngực mở, tay theo sau
-  8. Để pronation tự xảy ra
-  9. Lắng nghe tiếng "pực"
+ 7. Ngực mở, tay theo sau
+ 8. Để pronation tự xảy ra
+ 9. Lắng nghe tiếng "pực"
 
 TƯ DUY
-  10. Đổi hướng, đừng giết bóng
-  11. 70 chậm / 30 nhanh
-  12. Giữ động cơ xoay cho bóng rộng
+ 10. Đổi hướng, đừng giết bóng
+ 11. 70 chậm / 30 nhanh
+ 12. Giữ động cơ xoay cho bóng rộng
 
 DỪNG LẠI VÀ RESET NẾU:
-  - Cổ tay hoặc vai đau
-  - Bóng liên tục bay dài
-  - Nghe "bộp" thay vì "pực"
-  - Cảm thấy như đang "vung nhanh" suốt cả cú
+ - Cổ tay hoặc vai đau
+ - Bóng liên tục bay dài
+ - Nghe "bộp" thay vì "pực"
+ - Cảm thấy như đang "vung nhanh" suốt cả cú
 ```

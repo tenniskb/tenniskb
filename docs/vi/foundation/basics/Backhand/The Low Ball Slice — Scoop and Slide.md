@@ -20,25 +20,25 @@ Và cuối cùng, cú trượt: khi bạn tiếp xúc, hình dung trượt mặt
 
 ```
 ═══════════════════════════════════════════════════════════════
-  SLICE BÓNG THẤP — TÓM TẮT
+ SLICE BÓNG THẤP — TÓM TẮT
 ═══════════════════════════════════════════════════════════════
 
-  Ý TƯỞNG LỚN: Đừng đấu với bóng thấp, hãy múc nó.
+ Ý TƯỞNG LỚN: Đừng đấu với bóng thấp, hãy múc nó.
 
-  1. ĐỘ SÂU GỐI:
-     - Ngực phải ở tầm bóng.
-     - Gập gối, giữ lưng thẳng (cứu lưng).
+ 1. ĐỘ SÂU GỐI:
+ - Ngực phải ở tầm bóng.
+ - Gập gối, giữ lưng thẳng (cứu lưng).
 
-  2. ĐƯỜNG ĐI:
-     - Phẳng-tới-trước (không phải cao-xuống-thấp ở đây).
+ 2. ĐƯỜNG ĐI:
+ - Phẳng-tới-trước (không phải cao-xuống-thấp ở đây).
 
-  3. MẶT VỢT:
-     - Mở như mui xe (30-45°).
+ 3. MẶT VỢT:
+ - Mở như mui xe (30-45°).
 
-  4. ÂM THANH:
-     - "Phập" (underspin sạch). "Bộp" (chạm đất) nghĩa là
-       bạn đang thấp quá.
+ 4. ÂM THANH:
+ - "Phập" (underspin sạch). "Bộp" (chạm đất) nghĩa là
+ bạn đang thấp quá.
 
-  5. CẢNH BÁO 50+:
-     - Đừng lunge mạnh. Dùng bước kiểm soát và chân trụ vững.
+ 5. CẢNH BÁO 50+:
+ - Đừng lunge mạnh. Dùng bước kiểm soát và chân trụ vững.
 ```

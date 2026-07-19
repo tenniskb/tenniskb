@@ -10,7 +10,7 @@ Watch any 3.5 match. The server holds serve about 80% of the time. The returner 
 
 The return is genuinely the most under-practiced shot in recreational tennis. Players spend the bulk of their practice time on the forehand, the serve, maybe the backhand — and the return gets left to "I'll figure it out during the match." At 50+, it's also the most joint-stressing moment in the entire sport. You're off-balance, stretched, reacting to someone else's pace, with no time to set up properly. The shoulder, the back, the wrist — all genuinely at risk if you try to swing at a 200 km/h serve the way you'd swing at a rally ball.
 
-Here's the paradox worth sitting with: the return is the second most important shot  right after the serve itself — the server dictates the entire rally from the first ball. And yet it's also the least practiced shot of all. Recreational players tell themselves "I'll figure it out in the match," then double-fault under pressure, net their returns, and wonder why they can't break serve.
+Here's the paradox worth sitting with: the return is the second most important shot right after the serve itself — the server dictates the entire rally from the first ball. And yet it's also the least practiced shot of all. Recreational players tell themselves "I'll figure it out in the match," then double-fault under pressure, net their returns, and wonder why they can't break serve.
 
 "Return" is actually three different shots, not one — the same way "backhand" isn't a single shot either. You don't pick a favorite and use it every time; you pick based on what the server actually gives you.
 
@@ -144,33 +144,33 @@ The tai chi thread running through all of this: breathing out on contact, with a
 
 ```
 BEFORE THE POINT:
-  - Position: 1-2 steps behind the baseline
-  - Stance: platform (or pinpoint if expecting a fast serve)
-  - Grip: Continental (block) or your normal 2HB/forehand grip (drive)
-  - Mental note: "block first, drive second"
+ - Position: 1-2 steps behind the baseline
+ - Stance: platform (or pinpoint if expecting a fast serve)
+ - Grip: Continental (block) or your normal 2HB/forehand grip (drive)
+ - Mental note: "block first, drive second"
 
 WHEN THE SERVER TOSSES:
-  - Eyes on the BALL, not the body
-  - Read the toss position: front (flat), side (slice), behind (kick)
+ - Eyes on the BALL, not the body
+ - Read the toss position: front (flat), side (slice), behind (kick)
 
 WHEN THE BALL REACHES THE TOP OF THE TOSS:
-  - SPLIT-STEP (a small hop, both feet)
-  - Load the legs, ready to explode
+ - SPLIT-STEP (a small hop, both feet)
+ - Load the legs, ready to explode
 
 AS THE BALL APPROACHES:
-  - Step forward if you've read a second serve
-  - Set the face early (block) or take a full takeback (drive)
-  - Decide: block or drive? (depends entirely on serve speed)
+ - Step forward if you've read a second serve
+ - Set the face early (block) or take a full takeback (drive)
+ - Decide: block or drive? (depends entirely on serve speed)
 
 AT CONTACT:
-  - Soft grip (block) or a 70% swing (drive)
-  - Breathe out
-  - Eyes on the contact point
-  - Aim cross-court, deep
+ - Soft grip (block) or a 70% swing (drive)
+ - Breathe out
+ - Eyes on the contact point
+ - Aim cross-court, deep
 
 AFTER CONTACT:
-  - Recover to center
-  - Reset to the ready position
+ - Recover to center
+ - Reset to the ready position
 ```
 
 ## Printable Cheat Sheet
@@ -180,75 +180,75 @@ RETURN OF SERVE — QUICK REFERENCE
 ====================================
 
 THE BIG IDEA: The return is a SURVIVAL skill, not a groundstroke.
-              Block first serves. Drive second serves.
+ Block first serves. Drive second serves.
 
 READING THE SERVE
 -------------------
-- Signal 1 (toss):  Front = flat, Side = slice, Behind = kick
-- Signal 2 (apex):  Split-step HERE (ball at the top of the arc)
-- Signal 3 (path):  Confirm about 100 ms before contact
+- Signal 1 (toss): Front = flat, Side = slice, Behind = kick
+- Signal 2 (apex): Split-step HERE (ball at the top of the arc)
+- Signal 3 (path): Confirm about 100 ms before contact
 - Eyes on the BALL, not the body. Always.
 
 THE BLOCK RETURN (vs first serve, pace)
 ------------------------------------------
-- Grip:      Continental, both hands (or one-handed backhand)
-- Setup:     Racket head up, both hands together
-- Contact:   In front, at waist-to-chest height
-- Swing:     6-12 inches. NO swing. NO force.
-- Face:      Set early (slightly closed for flat, open for slice)
-- Pressure:  3-4/10 (soft hands, firm face)
-- Aim:       Cross-court, deep (the net's about 13 cm lower there)
-- Sound:     Dull thud = yielding. Sharp clack = fighting.
+- Grip: Continental, both hands (or one-handed backhand)
+- Setup: Racket head up, both hands together
+- Contact: In front, at waist-to-chest height
+- Swing: 6-12 inches. NO swing. NO force.
+- Face: Set early (slightly closed for flat, open for slice)
+- Pressure: 3-4/10 (soft hands, firm face)
+- Aim: Cross-court, deep (the net's about 13 cm lower there)
+- Sound: Dull thud = yielding. Sharp clack = fighting.
 
 THE DRIVE RETURN (vs second serve, slow)
 -------------------------------------------
-- Grip:      Normal two-handed backhand or forehand grip
-- Setup:     Early — read the toss, start the unit turn
-- Takeback:  Standard 2HB D-loop or forehand L-drop
-- Swing:     70-80% of your normal rally swing
-- Contact:   In front, at the TOP of the bounce
-- Position:  Step in 1-2 steps (pinpoint stance)
-- Aim:       Deep cross-court OR down the line at the feet
-- Breathe:   OUT on contact (release the tension)
+- Grip: Normal two-handed backhand or forehand grip
+- Setup: Early — read the toss, start the unit turn
+- Takeback: Standard 2HB D-loop or forehand L-drop
+- Swing: 70-80% of your normal rally swing
+- Contact: In front, at the TOP of the bounce
+- Position: Step in 1-2 steps (pinpoint stance)
+- Aim: Deep cross-court OR down the line at the feet
+- Breathe: OUT on contact (release the tension)
 
 THE 3 BLOCK VARIATIONS
 -------------------------
-1. WALL BLOCK:   vs flat serve  -> face closed 10-15°, deep cross-court
-2. CHIP BLOCK:   vs slice serve -> face open 10-15°, low to the feet
-3. ANGLE BLOCK:  vs kick serve  -> contact high, sharp downward angle
+1. WALL BLOCK: vs flat serve -> face closed 10-15°, deep cross-court
+2. CHIP BLOCK: vs slice serve -> face open 10-15°, low to the feet
+3. ANGLE BLOCK: vs kick serve -> contact high, sharp downward angle
 
 THE 3 DRIVE AIMS
 ------------------
-1. DEEP CROSS-COURT:  Safe attack, angles the server wide
-2. DOWN THE LINE:     At the server's feet, before they recover
+1. DEEP CROSS-COURT: Safe attack, angles the server wide
+2. DOWN THE LINE: At the server's feet, before they recover
 3. INSIDE-OUT FOREHAND: Runaround backhand, forehand cross-court
 
 THE 11 CUES
 -------------
-1. "Watch the toss, not the body"     7. "Soft grip, firm face"
-2. "Split-step at the top"            8. "Step in on second serve"
-3. "Block first, drive second"        9. "Aim for the server's feet"
-4. "70% swing on second serve"       10. "Yield to pace, redirect"
-5. "Cross-court is king"             11. "Survive first, attack later"
+1. "Watch the toss, not the body" 7. "Soft grip, firm face"
+2. "Split-step at the top" 8. "Step in on second serve"
+3. "Block first, drive second" 9. "Aim for the server's feet"
+4. "70% swing on second serve" 10. "Yield to pace, redirect"
+5. "Cross-court is king" 11. "Survive first, attack later"
 6. "Breathe out on contact"
 
 THE 5 DRILLS
 --------------
-1. Toss-reading practice          Daily, 5 min, solo
-2. Split-step timing drill        With partner, 5 min
-3. 20-ball block service-line rally  3x/week, 10 min
-4. Drive 10 second serves         With partner, 10 min
-5. Match-situation return game    Weekly, 20 min
+1. Toss-reading practice Daily, 5 min, solo
+2. Split-step timing drill With partner, 5 min
+3. 20-ball block service-line rally 3x/week, 10 min
+4. Drive 10 second serves With partner, 10 min
+5. Match-situation return game Weekly, 20 min
 
 THE 7 ERRORS
 --------------
-1. Watching the body         -> Toss-reading drill
-2. No split-step             -> Split-step timing drill
-3. Swinging at first serves  -> Block return rule, 70% swing
-4. Standing too close        -> Stand 1-2 steps behind the baseline
-5. Standing too far          -> Step in 1-2 on second serve
-6. Aiming too fine           -> Aim 1-2 feet over the net
-7. Tense shoulders           -> Breathe out, soft grip
+1. Watching the body -> Toss-reading drill
+2. No split-step -> Split-step timing drill
+3. Swinging at first serves -> Block return rule, 70% swing
+4. Standing too close -> Stand 1-2 steps behind the baseline
+5. Standing too far -> Step in 1-2 on second serve
+6. Aiming too fine -> Aim 1-2 feet over the net
+7. Tense shoulders -> Breathe out, soft grip
 
 STOP AND RESET IF:
 --------------------

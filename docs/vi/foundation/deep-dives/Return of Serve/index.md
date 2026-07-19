@@ -118,82 +118,82 @@ Vài nguyên lý thái cực đáng mang theo bạn về toàn bộ chủ đề 
 
 ```
 ═══════════════════════════════════════════════════════════════
-  TRẢ GIAO BÓNG — TÓM TẮT 1 TRANG
+ TRẢ GIAO BÓNG — TÓM TẮT 1 TRANG
 ═══════════════════════════════════════════════════════════════
 
-  Ý TƯỞNG LỚN: Trả giao bóng là kỹ năng SỐNG SÓT, không phải
-               groundstroke. Block serve 1. Drive serve 2.
+ Ý TƯỞNG LỚN: Trả giao bóng là kỹ năng SỐNG SÓT, không phải
+ groundstroke. Block serve 1. Drive serve 2.
 
-  ───────────────────────────────────────────────────────────
-  ĐỌC SERVE
-  ───────────────────────────────────────────────────────────
-  • Tín hiệu 1 (tung):  Trước = phẳng, bên = slice, sau = kick
-  • Tín hiệu 2 (đỉnh):  Split-step NGAY ĐÂY (bóng ở đỉnh cung)
-  • Tín hiệu 3 (đường): Xác nhận ~100ms trước tiếp xúc
-  • Mắt trên BÓNG, không phải thân. Luôn luôn.
+ ───────────────────────────────────────────────────────────
+ ĐỌC SERVE
+ ───────────────────────────────────────────────────────────
+ • Tín hiệu 1 (tung): Trước = phẳng, bên = slice, sau = kick
+ • Tín hiệu 2 (đỉnh): Split-step NGAY ĐÂY (bóng ở đỉnh cung)
+ • Tín hiệu 3 (đường): Xác nhận ~100ms trước tiếp xúc
+ • Mắt trên BÓNG, không phải thân. Luôn luôn.
 
-  ───────────────────────────────────────────────────────────
-  BLOCK RETURN (vs serve 1, lực)
-  ───────────────────────────────────────────────────────────
-  • Grip:      Continental, cả hai tay (hoặc 1HB)
-  • Khởi động: Đầu vợt lên, tay cùng nhau
-  • Tiếp xúc:  Phía trước, tầm hông-đến-ngực
-  • Vung:      15-30cm. KHÔNG vung. KHÔNG lực.
-  • Mặt vợt:   Đặt sớm (đóng cho phẳng, mở cho slice)
-  • Áp lực:    3-4/10 (tay mềm, mặt vợt chắc)
-  • Nhắm:      Chéo sân, sâu (phần lưới thấp hơn)
-  • Âm thanh:  "Bịch" = nhường (tốt). "Cốc" = chống (xấu).
+ ───────────────────────────────────────────────────────────
+ BLOCK RETURN (vs serve 1, lực)
+ ───────────────────────────────────────────────────────────
+ • Grip: Continental, cả hai tay (hoặc 1HB)
+ • Khởi động: Đầu vợt lên, tay cùng nhau
+ • Tiếp xúc: Phía trước, tầm hông-đến-ngực
+ • Vung: 15-30cm. KHÔNG vung. KHÔNG lực.
+ • Mặt vợt: Đặt sớm (đóng cho phẳng, mở cho slice)
+ • Áp lực: 3-4/10 (tay mềm, mặt vợt chắc)
+ • Nhắm: Chéo sân, sâu (phần lưới thấp hơn)
+ • Âm thanh: "Bịch" = nhường (tốt). "Cốc" = chống (xấu).
 
-  ───────────────────────────────────────────────────────────
-  DRIVE RETURN (vs serve 2, chậm hơn)
-  ───────────────────────────────────────────────────────────
-  • Grip:      Grip 2HB / forehand bình thường
-  • Khởi động: Sớm — đọc cú tung, bắt đầu unit turn
-  • Takeback:  D-loop 2HB tiêu chuẩn / L-drop forehand
-  • Vung:      70-80% cú vung rally bình thường
-  • Tiếp xúc:  Phía trước, ở ĐỈNH cú nảy
-  • Vị trí:    Bước vào 1-2 bước (tư thế pinpoint)
-  • Nhắm:      Chéo sân sâu HOẶC dọc biên vào chân
-  • Thở:       RA lúc tiếp xúc (giải phóng căng thẳng)
+ ───────────────────────────────────────────────────────────
+ DRIVE RETURN (vs serve 2, chậm hơn)
+ ───────────────────────────────────────────────────────────
+ • Grip: Grip 2HB / forehand bình thường
+ • Khởi động: Sớm — đọc cú tung, bắt đầu unit turn
+ • Takeback: D-loop 2HB tiêu chuẩn / L-drop forehand
+ • Vung: 70-80% cú vung rally bình thường
+ • Tiếp xúc: Phía trước, ở ĐỈNH cú nảy
+ • Vị trí: Bước vào 1-2 bước (tư thế pinpoint)
+ • Nhắm: Chéo sân sâu HOẶC dọc biên vào chân
+ • Thở: RA lúc tiếp xúc (giải phóng căng thẳng)
 
-  ───────────────────────────────────────────────────────────
-  3 BIẾN THỂ BLOCK
-  ───────────────────────────────────────────────────────────
-  1. WALL BLOCK:  vs serve phẳng → mặt đóng 10-15°, sâu CC
-  2. CHIP BLOCK:  vs serve slice → mặt mở 10-15°, thấp vào chân
-  3. ANGLE BLOCK: vs serve kick → tiếp xúc cao, đi xuống sắc
+ ───────────────────────────────────────────────────────────
+ 3 BIẾN THỂ BLOCK
+ ───────────────────────────────────────────────────────────
+ 1. WALL BLOCK: vs serve phẳng → mặt đóng 10-15°, sâu CC
+ 2. CHIP BLOCK: vs serve slice → mặt mở 10-15°, thấp vào chân
+ 3. ANGLE BLOCK: vs serve kick → tiếp xúc cao, đi xuống sắc
 
-  ───────────────────────────────────────────────────────────
-  3 HƯỚNG DRIVE
-  ───────────────────────────────────────────────────────────
-  1. CHÉO SÂN SÂU:  Tấn công an toàn, kéo server rộng
-  2. DỌC BIÊN:      Vào chân server, trước khi họ hồi phục
-  3. FH INSIDE-OUT: Chạy vòng backhand, forehand chéo sân
+ ───────────────────────────────────────────────────────────
+ 3 HƯỚNG DRIVE
+ ───────────────────────────────────────────────────────────
+ 1. CHÉO SÂN SÂU: Tấn công an toàn, kéo server rộng
+ 2. DỌC BIÊN: Vào chân server, trước khi họ hồi phục
+ 3. FH INSIDE-OUT: Chạy vòng backhand, forehand chéo sân
 
-  ───────────────────────────────────────────────────────────
-  11 CÂU LỆNH
-  ───────────────────────────────────────────────────────────
-  1. "Xem cú tung, không phải thân"  7. "Grip mềm, mặt vợt chắc"
-  2. "Split-step ở đỉnh"             8. "Bước vào trên serve 2"
-  3. "Block trước, drive sau"        9. "Nhắm chân server"
-  4. "Vung 70% trên serve 2"        10. "Nhường lực, chuyển hướng"
-  5. "Chéo sân là vua"              11. "Sống sót trước, tấn công sau"
-  6. "Thở ra lúc tiếp xúc"
+ ───────────────────────────────────────────────────────────
+ 11 CÂU LỆNH
+ ───────────────────────────────────────────────────────────
+ 1. "Xem cú tung, không phải thân" 7. "Grip mềm, mặt vợt chắc"
+ 2. "Split-step ở đỉnh" 8. "Bước vào trên serve 2"
+ 3. "Block trước, drive sau" 9. "Nhắm chân server"
+ 4. "Vung 70% trên serve 2" 10. "Nhường lực, chuyển hướng"
+ 5. "Chéo sân là vua" 11. "Sống sót trước, tấn công sau"
+ 6. "Thở ra lúc tiếp xúc"
 
-  ───────────────────────────────────────────────────────────
-  DỪNG LẠI VÀ RESET NẾU:
-  ───────────────────────────────────────────────────────────
-  • Vai hoặc khuỷu đau sau khi trả
-  • Đau lưng dưới trên cú trả rộng (chân trụ không tham gia)
-  • Âm thanh "cốc" thay vì "bịch" (bạn đang chống lực)
-  • Bạn cứ cố drive serve 1 (dùng block)
-  • Mắt vẫn theo dõi thân (đọc cú tung thay vào đó)
-  • Grip trắng khớp ngón (nên là 3-4/10, không phải 8/10)
-  • 50%+ cú trả là lỗi (bạn đã ngừng sống sót)
+ ───────────────────────────────────────────────────────────
+ DỪNG LẠI VÀ RESET NẾU:
+ ───────────────────────────────────────────────────────────
+ • Vai hoặc khuỷu đau sau khi trả
+ • Đau lưng dưới trên cú trả rộng (chân trụ không tham gia)
+ • Âm thanh "cốc" thay vì "bịch" (bạn đang chống lực)
+ • Bạn cứ cố drive serve 1 (dùng block)
+ • Mắt vẫn theo dõi thân (đọc cú tung thay vào đó)
+ • Grip trắng khớp ngón (nên là 3-4/10, không phải 8/10)
+ • 50%+ cú trả là lỗi (bạn đã ngừng sống sót)
 
 ═══════════════════════════════════════════════════════════════
-  Trả giao bóng là cú đánh quan trọng thứ hai trong tennis.
-  Người chơi 3.5 block serve 1 và drive serve 2 break serve
-  40% thời gian. Hãy là người đó.
+ Trả giao bóng là cú đánh quan trọng thứ hai trong tennis.
+ Người chơi 3.5 block serve 1 và drive serve 2 break serve
+ 40% thời gian. Hãy là người đó.
 ═══════════════════════════════════════════════════════════════
 ```

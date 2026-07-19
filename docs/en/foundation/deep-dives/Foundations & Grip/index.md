@@ -1,6 +1,6 @@
 # Foundations & Grip: Your Interface With Energy
 
-This one's about the most basic thing  and the thing most players never actually think about: how your hand meets the handle. At your stage, the priority isn't just power — it's structural integrity. Your grip isn't just how you hold the racket. It's how you connect your entire kinetic chain to the ball.
+This one's about the most basic thing and the thing most players never actually think about: how your hand meets the handle. At your stage, the priority isn't just power — it's structural integrity. Your grip isn't just how you hold the racket. It's how you connect your entire kinetic chain to the ball.
 
 ## The Grip Philosophy
 

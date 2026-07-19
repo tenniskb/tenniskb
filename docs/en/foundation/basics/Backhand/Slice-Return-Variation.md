@@ -12,23 +12,23 @@ A drill worth building. Stand 6 meters from a wall, throw the ball hard against 
 
 ```
 ═══════════════════════════════════════════════════════════════
-  RETURN SLICE CHEAT SHEET
+ RETURN SLICE CHEAT SHEET
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: Redirect, don't create.
+ THE BIG IDEA: Redirect, don't create.
 
-  1. SPLIT-STEP
-     Timing is everything. Hop as they hit.
+ 1. SPLIT-STEP
+ Timing is everything. Hop as they hit.
 
-  2. THE BLOCK
-     No swing. Use their pace. Keep it compact.
+ 2. THE BLOCK
+ No swing. Use their pace. Keep it compact.
 
-  3. THE GRIP
-     Continental. Face open.
+ 3. THE GRIP
+ Continental. Face open.
 
-  4. THE TARGET
-     Deep middle is your best friend.
+ 4. THE TARGET
+ Deep middle is your best friend.
 
-  5. PAST 50
-     Don't over-reach. If it's too wide, just chip it back.
+ 5. PAST 50
+ Don't over-reach. If it's too wide, just chip it back.
 ```

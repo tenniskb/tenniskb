@@ -164,92 +164,92 @@ Sau điểm: nói gì đó với partner — "cú đánh tốt," "cú của tôi
 
 ```
 ═══════════════════════════════════════════════════════════════
-  CHIẾN THUẬT ĐÔI — TÓM TẮT 1 TRANG
+ CHIẾN THUẬT ĐÔI — TÓM TẮT 1 TRANG
 ═══════════════════════════════════════════════════════════════
 
-  Ý TƯỞNG LỚN: Đôi là một môn thể thao khác. Giao tiếp là vũ khí
-               số 1 của bạn. Ở tuổi 50+, đôi là trò chơi trường
-               thọ.
+ Ý TƯỞNG LỚN: Đôi là một môn thể thao khác. Giao tiếp là vũ khí
+ số 1 của bạn. Ở tuổi 50+, đôi là trò chơi trường
+ thọ.
 
-  ─────────────────────────────────────────────────────────────
-  5 TÍN HIỆU GIAO TIẾP
-  ─────────────────────────────────────────────────────────────
-  1. "Của tôi!" / "Của bạn!"     hét TRƯỚC khi bóng tới
-  2. "Đổi!"                       khi cả hai cùng ở một bên
-  3. "Ngắn!"                      khi bóng đối thủ có thể tấn công
-  4. "Lob!"                       khi đối thủ ở lưới
-  5. "Tôi giao" / "Bạn giao"      gõ bóng về phía mình trước
+ ─────────────────────────────────────────────────────────────
+ 5 TÍN HIỆU GIAO TIẾP
+ ─────────────────────────────────────────────────────────────
+ 1. "Của tôi!" / "Của bạn!" hét TRƯỚC khi bóng tới
+ 2. "Đổi!" khi cả hai cùng ở một bên
+ 3. "Ngắn!" khi bóng đối thủ có thể tấn công
+ 4. "Lob!" khi đối thủ ở lưới
+ 5. "Tôi giao" / "Bạn giao" gõ bóng về phía mình trước
 
-  ─────────────────────────────────────────────────────────────
-  3 QUY TẮC DI CHUYỂN
-  ─────────────────────────────────────────────────────────────
-  1. "Di chuyển như một"              partner phải, tôi trái
-  2. "Luôn chéo, không bao giờ cắt"   đường song song, không va chạm
-  3. "Người ở lưới dẫn đầu"           người gần hơn gọi cú đánh
+ ─────────────────────────────────────────────────────────────
+ 3 QUY TẮC DI CHUYỂN
+ ─────────────────────────────────────────────────────────────
+ 1. "Di chuyển như một" partner phải, tôi trái
+ 2. "Luôn chéo, không bao giờ cắt" đường song song, không va chạm
+ 3. "Người ở lưới dẫn đầu" người gần hơn gọi cú đánh
 
-  ─────────────────────────────────────────────────────────────
-  3 ĐỘI HÌNH
-  ─────────────────────────────────────────────────────────────
-  1. CẢ HAI LÊN (Australian):  người giao ở cuối sân, partner ở lưới
-                                → Đội hình giao bóng MẶC ĐỊNH
-  2. I-FORMATION:               người ở lưới giấu trước người giao
-                                → Nâng cao, cần luyện tập
-  3. BOTH BACK:                 cả hai ở cuối sân
-                                → Tái thiết lập phòng thủ, tùy chọn
-                                  ngày tệ cho tuổi 50+
+ ─────────────────────────────────────────────────────────────
+ 3 ĐỘI HÌNH
+ ─────────────────────────────────────────────────────────────
+ 1. CẢ HAI LÊN (Australian): người giao ở cuối sân, partner ở lưới
+ → Đội hình giao bóng MẶC ĐỊNH
+ 2. I-FORMATION: người ở lưới giấu trước người giao
+ → Nâng cao, cần luyện tập
+ 3. BOTH BACK: cả hai ở cuối sân
+ → Tái thiết lập phòng thủ, tùy chọn
+ ngày tệ cho tuổi 50+
 
-  ─────────────────────────────────────────────────────────────
-  4 MẪU ĐÁNH
-  ─────────────────────────────────────────────────────────────
-  1. SERVE + 1:    giao rộng → cắt bóng → volley vào giữa
-  2. RETURN + 1:   trả giữa → cắt bóng HOẶC passing shot cuối sân
-  3. LOB-RECOVER:  gặp khó → lob sâu → tái thiết lập đội hình
-  4. TRẬN CHIẾN LƯỚI: cả hai lên → chéo sân, chéo sân, chéo sân
+ ─────────────────────────────────────────────────────────────
+ 4 MẪU ĐÁNH
+ ─────────────────────────────────────────────────────────────
+ 1. SERVE + 1: giao rộng → cắt bóng → volley vào giữa
+ 2. RETURN + 1: trả giữa → cắt bóng HOẶC passing shot cuối sân
+ 3. LOB-RECOVER: gặp khó → lob sâu → tái thiết lập đội hình
+ 4. TRẬN CHIẾN LƯỚI: cả hai lên → chéo sân, chéo sân, chéo sân
 
-  ─────────────────────────────────────────────────────────────
-  12 TÍN HIỆU
-  ─────────────────────────────────────────────────────────────
-  1. "Nói chuyện với partner"    7. "Lob khi gặp khó"
-  2. "Của tôi! / Của bạn!"       8. "Chéo sân ở 3.5"
-  3. "Di chuyển như một"         9. "Che biên ngoài"
-  4. "Giao vào chữ T"           10. "Đứng ở lưới"
-  5. "Trả xuôi giữa"            11. "Both Back là ổn"
-  6. "Cắt bóng khi bóng cao"    12. "Nắm tay = Của tôi, Mở tay = Của bạn"
+ ─────────────────────────────────────────────────────────────
+ 12 TÍN HIỆU
+ ─────────────────────────────────────────────────────────────
+ 1. "Nói chuyện với partner" 7. "Lob khi gặp khó"
+ 2. "Của tôi! / Của bạn!" 8. "Chéo sân ở 3.5"
+ 3. "Di chuyển như một" 9. "Che biên ngoài"
+ 4. "Giao vào chữ T" 10. "Đứng ở lưới"
+ 5. "Trả xuôi giữa" 11. "Both Back là ổn"
+ 6. "Cắt bóng khi bóng cao" 12. "Nắm tay = Của tôi, Mở tay = Của bạn"
 
-  ─────────────────────────────────────────────────────────────
-  5 BÀI TẬP
-  ─────────────────────────────────────────────────────────────
-  1. Bài tập giao tiếp (với partner, 5 phút)
-  2. Bài tập "di chuyển như một" (với partner, 10 phút)
-  3. Bài tập cắt bóng và volley (với partner, 10 phút)
-  4. Bài tập trả bóng giữa (với partner, 10 phút)
-  5. Bài tập lob và hồi phục (với partner, 5 phút)
+ ─────────────────────────────────────────────────────────────
+ 5 BÀI TẬP
+ ─────────────────────────────────────────────────────────────
+ 1. Bài tập giao tiếp (với partner, 5 phút)
+ 2. Bài tập "di chuyển như một" (với partner, 10 phút)
+ 3. Bài tập cắt bóng và volley (với partner, 10 phút)
+ 4. Bài tập trả bóng giữa (với partner, 10 phút)
+ 5. Bài tập lob và hồi phục (với partner, 5 phút)
 
-  ─────────────────────────────────────────────────────────────
-  7 LỖI
-  ─────────────────────────────────────────────────────────────
-  1. Partner im lặng           →  Bài tập giao tiếp
-  2. Cả hai ở cuối sân         →  Mặc định Australian
-  3. Trả bóng chéo sân         →  Bài tập trả giữa, quy tắc 60%
-  4. Volley dọc dây            →  Tín hiệu "chéo sân ở 3.5"
-  5. Không cắt bóng            →  Bài tập cắt bóng và volley
-  6. Cắt bóng không báo trước  →  Gọi "Tôi đi đây!"
-  7. Lob ngắn                  →  Bài tập lob và hồi phục, "lob sâu"
+ ─────────────────────────────────────────────────────────────
+ 7 LỖI
+ ─────────────────────────────────────────────────────────────
+ 1. Partner im lặng → Bài tập giao tiếp
+ 2. Cả hai ở cuối sân → Mặc định Australian
+ 3. Trả bóng chéo sân → Bài tập trả giữa, quy tắc 60%
+ 4. Volley dọc dây → Tín hiệu "chéo sân ở 3.5"
+ 5. Không cắt bóng → Bài tập cắt bóng và volley
+ 6. Cắt bóng không báo trước → Gọi "Tôi đi đây!"
+ 7. Lob ngắn → Bài tập lob và hồi phục, "lob sâu"
 
-  ─────────────────────────────────────────────────────────────
-  DỪNG LẠI VÀ RESET NẾU:
-  ─────────────────────────────────────────────────────────────
-  • Đau gối hoặc hông vì lao người (tin partner, "di chuyển như một")
-  • Đau vai vì overhead (dùng lob trăng, đừng smash)
-  • Không nghe được tiếng gọi của partner (dùng tín hiệu tay)
-  • Bạn là người duy nhất ở lưới (tiến lên, "đứng ở lưới")
-  • Trả bóng chéo sân cứ rơi vào biên ngoài (quy tắc 60% giữa)
-  • Cắt bóng mà không báo partner (luôn gọi "Tôi đi đây!")
-  • Cơ thể nói "hôm nay không lưới" (Both Back là ổn, không phải thất bại)
+ ─────────────────────────────────────────────────────────────
+ DỪNG LẠI VÀ RESET NẾU:
+ ─────────────────────────────────────────────────────────────
+ • Đau gối hoặc hông vì lao người (tin partner, "di chuyển như một")
+ • Đau vai vì overhead (dùng lob trăng, đừng smash)
+ • Không nghe được tiếng gọi của partner (dùng tín hiệu tay)
+ • Bạn là người duy nhất ở lưới (tiến lên, "đứng ở lưới")
+ • Trả bóng chéo sân cứ rơi vào biên ngoài (quy tắc 60% giữa)
+ • Cắt bóng mà không báo partner (luôn gọi "Tôi đi đây!")
+ • Cơ thể nói "hôm nay không lưới" (Both Back là ổn, không phải thất bại)
 
 ═══════════════════════════════════════════════════════════════
-  Đôi là trò chơi trường thọ 50+. Đứng ở lưới, nói chuyện với
-  partner, và để lob là bạn của bạn. Mười đến hai mươi năm tennis
-  nữa đang chờ ở phía bên kia của trò chơi này.
+ Đôi là trò chơi trường thọ 50+. Đứng ở lưới, nói chuyện với
+ partner, và để lob là bạn của bạn. Mười đến hai mươi năm tennis
+ nữa đang chờ ở phía bên kia của trò chơi này.
 ═══════════════════════════════════════════════════════════════
 ```

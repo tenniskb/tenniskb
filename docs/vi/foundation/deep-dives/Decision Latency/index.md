@@ -90,55 +90,55 @@ In cái này ra. Điền vào khi bạn xây dựng.
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THẺ THƯ VIỆN CHUNK — HỆ THỐNG QUYẾT ĐỊNH CHIẾN THUẬT
+ THẺ THƯ VIỆN CHUNK — HỆ THỐNG QUYẾT ĐỊNH CHIẾN THUẬT
 ═══════════════════════════════════════════════════════════════
 
-  CHUNK HIỆN TẠI CỦA TÔI: _____ chunk
+ CHUNK HIỆN TẠI CỦA TÔI: _____ chunk
 
-  CẤP THANG CHUNK CỦA TÔI:
-  □ Cấp 0 (0 chunk)       □ Cấp 1 (5-10 chunk)
-  □ Cấp 2 (15-25 chunk)   □ Cấp 3 (30-50 chunk)
-  □ Cấp 4 (50+ chunk)
+ CẤP THANG CHUNK CỦA TÔI:
+ □ Cấp 0 (0 chunk) □ Cấp 1 (5-10 chunk)
+ □ Cấp 2 (15-25 chunk) □ Cấp 3 (30-50 chunk)
+ □ Cấp 4 (50+ chunk)
 
-  ─────────────────────────────────────────────────────────────
-  12 CHUNK MỚI CỦA TÔI (xây 30 ngày)
-  ─────────────────────────────────────────────────────────────
-  Tuần 1 — Dựa đối thủ:
-  1. _____________________________ → ____________________
-  2. _____________________________ → ____________________
-  3. _____________________________ → ____________________
+ ─────────────────────────────────────────────────────────────
+ 12 CHUNK MỚI CỦA TÔI (xây 30 ngày)
+ ─────────────────────────────────────────────────────────────
+ Tuần 1 — Dựa đối thủ:
+ 1. _____________________________ → ____________________
+ 2. _____________________________ → ____________________
+ 3. _____________________________ → ____________________
 
-  Tuần 2 — Dựa cú đánh:
-  4. _____________________________ → ____________________
-  5. _____________________________ → ____________________
-  6. _____________________________ → ____________________
+ Tuần 2 — Dựa cú đánh:
+ 4. _____________________________ → ____________________
+ 5. _____________________________ → ____________________
+ 6. _____________________________ → ____________________
 
-  Tuần 3 — Tình huống:
-  7. _____________________________ → ____________________
-  8. _____________________________ → ____________________
-  9. _____________________________ → ____________________
+ Tuần 3 — Tình huống:
+ 7. _____________________________ → ____________________
+ 8. _____________________________ → ____________________
+ 9. _____________________________ → ____________________
 
-  Tuần 4 — Tiêm chủng áp lực:
-  10. ____________________________ → ____________________
-  11. ____________________________ → ____________________
-  12. ____________________________ → ____________________
+ Tuần 4 — Tiêm chủng áp lực:
+ 10. ____________________________ → ____________________
+ 11. ____________________________ → ____________________
+ 12. ____________________________ → ____________________
 
-  ─────────────────────────────────────────────────────────────
-  CÂY QUYẾT ĐỊNH CỦA TÔI
-  ─────────────────────────────────────────────────────────────
-  Forehand: _____ chunk      Serve:   _____ chunk
-  Backhand: _____ chunk      Return:  _____ chunk
-  Volley:   _____ chunk
-  TỔNG: _____ chunk
+ ─────────────────────────────────────────────────────────────
+ CÂY QUYẾT ĐỊNH CỦA TÔI
+ ─────────────────────────────────────────────────────────────
+ Forehand: _____ chunk Serve: _____ chunk
+ Backhand: _____ chunk Return: _____ chunk
+ Volley: _____ chunk
+ TỔNG: _____ chunk
 
-  ─────────────────────────────────────────────────────────────
-  KIỂM TRA TỐC ĐỘ TRUY XUẤT
-  ─────────────────────────────────────────────────────────────
-  Tên chunk: ________________________  Truy xuất: _____ ms
-  Mục tiêu: dưới 200 ms
+ ─────────────────────────────────────────────────────────────
+ KIỂM TRA TỐC ĐỘ TRUY XUẤT
+ ─────────────────────────────────────────────────────────────
+ Tên chunk: ________________________ Truy xuất: _____ ms
+ Mục tiêu: dưới 200 ms
 
-  CÂU NHẮC TỔNG:
-  "Mẫu, không phân tích. Truy xuất, không nghĩ."
+ CÂU NHẮC TỔNG:
+ "Mẫu, không phân tích. Truy xuất, không nghĩ."
 
 ═══════════════════════════════════════════════════════════════
 ```
@@ -147,15 +147,15 @@ Và phiên bản bỏ túi, cho túi vợt của bạn:
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THẺ THƯ VIỆN CHUNK — HỆ THỐNG QUYẾT ĐỊNH CHIẾN THUẬT
+ THẺ THƯ VIỆN CHUNK — HỆ THỐNG QUYẾT ĐỊNH CHIẾN THUẬT
 ═══════════════════════════════════════════════════════════════
-  CHUNK HIỆN TẠI: ____   MỤC TIÊU: 30-50 trong 90 ngày
+ CHUNK HIỆN TẠI: ____ MỤC TIÊU: 30-50 trong 90 ngày
 
-  CÂY: Forehand ___ BH ___ Serve ___ Return ___ Volley ___
+ CÂY: Forehand ___ BH ___ Serve ___ Return ___ Volley ___
 
-  TỐC ĐỘ TRUY XUẤT: _____ ms (mục tiêu dưới 200)
+ TỐC ĐỘ TRUY XUẤT: _____ ms (mục tiêu dưới 200)
 
-  "Mẫu, không phân tích. Truy xuất, không nghĩ."
+ "Mẫu, không phân tích. Truy xuất, không nghĩ."
 ═══════════════════════════════════════════════════════════════
 ```
 
@@ -164,9 +164,4 @@ Và phiên bản bỏ túi, cho túi vợt của bạn:
 Một người chơi 5.0+ có vẻ có nhiều thời gian hơn trên sân không nhanh hơn một người 4.5, không thông minh hơn, và không tài năng tự nhiên hơn. Họ đơn giản có nhiều chunk hơn — nhiều mẫu sẵn sàng để truy xuất trong 50 tới 150 mili giây thay vì được tính toán mới dưới áp lực. Lợi thế chuyên gia 200 mili giây không phải một món quà và không phải phép màu. Đó là xây dựng mẫu có chủ đích, khoảng một chunk mỗi lần, duy trì qua 30-cộng tuần.
 
 Bạn đã có 10 tới 20 chunk nằm trong lối chơi của bạn ngay bây giờ, được xây vô thức từ nhiều năm trận đấu, chỉ đang chờ được tìm thấy và đặt tên. Deep dive này yêu cầu bạn làm ba việc: làm chúng có ý thức, tính giờ chúng, và thêm mười hai cái nữa có chủ đích trong 30 ngày tới. Thư viện chunk của bạn, một khi được xây, là dấu vân tay chiến thuật của bạn. Không ai khác khớp với nó.
-
-Hẹn gặp trên sân, kỹ sư.
-
 ---
-
-Nguồn: Tennis Research – Neuro Athletics với Kwen-Ollama (Chương 4 — mô hình chunk của Heuer áp dụng cho tennis, lợi thế chuyên gia 200ms, độ trễ quyết định); Tennis Research với Kwen-Ollama (Chương 5.4 — schema chiến thuật, giới hạn trí nhớ làm việc 7±2; Chương 12 — đặt tên và truy xuất chunk); Chase & Simon (1973) — *Perception in Chess*, nền tảng lý thuyết chunk; Klein & Crandall (1995) — mô hình quyết định ưu tiên nhận diện (RPD) của ra quyết định chuyên gia; Miller (1956) — *The Magical Number Seven, Plus or Minus Two*, giới hạn trí nhớ làm việc; Futuristic Tennis Manual của Olama (Trí Tuệ Thích Ứng — quyết định trong 200ms qua nhận diện mẫu).

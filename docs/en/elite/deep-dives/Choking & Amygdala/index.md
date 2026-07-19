@@ -78,61 +78,61 @@ Here's the honest principle worth holding onto: a serious player takes real resp
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║      THE ANTI-CHOKING KIT — YOUR 3 TOOLS + 2 TERRORS           ║
+║ THE ANTI-CHOKING KIT — YOUR 3 TOOLS + 2 TERRORS ║
 ╠═══════════════════════════════════════════════════════════════╣
-║                                                                 ║
-║  THE 3-TOOL KIT (between every point, 60-90 sec)               ║
-║  Tool 1: Kình check (5 questions, 5 sec)                  ║
-║  Tool 2: Mushin trigger (yours, chosen)                ║
-║  Tool 3: Box breathing 4-4-4-4 (3 cycles)                      ║
-║                                                                 ║
-║  MY 2 TERRORS:                                                 ║
-║  Terror 1: _____________________________________________       ║
-║  Terror 2: _____________________________________________       ║
-║                                                                 ║
-║  TERROR 1 INOCULATION DRILL:                                    ║
-║  Design: _______________________________________________       ║
-║  Frequency: ___/week                                            ║
-║  Current response (1-10): ____                                  ║
-║                                                                 ║
-║  TERROR 2 INOCULATION DRILL:                                    ║
-║  Design: _______________________________________________       ║
-║  Frequency: ___/week                                            ║
-║  Current response (1-10): ____                                  ║
-║                                                                 ║
-║  THE 90-DAY PHASES:                                             ║
-║  Phase 1 (Days 1-30): Tier 1-2                                  ║
-║  Phase 2 (Days 31-60): Tier 3 + full kit                        ║
-║  Phase 3 (Days 61-90): Tier 4-5 (real matches)                  ║
-║                                                                 ║
-║  PROFESSIONAL HELP THRESHOLD:                                   ║
-║  ☐ Affects daily life beyond tennis                             ║
-║  ☐ Panic attacks during matches                                 ║
-║  ☐ Intrusive thoughts lasting >30 sec                           ║
-║  ☐ Loss of enjoyment in tennis entirely                         ║
-║  ☐ Sleep disruption before matches, multiple weeks              ║
-║  IF ANY CHECKED → see a sports psychologist                    ║
-║                                                                 ║
-║  MASTER CUE:                                                    ║
-║     "Kình, trigger, breath. Three tools. Sixty seconds."      ║
-║                                                                 ║
+║ ║
+║ THE 3-TOOL KIT (between every point, 60-90 sec) ║
+║ Tool 1: Kình check (5 questions, 5 sec) ║
+║ Tool 2: Mushin trigger (yours, chosen) ║
+║ Tool 3: Box breathing 4-4-4-4 (3 cycles) ║
+║ ║
+║ MY 2 TERRORS: ║
+║ Terror 1: _____________________________________________ ║
+║ Terror 2: _____________________________________________ ║
+║ ║
+║ TERROR 1 INOCULATION DRILL: ║
+║ Design: _______________________________________________ ║
+║ Frequency: ___/week ║
+║ Current response (1-10): ____ ║
+║ ║
+║ TERROR 2 INOCULATION DRILL: ║
+║ Design: _______________________________________________ ║
+║ Frequency: ___/week ║
+║ Current response (1-10): ____ ║
+║ ║
+║ THE 90-DAY PHASES: ║
+║ Phase 1 (Days 1-30): Tier 1-2 ║
+║ Phase 2 (Days 31-60): Tier 3 + full kit ║
+║ Phase 3 (Days 61-90): Tier 4-5 (real matches) ║
+║ ║
+║ PROFESSIONAL HELP THRESHOLD: ║
+║ Affects daily life beyond tennis ║
+║ Panic attacks during matches ║
+║ Intrusive thoughts lasting >30 sec ║
+║ Loss of enjoyment in tennis entirely ║
+║ Sleep disruption before matches, multiple weeks ║
+║ IF ANY CHECKED → see a sports psychologist ║
+║ ║
+║ MASTER CUE: ║
+║ "Kình, trigger, breath. Three tools. Sixty seconds." ║
+║ ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ╔═══════════════════════════════════════════════════════════════╗
-║          THE ANTI-CHOKING KIT — QUICK POCKET VERSION           ║
+║ THE ANTI-CHOKING KIT — QUICK POCKET VERSION ║
 ╠═══════════════════════════════════════════════════════════════╣
-║                                                                 ║
-║  3-TOOL KIT (60-90 sec between points):                         ║
-║  1. Kình check (5 sec)                                     ║
-║  2. Mushin trigger                                      ║
-║  3. Box breathing 4-4-4-4                                        ║
-║                                                                 ║
-║  MY 2 TERRORS:                                                  ║
-║  1. _____________________________________________               ║
-║  2. _____________________________________________               ║
-║                                                                 ║
-║  "Kình, trigger, breath. Three tools. Sixty seconds."         ║
-║                                                                 ║
+║ ║
+║ 3-TOOL KIT (60-90 sec between points): ║
+║ 1. Kình check (5 sec) ║
+║ 2. Mushin trigger ║
+║ 3. Box breathing 4-4-4-4 ║
+║ ║
+║ MY 2 TERRORS: ║
+║ 1. _____________________________________________ ║
+║ 2. _____________________________________________ ║
+║ ║
+║ "Kình, trigger, breath. Three tools. Sixty seconds." ║
+║ ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 

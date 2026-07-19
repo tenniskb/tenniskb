@@ -116,72 +116,72 @@ Sau contact: hồi phục về giữa, reset hình U, và split-step lần nữa
 
 ```
 ═══════════════════════════════════════════════════════════════
-  VOLLEY — TÓM TẮT NHANH
+ VOLLEY — TÓM TẮT NHANH
 ═══════════════════════════════════════════════════════════════
 
-  Ý CHÍNH: Volley là SỰ CHUYỂN HƯỚNG, không phải một cú vung.
-  Bóng mang tốc độ. Bạn mang góc. "Lã Kình" — năng lượng cuộn
-  lại, chuyển hướng, đừng tạo ra.
+ Ý CHÍNH: Volley là SỰ CHUYỂN HƯỚNG, không phải một cú vung.
+ Bóng mang tốc độ. Bạn mang góc. "Lã Kình" — năng lượng cuộn
+ lại, chuyển hướng, đừng tạo ra.
 
-  ─────────────────────────────────────────────────────────────
-  CƠ THỂ
-  ─────────────────────────────────────────────────────────────
-  • Grip:       Continental (V hướng về vai không thuận)
-  • Sẵn sàng (U): Vợt NGANG TẦM MẮT, cả hai tay ở phía trước
-  • Hình L:     Đầu vợt TRÊN cổ tay, cổ tay ĐÓNG BĂNG
-  • Cổ tay:     Ulnar deviation + extension; KHÔNG supination
-                lúc contact
-  • Áp lực:     3-4/10 (như đang cầm một con chim nhỏ)
-  • Đưa vợt ra sau: KHÔNG. Đặt mặt vợt, không wind-up.
+ ─────────────────────────────────────────────────────────────
+ CƠ THỂ
+ ─────────────────────────────────────────────────────────────
+ • Grip: Continental (V hướng về vai không thuận)
+ • Sẵn sàng (U): Vợt NGANG TẦM MẮT, cả hai tay ở phía trước
+ • Hình L: Đầu vợt TRÊN cổ tay, cổ tay ĐÓNG BĂNG
+ • Cổ tay: Ulnar deviation + extension; KHÔNG supination
+ lúc contact
+ • Áp lực: 3-4/10 (như đang cầm một con chim nhỏ)
+ • Đưa vợt ra sau: KHÔNG. Đặt mặt vợt, không wind-up.
 
-  ─────────────────────────────────────────────────────────────
-  ĐÔI CHÂN
-  ─────────────────────────────────────────────────────────────
-  • Split-step:  Hop nhỏ lúc đối thủ chạm bóng
-  • Bước vào:    Chân đối diện (trái cho forehand, phải cho
-                 backhand)
-  • Trọng lượng: 70% chân trước, 30% chân sau lúc contact
-  • Chân cầu:    Gập, mềm, mông tham gia
-  • Hư/Thực:     Trước = thực (bén rễ), sau = hư (đẩy)
-  • Hướng:       TỚI TRƯỚC vào bóng, KHÔNG BAO GIỜ lùi
-  • Bóng thấp:   Gối hạ xuống, KHÔNG gập eo
+ ─────────────────────────────────────────────────────────────
+ ĐÔI CHÂN
+ ─────────────────────────────────────────────────────────────
+ • Split-step: Hop nhỏ lúc đối thủ chạm bóng
+ • Bước vào: Chân đối diện (trái cho forehand, phải cho
+ backhand)
+ • Trọng lượng: 70% chân trước, 30% chân sau lúc contact
+ • Chân cầu: Gập, mềm, mông tham gia
+ • Hư/Thực: Trước = thực (bén rễ), sau = hư (đẩy)
+ • Hướng: TỚI TRƯỚC vào bóng, KHÔNG BAO GIỜ lùi
+ • Bóng thấp: Gối hạ xuống, KHÔNG gập eo
 
-  ─────────────────────────────────────────────────────────────
-  NĂM LOẠI VOLLEY
-  ─────────────────────────────────────────────────────────────
-  • PUNCH:    Chắc, quãng đường 6 inch, bóng ngang/trên lưới
-  • BLOCK:    Không vung, cơ thể sau bóng, bóng tới nhanh
-  • DROP:     Grip lỏng, mặt vợt mở, chỉ để bóng chết
-  • LOB:      Mặt vợt mở, nâng cao, tay không thuận theo dõi lên
-  • HALF-V:   Gập gối sâu, múc bóng ở chân bạn
+ ─────────────────────────────────────────────────────────────
+ NĂM LOẠI VOLLEY
+ ─────────────────────────────────────────────────────────────
+ • PUNCH: Chắc, quãng đường 6 inch, bóng ngang/trên lưới
+ • BLOCK: Không vung, cơ thể sau bóng, bóng tới nhanh
+ • DROP: Grip lỏng, mặt vợt mở, chỉ để bóng chết
+ • LOB: Mặt vợt mở, nâng cao, tay không thuận theo dõi lên
+ • HALF-V: Gập gối sâu, múc bóng ở chân bạn
 
-  ─────────────────────────────────────────────────────────────
-  MƯỜI CÂU NHẮC
-  ─────────────────────────────────────────────────────────────
-  1. "Hình L"          6. "70/30"
-  2. "Ngang tầm mắt"    7. "Không đưa vợt ra sau"
-  3. "Tay mềm"          8. "Sáu inch"
-  4. "Vào, không lùi"   9. "Thở ra"
-  5. "Gối, không lưng" 10. "Thợ săn, không phải con mồi"
+ ─────────────────────────────────────────────────────────────
+ MƯỜI CÂU NHẮC
+ ─────────────────────────────────────────────────────────────
+ 1. "Hình L" 6. "70/30"
+ 2. "Ngang tầm mắt" 7. "Không đưa vợt ra sau"
+ 3. "Tay mềm" 8. "Sáu inch"
+ 4. "Vào, không lùi" 9. "Thở ra"
+ 5. "Gối, không lưng" 10. "Thợ săn, không phải con mồi"
 
-  ─────────────────────────────────────────────────────────────
-  NĂM BÀI TẬP
-  ─────────────────────────────────────────────────────────────
-  1. Volley tường        30 liên tiếp, không vung, hình L
-  2. Khăn dưới nách       50 volley, không để rơi
-  3. Kiểm tra L trước gương  Giữ 10 giây, kiểm tra góc mặt vợt
-  4. V-Step với bạn tập   20 trong 60 giây, xen kẽ hai bên
-  5. Bài tập body-shot    10 liên tiếp, block chéo sân
+ ─────────────────────────────────────────────────────────────
+ NĂM BÀI TẬP
+ ─────────────────────────────────────────────────────────────
+ 1. Volley tường 30 liên tiếp, không vung, hình L
+ 2. Khăn dưới nách 50 volley, không để rơi
+ 3. Kiểm tra L trước gương Giữ 10 giây, kiểm tra góc mặt vợt
+ 4. V-Step với bạn tập 20 trong 60 giây, xen kẽ hai bên
+ 5. Bài tập body-shot 10 liên tiếp, block chéo sân
 
-  ─────────────────────────────────────────────────────────────
-  QUY TẮC 50+
-  ─────────────────────────────────────────────────────────────
-  Sống sót trước. Đặt bóng sau. Lực cuối cùng.
-  Một cú block giữ bóng trong cuộc đáng giá hơn một cú vung
-  hoảng loạn vào lưới.
+ ─────────────────────────────────────────────────────────────
+ QUY TẮC 50+
+ ─────────────────────────────────────────────────────────────
+ Sống sót trước. Đặt bóng sau. Lực cuối cùng.
+ Một cú block giữ bóng trong cuộc đáng giá hơn một cú vung
+ hoảng loạn vào lưới.
 
 ═══════════════════════════════════════════════════════════════
-  In ra. Dán trong túi vợt. Nhìn nó trước mỗi trận.
+ In ra. Dán trong túi vợt. Nhìn nó trước mỗi trận.
 ═══════════════════════════════════════════════════════════════
 ```
 

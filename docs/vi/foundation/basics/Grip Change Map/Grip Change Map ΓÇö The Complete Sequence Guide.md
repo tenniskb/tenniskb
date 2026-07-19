@@ -124,64 +124,64 @@ Có một lăng kính thái cực đáng biết ở đây nữa, nếu nó hữu
 
 ```
 ═══════════════════════════════════════════════════════════════
-  BẢN ĐỒ ĐỔI GRIP — TÓM TẮT 1 TRANG
+ BẢN ĐỒ ĐỔI GRIP — TÓM TẮT 1 TRANG
 ═══════════════════════════════════════════════════════════════
 
-  Ý TƯỞNG LỚN: Đổi grip là chi phí thời gian vô hình số 1 của
-               người chơi 3.5. Bản đồ biến 4-6 lần đổi loay
-               hoay mỗi điểm thành 1-2 lần đổi sạch mỗi điểm.
+ Ý TƯỞNG LỚN: Đổi grip là chi phí thời gian vô hình số 1 của
+ người chơi 3.5. Bản đồ biến 4-6 lần đổi loay
+ hoay mỗi điểm thành 1-2 lần đổi sạch mỗi điểm.
 
-  ───────────────────────────────────────────────────────────
-  2 QUY TẮC
-  ───────────────────────────────────────────────────────────
-  1. QUY TẮC 70/30: 70% Continental, 30% Semi-Western
-                     Continental là sân nhà, Semi-Western là forehand
-  2. RESET 5 GIÂY: Dùng 5 trong 15-25 giây cho kiểm tra grip
-                    Đi → Nhìn → Kiểm tra → Đi
+ ───────────────────────────────────────────────────────────
+ 2 QUY TẮC
+ ───────────────────────────────────────────────────────────
+ 1. QUY TẮC 70/30: 70% Continental, 30% Semi-Western
+ Continental là sân nhà, Semi-Western là forehand
+ 2. RESET 5 GIÂY: Dùng 5 trong 15-25 giây cho kiểm tra grip
+ Đi → Nhìn → Kiểm tra → Đi
 
-  ───────────────────────────────────────────────────────────
-  4 LOẠI ĐIỂM
-  ───────────────────────────────────────────────────────────
-  1. ĐIỂM GIAO BÓNG   = 0 đổi (Continental ở lại)
-  2. ĐIỂM TRẢ GIAO BÓNG = 1-3 đổi (trả forehand = Semi-W)
-  3. ĐIỂM LƯỚI        = 0-1 đổi (Continental ở lại lưới)
-  4. ĐIỂM HỖN HỢP     = 2-4 đổi (phổ biến nhất)
+ ───────────────────────────────────────────────────────────
+ 4 LOẠI ĐIỂM
+ ───────────────────────────────────────────────────────────
+ 1. ĐIỂM GIAO BÓNG = 0 đổi (Continental ở lại)
+ 2. ĐIỂM TRẢ GIAO BÓNG = 1-3 đổi (trả forehand = Semi-W)
+ 3. ĐIỂM LƯỚI = 0-1 đổi (Continental ở lại lưới)
+ 4. ĐIỂM HỖN HỢP = 2-4 đổi (phổ biến nhất)
 
-  ───────────────────────────────────────────────────────────
-  8 CHUYỂN TIẾP GRIP
-  ───────────────────────────────────────────────────────────
-  Trước serve            → Continental               1 giây
-  Serve → Forehand       → Continental → Semi-W       1 giây
-  Forehand → Backhand    → Semi-W → Continental        1 giây
-  Backhand → Forehand    → Continental → Semi-W       1 giây
-  Approach → Volley      → Semi-W → Continental        1 giây
-  Forehand → Trả F       → Semi-W (không đổi)         0 giây
-  Continental → Trả F (phòng thủ) → Eastern           0,5 giây
-  Về sân nhà             → Bất kỳ → Continental       0,5-1 giây
+ ───────────────────────────────────────────────────────────
+ 8 CHUYỂN TIẾP GRIP
+ ───────────────────────────────────────────────────────────
+ Trước serve → Continental 1 giây
+ Serve → Forehand → Continental → Semi-W 1 giây
+ Forehand → Backhand → Semi-W → Continental 1 giây
+ Backhand → Forehand → Continental → Semi-W 1 giây
+ Approach → Volley → Semi-W → Continental 1 giây
+ Forehand → Trả F → Semi-W (không đổi) 0 giây
+ Continental → Trả F (phòng thủ) → Eastern 0,5 giây
+ Về sân nhà → Bất kỳ → Continental 0,5-1 giây
 
-  ───────────────────────────────────────────────────────────
-  4 CON SỐ
-  ───────────────────────────────────────────────────────────
-  Thời gian mỗi lần đổi:  0,5-1,0 giây (50+) so với 0,2-0,5 (30)
-  Số lần đổi mỗi điểm:    1-2 (50+) so với 1-2 (30)
-  Loay hoay mỗi trận:     6-7,5 phút (50+) so với 1-2 phút (30)
-  Tác động tỷ lệ thắng:   ~20% (50+) so với ~5% (30)
+ ───────────────────────────────────────────────────────────
+ 4 CON SỐ
+ ───────────────────────────────────────────────────────────
+ Thời gian mỗi lần đổi: 0,5-1,0 giây (50+) so với 0,2-0,5 (30)
+ Số lần đổi mỗi điểm: 1-2 (50+) so với 1-2 (30)
+ Loay hoay mỗi trận: 6-7,5 phút (50+) so với 1-2 phút (30)
+ Tác động tỷ lệ thắng: ~20% (50+) so với ~5% (30)
 
-  ───────────────────────────────────────────────────────────
-  5 CÂU LỆNH
-  ───────────────────────────────────────────────────────────
-  1. "Continental là sân nhà" — trở về giữa mỗi điểm
-  2. "Reset 5 giây" — đi, nhìn, kiểm tra, đi
-  3. "V ở 11 = Continental" — V là vô lăng của bạn
-  4. "Đi bộ bevel trong 1 giây" — 1-2 bevel từ Continental
-  5. "Xoay cẳng tay, không cổ tay" — topspin thân thiện khớp
+ ───────────────────────────────────────────────────────────
+ 5 CÂU LỆNH
+ ───────────────────────────────────────────────────────────
+ 1. "Continental là sân nhà" — trở về giữa mỗi điểm
+ 2. "Reset 5 giây" — đi, nhìn, kiểm tra, đi
+ 3. "V ở 11 = Continental" — V là vô lăng của bạn
+ 4. "Đi bộ bevel trong 1 giây" — 1-2 bevel từ Continental
+ 5. "Xoay cẳng tay, không cổ tay" — topspin thân thiện khớp
 
 ═══════════════════════════════════════════════════════════════
-  CÂU LỆNH CHỦ ĐẠO: Đổi grip không phải loay hoay. Đó là một
-  cú đi bộ bevel 1-2 cạnh trong 1 giây. Continental là sân
-  nhà. Semi-Western là forehand. Reset 5 giây trước mỗi điểm.
-  Ở tuổi 50+, người chơi có bản đồ thắng 20% điểm hơn. Người
-  chơi loay hoay 3 giây mỗi điểm mất 7 phút mỗi trận. Một
-  bản đồ. Hai mươi phần trăm điểm hơn. Hai mươi năm tennis.
+ CÂU LỆNH CHỦ ĐẠO: Đổi grip không phải loay hoay. Đó là một
+ cú đi bộ bevel 1-2 cạnh trong 1 giây. Continental là sân
+ nhà. Semi-Western là forehand. Reset 5 giây trước mỗi điểm.
+ Ở tuổi 50+, người chơi có bản đồ thắng 20% điểm hơn. Người
+ chơi loay hoay 3 giây mỗi điểm mất 7 phút mỗi trận. Một
+ bản đồ. Hai mươi phần trăm điểm hơn. Hai mươi năm tennis.
 ═══════════════════════════════════════════════════════════════
 ```

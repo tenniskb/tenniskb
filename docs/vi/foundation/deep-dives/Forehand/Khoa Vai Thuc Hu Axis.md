@@ -133,32 +133,32 @@ Nếu bạn chỉ học một kỹ thuật từ cả loạt bài này, hãy họ
 
 ```
 ═══════════════════════════════════════════════════════════════
-  TRỤC KHÓA-VAI — TÓM TẮT NHANH
+ TRỤC KHÓA-VAI — TÓM TẮT NHANH
 ═══════════════════════════════════════════════════════════════
 
-  QUY TẮC (forehand)
-    1. Vững chắc = vai trái (xa vợt)
-    2. Tự do = vai phải (cùng bên vợt)
-    3. Đổi chỗ cho backhand
+ QUY TẮC (forehand)
+ 1. Vững chắc = vai trái (xa vợt)
+ 2. Tự do = vai phải (cùng bên vợt)
+ 3. Đổi chỗ cho backhand
 
-  BA TẦNG
-    4. Trên vững (ngực + vai khóa)
-    5. Giữa mềm (eo + hông lỏng)
-    6. Dưới đàn hồi (chân sau cuộn)
+ BA TẦNG
+ 4. Trên vững (ngực + vai khóa)
+ 5. Giữa mềm (eo + hông lỏng)
+ 6. Dưới đàn hồi (chân sau cuộn)
 
-  CHUỖI ĐỘNG HỌC
-    7. Hông → ngực → cánh tay → vợt
-    8. Đừng làm đứt chuỗi
+ CHUỖI ĐỘNG HỌC
+ 7. Hông → ngực → cánh tay → vợt
+ 8. Đừng làm đứt chuỗi
 
-  KIỂM TRA CHO NGƯỜI TRÊN 50
-    9. Test tường: lưng dưới dính tường
-    10. Test khăn: khăn không rơi khi vung
+ KIỂM TRA CHO NGƯỜI TRÊN 50
+ 9. Test tường: lưng dưới dính tường
+ 10. Test khăn: khăn không rơi khi vung
 
-  DỪNG LẠI VÀ RESET NẾU:
-    • Lưng dưới rời tường trong lúc xoay
-    • Khăn rơi khỏi nách (bạn đã "vung" bên bị khóa)
-    • Cả hai vai cố vung cùng lúc
-    • Chân sau duỗi thẳng trước khi tiếp xúc (mất lò xo)
+ DỪNG LẠI VÀ RESET NẾU:
+ • Lưng dưới rời tường trong lúc xoay
+ • Khăn rơi khỏi nách (bạn đã "vung" bên bị khóa)
+ • Cả hai vai cố vung cùng lúc
+ • Chân sau duỗi thẳng trước khi tiếp xúc (mất lò xo)
 
 ═══════════════════════════════════════════════════════════════
 ```

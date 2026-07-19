@@ -91,20 +91,20 @@ Treat this as a temporary reset, not a permanent strategy — teams that play Bo
 ```
 START OF POINT → are you serving?
 
-  YES → have you and your partner practiced the I-formation?
-    │
-    ├─ Yes, 20+ matches together → I-formation (or default to Australian)
-    │
-    └─ No, not yet → AUSTRALIAN (your default)
-    │
-    └─ Body says "no net today" → BOTH BACK (defensive reset)
+ YES → have you and your partner practiced the I-formation?
+ │
+ ├─ Yes, 20+ matches together → I-formation (or default to Australian)
+ │
+ └─ No, not yet → AUSTRALIAN (your default)
+ │
+ └─ Body says "no net today" → BOTH BACK (defensive reset)
 
-  NO → are you returning?
-    │
-    ├─ Yes → AUSTRALIAN (your partner's at net; your job is the return, and they cover the lob)
-    │
-    └─ No → match whatever formation the opponents are using
-              (if they're Both Back, you should be too)
+ NO → are you returning?
+ │
+ ├─ Yes → AUSTRALIAN (your partner's at net; your job is the return, and they cover the lob)
+ │
+ └─ No → match whatever formation the opponents are using
+ (if they're Both Back, you should be too)
 ```
 
 ## The Four Patterns That Actually Win Points
@@ -174,11 +174,11 @@ And specifically at 50+: lean on cross-court volleys over down-the-line, because
 ```
 SITUATION → PATTERN
 
-  Your team's serving, opponent returns low     →  SERVE + 1 (poach)
-  Your team's returning, server's partner poaches →  RETURN + 1 (middle return)
-  Both opponents at net, you're in trouble       →  LOB AND RECOVER
-  Both teams at net, the ping-pong starts        →  NET BATTLE (cross-court, repeat)
-  Your body says "no net today"                  →  BOTH BACK (defensive reset)
+ Your team's serving, opponent returns low → SERVE + 1 (poach)
+ Your team's returning, server's partner poaches → RETURN + 1 (middle return)
+ Both opponents at net, you're in trouble → LOB AND RECOVER
+ Both teams at net, the ping-pong starts → NET BATTLE (cross-court, repeat)
+ Your body says "no net today" → BOTH BACK (defensive reset)
 ```
 
 ## Five Drills You Can Run This Week
@@ -247,120 +247,120 @@ If you keep only one rule from this whole guide: doubles genuinely extends your 
 
 ```
 BEFORE THE POINT:
-  ☐ Talk to your partner — "Your serve" / "My serve" / "Ready?"
-  ☐ Pick your formation — Australian (default), I-formation (advanced), or Both Back (defensive)
-  ☐ Mental note: stand at the net whenever you reasonably can
+ Talk to your partner — "Your serve" / "My serve" / "Ready?"
+ Pick your formation — Australian (default), I-formation (advanced), or Both Back (defensive)
+ Mental note: stand at the net whenever you reasonably can
 
 AS THE POINT STARTS:
-  ☐ Serving — aim T or wide slice
-  ☐ Returning — aim down the middle roughly 60% of the time
-  ☐ At net — watch the returner's racquet, get ready to poach
+ Serving — aim T or wide slice
+ Returning — aim down the middle roughly 60% of the time
+ At net — watch the returner's racquet, get ready to poach
 
 DURING THE POINT:
-  ☐ Call "Mine!" or "Yours!" before the ball arrives
-  ☐ Move as a unit — partner right, you left
-  ☐ Cross-court volleys — not down-the-line at this level
+ Call "Mine!" or "Yours!" before the ball arrives
+ Move as a unit — partner right, you left
+ Cross-court volleys — not down-the-line at this level
 
 IF YOU'RE IN TROUBLE:
-  ☐ Lob high and deep — over both opponents if they're at net
-  ☐ Recover to center immediately after the lob
-  ☐ Reset your formation — Australian or Both Back
+ Lob high and deep — over both opponents if they're at net
+ Recover to center immediately after the lob
+ Reset your formation — Australian or Both Back
 
 AFTER THE POINT:
-  ☐ Talk to your partner — "Good shot," "That was too high," "Let's poach more"
-  ☐ Reset for the next point
+ Talk to your partner — "Good shot," "That was too high," "Let's poach more"
+ Reset for the next point
 ```
 
 ## One-Page Cheat Sheet
 
 ```
 ═══════════════════════════════════════════════════════════════
-                  DOUBLES TACTICS — CHEAT SHEET
+ DOUBLES TACTICS — CHEAT SHEET
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: Doubles is a different sport. Communication is
-                your #1 weapon. At 50+, doubles is the longevity
-                game.
+ THE BIG IDEA: Doubles is a different sport. Communication is
+ your #1 weapon. At 50+, doubles is the longevity
+ game.
 
-  ─────────────────────────────────────────────────────────────
-  FIVE COMMUNICATION CUES
-  ─────────────────────────────────────────────────────────────
-  1. "Mine!" / "Yours!"          shout BEFORE the ball arrives
-  2. "Switch!"                   when you both end up on one side
-  3. "Short!"                    when opponent's ball is attackable
-  4. "Lob!"                      when opponents are at the net
-  5. "My serve" / "Your serve"   tap the ball to your side first
+ ─────────────────────────────────────────────────────────────
+ FIVE COMMUNICATION CUES
+ ─────────────────────────────────────────────────────────────
+ 1. "Mine!" / "Yours!" shout BEFORE the ball arrives
+ 2. "Switch!" when you both end up on one side
+ 3. "Short!" when opponent's ball is attackable
+ 4. "Lob!" when opponents are at the net
+ 5. "My serve" / "Your serve" tap the ball to your side first
 
-  ─────────────────────────────────────────────────────────────
-  THREE MOVEMENT RULES
-  ─────────────────────────────────────────────────────────────
-  1. "Move as a unit"                partner right, you left
-  2. "Always cross, never cross over" parallel paths, no collisions
-  3. "The net player leads"           closer player calls the shot
+ ─────────────────────────────────────────────────────────────
+ THREE MOVEMENT RULES
+ ─────────────────────────────────────────────────────────────
+ 1. "Move as a unit" partner right, you left
+ 2. "Always cross, never cross over" parallel paths, no collisions
+ 3. "The net player leads" closer player calls the shot
 
-  ─────────────────────────────────────────────────────────────
-  THREE FORMATIONS
-  ─────────────────────────────────────────────────────────────
-  1. BOTH UP (Australian):     server at baseline, partner at net
-                                → your DEFAULT serving formation
-  2. I-FORMATION:               net player hides in front of server
-                                → advanced, needs practice
-  3. BOTH BACK:                 both at baseline
-                                → defensive reset, 50+ bad-day option
+ ─────────────────────────────────────────────────────────────
+ THREE FORMATIONS
+ ─────────────────────────────────────────────────────────────
+ 1. BOTH UP (Australian): server at baseline, partner at net
+ → your DEFAULT serving formation
+ 2. I-FORMATION: net player hides in front of server
+ → advanced, needs practice
+ 3. BOTH BACK: both at baseline
+ → defensive reset, 50+ bad-day option
 
-  ─────────────────────────────────────────────────────────────
-  FOUR PATTERNS
-  ─────────────────────────────────────────────────────────────
-  1. SERVE + 1:    serve wide → poach → volley to the middle
-  2. RETURN + 1:   return middle → poach or a baseline passing shot
-  3. LOB-RECOVER:  trouble → deep lob → reset formation
-  4. NET BATTLE:   both up → cross-court, cross-court, cross-court
+ ─────────────────────────────────────────────────────────────
+ FOUR PATTERNS
+ ─────────────────────────────────────────────────────────────
+ 1. SERVE + 1: serve wide → poach → volley to the middle
+ 2. RETURN + 1: return middle → poach or a baseline passing shot
+ 3. LOB-RECOVER: trouble → deep lob → reset formation
+ 4. NET BATTLE: both up → cross-court, cross-court, cross-court
 
-  ─────────────────────────────────────────────────────────────
-  TWELVE CUES
-  ─────────────────────────────────────────────────────────────
-  1. "Talk to your partner"       7. "Lob when in trouble"
-  2. "Mine! / Yours!"             8. "Cross-court at 3.5"
-  3. "Move as a unit"             9. "Cover the alley"
-  4. "Serve to the T"            10. "Stand at the net"
-  5. "Return down the middle"    11. "Both Back is OK"
-  6. "Poach on a high ball"      12. "Fist = Mine, Hand = Yours"
+ ─────────────────────────────────────────────────────────────
+ TWELVE CUES
+ ─────────────────────────────────────────────────────────────
+ 1. "Talk to your partner" 7. "Lob when in trouble"
+ 2. "Mine! / Yours!" 8. "Cross-court at 3.5"
+ 3. "Move as a unit" 9. "Cover the alley"
+ 4. "Serve to the T" 10. "Stand at the net"
+ 5. "Return down the middle" 11. "Both Back is OK"
+ 6. "Poach on a high ball" 12. "Fist = Mine, Hand = Yours"
 
-  ─────────────────────────────────────────────────────────────
-  FIVE DRILLS
-  ─────────────────────────────────────────────────────────────
-  1. Communication drill (with partner, 5 min)
-  2. "Move as a unit" drill (with partner, 10 min)
-  3. Poach-and-volley drill (with partner, 10 min)
-  4. Middle-return drill (with partner, 10 min)
-  5. Lob-and-recover drill (with partner, 5 min)
+ ─────────────────────────────────────────────────────────────
+ FIVE DRILLS
+ ─────────────────────────────────────────────────────────────
+ 1. Communication drill (with partner, 5 min)
+ 2. "Move as a unit" drill (with partner, 10 min)
+ 3. Poach-and-volley drill (with partner, 10 min)
+ 4. Middle-return drill (with partner, 10 min)
+ 5. Lob-and-recover drill (with partner, 5 min)
 
-  ─────────────────────────────────────────────────────────────
-  SEVEN ERRORS
-  ─────────────────────────────────────────────────────────────
-  1. Silent partners            →  Communication drill
-  2. Both stuck at baseline     →  Default to Australian
-  3. Cross-court returns        →  Middle-return drill, 60% rule
-  4. Down-the-line volleys      →  "Cross-court at 3.5" cue
-  5. Not poaching                →  Poach-and-volley drill
-  6. Poaching without telling   →  "I'm going!" call
-  7. Lobbing short               →  Lob-and-recover drill, "deep lob"
+ ─────────────────────────────────────────────────────────────
+ SEVEN ERRORS
+ ─────────────────────────────────────────────────────────────
+ 1. Silent partners → Communication drill
+ 2. Both stuck at baseline → Default to Australian
+ 3. Cross-court returns → Middle-return drill, 60% rule
+ 4. Down-the-line volleys → "Cross-court at 3.5" cue
+ 5. Not poaching → Poach-and-volley drill
+ 6. Poaching without telling → "I'm going!" call
+ 7. Lobbing short → Lob-and-recover drill, "deep lob"
 
-  ─────────────────────────────────────────────────────────────
-  STOP AND RESET IF:
-  ─────────────────────────────────────────────────────────────
-  • Knee or hip pain from lunging — trust your partner, move as a unit
-  • Shoulder pain from overheads — moonball lob, don't smash
-  • Can't hear your partner's calls — switch to hand signals
-  • You're the only one at the net — move forward, stand at net
-  • Cross-court returns keep landing in the alley — 60% middle rule
-  • Poaching without telling your partner — always call "I'm going!"
-  • Body says "no net today" — Both Back is okay, not a failure
+ ─────────────────────────────────────────────────────────────
+ STOP AND RESET IF:
+ ─────────────────────────────────────────────────────────────
+ • Knee or hip pain from lunging — trust your partner, move as a unit
+ • Shoulder pain from overheads — moonball lob, don't smash
+ • Can't hear your partner's calls — switch to hand signals
+ • You're the only one at the net — move forward, stand at net
+ • Cross-court returns keep landing in the alley — 60% middle rule
+ • Poaching without telling your partner — always call "I'm going!"
+ • Body says "no net today" — Both Back is okay, not a failure
 
 ═══════════════════════════════════════════════════════════════
-  Doubles is the 50+ longevity game. Stand at the net, talk to
-  your partner, and let the lob be your friend. 10-20 more years
-  of tennis are on the other side of this game.
+ Doubles is the 50+ longevity game. Stand at the net, talk to
+ your partner, and let the lob be your friend. 10-20 more years
+ of tennis are on the other side of this game.
 ═══════════════════════════════════════════════════════════════
 ```
 

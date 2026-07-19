@@ -86,43 +86,43 @@ Hầu hết người chơi dành cả sự nghiệp thi đấu của họ để 
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THẺ TIÊM CHỦNG ÁP LỰC — THANG CÁ NHÂN CỦA BẠN
+ THẺ TIÊM CHỦNG ÁP LỰC — THANG CÁ NHÂN CỦA BẠN
 ═══════════════════════════════════════════════════════════════
 
-  DỮ LIỆU CHOKING CỦA TÔI
-    Trigger hàng đầu 1: _____________________________________
-    Trigger hàng đầu 2: _____________________________________
-    Trigger hàng đầu 3: _____________________________________
+ DỮ LIỆU CHOKING CỦA TÔI
+ Trigger hàng đầu 1: _____________________________________
+ Trigger hàng đầu 2: _____________________________________
+ Trigger hàng đầu 3: _____________________________________
 
-  THANG 5 NẤC CÁ NHÂN CỦA TÔI
-    Nấc 1: _____________  Hưng phấn ___/10  Thời lượng ___phút
-    Nấc 2: _____________  Hưng phấn ___/10  Thời lượng ___phút
-    Nấc 3: _____________  Hưng phấn ___/10  Thời lượng ___phút
-    Nấc 4: _____________  Hưng phấn ___/10  Thời lượng ___phút
-    Nấc 5: _____________  Hưng phấn ___/10  Thời lượng ___phút
+ THANG 5 NẤC CÁ NHÂN CỦA TÔI
+ Nấc 1: _____________ Hưng phấn ___/10 Thời lượng ___phút
+ Nấc 2: _____________ Hưng phấn ___/10 Thời lượng ___phút
+ Nấc 3: _____________ Hưng phấn ___/10 Thời lượng ___phút
+ Nấc 4: _____________ Hưng phấn ___/10 Thời lượng ___phút
+ Nấc 5: _____________ Hưng phấn ___/10 Thời lượng ___phút
 
-  CHU KỲ TIẾP XÚC 7 NGÀY (mỗi nấc)
-    Ngày 1-2:  Tiếp xúc nhẹ
-    Ngày 3-4:  Tiếp xúc trung bình (có hậu quả thực sự)
-    Ngày 5-6:  Tiếp xúc cao (cường độ stakes-trận)
-    Ngày 7:    Trận đấu thật — kiểm tra sự giảm 50%
+ CHU KỲ TIẾP XÚC 7 NGÀY (mỗi nấc)
+ Ngày 1-2: Tiếp xúc nhẹ
+ Ngày 3-4: Tiếp xúc trung bình (có hậu quả thực sự)
+ Ngày 5-6: Tiếp xúc cao (cường độ stakes-trận)
+ Ngày 7: Trận đấu thật — kiểm tra sự giảm 50%
 
-  KIỂM TRA 3 HỆ THỐNG
-    Trước mỗi nấc: Tôi có ở sự sẵn sàng có tổ chức không? ___
-                    HRV hôm nay là gì? ___
-    Ngày xanh = toàn bộ thang khả thi
-    Ngày vàng = chỉ nấc 1-3
-    Ngày đỏ = chỉ nấc 1, hoặc hoãn lại
+ KIỂM TRA 3 HỆ THỐNG
+ Trước mỗi nấc: Tôi có ở sự sẵn sàng có tổ chức không? ___
+ HRV hôm nay là gì? ___
+ Ngày xanh = toàn bộ thang khả thi
+ Ngày vàng = chỉ nấc 1-3
+ Ngày đỏ = chỉ nấc 1, hoặc hoãn lại
 
-  DANH SÁCH "CÁI NÀY HIỆU QUẢ" CỦA TÔI
-    1. _____________________________________________
-    2. _____________________________________________
-    3. _____________________________________________
-    4. _____________________________________________
-    5. _____________________________________________
+ DANH SÁCH "CÁI NÀY HIỆU QUẢ" CỦA TÔI
+ 1. _____________________________________________
+ 2. _____________________________________________
+ 3. _____________________________________________
+ 4. _____________________________________________
+ 5. _____________________________________________
 
-  CÂU NHẮC TỔNG
-    "Áp lực là vaccine. Tôi tiêm có chủ đích."
+ CÂU NHẮC TỔNG
+ "Áp lực là vaccine. Tôi tiêm có chủ đích."
 
 ═══════════════════════════════════════════════════════════════
 ```

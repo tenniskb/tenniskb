@@ -100,75 +100,75 @@ And keep the three grip choices straight: 11 o'clock is Continental, your 70%-of
 
 ```
 ═══════════════════════════════════════════════════════════════
-  EASTERN / SEMI-WESTERN — QUICK REFERENCE
+ EASTERN / SEMI-WESTERN — QUICK REFERENCE
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: Continental is your 70% grip. Semi-Western is
-  your 30% grip (the forehand). One bevel apart from Eastern
-  (bevel 3 vs. bevel 4).
+ THE BIG IDEA: Continental is your 70% grip. Semi-Western is
+ your 30% grip (the forehand). One bevel apart from Eastern
+ (bevel 3 vs. bevel 4).
 
-  ─────────────────────────────────────────────────────────────
-  THE TWO FOREHAND GRIPS
-  ─────────────────────────────────────────────────────────────
-  EASTERN          Bevel 3, V at 12, contact at the side
-                    1980s standard, low-medium topspin
-                    50+ use: backup (older 3.5, high-bouncing)
+ ─────────────────────────────────────────────────────────────
+ THE TWO FOREHAND GRIPS
+ ─────────────────────────────────────────────────────────────
+ EASTERN Bevel 3, V at 12, contact at the side
+ 1980s standard, low-medium topspin
+ 50+ use: backup (older 3.5, high-bouncing)
 
-  SEMI-WESTERN     Bevel 4, V at 1, contact in front
-                    Modern standard, medium-high topspin
-                    50+ use: DEFAULT (joint-friendly)
+ SEMI-WESTERN Bevel 4, V at 1, contact in front
+ Modern standard, medium-high topspin
+ 50+ use: DEFAULT (joint-friendly)
 
-  ─────────────────────────────────────────────────────────────
-  THE V POSITION (CLOCK FACE)
-  ─────────────────────────────────────────────────────────────
-  11 o'clock = Continental (70% of shots)
-  12 o'clock = Eastern (older 3.5, high-bouncing)
-   1 o'clock = Semi-Western (3.5 default, 50+ friendly)
-   2 o'clock = Western (extreme topspin, for the brave)
+ ─────────────────────────────────────────────────────────────
+ THE V POSITION (CLOCK FACE)
+ ─────────────────────────────────────────────────────────────
+ 11 o'clock = Continental (70% of shots)
+ 12 o'clock = Eastern (older 3.5, high-bouncing)
+ 1 o'clock = Semi-Western (3.5 default, 50+ friendly)
+ 2 o'clock = Western (extreme topspin, for the brave)
 
-  ─────────────────────────────────────────────────────────────
-  THREE WAYS TO FIND THE GRIP
-  ─────────────────────────────────────────────────────────────
-  SHAKE HANDS     Pretend to shake hands with the racket
-                  Natural feel, easiest to find first time
-  BEVEL WALK      Start at Continental, walk 1-2 bevels
-                  Precise, one bevel at a time
-  INDEX FINGER    Extend the index finger down the side
-                  Fast check mid-match
+ ─────────────────────────────────────────────────────────────
+ THREE WAYS TO FIND THE GRIP
+ ─────────────────────────────────────────────────────────────
+ SHAKE HANDS Pretend to shake hands with the racket
+ Natural feel, easiest to find first time
+ BEVEL WALK Start at Continental, walk 1-2 bevels
+ Precise, one bevel at a time
+ INDEX FINGER Extend the index finger down the side
+ Fast check mid-match
 
-  ─────────────────────────────────────────────────────────────
-  THREE-PHASE PRESSURE (TOPSPIN)
-  ─────────────────────────────────────────────────────────────
-  Setup (2-3/10): soft hand, like a baby bird
-  Swing (3-4/10): forearm rotation, wrist loose
-  Contact (7-9/10): firm wrist, ball goes where you aim
+ ─────────────────────────────────────────────────────────────
+ THREE-PHASE PRESSURE (TOPSPIN)
+ ─────────────────────────────────────────────────────────────
+ Setup (2-3/10): soft hand, like a baby bird
+ Swing (3-4/10): forearm rotation, wrist loose
+ Contact (7-9/10): firm wrist, ball goes where you aim
 
-  ─────────────────────────────────────────────────────────────
-  FIVE CUES TO REMEMBER
-  ─────────────────────────────────────────────────────────────
-  1. "V at 1 o'clock" — Semi-Western, the 3.5 default
-  2. "Forearm rotation, not wrist snap" — joint-friendly topspin
-  3. "Same grip for forehand" — groundstroke and return
-  4. "Bevel walk in one second" — 1-2 bevels from Continental
-  5. "50+ prefers forearm" — the forearm does the work
+ ─────────────────────────────────────────────────────────────
+ FIVE CUES TO REMEMBER
+ ─────────────────────────────────────────────────────────────
+ 1. "V at 1 o'clock" — Semi-Western, the 3.5 default
+ 2. "Forearm rotation, not wrist snap" — joint-friendly topspin
+ 3. "Same grip for forehand" — groundstroke and return
+ 4. "Bevel walk in one second" — 1-2 bevels from Continental
+ 5. "50+ prefers forearm" — the forearm does the work
 
-  ─────────────────────────────────────────────────────────────
-  THE 70/30 RULE
-  ─────────────────────────────────────────────────────────────
-  • 70% of shots use the Continental
-  • 30% is the forehand (Semi-Western) and the forehand return
-  • Continental is the DEFAULT
-  • Semi-Western is the FOREHAND
-  • Eastern is the BACKUP
+ ─────────────────────────────────────────────────────────────
+ THE 70/30 RULE
+ ─────────────────────────────────────────────────────────────
+ • 70% of shots use the Continental
+ • 30% is the forehand (Semi-Western) and the forehand return
+ • Continental is the DEFAULT
+ • Semi-Western is the FOREHAND
+ • Eastern is the BACKUP
 
 ═══════════════════════════════════════════════════════════════
-  THE MASTER CUE: Continental is your 70% grip. Semi-Western is
-  your 30% grip — the forehand. One bevel of difference changes
-  three things: contact, swing path, topspin. At 50+, the
-  Semi-Western (1 o'clock) is your default — forearm rotates,
-  wrist stays loose, contact happens in front. Players who
-  commit to Semi-Western tend to play twenty years. Players who
-  push into Western tend to get about ten.
+ THE MASTER CUE: Continental is your 70% grip. Semi-Western is
+ your 30% grip — the forehand. One bevel of difference changes
+ three things: contact, swing path, topspin. At 50+, the
+ Semi-Western (1 o'clock) is your default — forearm rotates,
+ wrist stays loose, contact happens in front. Players who
+ commit to Semi-Western tend to play twenty years. Players who
+ push into Western tend to get about ten.
 ═══════════════════════════════════════════════════════════════
 ```
 

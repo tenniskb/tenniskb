@@ -100,75 +100,75 @@ Và giữ ba lựa chọn grip rõ ràng trong đầu: 11 giờ là Continental,
 
 ```
 ═══════════════════════════════════════════════════════════════
-  EASTERN / SEMI-WESTERN — TÓM TẮT NHANH
+ EASTERN / SEMI-WESTERN — TÓM TẮT NHANH
 ═══════════════════════════════════════════════════════════════
 
-  Ý CHÍNH: Continental là grip 70% của bạn. Semi-Western là
-  grip 30% của bạn (forehand). Cách Eastern một bevel
-  (bevel 3 so với bevel 4).
+ Ý CHÍNH: Continental là grip 70% của bạn. Semi-Western là
+ grip 30% của bạn (forehand). Cách Eastern một bevel
+ (bevel 3 so với bevel 4).
 
-  ─────────────────────────────────────────────────────────────
-  HAI GRIP FOREHAND
-  ─────────────────────────────────────────────────────────────
-  EASTERN          Bevel 3, V ở 12, contact ở bên hông
-                    Tiêu chuẩn thập niên 1980, topspin thấp-trung
-                    Dùng 50+: backup (3.5 lớn tuổi, nảy cao)
+ ─────────────────────────────────────────────────────────────
+ HAI GRIP FOREHAND
+ ─────────────────────────────────────────────────────────────
+ EASTERN Bevel 3, V ở 12, contact ở bên hông
+ Tiêu chuẩn thập niên 1980, topspin thấp-trung
+ Dùng 50+: backup (3.5 lớn tuổi, nảy cao)
 
-  SEMI-WESTERN     Bevel 4, V ở 1, contact phía trước
-                    Tiêu chuẩn hiện đại, topspin trung-cao
-                    Dùng 50+: MẶC ĐỊNH (thân thiện khớp)
+ SEMI-WESTERN Bevel 4, V ở 1, contact phía trước
+ Tiêu chuẩn hiện đại, topspin trung-cao
+ Dùng 50+: MẶC ĐỊNH (thân thiện khớp)
 
-  ─────────────────────────────────────────────────────────────
-  VỊ TRÍ V (MẶT ĐỒNG HỒ)
-  ─────────────────────────────────────────────────────────────
-  11 giờ = Continental (70% số cú)
-  12 giờ = Eastern (3.5 lớn tuổi, nảy cao)
-   1 giờ = Semi-Western (mặc định 3.5, thân thiện 50+)
-   2 giờ = Western (topspin cực đoan, cho người dũng cảm)
+ ─────────────────────────────────────────────────────────────
+ VỊ TRÍ V (MẶT ĐỒNG HỒ)
+ ─────────────────────────────────────────────────────────────
+ 11 giờ = Continental (70% số cú)
+ 12 giờ = Eastern (3.5 lớn tuổi, nảy cao)
+ 1 giờ = Semi-Western (mặc định 3.5, thân thiện 50+)
+ 2 giờ = Western (topspin cực đoan, cho người dũng cảm)
 
-  ─────────────────────────────────────────────────────────────
-  BA CÁCH TÌM GRIP
-  ─────────────────────────────────────────────────────────────
-  BẮT TAY         Giả vờ bắt tay với vợt
-                  Cảm giác tự nhiên, dễ tìm nhất lần đầu
-  ĐI BỘ BEVEL     Bắt đầu ở Continental, đi bộ 1-2 bevel
-                  Chính xác, từng bevel một
-  NGÓN TRỎ        Duỗi ngón trỏ dọc theo cạnh
-                  Kiểm tra nhanh giữa trận
+ ─────────────────────────────────────────────────────────────
+ BA CÁCH TÌM GRIP
+ ─────────────────────────────────────────────────────────────
+ BẮT TAY Giả vờ bắt tay với vợt
+ Cảm giác tự nhiên, dễ tìm nhất lần đầu
+ ĐI BỘ BEVEL Bắt đầu ở Continental, đi bộ 1-2 bevel
+ Chính xác, từng bevel một
+ NGÓN TRỎ Duỗi ngón trỏ dọc theo cạnh
+ Kiểm tra nhanh giữa trận
 
-  ─────────────────────────────────────────────────────────────
-  ÁP LỰC BA PHA (TOPSPIN)
-  ─────────────────────────────────────────────────────────────
-  Setup (2-3/10): bàn tay mềm, như chim non
-  Cú vung (3-4/10): xoay cẳng tay, cổ tay lỏng
-  Contact (7-9/10): cổ tay chắc, bóng đi đúng nơi bạn nhắm
+ ─────────────────────────────────────────────────────────────
+ ÁP LỰC BA PHA (TOPSPIN)
+ ─────────────────────────────────────────────────────────────
+ Setup (2-3/10): bàn tay mềm, như chim non
+ Cú vung (3-4/10): xoay cẳng tay, cổ tay lỏng
+ Contact (7-9/10): cổ tay chắc, bóng đi đúng nơi bạn nhắm
 
-  ─────────────────────────────────────────────────────────────
-  NĂM CÂU NHẮC CẦN NHỚ
-  ─────────────────────────────────────────────────────────────
-  1. "V ở 1 giờ" — Semi-Western, mặc định 3.5
-  2. "Xoay cẳng tay, không bẻ cổ tay" — topspin thân thiện khớp
-  3. "Cùng grip cho forehand" — groundstroke và return
-  4. "Đi bộ bevel trong một giây" — 1-2 bevel từ Continental
-  5. "50+ ưu tiên cẳng tay" — cẳng tay làm việc
+ ─────────────────────────────────────────────────────────────
+ NĂM CÂU NHẮC CẦN NHỚ
+ ─────────────────────────────────────────────────────────────
+ 1. "V ở 1 giờ" — Semi-Western, mặc định 3.5
+ 2. "Xoay cẳng tay, không bẻ cổ tay" — topspin thân thiện khớp
+ 3. "Cùng grip cho forehand" — groundstroke và return
+ 4. "Đi bộ bevel trong một giây" — 1-2 bevel từ Continental
+ 5. "50+ ưu tiên cẳng tay" — cẳng tay làm việc
 
-  ─────────────────────────────────────────────────────────────
-  QUY TẮC 70/30
-  ─────────────────────────────────────────────────────────────
-  • 70% số cú dùng Continental
-  • 30% là forehand (Semi-Western) và forehand return
-  • Continental là MẶC ĐỊNH
-  • Semi-Western là FOREHAND
-  • Eastern là BACKUP
+ ─────────────────────────────────────────────────────────────
+ QUY TẮC 70/30
+ ─────────────────────────────────────────────────────────────
+ • 70% số cú dùng Continental
+ • 30% là forehand (Semi-Western) và forehand return
+ • Continental là MẶC ĐỊNH
+ • Semi-Western là FOREHAND
+ • Eastern là BACKUP
 
 ═══════════════════════════════════════════════════════════════
-  CÂU NHẮC CHỦ ĐẠO: Continental là grip 70% của bạn. Semi-Western
-  là grip 30% — forehand. Một bevel khác biệt thay đổi ba thứ:
-  contact, đường vung, topspin. Ở tuổi 50+, Semi-Western (1 giờ)
-  là mặc định của bạn — cẳng tay xoay, cổ tay giữ lỏng, contact
-  xảy ra phía trước. Học viên cam kết với Semi-Western thường
-  chơi được hai mươi năm. Học viên đẩy tới Western thường chỉ
-  được khoảng mười năm.
+ CÂU NHẮC CHỦ ĐẠO: Continental là grip 70% của bạn. Semi-Western
+ là grip 30% — forehand. Một bevel khác biệt thay đổi ba thứ:
+ contact, đường vung, topspin. Ở tuổi 50+, Semi-Western (1 giờ)
+ là mặc định của bạn — cẳng tay xoay, cổ tay giữ lỏng, contact
+ xảy ra phía trước. Học viên cam kết với Semi-Western thường
+ chơi được hai mươi năm. Học viên đẩy tới Western thường chỉ
+ được khoảng mười năm.
 ═══════════════════════════════════════════════════════════════
 ```
 

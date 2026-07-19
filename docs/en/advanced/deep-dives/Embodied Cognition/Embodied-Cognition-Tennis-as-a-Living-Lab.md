@@ -50,7 +50,7 @@ The master idea: the ball moves at 50 meters a second. Your conscious mind moves
 
 Perception-action coupling is the continuous, non-linear loop between what you sense and what you do. In a properly coupled system, perception exists for action, and action exists for perception — they aren't two separate stages, they're one process. This traces back to Gibson's 1979 work and was extended by Michael Turvey in 1990.
 
-You've got three stages of perception  and they happen in strict order. First, wide perception — soft eyes. Before your opponent strikes, your peripheral vision is doing about 80% of the work: you're reading the whole court, their stance, the weight on their back foot, the open space. Your sharp central vision stays soft and Mở khóaed. Second, lock-on. The instant the opponent's racket meets the ball, your central vision snaps to the ball, and everything around it blurs — this lock-on happens in under 100 milliseconds, faster than any conscious choice. Third, the quiet eye. In the last 200 to 300 milliseconds before racket meets ball, your eyes and head go completely still, locked on the predicted contact point. This documented by sports scientist Joan Vickers as the "quiet eye period," and it's present in elite players but largely absent in recreational ones.
+You've got three stages of perception and they happen in strict order. First, wide perception — soft eyes. Before your opponent strikes, your peripheral vision is doing about 80% of the work: you're reading the whole court, their stance, the weight on their back foot, the open space. Your sharp central vision stays soft and Mở khóaed. Second, lock-on. The instant the opponent's racket meets the ball, your central vision snaps to the ball, and everything around it blurs — this lock-on happens in under 100 milliseconds, faster than any conscious choice. Third, the quiet eye. In the last 200 to 300 milliseconds before racket meets ball, your eyes and head go completely still, locked on the predicted contact point. This documented by sports scientist Joan Vickers as the "quiet eye period," and it's present in elite players but largely absent in recreational ones.
 
 The quiet eye matters because it's the bridge between prediction and action. While your eyes are still, your brain is locking in the motor program; move your eyes too early and that program collapses. When coaches say "eyes on the ball," they're not being trite — they're being neuroscientifically precise.
 
@@ -129,26 +129,26 @@ Tennis is not a thinking sport. It's a perceiving sport. The body is the brain. 
 EMBODIED COGNITION — CHEAT SHEET
 
 THE ONE BIG IDEA
-  Tennis is not a thinking sport. It is a PERCEIVING sport.
-  The body is the brain. The racket is the mind. The court is the conversation.
+ Tennis is not a thinking sport. It is a PERCEIVING sport.
+ The body is the brain. The racket is the mind. The court is the conversation.
 
 THE 5 KEY CUES
-  1. Soft eyes → lock → still (3 stages of perception)
-  2. See-MOVE-Hit. Never see-think-move.
-  3. Mute the narrator. Focus externally.
-  4. Constraint beats checklist. Find the solution.
-  5. Trust the 30-year library.
+ 1. Soft eyes → lock → still (3 stages of perception)
+ 2. See-MOVE-Hit. Never see-think-move.
+ 3. Mute the narrator. Focus externally.
+ 4. Constraint beats checklist. Find the solution.
+ 5. Trust the 30-year library.
 
 TOP MISTAKE
-  Trying to THINK your way to the ball. The narrator is too slow.
+ Trying to THINK your way to the ball. The narrator is too slow.
 
 DRILLS
-  Soft-eyes wide-perception — 2 min daily
-  Constraint rally (cross-court only) — 15 min, 2x/week
+ Soft-eyes wide-perception — 2 min daily
+ Constraint rally (cross-court only) — 15 min, 2x/week
 
 THE 50+ ADVANTAGE
-  Your basal ganglia holds 30+ years of stored tennis programs.
-  You're not old. You're pattern-rich, perception-experienced, tactically mature.
+ Your basal ganglia holds 30+ years of stored tennis programs.
+ You're not old. You're pattern-rich, perception-experienced, tactically mature.
 
 FOR: a 50+ player moving from 3.5 toward 4.5
 ```

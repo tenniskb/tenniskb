@@ -103,45 +103,45 @@ A player who's found their own model doesn't ask "which pro should I copy" anymo
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THE FOREHAND STYLE CARD — YOUR 3-AXIS PROFILE
+ THE FOREHAND STYLE CARD — YOUR 3-AXIS PROFILE
 ═══════════════════════════════════════════════════════════════
 
-  AXIS 1 — GRIP ROTATION
-    ☐ Eastern   ☐ Semi-Western   ☐ Full Western
-    My grip: _______________
+ AXIS 1 — GRIP ROTATION
+ Eastern Semi-Western Full Western
+ My grip: _______________
 
-  AXIS 2 — CONTACT HEIGHT
-    ☐ Low (waist)   ☐ Mid (chest)   ☐ High (shoulder+)
-    My height: _______________
+ AXIS 2 — CONTACT HEIGHT
+ Low (waist) Mid (chest) High (shoulder+)
+ My height: _______________
 
-  AXIS 3 — LEVER
-    ☐ Long lever   ☐ Compact
-    My lever: _______________
+ AXIS 3 — LEVER
+ Long lever Compact
+ My lever: _______________
 
-  PRIMARY MODEL: _______________
-  SECONDARY MODEL: _______________
+ PRIMARY MODEL: _______________
+ SECONDARY MODEL: _______________
 
-  THE 5-CONSTRAINT TEST SCORES
-    High net:        ___/10   (favors Model A)
-    Deep target:     ___/10   (favors Model B)
-    5 targets:       ___/10   (favors Model C)
-    Heavy topspin:   ___/10   (favors Model A)
-    Driving:         ___/10   (favors Model B)
+ THE 5-CONSTRAINT TEST SCORES
+ High net: ___/10 (favors Model A)
+ Deep target: ___/10 (favors Model B)
+ 5 targets: ___/10 (favors Model C)
+ Heavy topspin: ___/10 (favors Model A)
+ Driving: ___/10 (favors Model B)
 
-  THE COMBINER RESULT
-    Primary feature:   _____________________________________
-    Secondary feature: _____________________________________
+ THE COMBINER RESULT
+ Primary feature: _____________________________________
+ Secondary feature: _____________________________________
 
-  MY MODEL'S NAME:
-    __________________________________________________________
+ MY MODEL'S NAME:
+ __________________________________________________________
 
-  ONE-PARAGRAPH DESCRIPTION:
-    __________________________________________________________
-    __________________________________________________________
-    __________________________________________________________
+ ONE-PARAGRAPH DESCRIPTION:
+ __________________________________________________________
+ __________________________________________________________
+ __________________________________________________________
 
-  MASTER CUE
-    "There is no one forehand. There is only mine."
+ MASTER CUE
+ "There is no one forehand. There is only mine."
 
 ═══════════════════════════════════════════════════════════════
 ```

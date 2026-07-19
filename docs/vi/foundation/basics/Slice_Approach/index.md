@@ -10,7 +10,6 @@ Practice the slice approach in two phases. Phase one: hit ten slice approach sho
 
 When the approach doesn't work — usually because the slice is floating instead of skidding — come back to the technique article. The fix is in the contact point and the racket path, not the pace.
 
-
 ## Articles in this Section
 
 - [Len Luoi Bang Slice Huong Dan Vi](Len-Luoi-Bang-Slice-Huong-Dan-VI.md)

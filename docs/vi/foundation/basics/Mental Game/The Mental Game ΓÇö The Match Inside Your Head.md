@@ -128,71 +128,71 @@ Vài nguyên lý thái cực đáng mang theo bạn như một suy nghĩ kết t
 
 ```
 ═══════════════════════════════════════════════════════════════
-  TÂM LÝ — TÓM TẮT 1 TRANG
+ TÂM LÝ — TÓM TẮT 1 TRANG
 ═══════════════════════════════════════════════════════════════
 
-  Ý TƯỞNG LỚN: Tennis là 80% TÂM LÝ ở 3.5. Tâm lý tập được, như
-               forehand. Bản đồ 5 pha:
-               KHỞI ĐỘNG → TRƯỚC ĐIỂM → TRONG ĐIỂM → GIỮA ĐIỂM
-               → NGHỈ GIẢI LAO
+ Ý TƯỞNG LỚN: Tennis là 80% TÂM LÝ ở 3.5. Tâm lý tập được, như
+ forehand. Bản đồ 5 pha:
+ KHỞI ĐỘNG → TRƯỚC ĐIỂM → TRONG ĐIỂM → GIỮA ĐIỂM
+ → NGHỈ GIẢI LAO
 
-  ───────────────────────────────────────────────────────────
-  NGHI THỨC 4 BƯỚC TRƯỚC ĐIỂM
-  ───────────────────────────────────────────────────────────
-  1. NẢY:    1-2 lần (reset thị giác — "điểm trước đã kết thúc")
-  2. THỞ:    1 hơi thở sâu, vào mũi, ra miệng (nhịp tim -5 đến -10)
-  3. CƠ THỂ: 4 sửa — hạ vai, mở hàm, lắc tay, kéo dài cột sống
-  4. DỰNG:   Nhìn mục tiêu, thấy cú đánh, "đi"
-  Tổng: 2 giây. Mỗi điểm duy nhất.
+ ───────────────────────────────────────────────────────────
+ NGHI THỨC 4 BƯỚC TRƯỚC ĐIỂM
+ ───────────────────────────────────────────────────────────
+ 1. NẢY: 1-2 lần (reset thị giác — "điểm trước đã kết thúc")
+ 2. THỞ: 1 hơi thở sâu, vào mũi, ra miệng (nhịp tim -5 đến -10)
+ 3. CƠ THỂ: 4 sửa — hạ vai, mở hàm, lắc tay, kéo dài cột sống
+ 4. DỰNG: Nhìn mục tiêu, thấy cú đánh, "đi"
+ Tổng: 2 giây. Mỗi điểm duy nhất.
 
-  ───────────────────────────────────────────────────────────
-  5 ĐIỂM ÁP LỰC
-  ───────────────────────────────────────────────────────────
-  1. Giao để thắng set          → CHẬM LẠI, đủ 20 giây, cùng serve
-  2. Giao để thắng trận         → Tin serve + đối thủ + "chỉ là trận đấu"
-  3. Double-fault ở break point → Đánh SERVE 2 TRƯỚC
-  4. Bẫy 0-40 / 0-30            → Một điểm một lần, chiến đấu toán học
-  5. Gần giữ (40-0 → deuce)     → Quên 40-0, nhún vai, điểm tiếp
+ ───────────────────────────────────────────────────────────
+ 5 ĐIỂM ÁP LỰC
+ ───────────────────────────────────────────────────────────
+ 1. Giao để thắng set → CHẬM LẠI, đủ 20 giây, cùng serve
+ 2. Giao để thắng trận → Tin serve + đối thủ + "chỉ là trận đấu"
+ 3. Double-fault ở break point → Đánh SERVE 2 TRƯỚC
+ 4. Bẫy 0-40 / 0-30 → Một điểm một lần, chiến đấu toán học
+ 5. Gần giữ (40-0 → deuce) → Quên 40-0, nhún vai, điểm tiếp
 
-  ───────────────────────────────────────────────────────────
-  HỒI PHỤC THUA 4 HÀNH ĐỘNG (90 giây)
-  ───────────────────────────────────────────────────────────
-  1. HẠ (15 giây):    Ngồi, hạ vai, đặt vợt, bỏ tỷ số
-  2. TRÔI (30 giây):  Đi tới ghế, uống, không nói tennis, không replay
-  3. GHI (30 giây):   "Sai ở đâu?" "Tôi làm gì game tới?"
-  4. UỐNG (15 giây):  Ngụm nước, thở, kiểm tra cơ thể, đi về vạch
+ ───────────────────────────────────────────────────────────
+ HỒI PHỤC THUA 4 HÀNH ĐỘNG (90 giây)
+ ───────────────────────────────────────────────────────────
+ 1. HẠ (15 giây): Ngồi, hạ vai, đặt vợt, bỏ tỷ số
+ 2. TRÔI (30 giây): Đi tới ghế, uống, không nói tennis, không replay
+ 3. GHI (30 giây): "Sai ở đâu?" "Tôi làm gì game tới?"
+ 4. UỐNG (15 giây): Ngụm nước, thở, kiểm tra cơ thể, đi về vạch
 
-  ───────────────────────────────────────────────────────────
-  4 SỬA CƠ THỂ (cơ thể dẫn dắt tâm trí)
-  ───────────────────────────────────────────────────────────
-  • Hạ vai (1 inch, giải phóng căng thẳng ngay)
-  • Mở hàm (răng lỏng, thở dễ hơn)
-  • Lắc tay (lắc nhỏ, grip lỏng)
-  • Kéo dài cột sống (1 inch, tự tin nâng lên)
-  Cách nhanh nhất sửa tâm trí: sửa cơ thể. Mỗi nghỉ giải lao.
+ ───────────────────────────────────────────────────────────
+ 4 SỬA CƠ THỂ (cơ thể dẫn dắt tâm trí)
+ ───────────────────────────────────────────────────────────
+ • Hạ vai (1 inch, giải phóng căng thẳng ngay)
+ • Mở hàm (răng lỏng, thở dễ hơn)
+ • Lắc tay (lắc nhỏ, grip lỏng)
+ • Kéo dài cột sống (1 inch, tự tin nâng lên)
+ Cách nhanh nhất sửa tâm trí: sửa cơ thể. Mỗi nghỉ giải lao.
 
-  ───────────────────────────────────────────────────────────
-  LỢI THẾ TÂM LÝ 50+
-  ───────────────────────────────────────────────────────────
-  • Viễn kiến:      Bạn đã sống. Trận tennis nhỏ.
-  • Nhún vai:       Người 30 tức giận. Người 50 nhún vai.
-  • Phản xạ chậm:   Nghi thức lặp lại được — cơ thể học nhịp điệu.
-  • Mất thính lực:  4 sửa cơ thể im lặng — không cần nghe.
-  • Tăng trưởng:    Lợi thế tennis duy nhất TĂNG theo tuổi.
+ ───────────────────────────────────────────────────────────
+ LỢI THẾ TÂM LÝ 50+
+ ───────────────────────────────────────────────────────────
+ • Viễn kiến: Bạn đã sống. Trận tennis nhỏ.
+ • Nhún vai: Người 30 tức giận. Người 50 nhún vai.
+ • Phản xạ chậm: Nghi thức lặp lại được — cơ thể học nhịp điệu.
+ • Mất thính lực: 4 sửa cơ thể im lặng — không cần nghe.
+ • Tăng trưởng: Lợi thế tennis duy nhất TĂNG theo tuổi.
 
-  ───────────────────────────────────────────────────────────
-  5 CÂU LỆNH
-  ───────────────────────────────────────────────────────────
-  1. "Nảy-thở-cơ thể-dựng" — 2 giây, mỗi điểm
-  2. "Cơ thể dẫn dắt tâm trí" — 4 sửa trước nghi thức
-  3. "Serve 2 trước" — loại bỏ quyết định
-  4. "Chiến thuật không cảm xúc" — "sai ở đâu" không "sao lại là tôi"
-  5. "Đây chỉ là một trận đấu" — viễn kiến 50+
+ ───────────────────────────────────────────────────────────
+ 5 CÂU LỆNH
+ ───────────────────────────────────────────────────────────
+ 1. "Nảy-thở-cơ thể-dựng" — 2 giây, mỗi điểm
+ 2. "Cơ thể dẫn dắt tâm trí" — 4 sửa trước nghi thức
+ 3. "Serve 2 trước" — loại bỏ quyết định
+ 4. "Chiến thuật không cảm xúc" — "sai ở đâu" không "sao lại là tôi"
+ 5. "Đây chỉ là một trận đấu" — viễn kiến 50+
 
 ═══════════════════════════════════════════════════════════════
-  CÂU LỆNH CHỦ ĐẠO: Bạn không thắng tennis trong đầu. Bạn thắng
-  trong CƠ THỂ. Hạ vai. Mở hàm. Lắc tay. Kéo dài cột sống.
-  Tâm trí theo sau.
+ CÂU LỆNH CHỦ ĐẠO: Bạn không thắng tennis trong đầu. Bạn thắng
+ trong CƠ THỂ. Hạ vai. Mở hàm. Lắc tay. Kéo dài cột sống.
+ Tâm trí theo sau.
 ═══════════════════════════════════════════════════════════════
 ```
 

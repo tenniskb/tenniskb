@@ -193,59 +193,56 @@ The cue: you can't be 25 again. You can be a 55-year-old who plays smarter than 
 Friend, you've just read fifteen chapters on the hidden anatomy and neurology of tennis. If you only carry away one thing, let it be this: tennis is not a strength sport. It's a perception-and-coordination sport. The body you have right now — at 50, 60, 70 — is more than capable. The only real question is whether you've trained the *right* systems.
 
 Tennis is a 20-year sport if you protect the engine. The players I admire most at 60, 70 were never the ones who hit hardest at 30 — they're the ones who trained smartly starting around 45.
-
-See you on the court.
-
 ---
 
 ```
 ═══════════════════════════════════════════════════════════════
-  ADVANCED TENNIS CUE CARD — NEUROLOGY & ANATOMY
+ ADVANCED TENNIS CUE CARD — NEUROLOGY & ANATOMY
 ═══════════════════════════════════════════════════════════════
 
-  ONE BIG IDEA:
-     Tennis is not a strength sport. It's a perception +
-     coordination sport.
+ ONE BIG IDEA:
+ Tennis is not a strength sport. It's a perception +
+ coordination sport.
 
-  ───────────────────────────────────────────────────────────
-  KEY CUES
-  ───────────────────────────────────────────────────────────
-  • "Proprioception is data. Strength is power."
-  • "Two engines. Routine = linear. Wide = rotational."
-  • "Hips lead, torso follows, arm releases."
-  • "Head neutral. Horizon in view. Knees will follow."
-  • "Don't think. Predict."
+ ───────────────────────────────────────────────────────────
+ KEY CUES
+ ───────────────────────────────────────────────────────────
+ • "Proprioception is data. Strength is power."
+ • "Two engines. Routine = linear. Wide = rotational."
+ • "Hips lead, torso follows, arm releases."
+ • "Head neutral. Horizon in view. Knees will follow."
+ • "Don't think. Predict."
 
-  ───────────────────────────────────────────────────────────
-  TOP MISTAKES
-  ───────────────────────────────────────────────────────────
-  1. Trying to consciously control every joint
-     → use the basal ganglia instead
-  2. Using the rotational engine on routine balls
-     → linear saves the back
-  3. Chasing extreme X-Factor
-     → 45° is optimal, not maximum
-  4. Dropping the chin to watch the ball
-     → this locks the knees
-  5. Trying to think instead of predict
+ ───────────────────────────────────────────────────────────
+ TOP MISTAKES
+ ───────────────────────────────────────────────────────────
+ 1. Trying to consciously control every joint
+ → use the basal ganglia instead
+ 2. Using the rotational engine on routine balls
+ → linear saves the back
+ 3. Chasing extreme X-Factor
+ → 45° is optimal, not maximum
+ 4. Dropping the chin to watch the ball
+ → this locks the knees
+ 5. Trying to think instead of predict
 
-  ───────────────────────────────────────────────────────────
-  THE 4-WEEK PROPRIOCEPTION RESET
-  ───────────────────────────────────────────────────────────
-  Week 1: Blind rally, 5 min/day — eyes closed for the last
-          0.5 sec before contact
-  Week 2: Wobble-board hold, 30 sec × 3 — single-leg shadow,
-          10 reps each side
-  Week 3: Strobe-glasses rally, 10 min/day — two-point
-          partner drill
-  Week 4: Head-neutral movement drill — VOR ×1 focus,
-          1 min × 3 daily
+ ───────────────────────────────────────────────────────────
+ THE 4-WEEK PROPRIOCEPTION RESET
+ ───────────────────────────────────────────────────────────
+ Week 1: Blind rally, 5 min/day — eyes closed for the last
+ 0.5 sec before contact
+ Week 2: Wobble-board hold, 30 sec × 3 — single-leg shadow,
+ 10 reps each side
+ Week 3: Strobe-glasses rally, 10 min/day — two-point
+ partner drill
+ Week 4: Head-neutral movement drill — VOR ×1 focus,
+ 1 min × 3 daily
 
-  ───────────────────────────────────────────────────────────
-  MASTER CUE
-  ───────────────────────────────────────────────────────────
-  "Don't try harder. Try smarter. The brain is the racket's
-  home."
+ ───────────────────────────────────────────────────────────
+ MASTER CUE
+ ───────────────────────────────────────────────────────────
+ "Don't try harder. Try smarter. The brain is the racket's
+ home."
 ═══════════════════════════════════════════════════════════════
 ```
 

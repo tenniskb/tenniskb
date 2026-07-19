@@ -20,25 +20,25 @@ Here's why this one's worth doing at 50+: the wall never misses, never moves, an
 
 ```
 ═══════════════════════════════════════════════════════════════
-  LOW BALL SLICE — CHEAT SHEET
+ LOW BALL SLICE — CHEAT SHEET
 ═══════════════════════════════════════════════════════════════
 
-  THE BIG IDEA: Don't fight the low ball, scoop it.
+ THE BIG IDEA: Don't fight the low ball, scoop it.
 
-  1. KNEE DEPTH:
-     - Chest must be at ball height.
-     - Bend knees, keep the back straight (save the back).
+ 1. KNEE DEPTH:
+ - Chest must be at ball height.
+ - Bend knees, keep the back straight (save the back).
 
-  2. THE PATH:
-     - Flat-to-forward (not high-to-low here).
+ 2. THE PATH:
+ - Flat-to-forward (not high-to-low here).
 
-  3. THE FACE:
-     - Open like a hood (30-45°).
+ 3. THE FACE:
+ - Open like a hood (30-45°).
 
-  4. THE SOUND:
-     - "Fwoosh" (clean underspin). "Thwack" (ground) means
-       you're too low.
+ 4. THE SOUND:
+ - "Fwoosh" (clean underspin). "Thwack" (ground) means
+ you're too low.
 
-  5. 50+ WARNING:
-     - Don't lunge hard. Use a controlled step and a bridge leg.
+ 5. 50+ WARNING:
+ - Don't lunge hard. Use a controlled step and a bridge leg.
 ```

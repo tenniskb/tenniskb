@@ -208,32 +208,32 @@ Nếu cách nghĩ tai chi giúp bạn giữ tất cả điều này lại với 
 
 ```
 TRƯỚC MỖI SERVE (server):
-  - Tín hiệu tay từ người lưới (nắm đấm = cắt, mở = ở, chỉ = che biên)
-  - Nhắm: Slice Wide (60%), Slice T (30%), Slice Body (10%)
-  - Lực: 70-80%, slice là mặc định
-  - Gọi "Giờ!" hoặc "Đi!" khi người trả chạm bóng
+ - Tín hiệu tay từ người lưới (nắm đấm = cắt, mở = ở, chỉ = che biên)
+ - Nhắm: Slice Wide (60%), Slice T (30%), Slice Body (10%)
+ - Lực: 70-80%, slice là mặc định
+ - Gọi "Giờ!" hoặc "Đi!" khi người trả chạm bóng
 
 TRƯỚC MỖI RETURN (người trả):
-  - Tín hiệu tay từ partner (nắm đấm = cắt, mở = ở)
-  - Nhắm: giữa sân sâu (mặc định 50%), chéo sân (từ chối cắt), hoặc vào chân server
-  - Chặn, đừng vung — đấm 15 cm, không vung
-  - Nhớ: slice là một setup, không phải cú thắng
+ - Tín hiệu tay từ partner (nắm đấm = cắt, mở = ở)
+ - Nhắm: giữa sân sâu (mặc định 50%), chéo sân (từ chối cắt), hoặc vào chân server
+ - Chặn, đừng vung — đấm 15 cm, không vung
+ - Nhớ: slice là một setup, không phải cú thắng
 
 Ở LƯỚI (người lưới):
-  - Slice Volley: chéo sân (mặc định 60%), dọc biên (20%), drop (10%)
-  - Mặt mở, đường xuống, đấm 15 cm
-  - Che biên khi người kia cắt
-  - Slice Drop Shot khi đối thủ ở sâu
+ - Slice Volley: chéo sân (mặc định 60%), dọc biên (20%), drop (10%)
+ - Mặt mở, đường xuống, đấm 15 cm
+ - Che biên khi người kia cắt
+ - Slice Drop Shot khi đối thủ ở sâu
 
 DƯỚI ÁP LỰC (đối thủ ở lưới):
-  - Slice Defensive Lob: vòng cao, góc sâu, qua CẢ HAI đối thủ
-  - Mặc định 50+: lob là chính sách bảo hiểm của bạn
-  - Mua thời gian, reset, về baseline
+ - Slice Defensive Lob: vòng cao, góc sâu, qua CẢ HAI đối thủ
+ - Mặc định 50+: lob là chính sách bảo hiểm của bạn
+ - Mua thời gian, reset, về baseline
 
 BỊ KÉO RỘNG:
-  - Slice Counter-Punch: chéo sân, xa người lưới
-  - Vươn tới bằng vợt, không phải bằng thân người
-  - Thoát và hồi phục — đừng cố thắng counter-punch
+ - Slice Counter-Punch: chéo sân, xa người lưới
+ - Vươn tới bằng vợt, không phải bằng thân người
+ - Thoát và hồi phục — đừng cố thắng counter-punch
 ```
 
 ## Sổ Tay Tóm Tắt Có Thể In
@@ -243,38 +243,38 @@ BỊ KÉO RỘNG:
 ============================================
 
 Ý TƯỞNG LỚN: Trong đôi, mỗi slice là cú đánh của ĐỘI. 8 biến thể,
-             2 người chơi, 1 grip. Slice x đôi = playbook 16 cú.
+ 2 người chơi, 1 grip. Slice x đôi = playbook 16 cú.
 
 SLICE CỦA SERVER
 -------------------
-1. SLICE WIDE SERVE      Kéo người trả rộng, setup cắt        60% giao bóng 1
-2. SLICE RETURN          Chặn vào giữa sâu, setup cú tiếp     5-10 mỗi trận
+1. SLICE WIDE SERVE Kéo người trả rộng, setup cắt 60% giao bóng 1
+2. SLICE RETURN Chặn vào giữa sâu, setup cú tiếp 5-10 mỗi trận
 
 SLICE CỦA NGƯỜI LƯỚI
 -----------------------
-3. SLICE APPROACH        Return + Approach, chạy 70%          1-2 mỗi set
-4. SLICE VOLLEY          Chéo sân, kết thúc điểm              30-50 mỗi trận
+3. SLICE APPROACH Return + Approach, chạy 70% 1-2 mỗi set
+4. SLICE VOLLEY Chéo sân, kết thúc điểm 30-50 mỗi trận
 
 SLICE ĐỔI NHỊP
 -----------------
-5. SLICE DROP SHOT       Ở lưới, đối thủ sâu, bất ngờ         1-2 mỗi set
-6. SLICE DEFENSIVE LOB   Đối thủ ở lưới, reset điểm            Thường (mặc định 50+)
-7. SLICE COUNTER-PUNCH   Bị kéo rộng, thoát + hồi phục         Thỉnh thoảng (khẩn cấp)
-8. SLICE LOW BALL        Bóng thấp trượt, múc & trượt          3-5 mỗi trận
+5. SLICE DROP SHOT Ở lưới, đối thủ sâu, bất ngờ 1-2 mỗi set
+6. SLICE DEFENSIVE LOB Đối thủ ở lưới, reset điểm Thường (mặc định 50+)
+7. SLICE COUNTER-PUNCH Bị kéo rộng, thoát + hồi phục Thỉnh thoảng (khẩn cấp)
+8. SLICE LOW BALL Bóng thấp trượt, múc & trượt 3-5 mỗi trận
 
 4 TÍN HIỆU PHỐI HỢP ĐÔI
 ---------------------------
-1. "Slice là một setup"    Slice hiếm khi là cú thắng
-2. "Server + Người cắt"    Server slice, người cắt volley
-3. "Che biên"              Người kia che rộng sau cú cắt
-4. "Nói bằng tay"          Nắm đấm, tay mở, chỉ, tay trên ngực
+1. "Slice là một setup" Slice hiếm khi là cú thắng
+2. "Server + Người cắt" Server slice, người cắt volley
+3. "Che biên" Người kia che rộng sau cú cắt
+4. "Nói bằng tay" Nắm đấm, tay mở, chỉ, tay trên ngực
 
 4 TÍN HIỆU TAY
 ------------------
-- NẮM ĐẤM        = "Tôi đang cắt"
-- TAY MỞ         = "Ở lại"
-- CHỈ BIÊN        = "Che biên"
-- TAY TRÊN NGỰC   = "Tôi lo — tôi lấy cái này"
+- NẮM ĐẤM = "Tôi đang cắt"
+- TAY MỞ = "Ở lại"
+- CHỈ BIÊN = "Che biên"
+- TAY TRÊN NGỰC = "Tôi lo — tôi lấy cái này"
 
 5 TÍN HIỆU CẦN NHỚ
 --------------------
@@ -285,10 +285,10 @@ SLICE ĐỔI NHỊP
 5. "Bảo hiểm 50+ là lob" — defensive lob là mặc định 50+ của bạn
 
 TÍN HIỆU CHÍNH: "Trong đôi, slice không phải một cú đơn lẻ. Slice là
-                 cú của ĐỘI. 8 biến thể x 2 người chơi = playbook 16
-                 cú. Continental là nền tảng. Tín hiệu tay là giao
-                 tiếp. Slice là cú đánh. Ở tuổi 50+, người chơi dùng
-                 cả 8 biến thể chơi thêm 20 năm trên sân đôi."
+ cú của ĐỘI. 8 biến thể x 2 người chơi = playbook 16
+ cú. Continental là nền tảng. Tín hiệu tay là giao
+ tiếp. Slice là cú đánh. Ở tuổi 50+, người chơi dùng
+ cả 8 biến thể chơi thêm 20 năm trên sân đôi."
 ```
 
 ---

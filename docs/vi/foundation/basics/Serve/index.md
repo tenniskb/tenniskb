@@ -10,7 +10,6 @@ Practice the toss first. A reliable toss is the foundation of every reliable ser
 
 When the serve breaks down — double faults in pressure, second serves that sit up — come back to the gravity serve article. The fix is almost always in the leg drive or the toss, not the arm.
 
-
 ## Articles in this Section
 
 - [Giao Bong Trong Luc Huong Dan Vi](Giao-Bong-Trong-Luc-Huong-Dan-VI.md)

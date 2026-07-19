@@ -157,44 +157,44 @@ Budget allocation: voluntary recognition and decision takes 150 ms (43% of the w
 REFLEX ARCS — THE 3 SPEEDS OF YOUR BODY
 
 ONE BIG IDEA
-  Don't think faster. Train the layers that fire before thought.
-  350 ms is your whole world.
+ Don't think faster. Train the layers that fire before thought.
+ 350 ms is your whole world.
 
 THE 3 LAYERS
-  SLR — 20–45 ms  — Spinal cord only  — fires on muscle stretch
-                     (stiffens wrist, stabilizes racket face)
-  LLR — 50–80 ms  — Brainstem + M1    — fires on proprio + vision
-                     (snaps racket into position)
-  VOL — 150+ ms   — Prefrontal cortex — fires on choice
-                     (cross-court vs. down-the-line)
+ SLR — 20–45 ms — Spinal cord only — fires on muscle stretch
+ (stiffens wrist, stabilizes racket face)
+ LLR — 50–80 ms — Brainstem + M1 — fires on proprio + vision
+ (snaps racket into position)
+ VOL — 150+ ms — Prefrontal cortex — fires on choice
+ (cross-court vs. down-the-line)
 
 THE 350 ms BUDGET
-  150 ms → voluntary recognition + decision (can't shorten much with age)
-  200 ms → SLR + LLR + feedforward + contact (CAN expand with training)
+ 150 ms → voluntary recognition + decision (can't shorten much with age)
+ 200 ms → SLR + LLR + feedforward + contact (CAN expand with training)
 
 WHAT "MUSCLE MEMORY" IS
-  Not in the muscle. Myelin on a neural pathway.
-  Cortex → cerebellum → basal ganglia.
-  Thins with age, but grows back with correct reps.
-  Every ball is a myelin-deposition event.
+ Not in the muscle. Myelin on a neural pathway.
+ Cortex → cerebellum → basal ganglia.
+ Thins with age, but grows back with correct reps.
+ Every ball is a myelin-deposition event.
 
 WEEKLY ROTATION (~75 min/wk, 1 off day mid-week)
-  MON — Strobe (SLR) + Call-and-Execute (Voluntary)
-  TUE — Unpredictable Toss (SLR) + Random Feeder (Voluntary)
-  WED — OFF (myelin grows in rest)
-  THU — Two-Point (LLR) + Blackout Volley (LLR)
-  FRI — Call-and-Execute (Voluntary) + Random Feeder (Voluntary)
-  SAT — match play
-  SUN — OFF
+ MON — Strobe (SLR) + Call-and-Execute (Voluntary)
+ TUE — Unpredictable Toss (SLR) + Random Feeder (Voluntary)
+ WED — OFF (myelin grows in rest)
+ THU — Two-Point (LLR) + Blackout Volley (LLR)
+ FRI — Call-and-Execute (Voluntary) + Random Feeder (Voluntary)
+ SAT — match play
+ SUN — OFF
 
 50+ ASYMMETRY
-  • Voluntary layer slows ~1–1.5 ms/yr after 30 → +30–45 ms penalty at 52
-  • SLR + LLR latencies preserved through 50s/60s
-  • Strategy: EXPAND the reflex layers' territory so voluntary is rarely called
-  • 12 wks strobe + two-point → 15–18% reaction improvement (2025 RCT, n=64)
+ • Voluntary layer slows ~1–1.5 ms/yr after 30 → +30–45 ms penalty at 52
+ • SLR + LLR latencies preserved through 50s/60s
+ • Strategy: EXPAND the reflex layers' territory so voluntary is rarely called
+ • 12 wks strobe + two-point → 15–18% reaction improvement (2025 RCT, n=64)
 
 MASTER CUE
-  "The fastest shot is the one your conscious mind never has to think about."
+ "The fastest shot is the one your conscious mind never has to think about."
 ```
 
 Print this twice — one for your tennis bag, one for your garage or home practice wall. Run the weekly rotation for 8 weeks, then add a one-minute balance check at the start of every session: stand on one foot, eyes closed, hand at contact height. Hold 30 seconds steady on each side and your LLR is firing well. Wobble in the first 5 seconds and your SLR is still waking up. That number is your score, and it'll rise with the myelin.

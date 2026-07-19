@@ -135,31 +135,31 @@ If you feel your lower back the next morning after a match, your unit turn was t
 
 ```
 ═══════════════════════════════════════════════════════════════
-  THE UNIT TURN — QUICK REFERENCE
+ THE UNIT TURN — QUICK REFERENCE
 ═══════════════════════════════════════════════════════════════
 
-  TIMING (2 beats)
-    1. Split step (small hop, both feet)
-    2. Unit turn (rotate on landing)
+ TIMING (2 beats)
+ 1. Split step (small hop, both feet)
+ 2. Unit turn (rotate on landing)
 
-  CHECKPOINT 1
-    3. Left hand on the racket throat
-    4. Racket frame visible between your eyes
+ CHECKPOINT 1
+ 3. Left hand on the racket throat
+ 4. Racket frame visible between your eyes
 
-  CHECKPOINT 2
-    5. Right elbow level with the shoulder
-    6. Strings point to the side fence
+ CHECKPOINT 2
+ 5. Right elbow level with the shoulder
+ 6. Strings point to the side fence
 
-  50+ ADJUSTMENTS
-    7. Soft front knee (bridge, not locked)
-    8. Low hips (sit, don't stand)
-    9. Hips first, lower back stable
+ 50+ ADJUSTMENTS
+ 7. Soft front knee (bridge, not locked)
+ 8. Low hips (sit, don't stand)
+ 9. Hips first, lower back stable
 
-  STOP AND RESET IF:
-    • Lower back hurts the next morning
-    • Racket falls behind your back (you should be able to hold it up)
-    • You turn AFTER the ball crosses the net
-    • You feel your lower back rotating, not your hips
+ STOP AND RESET IF:
+ • Lower back hurts the next morning
+ • Racket falls behind your back (you should be able to hold it up)
+ • You turn AFTER the ball crosses the net
+ • You feel your lower back rotating, not your hips
 
 ═══════════════════════════════════════════════════════════════
 ```

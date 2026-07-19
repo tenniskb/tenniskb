@@ -142,11 +142,11 @@ GIAO BÓNG — THAM CHIẾU NHANH
 
 5 TÍN HIỆU
 ----------
-1. "Cạnh — trên — xoay"            Lòng tay trên cạnh, vợt trên tay, xoay cẳng tay
-2. "Một — hai"                     Hông bắn trước, tay theo sau
-3. "Trọng lượng nặng kéo tay"     Để vợt rơi, đừng kéo
-4. "Tung cao hơn cảm giác"        Cho mình thời gian — bóng ở đỉnh khi đánh
-5. "Quét, không đập"               Quét 5 phần nghìn giây, không phải đập
+1. "Cạnh — trên — xoay" Lòng tay trên cạnh, vợt trên tay, xoay cẳng tay
+2. "Một — hai" Hông bắn trước, tay theo sau
+3. "Trọng lượng nặng kéo tay" Để vợt rơi, đừng kéo
+4. "Tung cao hơn cảm giác" Cho mình thời gian — bóng ở đỉnh khi đánh
+5. "Quét, không đập" Quét 5 phần nghìn giây, không phải đập
 
 5 CẢNH BÁO
 ----------
@@ -158,10 +158,10 @@ GIAO BÓNG — THAM CHIẾU NHANH
 
 4 BÀI TẬP
 ---------
-1. Serve bóng mờ (không bóng)              3x15, 3 lần/tuần
-2. Giữ mặt phẳng Continental (tường)       10x5s, 5 lần/tuần
-3. Chỉ tập tung bóng                        20 bóng, 3 lần/tuần
-4. Serve 50% lực (toàn sân)                 20 serve, 2 lần/tuần
+1. Serve bóng mờ (không bóng) 3x15, 3 lần/tuần
+2. Giữ mặt phẳng Continental (tường) 10x5s, 5 lần/tuần
+3. Chỉ tập tung bóng 20 bóng, 3 lần/tuần
+4. Serve 50% lực (toàn sân) 20 serve, 2 lần/tuần
 
 QUY TẮC TUỔI 50+
 ----------------

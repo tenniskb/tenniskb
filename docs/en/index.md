@@ -1,7 +1,31 @@
-# Welcome to the Tennis Knowledge Base
+# 🎾 English Tennis Knowledge Base
 
-This is your comprehensive guide to modern tennis biomechanics and skill development. Whether you're a 3.5 player looking to break through to 4.5, or a 50+ player seeking to understand the "why" behind every movement, you'll find clear explanations grounded in sports science and decades of coaching wisdom.
+Welcome to the English version of the Tennis Knowledge Base.
 
-The content here is organized into three tiers: Foundation (core techniques and concepts), Advanced (neurological and biomechanical deep dives), and Elite (cutting-edge research and unconventional approaches). Each tier builds on the previous one, but you can jump to any topic that matches your current curiosity or challenge on court.
+I wrote this handbook for myself. When I started, I had played tennis for many years but still didn't understand why my forehand kept flying out of the court, why my elbow hurt at age 45, and why professional forehand players seemed so effortless. I had read many books, watched many videos, attended a training course in Canada, and asked many better players. Much of what I write here is a synthesis of those experiences.
 
-Everything is written in plain, direct language—no jargon without explanation, no fluff. If you've ever wondered why Federer looks effortless while generating massive racket head speed, or how to fix your backhand without endless drill repetition, you're in the right place. Let's get to work.
+I am writing this for players at level 3.5 who want to reach 4.0 and are over 50. You are not interested in generic advice like "hit out in front" or "use leg drive". You want to play another 20 years without injury.
+
+The key point I want to say before you continue reading: tennis is not a hammer sport — it is a whip sport. And you are playing a sport for 20 years.
+
+In this handbook you will find: - How I fixed my forehand (L-angle + late acceleration). - How I increased my serve from 85 to 95 mph at age 53. - Grip pressure rules I used to eliminate elbow pain. - Mental rituals that help me avoid choking at 5-5 score.
+
+Each item has been tested on the body of a 50+ aspiring player. I am not theorizing; I wrote in bilingual English-Vietnamese so my Vietnamese friends can also read.
+
+Read this handbook (about 1.5 hours). Pick one part to focus on for 2 weeks. Practice the exercises. Then move to the next part. Print the cheat sheet, put it in your racket bag, take it to the court.
+
+## 📚 Main Sections
+
+- [🎾 Foundation](foundation/index.md)
+- [🧠 Advanced](advanced/index.md)
+- [🏆 Elite](elite/index.md)
+
+---
+
+## 🔗 Navigation
+
+- [🇬🇧 English Home](index.md)
+- [🇻🇳 Vietnamese Site](../vi/index.md)
+- [🏠 Main Home Page](../../index.md)
+
+*© 2026 Henry Phạm Đức · Tennis Future Lab Research*

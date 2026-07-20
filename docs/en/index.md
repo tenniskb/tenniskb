@@ -16,16 +16,16 @@ Read this handbook (about 1.5 hours). Pick one part to focus on for 2 weeks. Pra
 
 ## 📚 Main Sections
 
-- [🎾 Foundation](foundation/index.md)
-- [🧠 Advanced](advanced/index.md)
-- [🏆 Elite](elite/index.md)
+- [🎾 Foundation](foundation/index.html)
+- [🧠 Advanced](advanced/index.html)
+- [🏆 Elite](elite/index.html)
 
 ---
 
 ## 🔗 Navigation
 
-- [🇬🇧 English Home](index.md)
-- [🇻🇳 Vietnamese Site](../vi/index.md)
-- [🏠 Main Home Page](../../index.md)
+- [🇬🇧 English Home](index.html)
+- [🇻🇳 Vietnamese Site](../vi/index.html)
+- [🏠 Main Home Page](../../index.html)
 
 *© 2026 Henry Phạm Đức · Tennis Future Lab Research*

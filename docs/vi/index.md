@@ -24,7 +24,7 @@ Các bạn đọc manual (khoảng 1.5 giờ). Chọn một phần để tập t
 
 ## 🔗 Điều Hướng
 
-- [🇬🇧 Trang Chủ Tiếng Anh](../en/)
-- [🇻🇳 Trang Chủ Tiếng Việt](index)
+- [🇬🇧 Trang Chủ Tiếng Anh](../index.html)
+- [🇻🇳 Trang Chủ Tiếng Việt](index.html)
 
 *© 2026 Henry Phạm Đức · Tennis Future Lab Research*

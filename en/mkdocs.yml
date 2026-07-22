@@ -5,6 +5,13 @@ site_url: https://tenniskb.github.io/tenniskb/en/
 
 theme:
   name: mkdocs
+  locale: en
+  navigation_depth: 4
+  include_sidebar: true
+  include_nav: true
+
+extra_css:
+  - assets/tenniskb-extra.css
 
 nav:
   - Home: index.md

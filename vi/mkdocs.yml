@@ -1,0 +1,99 @@
+site_name: Cẩm Nang Tennis
+docs_dir: docs
+site_url: https://tenniskb.github.io/tenniskb/vi/
+
+theme:
+  name: mkdocs
+  # Default mkdocs theme (Bootstrap, light blue #2fa4e7).
+  # Custom CSS overrides colors to match the TennisKB brand.
+  # No 'material' theme — Henry's confirmed preference (July 2026).
+
+extra_css:
+  - assets/tenniskb-extra.css
+
+extra:
+  generator: false
+
+nav:
+  - Trang Chủ: index.md
+  - Giao Bóng:
+      - Arming Serve: Arming-Serve-Huong-Dan-VI.md
+      - Eight Stage Serve Model: Eight-Stage-Serve-Model-Huong-Dan-VI.md
+      - Return Serve Anticipation: Return-Serve-Anticipation-Huong-Dan-VI.md
+      - Return Serve Pressure: Return-Serve-Pressure-Huong-Dan-VI.md
+      - Second Serve Aggression: Second-Serve-Aggression-Huong-Dan-VI.md
+      - Serve Backswing Types: Serve-Backswing-Types-Huong-Dan-VI.md
+      - Serve Cartwheel: Serve-Cartwheel-Huong-Dan-VI.md
+      - Serve Launch Com: Serve-Launch-CoM-Huong-Dan-VI.md
+      - Serve Reading: Serve-Reading-Huong-Dan-VI.md
+  - Thuận Tay:
+      - Fault Tolerant Forehand: Fault-Tolerant-Forehand-Huong-Dan-VI.md
+      - Forehand Stance Selection: Forehand-Stance-Selection-Huong-Dan-VI.md
+      - Forehand Superiority: Forehand-Superiority-Huong-Dan-VI.md
+      - Run Around Forehand: Run-Around-Forehand-Huong-Dan-VI.md
+  - Trái Tay:
+      - Backhand Grips: Backhand-Grips-Huong-Dan-VI.md
+      - Nondominant Arm Backhand Drill: Nondominant-Arm-Backhand-Drill-Huong-Dan-VI.md
+      - Two Handed Backhand: Two-Handed-Backhand-Huong-Dan-VI.md
+  - Bóng Bên Lưới:
+      - Approach Shot: Approach-Shot-Huong-Dan-VI.md
+      - Arming Volley: Arming-Volley-Huong-Dan-VI.md
+      - Back Foot Volley Footwork: Back-Foot-Volley-Footwork-Huong-Dan-VI.md
+      - Body Volley Protocol: Body-Volley-Protocol-Huong-Dan-VI.md
+      - Drop Shot Trap: Drop-Shot-Trap-Huong-Dan-VI.md
+      - Drop Volley: Drop-Volley-Huong-Dan-VI.md
+      - Half Volley: Half-Volley-Huong-Dan-VI.md
+      - Heavy Approach: Heavy-Approach-Huong-Dan-VI.md
+      - High Volley Termination: High-Volley-Termination-Huong-Dan-VI.md
+      - Linear Momentum Volley: Linear-Momentum-Volley-Huong-Dan-VI.md
+      - Return Volley: Return-Volley-Huong-Dan-VI.md
+      - Still Wall Volley: Still-Wall-Volley-Huong-Dan-VI.md
+      - Touch Volley: Touch-Volley-Huong-Dan-VI.md
+      - Volley Footwork Sequence: Volley-Footwork-Sequence-Huong-Dan-VI.md
+      - Volley Mechanics: Volley-Mechanics-Huong-Dan-VI.md
+  - Cầm Vợt & Áp Lực:
+      - Continental Grip Anatomy: Continental-Grip-Anatomy-Huong-Dan-VI.md
+      - Grip Anchor: Grip-Anchor-Huong-Dan-VI.md
+      - Grip Dynamics: Grip-Dynamics-Huong-Dan-VI.md
+      - Grip Pressure: Grip-Pressure-Huong-Dan-VI.md
+      - Grip Pressure Kinetic Chain: Grip-Pressure-Kinetic-Chain-Huong-Dan-VI.md
+      - Grip Pulse: Grip-Pulse-Huong-Dan-VI.md
+      - Grip Pulse Timing: Grip-Pulse-Timing-Huong-Dan-VI.md
+      - Grip Reference Table: Grip-Reference-Table-Huong-Dan-VI.md
+      - Grip Tension: Grip-Tension-Huong-Dan-VI.md
+      - Isometric Grip Pulse: Isometric-Grip-Pulse-Huong-Dan-VI.md
+      - Semi Western Grip: Semi-Western-Grip-Huong-Dan-VI.md
+  - Di Chuyển:
+      - Active Split Step: Active-Split-Step-Huong-Dan-VI.md
+      - Advanced Split Step: Advanced-Split-Step-Huong-Dan-VI.md
+      - Doubles Tactics: Doubles-Tactics-Huong-Dan-VI.md
+      - He Thong Di Chuyen 5R: He-Thong-Di-Chuyen-5R-Huong-Dan-VI.md
+      - Split Step: Split-Step-Huong-Dan-VI.md
+      - Split Step Calibration: Split-Step-Calibration-Huong-Dan-VI.md
+      - Transitional Net Footwork: Transitional-Net-Footwork-Huong-Dan-VI.md
+  - Tâm Lý & Áp Lực:
+      - 15 Second Reset Protocol: 15-Second-Reset-Protocol-Huong-Dan-VI.md
+      - Amygdala Hijack: Amygdala-Hijack-Huong-Dan-VI.md
+      - Arousal Channelling: Arousal-Channelling-Huong-Dan-VI.md
+      - Biological Threat Response: Biological-Threat-Response-Huong-Dan-VI.md
+      - Choking: Choking-Huong-Dan-VI.md
+      - Choking Mechanism: Choking-Mechanism-Huong-Dan-VI.md
+      - Mu Beta Suppression: Mu-Beta-Suppression-Huong-Dan-VI.md
+      - Neural Pressure: Neural-Pressure-Huong-Dan-VI.md
+      - Sympathetic Activation Petit Bras: Sympathetic-Activation-Petit-Bras-Huong-Dan-VI.md
+      - Tensegrity Fascia Kinh: Tensegrity-Fascia-Kinh-Huong-Dan-VI.md
+  - Khác:
+      - Chest Engine: Chest-Engine-Huong-Dan-VI.md
+      - Head Position Vestibular: Head-Position-Vestibular-Huong-Dan-VI.md
+      - Petit Bras: Petit-Bras-Huong-Dan-VI.md
+      - Slice Eccentric Loading: Slice-Eccentric-Loading-Huong-Dan-VI.md
+      - Slice Topspin Height Tactics: Slice-Topspin-Height-Tactics-Huong-Dan-VI.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+  - tables

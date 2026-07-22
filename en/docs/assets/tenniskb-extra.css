@@ -1,0 +1,44 @@
+/* Tennis Knowledge Base — light-blue brand overrides for default mkdocs theme.
+   Default mkdocs uses Bootstrap with #2fa4e7 (light blue) as primary.
+   This file nudges the palette and styles the language-toggle in the top nav. */
+
+.navbar-default {
+  background-color: #2fa4e7;
+  border-color: #2580be;
+}
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover {
+  color: #ffffff;
+  background-color: #2580be;
+}
+a, a:visited, a code { color: #2fa4e7; }
+a:hover, a:focus { color: #2580be; }
+
+.btn-primary {
+  background-color: #2fa4e7;
+  border-color: #2580be;
+}
+.btn-primary:hover, .btn-primary:focus {
+  background-color: #2580be;
+  border-color: #1d6fa6;
+}
+
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+
+/* Language toggle pill in navbar */
+.nav-lang {
+  display: inline-block;
+  margin-left: 12px;
+  padding: 6px 12px;
+  background: rgba(255, 255, 255, 0.15);
+  color: #fff !important;
+  border-radius: 4px;
+  font-weight: 500;
+}
+.nav-lang:hover { background: rgba(255, 255, 255, 0.3); text-decoration: none; }

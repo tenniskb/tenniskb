@@ -1,0 +1,99 @@
+site_name: Tennis Knowledge Base
+docs_dir: docs
+site_url: https://tenniskb.github.io/tenniskb/en/
+
+theme:
+  name: mkdocs
+  # Default mkdocs theme (Bootstrap, light blue #2fa4e7).
+  # Custom CSS overrides colors to match the TennisKB brand.
+  # No 'material' theme — Henry's confirmed preference (July 2026).
+
+extra_css:
+  - assets/tenniskb-extra.css
+
+extra:
+  generator: false
+
+nav:
+  - Home: index.md
+  - Serve:
+      - Arming Serve: Arming-Serve-Coaching-Guide.md
+      - Eight Stage Serve Model: Eight-Stage-Serve-Model-Coaching-Guide.md
+      - Return Serve Anticipation: Return-Serve-Anticipation-Coaching-Guide.md
+      - Return Serve Pressure: Return-Serve-Pressure-Coaching-Guide.md
+      - Second Serve Aggression: Second-Serve-Aggression-Coaching-Guide.md
+      - Serve Backswing Types: Serve-Backswing-Types-Coaching-Guide.md
+      - Serve Cartwheel: Serve-Cartwheel-Coaching-Guide.md
+      - Serve Launch Com: Serve-Launch-CoM-Coaching-Guide.md
+      - Serve Reading: Serve-Reading-Coaching-Guide.md
+  - Forehand:
+      - Fault Tolerant Forehand: Fault-Tolerant-Forehand-Coaching-Guide.md
+      - Forehand Stance Selection: Forehand-Stance-Selection-Coaching-Guide.md
+      - Forehand Superiority: Forehand-Superiority-Coaching-Guide.md
+      - Run Around Forehand: Run-Around-Forehand-Coaching-Guide.md
+  - Backhand:
+      - Backhand Grips: Backhand-Grips-Coaching-Guide.md
+      - Nondominant Arm Backhand Drill: Nondominant-Arm-Backhand-Drill-Coaching-Guide.md
+      - Two Handed Backhand: Two-Handed-Backhand-Coaching-Guide.md
+  - Volley & Net Play:
+      - Approach Shot: Approach-Shot-Coaching-Guide.md
+      - Arming Volley: Arming-Volley-Coaching-Guide.md
+      - Back Foot Volley Footwork: Back-Foot-Volley-Footwork-Coaching-Guide.md
+      - Body Volley Protocol: Body-Volley-Protocol-Coaching-Guide.md
+      - Drop Shot Trap: Drop-Shot-Trap-Coaching-Guide.md
+      - Drop Volley: Drop-Volley-Coaching-Guide.md
+      - Half Volley: Half-Volley-Coaching-Guide.md
+      - Heavy Approach: Heavy-Approach-Coaching-Guide.md
+      - High Volley Termination: High-Volley-Termination-Coaching-Guide.md
+      - Linear Momentum Volley: Linear-Momentum-Volley-Coaching-Guide.md
+      - Return Volley: Return-Volley-Coaching-Guide.md
+      - Still Wall Volley: Still-Wall-Volley-Coaching-Guide.md
+      - Touch Volley: Touch-Volley-Coaching-Guide.md
+      - Volley Footwork Sequence: Volley-Footwork-Sequence-Coaching-Guide.md
+      - Volley Mechanics: Volley-Mechanics-Coaching-Guide.md
+  - Grip & Pressure:
+      - Continental Grip Anatomy: Continental-Grip-Anatomy-Coaching-Guide.md
+      - Grip Anchor: Grip-Anchor-Coaching-Guide.md
+      - Grip Dynamics: Grip-Dynamics-Coaching-Guide.md
+      - Grip Pressure: Grip-Pressure-Coaching-Guide.md
+      - Grip Pressure Kinetic Chain: Grip-Pressure-Kinetic-Chain-Coaching-Guide.md
+      - Grip Pulse: Grip-Pulse-Coaching-Guide.md
+      - Grip Pulse Timing: Grip-Pulse-Timing-Coaching-Guide.md
+      - Grip Reference Table: Grip-Reference-Table-Coaching-Guide.md
+      - Grip Tension: Grip-Tension-Coaching-Guide.md
+      - Isometric Grip Pulse: Isometric-Grip-Pulse-Coaching-Guide.md
+      - Semi Western Grip: Semi-Western-Grip-Coaching-Guide.md
+  - Footwork & Movement:
+      - 5R Movement System: 5R-Movement-System-Coaching-Guide.md
+      - Active Split Step: Active-Split-Step-Coaching-Guide.md
+      - Advanced Split Step: Advanced-Split-Step-Coaching-Guide.md
+      - Doubles Tactics: Doubles-Tactics-Coaching-Guide.md
+      - Split Step: Split-Step-Coaching-Guide.md
+      - Split Step Calibration: Split-Step-Calibration-Coaching-Guide.md
+      - Transitional Net Footwork: Transitional-Net-Footwork-Coaching-Guide.md
+  - Mental & Pressure:
+      - 15 Second Reset Protocol: 15-Second-Reset-Protocol-Coaching-Guide.md
+      - Amygdala Hijack: Amygdala-Hijack-Coaching-Guide.md
+      - Arousal Channelling: Arousal-Channelling-Coaching-Guide.md
+      - Biological Threat Response: Biological-Threat-Response-Coaching-Guide.md
+      - Choking: Choking-Coaching-Guide.md
+      - Choking Mechanism: Choking-Mechanism-Coaching-Guide.md
+      - Mu Beta Suppression: Mu-Beta-Suppression-Coaching-Guide.md
+      - Neural Pressure: Neural-Pressure-Coaching-Guide.md
+      - Sympathetic Activation Petit Bras: Sympathetic-Activation-Petit-Bras-Coaching-Guide.md
+      - Tensegrity Fascia Kinh: Tensegrity-Fascia-Kinh-Coaching-Guide.md
+  - Other:
+      - Chest Engine: Chest-Engine-Coaching-Guide.md
+      - Head Position Vestibular: Head-Position-Vestibular-Coaching-Guide.md
+      - Petit Bras: Petit-Bras-Coaching-Guide.md
+      - Slice Eccentric Loading: Slice-Eccentric-Loading-Coaching-Guide.md
+      - Slice Topspin Height Tactics: Slice-Topspin-Height-Tactics-Coaching-Guide.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+  - tables

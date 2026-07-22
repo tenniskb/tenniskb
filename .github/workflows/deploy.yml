@@ -1,0 +1,67 @@
+name: Deploy TennisKB site
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install mkdocs mkdocs-material
+
+      - name: Build EN site
+        run: |
+          cd en
+          # Build EN with site_url ending in /en/ so relative links resolve to /en/
+          mkdocs build --site-dir ../site/en --strict
+
+      - name: Build VI site
+        run: |
+          cd vi
+          # Build VI with site_url ending in /vi/ so relative links resolve to /vi/
+          mkdocs build --site-dir ../site/vi --strict
+
+      - name: Copy landing page
+        run: |
+          cp index.html site/index.html
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

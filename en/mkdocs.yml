@@ -1,0 +1,36 @@
+site_name: Tennis Biomechanics Knowledge Base
+site_description: Bilingual tennis biomechanics and control theory knowledge base - English version
+site_author: Henry Pham Duc
+site_url: https://tenniskb.github.io/tenniskb/en/
+
+theme:
+  name: mkdocs
+
+nav:
+  - Home: index.md
+  - Backhand:
+      - "Dimitrov, Wawrinka & Federer": one-handed-backhand-dimitrov-wawrinka-federer.md
+      - Elite One-Handed Backhand: elite-one-handed-backhand.md
+  - Volley:
+      - Volley Direction Change: volley-direction-change-control-analysis.md
+  - Split Step:
+      - "Biomechanics & Neurological Control": split-step-biomechanics-neurological-control.md
+      - Elite Split Step: elite-split-step.md
+  - Movement:
+      - "Tennis Movement: Comparative Analysis": tennis-movement-biomechanics-comparative.md
+  - Momentum:
+      - Momentum in Tennis: momentum-in-tennis.md
+  - Left Arm:
+      - Role of the Left Arm: role-of-the-left-arm.md
+  - Contact Point:
+      - Architecture Framework: contact-point-architecture-framework.md
+  - Wave Generation:
+      - "Wave Generation & Neurological Control": wave-generation-neurological-control.md
+  - Control Theory:
+      - Elite Techniques Control Analysis: elite-tennis-techniques-control-analysis.md
+      - "Feedforward & Feedback": feedforward-feedback-control-systems.md
+      - Integrated Pro System (IPS): integrated-pro-system-ips.md
+      - Tennis Control System Manual: tennis-control-system-manual.md
+      - Total Framework for Stroke Analysis: total-framework-for-stroke-analysis.md
+  - Synthesis:
+      - Key Insights Synthesis: tennis-biomechanics-key-insights-synthesis.md

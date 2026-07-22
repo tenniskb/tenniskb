@@ -1,0 +1,36 @@
+site_name: Co So Tri Thuc Co Sinh Hoc Tennis
+site_description: Co so tri thuc song ngu ve co sinh hoc va ly thuyet dieu khien tennis
+site_author: Henry Pham Duc
+site_url: https://tenniskb.github.io/tenniskb/vi/
+
+theme:
+  name: mkdocs
+
+nav:
+  - Home: index.md
+  - Thuan Tay (Forehand):
+      - Bao Cao So Sanh Dong Co Tao Luc: bao-cao-so-sanh-hai-dong-co-tao-luc-thuan-tay.md
+      - Phan Tich Sinh Co Hoc Forehand: phan-tich-sinh-co-hoc-forehand.md
+  - Trai Tay (Backhand):
+      - Phan Tich Trai Tay Mot Tay: phan-tich-trai-tay-mot-tay-dimitrov-wawrinka-federer.md
+  - Giao Bong (Serve):
+      - Ky Thuat Giao Bong: ky-thuat-giao-bong.md
+  - Volley:
+      - Cam Nang Chuyen Sau Volley: cam-nang-chuyen-sau-volley-nang-cao.md
+      - Carving Underspin Trong Volley: chuyen-sau-ky-thuat-carving-underspin-volley.md
+  - Split Step:
+      - Phan Tich Split Step: phan-tich-split-step-co-sinh-hoc-than-kinh.md
+  - Di Chuyen (Movement):
+      - Cach Gap Gop va Elbow: cach-gap-gop-va-elbow.md
+  - Diem Tiep Xuc (Contact Point):
+      - Khung Kien Truc Diem Tiep Xuc: khung-kien-truc-diem-tiep-xuc.md
+  - Tu The (Stance):
+      - So Sanh Tu The Mo va Dong: phan-tich-so-sanh-tu-the-mo-dong.md
+  - Dau va Thang Bang (Head and Balance):
+      - Vi Tri Dau He Thong Thang Bang: vi-tri-dau-he-thong-thang-bang.md
+  - Tao Song (Wave Generation):
+      - Tao Song Trong Tennis: tao-song-trong-tennis.md
+  - Tennis Hien Dai (Modern):
+      - Nghien Cuu Bioco Hoc Tennis 2026: nghien-cuu-bioco-hoc-tennis-modern-2026.md
+  - NTRP 3.5 Huan Luyen (Coaching):
+      - He Thong Dieu Khien Tennis NTRP 3.5: ntrp-3-5-he-thong-dieu-khien-tennis.md

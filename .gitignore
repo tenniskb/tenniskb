@@ -1,10 +1,16 @@
-site/
+# Source files (not served, used only for rebuilding site/)
+/docs/
+/mkdocs.yml
+
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
+
+# OS
 .DS_Store
 Thumbs.db
-.venv/
-venv/
-*.egg-info/
-.idea/
+
+# Editor
 .vscode/
+.idea/

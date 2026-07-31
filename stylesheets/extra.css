@@ -13,6 +13,32 @@
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.07);
 }
 
+/* ==========================================================================
+   Hide both sidebars (left navigation and right TOC) — full-width content
+   ========================================================================== */
+
+.md-sidebar--primary {
+  display: none !important;
+}
+
+.md-sidebar--secondary {
+  display: none !important;
+}
+
+.md-main__inner {
+  grid-template-columns: 1fr !important;
+}
+
+.md-content {
+  max-width: none !important;
+}
+
+@media screen and (min-width: 76.1875em) {
+  .md-main__inner {
+    grid-template-columns: 1fr !important;
+  }
+}
+
 .pocket-card-title {
   background: #2e7d32;
   color: #ffffff;

@@ -8,7 +8,7 @@ vi_chapters = [
     ("chuong-03-su-chinh-xac", "Sự Chính Xác"),
     ("chuong-04-ket-qua", "Kết Quả"),
     ("chuong-05-kho-nang-luong", "Kho Năng Lượng"),
-    ("chuong-06-he-truyen-dat", "Hệ Truyền Đạt"),
+    ("chuong-06-he-truyen-dat", "Hệ Truyền Động"),
     ("chuong-07-he-thong-core", "Hệ Thống CORE"),
     ("chuong-08-quiet-eye", "Quiet Eye"),
     ("chuong-09-on-dinh-tien-dinh", "Ổn Định Tiền Đình"),

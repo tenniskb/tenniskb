@@ -4,7 +4,6 @@
 (function() {
   'use strict';
 
-  // Initialize when DOM is ready
   function initTabDropdowns() {
     const tabItems = document.querySelectorAll('.md-tabs__item--nested');
 
@@ -15,20 +14,16 @@
 
       if (!toggle || !link || !nested) return;
 
-      // Hide the checkbox but keep it functional
       toggle.style.display = 'none';
       toggle.setAttribute('aria-hidden', 'true');
 
-      // Make the label act as the dropdown trigger
       link.setAttribute('role', 'button');
       link.setAttribute('aria-haspopup', 'true');
       link.setAttribute('aria-expanded', 'false');
       link.tabIndex = 0;
       link.style.cursor = 'pointer';
 
-      // Click handler for the label
       link.addEventListener('click', function(e) {
-        // Don't prevent default if it's a real link and not a dropdown
         if (nested && nested.children.length > 0) {
           e.preventDefault();
           e.stopPropagation();
@@ -39,7 +34,6 @@
         }
       });
 
-      // Keyboard support
       link.addEventListener('keydown', function(e) {
         if (e.key === 'Enter' || e.key === ' ') {
           e.preventDefault();
@@ -59,13 +53,11 @@
             toggle.checked = true;
             updateAriaExpanded(link, true);
           }
-          // Focus first nested item
           var firstNestedLink = nested.querySelector('.md-tabs__link');
           if (firstNestedLink) firstNestedLink.focus();
         }
       });
 
-      // Handle focus within nested menu
       nested.addEventListener('focusin', function() {
         if (!toggle.checked) {
           toggle.checked = true;
@@ -73,16 +65,13 @@
         }
       });
 
-      // Handle focus out
       item.addEventListener('focusout', function(e) {
-        // Check if focus is leaving the entire dropdown
         if (!item.contains(e.relatedTarget)) {
           toggle.checked = false;
           updateAriaExpanded(link, false);
         }
       });
 
-      // Click outside to close
       document.addEventListener('click', function(e) {
         if (!item.contains(e.target) && toggle.checked) {
           toggle.checked = false;
@@ -96,20 +85,16 @@
     }
   }
 
-  // Run on DOM ready
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initTabDropdowns);
   } else {
     initTabDropdowns();
   }
 
-  // Also handle MkDocs Material's instant navigation
-  // Listen for page changes
   if (typeof history !== 'undefined') {
     var originalPushState = history.pushState;
     history.pushState = function() {
       originalPushState.apply(this, arguments);
-      // Re-initialize after a short delay for new content to render
       setTimeout(initTabDropdowns, 100);
     };
 
@@ -124,13 +109,10 @@
     });
   }
 
-  // Also handle MkDocs Material's instant navigation
   document.addEventListener('DOMContentLoaded', function() {
-    // Listen for instant navigation events
     document.addEventListener('md-instant-init', initTabDropdowns);
     document.addEventListener('md-instant-change', initTabDropdowns);
   });
 
-  // Export for manual initialization
   window.initTabDropdowns = initTabDropdowns;
 })();

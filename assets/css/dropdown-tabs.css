@@ -82,23 +82,3 @@
     overflow-y: auto;
   }
 }
-/* Shared cross-site navigation banner, injected by tab-dropdowns.js.
-   Same banner appears on tenniskb.github.io/tnkb/ so the three sites in
-   this ecosystem (root landing, tnkb, tenniskb) feel connected. */
-.tkb-cross-nav {
-  background: #1a1a2e;
-  color: #fff;
-  text-align: center;
-  font-size: 0.75rem;
-  line-height: 1.6;
-  padding: 0.4rem 1rem;
-}
-
-.tkb-cross-nav a {
-  color: #8ec9ff;
-  text-decoration: none;
-}
-
-.tkb-cross-nav a:hover {
-  text-decoration: underline;
-}

@@ -134,21 +134,3 @@
   // Export for manual initialization
   window.initTabDropdowns = initTabDropdowns;
 })();
-// Shared cross-site navigation banner (Tennis Knowledge Base ecosystem:
-// tenniskb.github.io root landing, /tnkb/ handbook+training, /tenniskb/ this site)
-(function() {
-  'use strict';
-  function initCrossNavBanner() {
-    var announceEl = document.querySelector('[data-md-component="announce"]');
-    if (!announceEl || announceEl.querySelector('.tkb-cross-nav')) return;
-    var banner = document.createElement('div');
-    banner.className = 'tkb-cross-nav';
-    banner.innerHTML = '🎾 <strong>Tennis Knowledge Base</strong> &mdash; <a href="https://tenniskb.github.io/">Home</a> &middot; <a href="https://tenniskb.github.io/tnkb/">Handbook &amp; Training</a> &middot; <a href="https://tenniskb.github.io/tenniskb/">Q-V-ROOT System</a>';
-    announceEl.appendChild(banner);
-  }
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initCrossNavBanner);
-  } else {
-    initCrossNavBanner();
-  }
-})();

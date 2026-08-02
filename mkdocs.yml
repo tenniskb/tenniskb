@@ -1,0 +1,127 @@
+site_name: TennisKB
+site_url: https://tenniskb.github.io/tenniskb/
+docs_dir: docs
+site_dir: _site
+
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: light-green
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+
+extra_css:
+  - assets/css/dropdown-tabs.css
+
+extra_javascript:
+  - assets/javascripts/tab-dropdowns.js
+
+nav:
+  - English:
+      - Home: en/index.md
+      - Start Here: en/start-here/index.md
+      - System:
+          - Variables Index: en/system/index.md
+          - CORE Overview: en/system/core-overview/index.md
+          - Q - Quiet Eye: en/system/q-quiet-eye/index.md
+          - V - Vestibular: en/system/v-vestibular/index.md
+          - ROOT - Rooting: en/system/root-rooting/index.md
+          - F - Fascia: en/system/f-fascia/index.md
+          - P - Proprioception: en/system/p-proprioception/index.md
+          - T - Tensegrity: en/system/t-tensegrity/index.md
+          - SSC - Stretch-Shortening: en/system/ssc-stretch-shortening/index.md
+          - 8 - Figure-8: en/system/8-figure8/index.md
+      - Strokes:
+          - Overview: en/strokes/index.md
+          - Forehand Push: en/strokes/forehand-push/index.md
+          - 1H Backhand Saber: en/strokes/backhand-saber/index.md
+          - 2H Backhand Hybrid: en/strokes/backhand-hybrid/index.md
+          - Serve: en/strokes/serve/index.md
+          - Return: en/strokes/return/index.md
+          - Volley & Overhead: en/strokes/volley-overhead/index.md
+          - Touch Shots: en/strokes/touch-shots/index.md
+      - Patterns:
+          - Overview: en/patterns/index.md
+          - Singles: en/patterns/singles/index.md
+          - Doubles: en/patterns/doubles/index.md
+          - Court Geometry: en/patterns/court-geometry/index.md
+      - Mental:
+          - Overview: en/mental/index.md
+          - Pre-Point Routine: en/mental/routine/index.md
+          - Quiet Eye Under Pressure: en/mental/pressure/index.md
+          - Visualization: en/mental/visualization/index.md
+      - Physical:
+          - Overview: en/physical/index.md
+          - Tennis Fitness: en/physical/fitness/index.md
+          - Periodization: en/physical/periodization/index.md
+      - Resources:
+          - Overview: en/resources/index.md
+          - AI Coach: en/resources/ai-coach/index.md
+          - Diagnostics: en/resources/diagnostics/index.md
+          - Drills Library: en/resources/drills/index.md
+          - Visual Library: en/resources/visual-library/index.md
+      - Handbook Index: en/chapter/index.md
+      - Membership: en/membership/index.md
+      - About: en/about/index.md
+  - Tiếng Việt:
+      - Trang Chủ: vi/index.md
+      - Bắt Đầu: vi/start-here/index.md
+      - Hệ Thống:
+          - Danh Mục Biến Số: vi/system/index.md
+          - Tổng Quan CORE: vi/system/core-overview/index.md
+          - Q - Quiet Eye: vi/system/q-quiet-eye/index.md
+          - V - Vestibular: vi/system/v-vestibular/index.md
+          - ROOT - Bén Rễ: vi/system/root-rooting/index.md
+          - F - Fascia: vi/system/f-fascia/index.md
+          - P - Proprioception: vi/system/p-proprioception/index.md
+          - T - Tensegrity: vi/system/t-tensegrity/index.md
+          - SSC - Căng-Rút: vi/system/ssc-stretch-shortening/index.md
+          - 8 - Figure-8: vi/system/8-figure8/index.md
+          - 45° - Mặt Phẳng: vi/system/45-swing-plane/index.md
+          - PHANH - Braking: vi/system/brake-braking/index.md
+          - XUNG - Impulse: vi/system/pulse-impulse/index.md
+          - KÌNH - Jin: vi/system/jin-jinh/index.md
+          - Kiến Trúc Hệ Thống: vi/system/architecture/index.md
+      - Cú Đánh:
+          - Tổng Quan: vi/strokes/index.md
+          - Forehand Push: vi/strokes/forehand-push/index.md
+          - Backhand Saber 1 Tay: vi/strokes/backhand-saber/index.md
+          - Backhand Hybrid 2 Tay: vi/strokes/backhand-hybrid/index.md
+          - Giao Bóng: vi/strokes/serve/index.md
+          - Đỡ Giao Bóng: vi/strokes/return/index.md
+          - Volley & Overhead: vi/strokes/volley-overhead/index.md
+          - Touch Shots: vi/strokes/touch-shots/index.md
+      - Chiến Thuật:
+          - Tổng Quan: vi/patterns/index.md
+          - Đơn: vi/patterns/singles/index.md
+          - Đôi: vi/patterns/doubles/index.md
+          - Hình Học Sân: vi/patterns/court-geometry/index.md
+      - Tâm Lý:
+          - Tổng Quan: vi/mental/index.md
+          - Quy Trình Trước Điểm: vi/mental/routine/index.md
+          - Quiet Eye Dưới Áp Lực: vi/mental/pressure/index.md
+          - Hình Dung: vi/mental/visualization/index.md
+      - Thể Chất:
+          - Tổng Quan: vi/physical/index.md
+          - Thể Lực Quần Vợt: vi/physical/fitness/index.md
+          - Chu Kỳ Hóa: vi/physical/periodization/index.md
+      - Tài Nguyên:
+          - Tổng Quan: vi/resources/index.md
+          - AI Coach: vi/resources/ai-coach/index.md
+          - Chẩn Đoán: vi/resources/diagnostics/index.md
+          - Thư Viện Bài Tập: vi/resources/drills/index.md
+          - Thư Viện Hình Ảnh: vi/resources/visual-library/index.md
+      - Danh Mục Chương: vi/chuong/index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+  - admonition

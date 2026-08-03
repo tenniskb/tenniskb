@@ -52,59 +52,1126 @@
 </div>
 </nav>
 
-<main class="md-main" data-md-component="main">
+<main class="md-main" data-md-component="main"><main class="md-main" data-md-component="main">
 <div class="md-main__inner md-grid">
 <div class="md-content" data-md-component="content">
 <article class="md-content__inner md-typeset">
-<h1>🖼️ Biomechanical Visual Library</h1>
-<p style="font-size: 1.05rem; color: #444;">Every chapter in the TennisKB system is accompanied by high-density visual reference diagrams (150+ total) illustrating force vectors, tensegrity structures, contact zones, and kinetic chain sequences.</p>
+<style>
 
-<hr>
+  .vlib-hero { padding: 1.5rem 1.8rem; background: linear-gradient(135deg,#2e7d32 0%, #43a047 100%); color: #fff; border-radius: 10px; margin-bottom: 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+  .vlib-hero h1 { color: #fff; margin: 0 0 0.4rem 0; border: 0; }
+  .vlib-hero p { color: rgba(255,255,255,0.92); margin: 0; font-size: 1.05rem; }
+  .vlib-stats { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 0.8rem; }
+  .vlib-stat { background: rgba(255,255,255,0.16); padding: 0.35rem 0.75rem; border-radius: 6px; font-size: 0.85rem; font-weight: bold; }
+  .master-figure { text-align: center; margin: 2rem 0; }
+  .master-figure img { max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+  .master-figure figcaption { margin-top: 0.5rem; color: #555; font-size: 0.95rem; }
+  .part { margin-top: 0; }
+  .part-header { color: #2e7d32; border-bottom: 2px solid #2e7d32; padding-bottom: 0.4rem; margin-top: 2.2rem; }
+  .chapter-block { margin: 1.4rem 0 2.2rem 0; scroll-margin-top: 6rem; }
+  .chapter-header { color: #1b5e20; font-size: 1.15rem; margin: 1rem 0 0.6rem 0; }
+  .chapter-header .count { color: #666; font-size: 0.8rem; font-weight: normal; margin-left: 0.5rem; }
+  .chapter-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.2rem; }
+  .vcard { background: #fff; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; transition: transform 0.2s ease, box-shadow 0.2s ease; display: flex; flex-direction: column; }
+  .vcard:hover { transform: translateY(-4px); box-shadow: 0 8px 18px rgba(0,0,0,0.12); }
+  .vcard img { width: 100%; height: 220px; object-fit: cover; display: block; border-bottom: 1px solid #eee; cursor: zoom-in; }
+  .vcard figcaption { padding: 0.6rem 0.75rem; font-size: 0.85rem; color: #333; }
+  .fig-tag { color: #2e7d32; font-weight: bold; font-size: 0.75rem; }
+  .toc-nav { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 1rem 0 2rem 0; }
+  .toc-nav a { font-size: 0.75rem; padding: 0.25rem 0.55rem; background: #e8f5e9; color: #1b5e20; border-radius: 4px; text-decoration: none; transition: background 0.15s; }
+  .toc-nav a:hover { background: #c8e6c9; }
+  .resources-links { margin-top: 2.5rem; }
+  .btn-green { display: inline-block; margin-right: 0.6rem; padding: 0.5rem 1.2rem; background: #2e7d32; color: #fff; border-radius: 4px; text-decoration: none; font-weight: bold; }
+  .btn-outline { display: inline-block; padding: 0.5rem 1.2rem; background: #f8f9fa; color: #2e7d32; border: 1px solid #2e7d32; border-radius: 4px; text-decoration: none; font-weight: bold; }
+
+</style>
+
+<div class="vlib-hero">
+  <h1>Biomechanical Visual Library</h1>
+  <p>Every chapter in the TennisKB system is accompanied by high-density visual reference diagrams &mdash; force vectors, tensegrity structures, contact-zone maps, and kinetic-chain sequences &mdash; 148 custom figures across 30 chapters of the United Tennis Handbook.</p>
+  <div class="vlib-stats">
+    <div class="vlib-stat">148 figures</div>
+    <div class="vlib-stat">30 chapters</div>
+    <div class="vlib-stat">7 thematic parts</div>
+  </div>
+</div>
 
 <h2>1. CORE Chain Master Diagram</h2>
 <p>The operational framework integrating Quiet Eye, Vestibular stability, Rooting, Figure-8 loop, Braking, and Pulse release.</p>
-<p style="text-align: center; margin: 1.5rem 0;">
-    <img src="../../assess/images/core-system-map.jpg" alt="CORE System Map" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
-</p>
+<figure class="master-figure">
+  <img src="../../assess/images/core-system-map.jpg" alt="CORE System Map">
+  <figcaption>CORE System Map &mdash; Q-V-ROOT-8-45-Impulse-Jin framework at a glance.</figcaption>
+</figure>
 
 <hr>
 
-<h2>2. Visual Diagram Categories</h2>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.2rem; margin-top: 1rem;">
-    <div style="padding: 1.2rem; background: #f8f9fa; border: 1px solid #e0e0e0; border-radius: 6px;">
-        <h3 style="margin-top: 0; color: #2e7d32;">📐 System Architecture</h3>
-        <p style="font-size: 0.95rem; color: #555;">Tensegrity tent models, fascial line spiral paths, Stretch-Shortening Cycle (SSC) curves, and 45° swing plane geometry.</p>
-    </div>
-
-    <div style="padding: 1.2rem; background: #f8f9fa; border: 1px solid #e0e0e0; border-radius: 6px;">
-        <h3 style="margin-top: 0; color: #2e7d32;">🎾 Stroke Mechanics</h3>
-        <p style="font-size: 0.95rem; color: #555;">3D contact zone maps, racquet head speed vectors, grip index comparisons, and 8-stage serve kinetic chains.</p>
-    </div>
-
-    <div style="padding: 1.2rem; background: #f8f9fa; border: 1px solid #e0e0e0; border-radius: 6px;">
-        <h3 style="margin-top: 0; color: #2e7d32;">🦶 Footwork & Rooting</h3>
-        <p style="font-size: 0.95rem; color: #555;">Foot tripod ground force connections, 1-inch braking stance, and Hu-Thuc step transitions.</p>
-    </div>
-
-    <div style="padding: 1.2rem; background: #f8f9fa; border: 1px solid #e0e0e0; border-radius: 6px;">
-        <h3 style="margin-top: 0; color: #2e7d32;">📊 Fault Trees & Diagnostics</h3>
-        <p style="font-size: 0.95rem; color: #555;">Decision trees for shanks, late contact, arming, lifting head, and loss of power under pressure.</p>
-    </div>
+<h2>2. Browse by Chapter</h2>
+<p style="color:#555;">Tap a chapter below to jump straight to its figures.</p>
+<div class="toc-nav">
+<a href="#ch1">Ch 1</a> <a href="#ch2">Ch 2</a> <a href="#ch3">Ch 3</a> <a href="#ch4">Ch 4</a> <a href="#ch5">Ch 5</a> <a href="#ch6">Ch 6</a> <a href="#ch7">Ch 7</a> <a href="#ch8">Ch 8</a> <a href="#ch9">Ch 9</a> <a href="#ch10">Ch 10</a> <a href="#ch11">Ch 11</a> <a href="#ch12">Ch 12</a> <a href="#ch13">Ch 13</a> <a href="#ch14">Ch 14</a> <a href="#ch15">Ch 15</a> <a href="#ch16">Ch 16</a> <a href="#ch17">Ch 17</a> <a href="#ch18">Ch 18</a> <a href="#ch19">Ch 19</a> <a href="#ch20">Ch 20</a> <a href="#ch21">Ch 21</a> <a href="#ch22">Ch 22</a> <a href="#ch23">Ch 23</a> <a href="#ch24">Ch 24</a> <a href="#ch25">Ch 25</a> <a href="#ch26">Ch 26</a> <a href="#ch27">Ch 27</a> <a href="#ch28">Ch 28</a> <a href="#ch29">Ch 29</a> <a href="#ch30">Ch 30</a>
 </div>
 
-<hr>
 
-<h2 style="margin-top: 2rem;">Explore Related Resources</h2>
-<p>
-<a href="../diagnostics/" style="display: inline-block; margin-right: 1rem; padding: 0.5rem 1.2rem; background: #2e7d32; color: white; border-radius: 4px; text-decoration: none; font-weight: bold;">🔍 Diagnostics Tool →</a>
-<a href="../drills/" style="display: inline-block; padding: 0.5rem 1.2rem; background: #f8f9fa; color: #2e7d32; border: 1px solid #2e7d32; border-radius: 4px; text-decoration: none; font-weight: bold;">🎯 Drills Library →</a>
-</p>
+<section class="part">
+<h2 class="part-header">Part I: Foundation</h2>
+  <div class="chapter-block" id="ch1">
+    <h3 class="chapter-header">Chapter 1: The Problem <span class="count">5 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="1">
+      <a href="../../assets/images/C1-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C1-A1.jpg" alt="Chapter 1: The Problem - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;1 &middot; Fig.&nbsp;1</span><br>The Problem &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="1">
+      <a href="../../assets/images/C1-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C1-A2.jpg" alt="Chapter 1: The Problem - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;1 &middot; Fig.&nbsp;2</span><br>The Problem &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="1">
+      <a href="../../assets/images/C1-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C1-A3.jpg" alt="Chapter 1: The Problem - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;1 &middot; Fig.&nbsp;3</span><br>The Problem &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="1">
+      <a href="../../assets/images/C1-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C1-A4.jpg" alt="Chapter 1: The Problem - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;1 &middot; Fig.&nbsp;4</span><br>The Problem &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="1">
+      <a href="../../assets/images/C1-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C1-A5.jpg" alt="Chapter 1: The Problem - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;1 &middot; Fig.&nbsp;5</span><br>The Problem &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch2">
+    <h3 class="chapter-header">Chapter 2: The Tool <span class="count">5 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="2">
+      <a href="../../assets/images/C2-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C2-A1.jpg" alt="Chapter 2: The Tool - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;2 &middot; Fig.&nbsp;1</span><br>The Tool &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="2">
+      <a href="../../assets/images/C2-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C2-A2.jpg" alt="Chapter 2: The Tool - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;2 &middot; Fig.&nbsp;2</span><br>The Tool &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="2">
+      <a href="../../assets/images/C2-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C2-A3.jpg" alt="Chapter 2: The Tool - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;2 &middot; Fig.&nbsp;3</span><br>The Tool &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="2">
+      <a href="../../assets/images/C2-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C2-A4.jpg" alt="Chapter 2: The Tool - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;2 &middot; Fig.&nbsp;4</span><br>The Tool &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="2">
+      <a href="../../assets/images/C2-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C2-A5.jpg" alt="Chapter 2: The Tool - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;2 &middot; Fig.&nbsp;5</span><br>The Tool &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch3">
+    <h3 class="chapter-header">Chapter 3: Precision <span class="count">5 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="3">
+      <a href="../../assets/images/C3-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C3-A1.jpg" alt="Chapter 3: Precision - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;3 &middot; Fig.&nbsp;1</span><br>Precision &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="3">
+      <a href="../../assets/images/C3-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C3-A2.jpg" alt="Chapter 3: Precision - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;3 &middot; Fig.&nbsp;2</span><br>Precision &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="3">
+      <a href="../../assets/images/C3-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C3-A3.jpg" alt="Chapter 3: Precision - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;3 &middot; Fig.&nbsp;3</span><br>Precision &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="3">
+      <a href="../../assets/images/C3-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C3-A4.jpg" alt="Chapter 3: Precision - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;3 &middot; Fig.&nbsp;4</span><br>Precision &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="3">
+      <a href="../../assets/images/C3-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C3-A5.jpg" alt="Chapter 3: Precision - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;3 &middot; Fig.&nbsp;5</span><br>Precision &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch4">
+    <h3 class="chapter-header">Chapter 4: Outcome <span class="count">5 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="4">
+      <a href="../../assets/images/C4-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C4-A1.jpg" alt="Chapter 4: Outcome - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;4 &middot; Fig.&nbsp;1</span><br>Outcome &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="4">
+      <a href="../../assets/images/C4-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C4-A2.jpg" alt="Chapter 4: Outcome - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;4 &middot; Fig.&nbsp;2</span><br>Outcome &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="4">
+      <a href="../../assets/images/C4-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C4-A3.jpg" alt="Chapter 4: Outcome - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;4 &middot; Fig.&nbsp;3</span><br>Outcome &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="4">
+      <a href="../../assets/images/C4-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C4-A4.jpg" alt="Chapter 4: Outcome - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;4 &middot; Fig.&nbsp;4</span><br>Outcome &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="4">
+      <a href="../../assets/images/C4-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C4-A5.jpg" alt="Chapter 4: Outcome - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;4 &middot; Fig.&nbsp;5</span><br>Outcome &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch5">
+    <h3 class="chapter-header">Chapter 5: Energy Store <span class="count">5 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="5">
+      <a href="../../assets/images/C5-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C5-A1.jpg" alt="Chapter 5: Energy Store - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;5 &middot; Fig.&nbsp;1</span><br>Energy Store &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="5">
+      <a href="../../assets/images/C5-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C5-A2.jpg" alt="Chapter 5: Energy Store - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;5 &middot; Fig.&nbsp;2</span><br>Energy Store &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="5">
+      <a href="../../assets/images/C5-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C5-A3.jpg" alt="Chapter 5: Energy Store - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;5 &middot; Fig.&nbsp;3</span><br>Energy Store &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="5">
+      <a href="../../assets/images/C5-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C5-A4.jpg" alt="Chapter 5: Energy Store - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;5 &middot; Fig.&nbsp;4</span><br>Energy Store &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="5">
+      <a href="../../assets/images/C5-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C5-A5.jpg" alt="Chapter 5: Energy Store - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;5 &middot; Fig.&nbsp;5</span><br>Energy Store &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch6">
+    <h3 class="chapter-header">Chapter 6: Transmission <span class="count">5 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="6">
+      <a href="../../assets/images/C6-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C6-A1.jpg" alt="Chapter 6: Transmission - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;6 &middot; Fig.&nbsp;1</span><br>Transmission &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="6">
+      <a href="../../assets/images/C6-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C6-A2.jpg" alt="Chapter 6: Transmission - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;6 &middot; Fig.&nbsp;2</span><br>Transmission &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="6">
+      <a href="../../assets/images/C6-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C6-A3.jpg" alt="Chapter 6: Transmission - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;6 &middot; Fig.&nbsp;3</span><br>Transmission &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="6">
+      <a href="../../assets/images/C6-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C6-A4.jpg" alt="Chapter 6: Transmission - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;6 &middot; Fig.&nbsp;4</span><br>Transmission &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="6">
+      <a href="../../assets/images/C6-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C6-A5.jpg" alt="Chapter 6: Transmission - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;6 &middot; Fig.&nbsp;5</span><br>Transmission &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch7">
+    <h3 class="chapter-header">Chapter 7: The CORE System <span class="count">5 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="7">
+      <a href="../../assets/images/C7-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C7-A1.jpg" alt="Chapter 7: The CORE System - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;7 &middot; Fig.&nbsp;1</span><br>The CORE System &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="7">
+      <a href="../../assets/images/C7-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C7-A2.jpg" alt="Chapter 7: The CORE System - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;7 &middot; Fig.&nbsp;2</span><br>The CORE System &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="7">
+      <a href="../../assets/images/C7-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C7-A3.jpg" alt="Chapter 7: The CORE System - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;7 &middot; Fig.&nbsp;3</span><br>The CORE System &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="7">
+      <a href="../../assets/images/C7-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C7-A4.jpg" alt="Chapter 7: The CORE System - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;7 &middot; Fig.&nbsp;4</span><br>The CORE System &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="7">
+      <a href="../../assets/images/C7-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C7-A5.jpg" alt="Chapter 7: The CORE System - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;7 &middot; Fig.&nbsp;5</span><br>The CORE System &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+</section>
+
+<section class="part">
+<h2 class="part-header">Part II: Sensory & Motor Control</h2>
+  <div class="chapter-block" id="ch8">
+    <h3 class="chapter-header">Chapter 8: Quiet Eye <span class="count">5 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="8">
+      <a href="../../assets/images/C8-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C8-A1.jpg" alt="Chapter 8: Quiet Eye - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;8 &middot; Fig.&nbsp;1</span><br>Quiet Eye &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="8">
+      <a href="../../assets/images/C8-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C8-A2.jpg" alt="Chapter 8: Quiet Eye - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;8 &middot; Fig.&nbsp;2</span><br>Quiet Eye &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="8">
+      <a href="../../assets/images/C8-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C8-A3.jpg" alt="Chapter 8: Quiet Eye - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;8 &middot; Fig.&nbsp;3</span><br>Quiet Eye &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="8">
+      <a href="../../assets/images/C8-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C8-A4.jpg" alt="Chapter 8: Quiet Eye - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;8 &middot; Fig.&nbsp;4</span><br>Quiet Eye &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="8">
+      <a href="../../assets/images/C8-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C8-A5.jpg" alt="Chapter 8: Quiet Eye - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;8 &middot; Fig.&nbsp;5</span><br>Quiet Eye &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch9">
+    <h3 class="chapter-header">Chapter 9: Vestibular Stability & VOR <span class="count">5 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="9">
+      <a href="../../assets/images/C9-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C9-A1.jpg" alt="Chapter 9: Vestibular Stability & VOR - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;9 &middot; Fig.&nbsp;1</span><br>Vestibular Stability & VOR &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="9">
+      <a href="../../assets/images/C9-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C9-A2.jpg" alt="Chapter 9: Vestibular Stability & VOR - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;9 &middot; Fig.&nbsp;2</span><br>Vestibular Stability & VOR &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="9">
+      <a href="../../assets/images/C9-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C9-A3.jpg" alt="Chapter 9: Vestibular Stability & VOR - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;9 &middot; Fig.&nbsp;3</span><br>Vestibular Stability & VOR &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="9">
+      <a href="../../assets/images/C9-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C9-A4.jpg" alt="Chapter 9: Vestibular Stability & VOR - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;9 &middot; Fig.&nbsp;4</span><br>Vestibular Stability & VOR &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="9">
+      <a href="../../assets/images/C9-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C9-A5.jpg" alt="Chapter 9: Vestibular Stability & VOR - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;9 &middot; Fig.&nbsp;5</span><br>Vestibular Stability & VOR &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch10">
+    <h3 class="chapter-header">Chapter 10: Fascia & Proprioception <span class="count">5 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="10">
+      <a href="../../assets/images/C10-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C10-A1.jpg" alt="Chapter 10: Fascia & Proprioception - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;10 &middot; Fig.&nbsp;1</span><br>Fascia & Proprioception &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="10">
+      <a href="../../assets/images/C10-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C10-A2.jpg" alt="Chapter 10: Fascia & Proprioception - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;10 &middot; Fig.&nbsp;2</span><br>Fascia & Proprioception &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="10">
+      <a href="../../assets/images/C10-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C10-A3.jpg" alt="Chapter 10: Fascia & Proprioception - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;10 &middot; Fig.&nbsp;3</span><br>Fascia & Proprioception &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="10">
+      <a href="../../assets/images/C10-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C10-A4.jpg" alt="Chapter 10: Fascia & Proprioception - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;10 &middot; Fig.&nbsp;4</span><br>Fascia & Proprioception &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="10">
+      <a href="../../assets/images/C10-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C10-A5.jpg" alt="Chapter 10: Fascia & Proprioception - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;10 &middot; Fig.&nbsp;5</span><br>Fascia & Proprioception &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch11">
+    <h3 class="chapter-header">Chapter 11: Tensegrity <span class="count">4 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="11">
+      <a href="../../assets/images/C11-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C11-A1.jpg" alt="Chapter 11: Tensegrity - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;11 &middot; Fig.&nbsp;1</span><br>Tensegrity &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="11">
+      <a href="../../assets/images/C11-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C11-A2.jpg" alt="Chapter 11: Tensegrity - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;11 &middot; Fig.&nbsp;2</span><br>Tensegrity &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="11">
+      <a href="../../assets/images/C11-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C11-A3.jpg" alt="Chapter 11: Tensegrity - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;11 &middot; Fig.&nbsp;3</span><br>Tensegrity &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="11">
+      <a href="../../assets/images/C11-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C11-A4.jpg" alt="Chapter 11: Tensegrity - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;11 &middot; Fig.&nbsp;4</span><br>Tensegrity &mdash; Figure 4</figcaption>
+    </figure>
+    </div>
+  </div>
+</section>
+
+<section class="part">
+<h2 class="part-header">Part III: Kinetic Engine</h2>
+  <div class="chapter-block" id="ch12">
+    <h3 class="chapter-header">Chapter 12: Stretch-Shortening Cycle <span class="count">4 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="12">
+      <a href="../../assets/images/C12-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C12-A1.jpg" alt="Chapter 12: Stretch-Shortening Cycle - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;12 &middot; Fig.&nbsp;1</span><br>Stretch-Shortening Cycle &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="12">
+      <a href="../../assets/images/C12-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C12-A2.jpg" alt="Chapter 12: Stretch-Shortening Cycle - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;12 &middot; Fig.&nbsp;2</span><br>Stretch-Shortening Cycle &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="12">
+      <a href="../../assets/images/C12-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C12-A3.jpg" alt="Chapter 12: Stretch-Shortening Cycle - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;12 &middot; Fig.&nbsp;3</span><br>Stretch-Shortening Cycle &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="12">
+      <a href="../../assets/images/C12-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C12-A4.jpg" alt="Chapter 12: Stretch-Shortening Cycle - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;12 &middot; Fig.&nbsp;4</span><br>Stretch-Shortening Cycle &mdash; Figure 4</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch13">
+    <h3 class="chapter-header">Chapter 13: Figure-8 Regulation <span class="count">5 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="13">
+      <a href="../../assets/images/C13-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C13-A1.jpg" alt="Chapter 13: Figure-8 Regulation - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;13 &middot; Fig.&nbsp;1</span><br>Figure-8 Regulation &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="13">
+      <a href="../../assets/images/C13-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C13-A2.jpg" alt="Chapter 13: Figure-8 Regulation - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;13 &middot; Fig.&nbsp;2</span><br>Figure-8 Regulation &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="13">
+      <a href="../../assets/images/C13-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C13-A3.jpg" alt="Chapter 13: Figure-8 Regulation - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;13 &middot; Fig.&nbsp;3</span><br>Figure-8 Regulation &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="13">
+      <a href="../../assets/images/C13-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C13-A4.jpg" alt="Chapter 13: Figure-8 Regulation - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;13 &middot; Fig.&nbsp;4</span><br>Figure-8 Regulation &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="13">
+      <a href="../../assets/images/C13-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C13-A5.jpg" alt="Chapter 13: Figure-8 Regulation - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;13 &middot; Fig.&nbsp;5</span><br>Figure-8 Regulation &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch14">
+    <h3 class="chapter-header">Chapter 14: 45-Degree Swing Plane <span class="count">4 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="14">
+      <a href="../../assets/images/C14-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C14-A1.jpg" alt="Chapter 14: 45-Degree Swing Plane - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;14 &middot; Fig.&nbsp;1</span><br>45-Degree Swing Plane &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="14">
+      <a href="../../assets/images/C14-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C14-A2.jpg" alt="Chapter 14: 45-Degree Swing Plane - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;14 &middot; Fig.&nbsp;2</span><br>45-Degree Swing Plane &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="14">
+      <a href="../../assets/images/C14-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C14-A3.jpg" alt="Chapter 14: 45-Degree Swing Plane - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;14 &middot; Fig.&nbsp;3</span><br>45-Degree Swing Plane &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="14">
+      <a href="../../assets/images/C14-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C14-A4.jpg" alt="Chapter 14: 45-Degree Swing Plane - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;14 &middot; Fig.&nbsp;4</span><br>45-Degree Swing Plane &mdash; Figure 4</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch15">
+    <h3 class="chapter-header">Chapter 15: Braking & Impulse <span class="count">3 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="15">
+      <a href="../../assets/images/C15-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C15-A1.jpg" alt="Chapter 15: Braking & Impulse - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;15 &middot; Fig.&nbsp;1</span><br>Braking & Impulse &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="15">
+      <a href="../../assets/images/C15-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C15-A2.jpg" alt="Chapter 15: Braking & Impulse - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;15 &middot; Fig.&nbsp;2</span><br>Braking & Impulse &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="15">
+      <a href="../../assets/images/C15-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C15-A3.jpg" alt="Chapter 15: Braking & Impulse - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;15 &middot; Fig.&nbsp;3</span><br>Braking & Impulse &mdash; Figure 3</figcaption>
+    </figure>
+    </div>
+  </div>
+</section>
+
+<section class="part">
+<h2 class="part-header">Part IV: Expression & Footwork</h2>
+  <div class="chapter-block" id="ch16">
+    <h3 class="chapter-header">Chapter 16: Jin (Unified Force) <span class="count">4 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="16">
+      <a href="../../assets/images/C16-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C16-A1.jpg" alt="Chapter 16: Jin (Unified Force) - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;16 &middot; Fig.&nbsp;1</span><br>Jin (Unified Force) &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="16">
+      <a href="../../assets/images/C16-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C16-A2.jpg" alt="Chapter 16: Jin (Unified Force) - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;16 &middot; Fig.&nbsp;2</span><br>Jin (Unified Force) &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="16">
+      <a href="../../assets/images/C16-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C16-A3.jpg" alt="Chapter 16: Jin (Unified Force) - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;16 &middot; Fig.&nbsp;3</span><br>Jin (Unified Force) &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="16">
+      <a href="../../assets/images/C16-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C16-A4.jpg" alt="Chapter 16: Jin (Unified Force) - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;16 &middot; Fig.&nbsp;4</span><br>Jin (Unified Force) &mdash; Figure 4</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch17">
+    <h3 class="chapter-header">Chapter 17: Hu-Thuc Footwork <span class="count">4 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="17">
+      <a href="../../assets/images/C17-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C17-A1.jpg" alt="Chapter 17: Hu-Thuc Footwork - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;17 &middot; Fig.&nbsp;1</span><br>Hu-Thuc Footwork &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="17">
+      <a href="../../assets/images/C17-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C17-A2.jpg" alt="Chapter 17: Hu-Thuc Footwork - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;17 &middot; Fig.&nbsp;2</span><br>Hu-Thuc Footwork &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="17">
+      <a href="../../assets/images/C17-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C17-A3.jpg" alt="Chapter 17: Hu-Thuc Footwork - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;17 &middot; Fig.&nbsp;3</span><br>Hu-Thuc Footwork &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="17">
+      <a href="../../assets/images/C17-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C17-A4.jpg" alt="Chapter 17: Hu-Thuc Footwork - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;17 &middot; Fig.&nbsp;4</span><br>Hu-Thuc Footwork &mdash; Figure 4</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch18">
+    <h3 class="chapter-header">Chapter 18: Rooting <span class="count">5 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="18">
+      <a href="../../assets/images/C18-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C18-A1.jpg" alt="Chapter 18: Rooting - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;18 &middot; Fig.&nbsp;1</span><br>Rooting &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="18">
+      <a href="../../assets/images/C18-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C18-A2.jpg" alt="Chapter 18: Rooting - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;18 &middot; Fig.&nbsp;2</span><br>Rooting &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="18">
+      <a href="../../assets/images/C18-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C18-A3.jpg" alt="Chapter 18: Rooting - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;18 &middot; Fig.&nbsp;3</span><br>Rooting &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="18">
+      <a href="../../assets/images/C18-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C18-A4.jpg" alt="Chapter 18: Rooting - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;18 &middot; Fig.&nbsp;4</span><br>Rooting &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="18">
+      <a href="../../assets/images/C18-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C18-A5.jpg" alt="Chapter 18: Rooting - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;18 &middot; Fig.&nbsp;5</span><br>Rooting &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+</section>
+
+<section class="part">
+<h2 class="part-header">Part V: Stroke Systems</h2>
+  <div class="chapter-block" id="ch19">
+    <h3 class="chapter-header">Chapter 19: Forehand Push System <span class="count">4 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="19">
+      <a href="../../assets/images/C19-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C19-A1.jpg" alt="Chapter 19: Forehand Push System - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;19 &middot; Fig.&nbsp;1</span><br>Forehand Push System &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="19">
+      <a href="../../assets/images/C19-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C19-A2.jpg" alt="Chapter 19: Forehand Push System - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;19 &middot; Fig.&nbsp;2</span><br>Forehand Push System &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="19">
+      <a href="../../assets/images/C19-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C19-A3.jpg" alt="Chapter 19: Forehand Push System - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;19 &middot; Fig.&nbsp;3</span><br>Forehand Push System &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="19">
+      <a href="../../assets/images/C19-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C19-A4.jpg" alt="Chapter 19: Forehand Push System - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;19 &middot; Fig.&nbsp;4</span><br>Forehand Push System &mdash; Figure 4</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch20">
+    <h3 class="chapter-header">Chapter 20: 1H Backhand Saber <span class="count">4 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="20">
+      <a href="../../assets/images/C20-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C20-A1.jpg" alt="Chapter 20: 1H Backhand Saber - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;20 &middot; Fig.&nbsp;1</span><br>1H Backhand Saber &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="20">
+      <a href="../../assets/images/C20-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C20-A2.jpg" alt="Chapter 20: 1H Backhand Saber - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;20 &middot; Fig.&nbsp;2</span><br>1H Backhand Saber &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="20">
+      <a href="../../assets/images/C20-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C20-A3.jpg" alt="Chapter 20: 1H Backhand Saber - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;20 &middot; Fig.&nbsp;3</span><br>1H Backhand Saber &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="20">
+      <a href="../../assets/images/C20-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C20-A4.jpg" alt="Chapter 20: 1H Backhand Saber - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;20 &middot; Fig.&nbsp;4</span><br>1H Backhand Saber &mdash; Figure 4</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch21">
+    <h3 class="chapter-header">Chapter 21: 2H Backhand Hybrid <span class="count">4 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="21">
+      <a href="../../assets/images/C21-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C21-A1.jpg" alt="Chapter 21: 2H Backhand Hybrid - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;21 &middot; Fig.&nbsp;1</span><br>2H Backhand Hybrid &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="21">
+      <a href="../../assets/images/C21-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C21-A2.jpg" alt="Chapter 21: 2H Backhand Hybrid - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;21 &middot; Fig.&nbsp;2</span><br>2H Backhand Hybrid &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="21">
+      <a href="../../assets/images/C21-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C21-A3.jpg" alt="Chapter 21: 2H Backhand Hybrid - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;21 &middot; Fig.&nbsp;3</span><br>2H Backhand Hybrid &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="21">
+      <a href="../../assets/images/C21-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C21-A4.jpg" alt="Chapter 21: 2H Backhand Hybrid - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;21 &middot; Fig.&nbsp;4</span><br>2H Backhand Hybrid &mdash; Figure 4</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch22">
+    <h3 class="chapter-header">Chapter 22: Serve Mechanics <span class="count">5 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="22">
+      <a href="../../assets/images/C22-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C22-A1.jpg" alt="Chapter 22: Serve Mechanics - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;22 &middot; Fig.&nbsp;1</span><br>Serve Mechanics &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="22">
+      <a href="../../assets/images/C22-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C22-A2.jpg" alt="Chapter 22: Serve Mechanics - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;22 &middot; Fig.&nbsp;2</span><br>Serve Mechanics &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="22">
+      <a href="../../assets/images/C22-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C22-A3.jpg" alt="Chapter 22: Serve Mechanics - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;22 &middot; Fig.&nbsp;3</span><br>Serve Mechanics &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="22">
+      <a href="../../assets/images/C22-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C22-A4.jpg" alt="Chapter 22: Serve Mechanics - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;22 &middot; Fig.&nbsp;4</span><br>Serve Mechanics &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="22">
+      <a href="../../assets/images/C22-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C22-A5.jpg" alt="Chapter 22: Serve Mechanics - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;22 &middot; Fig.&nbsp;5</span><br>Serve Mechanics &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch23">
+    <h3 class="chapter-header">Chapter 23: Return of Serve <span class="count">5 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="23">
+      <a href="../../assets/images/C23-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C23-A1.jpg" alt="Chapter 23: Return of Serve - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;23 &middot; Fig.&nbsp;1</span><br>Return of Serve &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="23">
+      <a href="../../assets/images/C23-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C23-A2.jpg" alt="Chapter 23: Return of Serve - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;23 &middot; Fig.&nbsp;2</span><br>Return of Serve &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="23">
+      <a href="../../assets/images/C23-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C23-A3.jpg" alt="Chapter 23: Return of Serve - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;23 &middot; Fig.&nbsp;3</span><br>Return of Serve &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="23">
+      <a href="../../assets/images/C23-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C23-A4.jpg" alt="Chapter 23: Return of Serve - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;23 &middot; Fig.&nbsp;4</span><br>Return of Serve &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="23">
+      <a href="../../assets/images/C23-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C23-A5.jpg" alt="Chapter 23: Return of Serve - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;23 &middot; Fig.&nbsp;5</span><br>Return of Serve &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch24">
+    <h3 class="chapter-header">Chapter 24: Volley & Overhead <span class="count">6 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="24">
+      <a href="../../assets/images/C24-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C24-A1.jpg" alt="Chapter 24: Volley & Overhead - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;24 &middot; Fig.&nbsp;1</span><br>Volley & Overhead &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="24">
+      <a href="../../assets/images/C24-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C24-A2.jpg" alt="Chapter 24: Volley & Overhead - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;24 &middot; Fig.&nbsp;2</span><br>Volley & Overhead &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="24">
+      <a href="../../assets/images/C24-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C24-A3.jpg" alt="Chapter 24: Volley & Overhead - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;24 &middot; Fig.&nbsp;3</span><br>Volley & Overhead &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="24">
+      <a href="../../assets/images/C24-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C24-A4.jpg" alt="Chapter 24: Volley & Overhead - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;24 &middot; Fig.&nbsp;4</span><br>Volley & Overhead &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="24">
+      <a href="../../assets/images/C24-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C24-A5.jpg" alt="Chapter 24: Volley & Overhead - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;24 &middot; Fig.&nbsp;5</span><br>Volley & Overhead &mdash; Figure 5</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="24">
+      <a href="../../assets/images/C24-A6.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C24-A6.jpg" alt="Chapter 24: Volley & Overhead - Figure 6" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;24 &middot; Fig.&nbsp;6</span><br>Volley & Overhead &mdash; Figure 6</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch25">
+    <h3 class="chapter-header">Chapter 25: Slice, Drop Shot & Lob <span class="count">5 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="25">
+      <a href="../../assets/images/C25-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C25-A1.jpg" alt="Chapter 25: Slice, Drop Shot & Lob - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;25 &middot; Fig.&nbsp;1</span><br>Slice, Drop Shot & Lob &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="25">
+      <a href="../../assets/images/C25-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C25-A2.jpg" alt="Chapter 25: Slice, Drop Shot & Lob - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;25 &middot; Fig.&nbsp;2</span><br>Slice, Drop Shot & Lob &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="25">
+      <a href="../../assets/images/C25-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C25-A3.jpg" alt="Chapter 25: Slice, Drop Shot & Lob - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;25 &middot; Fig.&nbsp;3</span><br>Slice, Drop Shot & Lob &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="25">
+      <a href="../../assets/images/C25-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C25-A4.jpg" alt="Chapter 25: Slice, Drop Shot & Lob - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;25 &middot; Fig.&nbsp;4</span><br>Slice, Drop Shot & Lob &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="25">
+      <a href="../../assets/images/C25-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C25-A5.jpg" alt="Chapter 25: Slice, Drop Shot & Lob - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;25 &middot; Fig.&nbsp;5</span><br>Slice, Drop Shot & Lob &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+</section>
+
+<section class="part">
+<h2 class="part-header">Part VI: Tactics & Patterns</h2>
+  <div class="chapter-block" id="ch26">
+    <h3 class="chapter-header">Chapter 26: Court Geometry & Shot Selection <span class="count">5 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="26">
+      <a href="../../assets/images/C26-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C26-A1.jpg" alt="Chapter 26: Court Geometry & Shot Selection - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;26 &middot; Fig.&nbsp;1</span><br>Court Geometry & Shot Selection &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="26">
+      <a href="../../assets/images/C26-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C26-A2.jpg" alt="Chapter 26: Court Geometry & Shot Selection - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;26 &middot; Fig.&nbsp;2</span><br>Court Geometry & Shot Selection &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="26">
+      <a href="../../assets/images/C26-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C26-A3.jpg" alt="Chapter 26: Court Geometry & Shot Selection - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;26 &middot; Fig.&nbsp;3</span><br>Court Geometry & Shot Selection &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="26">
+      <a href="../../assets/images/C26-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C26-A4.jpg" alt="Chapter 26: Court Geometry & Shot Selection - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;26 &middot; Fig.&nbsp;4</span><br>Court Geometry & Shot Selection &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="26">
+      <a href="../../assets/images/C26-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C26-A5.jpg" alt="Chapter 26: Court Geometry & Shot Selection - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;26 &middot; Fig.&nbsp;5</span><br>Court Geometry & Shot Selection &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch27">
+    <h3 class="chapter-header">Chapter 27: Singles Patterns & Doubles Systems <span class="count">6 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="27">
+      <a href="../../assets/images/C27-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C27-A1.jpg" alt="Chapter 27: Singles Patterns & Doubles Systems - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;27 &middot; Fig.&nbsp;1</span><br>Singles Patterns & Doubles Systems &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="27">
+      <a href="../../assets/images/C27-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C27-A2.jpg" alt="Chapter 27: Singles Patterns & Doubles Systems - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;27 &middot; Fig.&nbsp;2</span><br>Singles Patterns & Doubles Systems &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="27">
+      <a href="../../assets/images/C27-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C27-A3.jpg" alt="Chapter 27: Singles Patterns & Doubles Systems - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;27 &middot; Fig.&nbsp;3</span><br>Singles Patterns & Doubles Systems &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="27">
+      <a href="../../assets/images/C27-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C27-A4.jpg" alt="Chapter 27: Singles Patterns & Doubles Systems - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;27 &middot; Fig.&nbsp;4</span><br>Singles Patterns & Doubles Systems &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="27">
+      <a href="../../assets/images/C27-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C27-A5.jpg" alt="Chapter 27: Singles Patterns & Doubles Systems - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;27 &middot; Fig.&nbsp;5</span><br>Singles Patterns & Doubles Systems &mdash; Figure 5</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="27">
+      <a href="../../assets/images/C27-A6.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C27-A6.jpg" alt="Chapter 27: Singles Patterns & Doubles Systems - Figure 6" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;27 &middot; Fig.&nbsp;6</span><br>Singles Patterns & Doubles Systems &mdash; Figure 6</figcaption>
+    </figure>
+    </div>
+  </div>
+</section>
+
+<section class="part">
+<h2 class="part-header">Part VII: Complete System</h2>
+  <div class="chapter-block" id="ch28">
+    <h3 class="chapter-header">Chapter 28: Mental Game <span class="count">4 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="28">
+      <a href="../../assets/images/C28-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C28-A1.jpg" alt="Chapter 28: Mental Game - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;28 &middot; Fig.&nbsp;1</span><br>Mental Game &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="28">
+      <a href="../../assets/images/C28-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C28-A2.jpg" alt="Chapter 28: Mental Game - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;28 &middot; Fig.&nbsp;2</span><br>Mental Game &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="28">
+      <a href="../../assets/images/C28-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C28-A3.jpg" alt="Chapter 28: Mental Game - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;28 &middot; Fig.&nbsp;3</span><br>Mental Game &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="28">
+      <a href="../../assets/images/C28-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C28-A4.jpg" alt="Chapter 28: Mental Game - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;28 &middot; Fig.&nbsp;4</span><br>Mental Game &mdash; Figure 4</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch29">
+    <h3 class="chapter-header">Chapter 29: Physical Preparation <span class="count">6 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="29">
+      <a href="../../assets/images/C29-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C29-A1.jpg" alt="Chapter 29: Physical Preparation - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;29 &middot; Fig.&nbsp;1</span><br>Physical Preparation &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="29">
+      <a href="../../assets/images/C29-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C29-A2.jpg" alt="Chapter 29: Physical Preparation - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;29 &middot; Fig.&nbsp;2</span><br>Physical Preparation &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="29">
+      <a href="../../assets/images/C29-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C29-A3.jpg" alt="Chapter 29: Physical Preparation - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;29 &middot; Fig.&nbsp;3</span><br>Physical Preparation &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="29">
+      <a href="../../assets/images/C29-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C29-A4.jpg" alt="Chapter 29: Physical Preparation - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;29 &middot; Fig.&nbsp;4</span><br>Physical Preparation &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="29">
+      <a href="../../assets/images/C29-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C29-A5.jpg" alt="Chapter 29: Physical Preparation - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;29 &middot; Fig.&nbsp;5</span><br>Physical Preparation &mdash; Figure 5</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="29">
+      <a href="../../assets/images/C29-A6.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C29-A6.jpg" alt="Chapter 29: Physical Preparation - Figure 6" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;29 &middot; Fig.&nbsp;6</span><br>Physical Preparation &mdash; Figure 6</figcaption>
+    </figure>
+    </div>
+  </div>
+  <div class="chapter-block" id="ch30">
+    <h3 class="chapter-header">Chapter 30: The Unified System <span class="count">7 figures</span></h3>
+    <div class="chapter-grid">
+    <figure class="vcard" data-chapter="30">
+      <a href="../../assets/images/C30-A1.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C30-A1.jpg" alt="Chapter 30: The Unified System - Figure 1" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;30 &middot; Fig.&nbsp;1</span><br>The Unified System &mdash; Figure 1</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="30">
+      <a href="../../assets/images/C30-A2.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C30-A2.jpg" alt="Chapter 30: The Unified System - Figure 2" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;30 &middot; Fig.&nbsp;2</span><br>The Unified System &mdash; Figure 2</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="30">
+      <a href="../../assets/images/C30-A3.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C30-A3.jpg" alt="Chapter 30: The Unified System - Figure 3" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;30 &middot; Fig.&nbsp;3</span><br>The Unified System &mdash; Figure 3</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="30">
+      <a href="../../assets/images/C30-A4-fault-diagnosis-master-flowchart.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C30-A4-fault-diagnosis-master-flowchart.jpg" alt="Chapter 30: The Unified System - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;30 &middot; Fig.&nbsp;4</span><br>The Unified System &mdash; Fault Diagnosis Master Flowchart</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="30">
+      <a href="../../assets/images/C30-A4.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C30-A4.jpg" alt="Chapter 30: The Unified System - Figure 4" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;30 &middot; Fig.&nbsp;4</span><br>The Unified System &mdash; Figure 4</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="30">
+      <a href="../../assets/images/C30-A5-complete-system-architecture.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C30-A5-complete-system-architecture.jpg" alt="Chapter 30: The Unified System - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;30 &middot; Fig.&nbsp;5</span><br>The Unified System &mdash; Complete System Architecture</figcaption>
+    </figure>
+    <figure class="vcard" data-chapter="30">
+      <a href="../../assets/images/C30-A5.jpg" target="_blank" rel="noopener">
+        <img src="../../assets/images/C30-A5.jpg" alt="Chapter 30: The Unified System - Figure 5" loading="lazy">
+      </a>
+      <figcaption><span class="fig-tag">Ch.&nbsp;30 &middot; Fig.&nbsp;5</span><br>The Unified System &mdash; Figure 5</figcaption>
+    </figure>
+    </div>
+  </div>
+</section>
+
+<h2>3. Complete System Architecture</h2>
+<figure class="master-figure">
+  <img src="../../assets/images/complete-architecture.jpg" alt="Complete System Architecture">
+  <figcaption>The unified biomechanical chain &mdash; from ground contact to racquet release.</figcaption>
+</figure>
+
+<div class="resources-links">
+  <h2>Explore Related Resources</h2>
+  <p>
+    <a href="../diagnostics/" class="btn-green">Diagnostics Tool &rarr;</a>
+    <a href="../drills/" class="btn-outline">Drills Library &rarr;</a>
+  </p>
+</div>
 
 </article>
 </div>
 </div>
-</main>
+</main></main>
 
 <footer class="md-footer">
 <div class="md-footer-meta md-typeset">
